@@ -97,7 +97,10 @@ async function fetchCandidates() {
     tmdbGet('/person/popular?page=3'),
     tmdbGet('/person/popular?page=4'),
   ]);
-  return [...p1.results, ...p2.results, ...p3.results, ...p4.results];
+  const all = [...p1.results, ...p2.results, ...p3.results, ...p4.results];
+  const filtered = all.filter(p => !p.adult);
+  console.log(`Filtered out ${all.length - filtered.length} adult-flagged candidates.`);
+  return filtered;
 }
 
 async function fetchDetails(candidates) {
@@ -110,6 +113,11 @@ async function fetchDetails(candidates) {
   for (const person of top) {
     try {
       const detail = await tmdbGet(`/person/${person.id}`);
+      if (detail.adult) {
+        process.stdout.write('x');
+        await sleep(60);
+        continue;
+      }
       detail._knownFor = knownForMap.get(person.id) ?? [];
       results.push(detail);
       process.stdout.write('.');
