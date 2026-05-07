@@ -39,7 +39,7 @@ export function ResultsModal({ rows, celebrities }: ResultsModalProps) {
           ))}
         </div>
 
-        <Button variant="copy" onClick={handleCopy}>
+        <Button variant="copy" onClick={handleCopy} fullWidth>
           {copied ? '✓ Copied!' : '📋 Copy Results'}
         </Button>
       </div>

@@ -2,6 +2,7 @@ interface ButtonProps {
   variant: 'alive' | 'dead' | 'hint' | 'copy';
   onClick: () => void;
   disabled?: boolean;
+  fullWidth?: boolean;
   children: React.ReactNode;
 }
 
@@ -12,7 +13,7 @@ const variantClasses: Record<ButtonProps['variant'], string> = {
   copy: 'bg-blue-600 hover:bg-blue-700 text-white',
 };
 
-export function Button({ variant, onClick, disabled = false, children }: ButtonProps) {
+export function Button({ variant, onClick, disabled = false, fullWidth = false, children }: ButtonProps) {
   return (
     <button
       onClick={onClick}
@@ -20,6 +21,7 @@ export function Button({ variant, onClick, disabled = false, children }: ButtonP
       className={`
         px-4 py-2 rounded-lg font-medium text-sm transition-colors
         cursor-pointer disabled:cursor-not-allowed
+        ${fullWidth ? 'w-full' : ''}
         ${variantClasses[variant]}
       `}
     >
