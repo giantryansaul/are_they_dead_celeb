@@ -41,6 +41,7 @@ interface UseGameStateResult {
   gameState: GameState;
   submitAnswer: (index: number, guess: boolean) => void;
   useHint: (index: number, hint: HintType) => void;
+  resetGame: () => void;
 }
 
 export function useGameState(isAliveList: boolean[]): UseGameStateResult {
@@ -77,5 +78,14 @@ export function useGameState(isAliveList: boolean[]): UseGameStateResult {
     });
   }, []);
 
-  return { gameState: { rows, allAnswered }, submitAnswer, useHint };
+  const resetGame = useCallback(() => {
+    try {
+      localStorage.removeItem(LOCAL_STORAGE_KEY_PREFIX + getTodayKey());
+    } catch {
+      // ignore
+    }
+    setRows(makeInitialRows());
+  }, []);
+
+  return { gameState: { rows, allAnswered }, submitAnswer, useHint, resetGame };
 }

@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-05-06T00:00:00Z",
+  "generatedAt": "2026-05-07T03:20:32.769Z",
   "celebrities": [
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 98.7,
+      "id": 2676077,
+      "name": "Julia Doyle",
+      "popularity": 53.3,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 2003,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+      "profilePath": "/4CtJynpPkV5t7ydwobUUL0sGsTJ.jpg"
     },
     {
-      "id": 192,
-      "name": "Morgan Freeman",
-      "popularity": 84.2,
+      "id": 20652,
+      "name": "Cecilia Cheung",
+      "popularity": 45.5,
       "isAlive": true,
-      "birthYear": 1937,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jPssioI9XELes00u7dxXsHHEDv8.jpg"
+      "profilePath": "/xghVxRPUmFCHYxzD0NxMO8NtoKK.jpg"
     },
     {
-      "id": 4587,
-      "name": "Robin Williams",
-      "popularity": 67.5,
-      "isAlive": false,
-      "birthYear": 1951,
-      "deathDate": "2014-08-11",
-      "deathAge": 63,
-      "profilePath": "/nkHd9vqhFnLDNE8Q7jWatVKyMRz.jpg"
+      "id": 115440,
+      "name": "Sydney Sweeney",
+      "popularity": 37.1,
+      "isAlive": true,
+      "birthYear": 1997,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/lkEC9xM133h2f8wmp8CpyLr3JNq.jpg"
     },
     {
-      "id": 7518,
-      "name": "Heath Ledger",
-      "popularity": 49.1,
+      "id": 101652,
+      "name": "Jennifer Runyon",
+      "popularity": 22.6,
       "isAlive": false,
-      "birthYear": 1979,
-      "deathDate": "2008-01-22",
-      "deathAge": 28,
-      "profilePath": "/5fePNaHpVMkF5sNEDHdFmiMX5RV.jpg"
+      "birthYear": 1960,
+      "deathDate": "2026-03-06",
+      "deathAge": 65,
+      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg"
     },
     {
-      "id": 3293,
-      "name": "Marilyn Monroe",
-      "popularity": 38.4,
+      "id": 34627,
+      "name": "Nadia Farès",
+      "popularity": 18.4,
       "isAlive": false,
-      "birthYear": 1926,
-      "deathDate": "1962-08-04",
-      "deathAge": 36,
-      "profilePath": "/jFuzKpSFRFYlL6GbgwEPuRa65LD.jpg"
+      "birthYear": 1968,
+      "deathDate": "2026-04-17",
+      "deathAge": 57,
+      "profilePath": "/uvomxwk2CfO8scOsR60CxHGM2J3.jpg"
     }
   ]
 }

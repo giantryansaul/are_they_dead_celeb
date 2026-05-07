@@ -23,7 +23,7 @@ function LoadingSkeleton() {
 
 export function GameBoard() {
   const { celebrities, loading, error } = useCelebrities();
-  const { gameState, submitAnswer, useHint } = useGameState(
+  const { gameState, submitAnswer, useHint, resetGame } = useGameState(
     celebrities.map(c => c.isAlive),
   );
 
@@ -61,7 +61,7 @@ export function GameBoard() {
       </main>
 
       {gameState.allAnswered && celebrities.length > 0 && (
-        <ResultsModal rows={gameState.rows} celebrities={celebrities} />
+        <ResultsModal rows={gameState.rows} celebrities={celebrities} onReset={resetGame} />
       )}
     </>
   );

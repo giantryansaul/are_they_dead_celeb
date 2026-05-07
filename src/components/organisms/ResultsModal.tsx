@@ -10,9 +10,10 @@ import { CELEBRITIES_PER_DAY, MAX_SCORE_PER_ROW } from '../../lib/constants';
 interface ResultsModalProps {
   rows: RowState[];
   celebrities: Celebrity[];
+  onReset: () => void;
 }
 
-export function ResultsModal({ rows, celebrities }: ResultsModalProps) {
+export function ResultsModal({ rows, celebrities, onReset }: ResultsModalProps) {
   const { copy, copied } = useClipboard();
   const total = calculateTotalScore(rows);
   const maxTotal = CELEBRITIES_PER_DAY * MAX_SCORE_PER_ROW;
@@ -42,6 +43,15 @@ export function ResultsModal({ rows, celebrities }: ResultsModalProps) {
         <Button variant="copy" onClick={handleCopy} fullWidth>
           {copied ? '✓ Copied!' : '📋 Copy Results'}
         </Button>
+
+        {import.meta.env.DEV && (
+          <button
+            onClick={onReset}
+            className="mt-3 w-full text-xs text-gray-400 hover:text-gray-600 underline"
+          >
+            [debug] Reset game
+          </button>
+        )}
       </div>
     </div>
   );

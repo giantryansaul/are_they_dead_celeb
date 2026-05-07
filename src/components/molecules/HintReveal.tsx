@@ -15,7 +15,14 @@ export function HintReveal({ type, celebrity }: HintRevealProps) {
           src={`${TMDB_IMAGE_BASE}${celebrity.profilePath}`}
           alt={`${celebrity.name} photo`}
           loading="lazy"
-          className="h-32 w-auto rounded-lg shadow-md object-cover"
+          className="h-48 w-auto rounded-lg shadow-md object-cover"
+          onError={e => {
+            const el = e.currentTarget;
+            el.onerror = null;
+            el.style.display = 'none';
+            el.parentElement!.innerHTML =
+              '<div class="h-48 w-32 rounded-lg bg-gray-100 flex items-center justify-center text-gray-400 text-xs">No photo</div>';
+          }}
         />
       </div>
     );

@@ -23,9 +23,8 @@ const WIKIDATA_SPARQL = 'https://query.wikidata.org/sparql';
 const CANDIDATES_TO_DETAIL = 40;
 
 async function tmdbGet(path) {
-  const res = await fetch(`${TMDB_BASE}${path}`, {
-    headers: { Authorization: `Bearer ${TMDB_KEY}` },
-  });
+  const sep = path.includes('?') ? '&' : '?';
+  const res = await fetch(`${TMDB_BASE}${path}${sep}api_key=${TMDB_KEY}`);
   if (!res.ok) throw new Error(`TMDB ${path}: ${res.status} ${res.statusText}`);
   return res.json();
 }
