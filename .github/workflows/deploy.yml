@@ -1,0 +1,53 @@
+# Daily celebrity data refresh + Vercel redeploy
+#
+# HOW IT WORKS:
+#   1. Runs at 00:05 UTC each day (after midnight)
+#   2. Generates a fresh celebrities.json via the TMDB + Wikidata script
+#   3. Commits the updated JSON to main
+#   4. Triggers a Vercel redeploy via deploy hook URL
+#
+# SECRETS REQUIRED (add in GitHub repo Settings → Secrets → Actions):
+#   TMDB_API_KEY       — from developer.themoviedb.org
+#   VERCEL_DEPLOY_HOOK — from Vercel project Settings → Git → Deploy Hooks
+#                        (create a hook named "daily-refresh" on branch "main")
+
+name: Daily Celebrity Refresh
+
+on:
+  schedule:
+    - cron: '5 0 * * *'   # 00:05 UTC daily
+  workflow_dispatch:        # allow manual trigger
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate celebrities.json
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node --env-file=/dev/null scripts/generate-daily.js
+        # Note: env-file not needed here since TMDB_API_KEY is set via env: above
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/celebrities.json
+          git diff --cached --quiet || git commit -m "chore(data): refresh daily celebrities $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Trigger Vercel redeploy
+        run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
