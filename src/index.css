@@ -6,4 +6,7 @@ body {
   margin: 0;
   font-family: "Roboto", system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
+  background-color: #0F1216;
+  color: #E6E8EB;
+  color-scheme: dark;
 }

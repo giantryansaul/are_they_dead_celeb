@@ -11,9 +11,10 @@ interface ResultsModalProps {
   rows: RowState[];
   celebrities: Celebrity[];
   onReset: () => void;
+  onClose: () => void;
 }
 
-export function ResultsModal({ rows, celebrities, onReset }: ResultsModalProps) {
+export function ResultsModal({ rows, celebrities, onReset, onClose }: ResultsModalProps) {
   const { copy, copied } = useClipboard();
   const total = calculateTotalScore(rows);
   const maxTotal = CELEBRITIES_PER_DAY * MAX_SCORE_PER_ROW;
@@ -24,17 +25,27 @@ export function ResultsModal({ rows, celebrities, onReset }: ResultsModalProps) 
   }
 
   return (
-    <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
-      <div className="bg-white rounded-2xl shadow-xl w-full max-w-sm p-6">
-        <h2 className="text-xl font-bold text-gray-900 text-center mb-1">Game Over!</h2>
-        <p className="text-sm text-gray-500 text-center mb-4">{dateStr}</p>
+    <div className="fixed inset-0 flex items-center justify-center z-50 p-4">
+      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm" />
+      <div className="relative bg-[#232932] border border-atd-border w-full max-w-sm p-6">
+        <button
+          type="button"
+          onClick={onClose}
+          aria-label="Close"
+          className="absolute top-2 right-2 w-8 h-8 flex items-center justify-center text-atd-text-muted hover:text-atd-text hover:bg-atd-bg transition-colors text-xl leading-none cursor-pointer"
+        >
+          ×
+        </button>
 
-        <div className="bg-gray-50 rounded-xl px-4 py-3 mb-4">
-          <p className="text-center text-4xl font-bold text-gray-900">{total}</p>
-          <p className="text-center text-sm text-gray-500">out of {maxTotal} points</p>
+        <h2 className="text-xl font-bold text-atd-text text-center mb-1">Game Over!</h2>
+        <p className="text-sm text-atd-text-muted text-center mb-4">{dateStr}</p>
+
+        <div className="bg-atd-bg px-4 py-3 mb-4">
+          <p className="text-center text-5xl font-bold text-atd-amber tabular-nums">{total}</p>
+          <p className="text-center text-sm text-atd-text-muted">out of {maxTotal} points</p>
         </div>
 
-        <div className="divide-y divide-gray-100 mb-5">
+        <div className="divide-y divide-atd-border mb-5">
           {rows.map((row, i) => (
             <ScoreRowSummary key={i} rowState={row} celebrity={celebrities[i]} />
           ))}
@@ -47,7 +58,7 @@ export function ResultsModal({ rows, celebrities, onReset }: ResultsModalProps) 
         {import.meta.env.DEV && (
           <button
             onClick={onReset}
-            className="mt-3 w-full text-xs text-gray-400 hover:text-gray-600 underline"
+            className="mt-3 w-full text-xs text-atd-text-dim hover:text-atd-text-muted underline"
           >
             [debug] Reset game
           </button>

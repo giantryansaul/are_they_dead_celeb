@@ -20,9 +20,12 @@ export function ScoreRowSummary({ rowState, celebrity }: ScoreRowSummaryProps) {
         <ScoreIcon correct={!!rowState.correct} />
         <HintIcon type="photo" used={rowState.hintsUsed.includes('photo')} />
         <HintIcon type="birthYear" used={rowState.hintsUsed.includes('birthYear')} />
+        <HintIcon type="knownFor0" used={rowState.hintsUsed.includes('knownFor0')} />
+        <HintIcon type="knownFor1" used={rowState.hintsUsed.includes('knownFor1')} />
+        <HintIcon type="knownFor2" used={rowState.hintsUsed.includes('knownFor2')} />
       </div>
-      <span className="text-sm text-gray-700 flex-1 truncate">{celebrity.name}</span>
-      <span className="text-sm font-semibold text-gray-900 tabular-nums">
+      <span className="text-sm text-atd-text-muted flex-1 truncate">{celebrity.name}</span>
+      <span className="text-sm font-semibold text-atd-text tabular-nums">
         {score}/{MAX_SCORE_PER_ROW}
       </span>
     </div>

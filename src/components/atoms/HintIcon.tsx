@@ -8,6 +8,9 @@ interface HintIconProps {
 const icons: Record<HintType, string> = {
   photo: '📸',
   birthYear: '🎂',
+  knownFor0: '🎬',
+  knownFor1: '🎬',
+  knownFor2: '🎬',
 };
 
 export function HintIcon({ type, used }: HintIconProps) {

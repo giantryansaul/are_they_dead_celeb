@@ -20,7 +20,33 @@ if (!TMDB_KEY) {
 
 const TMDB_BASE = 'https://api.themoviedb.org/3';
 const WIKIDATA_SPARQL = 'https://query.wikidata.org/sparql';
-const CANDIDATES_TO_DETAIL = 40;
+const CANDIDATES_TO_DETAIL = 60;
+
+// Seed offset can be passed as CLI arg: node generate-daily.js --seed-offset 1
+const seedOffset = (() => {
+  const idx = process.argv.indexOf('--seed-offset');
+  return idx !== -1 ? parseInt(process.argv[idx + 1], 10) || 0 : 0;
+})();
+
+function seededRandom(seed) {
+  let s = seed >>> 0;
+  return () => {
+    s = Math.imul(s ^ (s >>> 16), 0x45d9f3b);
+    s = Math.imul(s ^ (s >>> 16), 0x45d9f3b);
+    s ^= s >>> 16;
+    return (s >>> 0) / 0x100000000;
+  };
+}
+
+function seededShuffle(arr, seed) {
+  const rng = seededRandom(seed);
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 async function tmdbGet(path) {
   const sep = path.includes('?') ? '&' : '?';
@@ -64,15 +90,18 @@ async function wikidataDeathDate(tmdbId) {
 }
 
 async function fetchCandidates() {
-  console.log('Fetching popular people from TMDB (pages 1-2)...');
-  const [p1, p2] = await Promise.all([
+  console.log('Fetching popular people from TMDB (pages 1-4)...');
+  const [p1, p2, p3, p4] = await Promise.all([
     tmdbGet('/person/popular?page=1'),
     tmdbGet('/person/popular?page=2'),
+    tmdbGet('/person/popular?page=3'),
+    tmdbGet('/person/popular?page=4'),
   ]);
-  return [...p1.results, ...p2.results];
+  return [...p1.results, ...p2.results, ...p3.results, ...p4.results];
 }
 
 async function fetchDetails(candidates) {
+  const knownForMap = new Map(candidates.map(c => [c.id, c.known_for ?? []]));
   const sorted = [...candidates].sort((a, b) => b.popularity - a.popularity);
   const top = sorted.slice(0, CANDIDATES_TO_DETAIL);
   console.log(`Fetching details for top ${top.length} candidates...`);
@@ -81,6 +110,7 @@ async function fetchDetails(candidates) {
   for (const person of top) {
     try {
       const detail = await tmdbGet(`/person/${person.id}`);
+      detail._knownFor = knownForMap.get(person.id) ?? [];
       results.push(detail);
       process.stdout.write('.');
       await sleep(60); // ~16 req/s, well under 50/s limit
@@ -94,28 +124,30 @@ async function fetchDetails(candidates) {
 
 function pickFive(details) {
   const withBirth = details.filter(p => p.birthday && p.name);
-  const alive = withBirth.filter(p => !p.deathday).sort((a, b) => b.popularity - a.popularity);
-  const dead = withBirth.filter(p => !!p.deathday).sort((a, b) => b.popularity - a.popularity);
+  const alive = withBirth.filter(p => !p.deathday);
+  const dead = withBirth.filter(p => !!p.deathday);
 
   console.log(`Candidates with birth date: ${withBirth.length} (${alive.length} alive, ${dead.length} dead)`);
 
-  // Target ~2-3 alive, 2-3 dead. Ensure at least 2 of each if available.
+  // Seed from today's date + offset so each day produces a unique stable set.
+  const today = new Date().toISOString().slice(0, 10); // "2026-05-06"
+  const dateSeed = today.split('-').reduce((acc, n) => acc * 100 + parseInt(n, 10), 0) + seedOffset;
+
+  const shuffledAlive = seededShuffle(alive, dateSeed);
+  const shuffledDead = seededShuffle(dead, dateSeed + 1);
+
   const picked = [
-    ...alive.slice(0, 3),
-    ...dead.slice(0, 2),
+    ...shuffledAlive.slice(0, 3),
+    ...shuffledDead.slice(0, 2),
   ];
 
   if (picked.length < 5) {
     const ids = new Set(picked.map(p => p.id));
-    const extra = withBirth
-      .filter(p => !ids.has(p.id))
-      .sort((a, b) => b.popularity - a.popularity);
+    const extra = seededShuffle(withBirth.filter(p => !ids.has(p.id)), dateSeed + 2);
     picked.push(...extra.slice(0, 5 - picked.length));
   }
 
-  return picked
-    .sort((a, b) => b.popularity - a.popularity)
-    .slice(0, 5);
+  return picked.slice(0, 5);
 }
 
 async function buildCelebrity(person) {
@@ -133,6 +165,11 @@ async function buildCelebrity(person) {
     await sleep(500); // Wikidata courtesy delay
   }
 
+  const knownFor = (person._knownFor ?? [])
+    .slice(0, 3)
+    .map(item => item.media_type === 'tv' ? item.name : item.title)
+    .filter(Boolean);
+
   return {
     id: person.id,
     name: person.name,
@@ -142,6 +179,7 @@ async function buildCelebrity(person) {
     deathDate,
     deathAge: deathDate ? computeAge(person.birthday, deathDate) : null,
     profilePath: person.profile_path || null,
+    knownFor,
   };
 }
 

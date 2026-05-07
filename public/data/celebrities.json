@@ -1,45 +1,65 @@
 {
-  "generatedAt": "2026-05-07T03:20:32.769Z",
+  "generatedAt": "2026-05-07T04:35:08.520Z",
   "celebrities": [
     {
-      "id": 2676077,
-      "name": "Julia Doyle",
-      "popularity": 53.3,
+      "id": 1245,
+      "name": "Scarlett Johansson",
+      "popularity": 16.5,
       "isAlive": true,
-      "birthYear": 2003,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4CtJynpPkV5t7ydwobUUL0sGsTJ.jpg"
+      "profilePath": "/6bBCPmc55gzP7TR9Th4WbykrYd0.jpg",
+      "knownFor": [
+        "Lucy",
+        "Black Widow",
+        "Ghost in the Shell"
+      ]
     },
     {
-      "id": 20652,
-      "name": "Cecilia Cheung",
-      "popularity": 45.5,
-      "isAlive": true,
-      "birthYear": 1980,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/xghVxRPUmFCHYxzD0NxMO8NtoKK.jpg"
-    },
-    {
-      "id": 115440,
-      "name": "Sydney Sweeney",
-      "popularity": 37.1,
+      "id": 2430198,
+      "name": "Tian Xiwei",
+      "popularity": 12.2,
       "isAlive": true,
       "birthYear": 1997,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lkEC9xM133h2f8wmp8CpyLr3JNq.jpg"
+      "profilePath": "/ci7uOTYUSk4Utg9gHvqVnqCPIUn.jpg",
+      "knownFor": [
+        "Pursuit of Jade",
+        "Guardians of the Dafeng",
+        "New Life Begins"
+      ]
     },
     {
-      "id": 101652,
-      "name": "Jennifer Runyon",
-      "popularity": 22.6,
+      "id": 4090,
+      "name": "Shirley MacLaine",
+      "popularity": 13.9,
+      "isAlive": true,
+      "birthYear": 1934,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/mpW9c34IAFPW0ODuKR8J0FAqN5i.jpg",
+      "knownFor": [
+        "The Secret Life of Walter Mitty",
+        "The Apartment",
+        "Terms of Endearment"
+      ]
+    },
+    {
+      "id": 42308,
+      "name": "Beau Starr",
+      "popularity": 17.3,
       "isAlive": false,
-      "birthYear": 1960,
-      "deathDate": "2026-03-06",
-      "deathAge": 65,
-      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg"
+      "birthYear": 1944,
+      "deathDate": "2026-04-24",
+      "deathAge": 81,
+      "profilePath": "/sv4mpa0vquI0zn1Ur2UB49nAm1D.jpg",
+      "knownFor": [
+        "GoodFellas",
+        "Halloween 4: The Return of Michael Myers",
+        "Halloween 5: The Revenge of Michael Myers"
+      ]
     },
     {
       "id": 34627,
@@ -49,7 +69,12 @@
       "birthYear": 1968,
       "deathDate": "2026-04-17",
       "deathAge": 57,
-      "profilePath": "/uvomxwk2CfO8scOsR60CxHGM2J3.jpg"
+      "profilePath": "/uvomxwk2CfO8scOsR60CxHGM2J3.jpg",
+      "knownFor": [
+        "The Crimson Rivers",
+        "Storm Warning",
+        "On the Line"
+      ]
     }
   ]
 }

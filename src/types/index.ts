@@ -7,6 +7,7 @@ export interface Celebrity {
   deathDate: string | null;
   deathAge: number | null;
   profilePath: string | null;
+  knownFor: string[];
 }
 
 export interface DailyData {
@@ -14,7 +15,7 @@ export interface DailyData {
   celebrities: Celebrity[];
 }
 
-export type HintType = 'photo' | 'birthYear';
+export type HintType = 'photo' | 'birthYear' | 'knownFor0' | 'knownFor1' | 'knownFor2';
 
 export interface RowState {
   answered: boolean;

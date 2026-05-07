@@ -4,9 +4,12 @@ import { CELEBRITIES_PER_DAY, MAX_SCORE_PER_ROW } from './constants';
 
 function rowEmojis(row: RowState): string {
   const correct = row.correct ? '🟩' : '🟥';
-  const photo = row.hintsUsed.includes('photo') ? '📸' : '⬜';
-  const birth = row.hintsUsed.includes('birthYear') ? '🎂' : '⬜';
-  return `${correct}${photo}${birth}`;
+  const photo  = row.hintsUsed.includes('photo')     ? '📸' : '⬜';
+  const birth  = row.hintsUsed.includes('birthYear') ? '🎂' : '⬜';
+  const kf0    = row.hintsUsed.includes('knownFor0') ? '🎬' : '⬜';
+  const kf1    = row.hintsUsed.includes('knownFor1') ? '🎬' : '⬜';
+  const kf2    = row.hintsUsed.includes('knownFor2') ? '🎬' : '⬜';
+  return `${correct}${photo}${birth}${kf0}${kf1}${kf2}`;
 }
 
 export function buildScorecardString(

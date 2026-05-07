@@ -7,18 +7,18 @@ interface AnswerResultProps {
 }
 
 export function AnswerResult({ celebrity, wasCorrect }: AnswerResultProps) {
-  const resultColor = wasCorrect ? 'text-green-700' : 'text-red-700';
-
   return (
-    <div className={`mt-2 text-sm font-medium ${resultColor}`}>
-      {wasCorrect ? '✓ Correct! ' : '✗ Wrong! '}
-      {celebrity.isAlive ? (
-        <span className="text-gray-600 font-normal">Still alive (born {celebrity.birthYear})</span>
-      ) : (
-        <span className="text-gray-600 font-normal">
-          Died {formatDeathDate(celebrity.deathDate!)} — age {celebrity.deathAge}
-        </span>
-      )}
+    <div className="mx-2 mb-2 bg-atd-surface-2 px-4 py-3 text-center">
+      <span
+        className={`text-base font-bold ${wasCorrect ? 'text-atd-green' : 'text-atd-red'}`}
+      >
+        {wasCorrect ? '✓ Correct' : '✗ Wrong'}
+      </span>
+      <p className="text-sm text-atd-text-muted mt-1">
+        {celebrity.isAlive
+          ? `Still alive (born ${celebrity.birthYear})`
+          : `Died ${formatDeathDate(celebrity.deathDate!)} — age ${celebrity.deathAge}`}
+      </p>
     </div>
   );
 }
