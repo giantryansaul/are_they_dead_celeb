@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-05-07T04:35:08.520Z",
+  "generatedAt": "2026-05-07T04:54:01.189Z",
   "celebrities": [
     {
-      "id": 1245,
-      "name": "Scarlett Johansson",
-      "popularity": 16.5,
-      "isAlive": true,
-      "birthYear": 1984,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/6bBCPmc55gzP7TR9Th4WbykrYd0.jpg",
-      "knownFor": [
-        "Lucy",
-        "Black Widow",
-        "Ghost in the Shell"
-      ]
-    },
-    {
-      "id": 2430198,
-      "name": "Tian Xiwei",
-      "popularity": 12.2,
-      "isAlive": true,
-      "birthYear": 1997,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/ci7uOTYUSk4Utg9gHvqVnqCPIUn.jpg",
-      "knownFor": [
-        "Pursuit of Jade",
-        "Guardians of the Dafeng",
-        "New Life Begins"
-      ]
-    },
-    {
-      "id": 4090,
-      "name": "Shirley MacLaine",
+      "id": 33259,
+      "name": "Jennifer Love Hewitt",
       "popularity": 13.9,
       "isAlive": true,
-      "birthYear": 1934,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/mpW9c34IAFPW0ODuKR8J0FAqN5i.jpg",
+      "profilePath": "/gEDepjLEFGokSaexd1FzmtH1hlq.jpg",
       "knownFor": [
-        "The Secret Life of Walter Mitty",
-        "The Apartment",
-        "Terms of Endearment"
+        "I Know What You Did Last Summer",
+        "Ghost Whisperer",
+        "Garfield"
       ]
     },
     {
-      "id": 42308,
-      "name": "Beau Starr",
-      "popularity": 17.3,
-      "isAlive": false,
-      "birthYear": 1944,
-      "deathDate": "2026-04-24",
-      "deathAge": 81,
-      "profilePath": "/sv4mpa0vquI0zn1Ur2UB49nAm1D.jpg",
+      "id": 1487683,
+      "name": "Hitoe Ootake",
+      "popularity": 17.7,
+      "isAlive": true,
+      "birthYear": 1972,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
       "knownFor": [
-        "GoodFellas",
-        "Halloween 4: The Return of Michael Myers",
-        "Halloween 5: The Revenge of Michael Myers"
+        "Female Teacher Diary: Forbidden Sex",
+        "Female Teacher Diary 3: Hidden Sex",
+        "Molester Diary: A Man Who Kept Stroking Ass 3"
+      ]
+    },
+    {
+      "id": 49624,
+      "name": "Jensen Ackles",
+      "popularity": 12.2,
+      "isAlive": true,
+      "birthYear": 1978,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg",
+      "knownFor": [
+        "Supernatural",
+        "My Bloody Valentine",
+        "Batman: Under the Red Hood"
+      ]
+    },
+    {
+      "id": 95214,
+      "name": "Andrea Evans",
+      "popularity": 11.3,
+      "isAlive": false,
+      "birthYear": 1957,
+      "deathDate": "2023-07-09",
+      "deathAge": 66,
+      "profilePath": "/wHWhyErj1mq0qkdWc4NKpTpVJuG.jpg",
+      "knownFor": [
+        "Ice Cream Man",
+        "Hit List",
+        "A Low Down Dirty Shame"
       ]
     },
     {
