@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-05-06T00:00:00Z",
+  "celebrities": [
+    {
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 98.7,
+      "isAlive": true,
+      "birthYear": 1956,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+    },
+    {
+      "id": 192,
+      "name": "Morgan Freeman",
+      "popularity": 84.2,
+      "isAlive": true,
+      "birthYear": 1937,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/jPssioI9XELes00u7dxXsHHEDv8.jpg"
+    },
+    {
+      "id": 4587,
+      "name": "Robin Williams",
+      "popularity": 67.5,
+      "isAlive": false,
+      "birthYear": 1951,
+      "deathDate": "2014-08-11",
+      "deathAge": 63,
+      "profilePath": "/nkHd9vqhFnLDNE8Q7jWatVKyMRz.jpg"
+    },
+    {
+      "id": 7518,
+      "name": "Heath Ledger",
+      "popularity": 49.1,
+      "isAlive": false,
+      "birthYear": 1979,
+      "deathDate": "2008-01-22",
+      "deathAge": 28,
+      "profilePath": "/5fePNaHpVMkF5sNEDHdFmiMX5RV.jpg"
+    },
+    {
+      "id": 3293,
+      "name": "Marilyn Monroe",
+      "popularity": 38.4,
+      "isAlive": false,
+      "birthYear": 1926,
+      "deathDate": "1962-08-04",
+      "deathAge": 36,
+      "profilePath": "/jFuzKpSFRFYlL6GbgwEPuRa65LD.jpg"
+    }
+  ]
+}
