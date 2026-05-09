@@ -36,9 +36,10 @@ function LoadingSkeleton() {
 }
 
 export function GameBoard() {
-  const { celebrities, loading, error } = useCelebrities();
+  const { celebrities, generatedAt, loading, error } = useCelebrities();
   const { gameState, submitAnswer, useHint, resetGame } = useGameState(
     celebrities.map(c => c.isAlive),
+    generatedAt,
   );
 
   const score = calculateTotalScore(gameState.rows);

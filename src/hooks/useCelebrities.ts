@@ -3,12 +3,14 @@ import type { DailyData, Celebrity } from '../types';
 
 interface UseCelebritiesResult {
   celebrities: Celebrity[];
+  generatedAt: string | null;
   loading: boolean;
   error: string | null;
 }
 
 export function useCelebrities(): UseCelebritiesResult {
   const [celebrities, setCelebrities] = useState<Celebrity[]>([]);
+  const [generatedAt, setGeneratedAt] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -20,6 +22,7 @@ export function useCelebrities(): UseCelebritiesResult {
       })
       .then(data => {
         setCelebrities(data.celebrities);
+        setGeneratedAt(data.generatedAt);
         setLoading(false);
       })
       .catch(err => {
@@ -28,5 +31,5 @@ export function useCelebrities(): UseCelebritiesResult {
       });
   }, []);
 
-  return { celebrities, loading, error };
+  return { celebrities, generatedAt, loading, error };
 }

@@ -1,4 +1,4 @@
-import type { RowState, Celebrity } from '../types';
+import type { RowState } from '../types';
 import { calculateRowScore, calculateTotalScore } from './scoring';
 import { CELEBRITIES_PER_DAY, MAX_SCORE_PER_ROW } from './constants';
 
@@ -15,18 +15,18 @@ function rowEmojis(row: RowState): string {
 export function buildScorecardString(
   dateStr: string,
   rows: RowState[],
-  celebrities: Celebrity[],
 ): string {
   const total = calculateTotalScore(rows);
   const maxTotal = CELEBRITIES_PER_DAY * MAX_SCORE_PER_ROW;
 
   const header = `Are They Dead? - ${dateStr} - ${total}/${maxTotal}`;
-  const lines = rows.map((row, i) => {
+  const lines = rows.map((row) => {
     const score = row.answered && row.correct !== null
       ? calculateRowScore(row.correct, row.hintsUsed.length)
       : 0;
-    return `${rowEmojis(row)} ${score}/${MAX_SCORE_PER_ROW}  ${celebrities[i]?.name ?? ''}`;
+    return `${rowEmojis(row)} ${score}/${MAX_SCORE_PER_ROW}`;
   });
 
-  return [header, ...lines].join('\n');
+  const url = 'https://are-they-dead-celeb.vercel.app/';
+  return [header, ...lines, '', url].join('\n');
 }

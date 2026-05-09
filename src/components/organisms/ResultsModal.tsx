@@ -21,7 +21,7 @@ export function ResultsModal({ rows, celebrities, onReset, onClose }: ResultsMod
   const dateStr = getTodayDateString();
 
   function handleCopy() {
-    copy(buildScorecardString(dateStr, rows, celebrities));
+    copy(buildScorecardString(dateStr, rows));
   }
 
   return (

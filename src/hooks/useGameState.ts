@@ -1,10 +1,9 @@
 import { useState, useCallback, useEffect } from 'react';
 import type { GameState, RowState, HintType } from '../types';
 import { CELEBRITIES_PER_DAY, LOCAL_STORAGE_KEY_PREFIX } from '../lib/constants';
-import { getTodayKey } from '../lib/dateUtils';
 
 interface StoredState {
-  date: string;
+  gameId: string;
   rows: RowState[];
 }
 
@@ -16,22 +15,22 @@ function makeInitialRows(): RowState[] {
   }));
 }
 
-function loadFromStorage(): RowState[] | null {
+function loadFromStorage(gameId: string): RowState[] | null {
   try {
-    const raw = localStorage.getItem(LOCAL_STORAGE_KEY_PREFIX + getTodayKey());
+    const raw = localStorage.getItem(LOCAL_STORAGE_KEY_PREFIX + gameId);
     if (!raw) return null;
     const stored: StoredState = JSON.parse(raw);
-    if (stored.date !== getTodayKey()) return null;
+    if (stored.gameId !== gameId) return null;
     return stored.rows;
   } catch {
     return null;
   }
 }
 
-function saveToStorage(rows: RowState[]) {
+function saveToStorage(gameId: string, rows: RowState[]) {
   try {
-    const stored: StoredState = { date: getTodayKey(), rows };
-    localStorage.setItem(LOCAL_STORAGE_KEY_PREFIX + getTodayKey(), JSON.stringify(stored));
+    const stored: StoredState = { gameId, rows };
+    localStorage.setItem(LOCAL_STORAGE_KEY_PREFIX + gameId, JSON.stringify(stored));
   } catch {
     // localStorage unavailable — silently continue
   }
@@ -44,16 +43,23 @@ interface UseGameStateResult {
   resetGame: () => void;
 }
 
-export function useGameState(isAliveList: boolean[]): UseGameStateResult {
-  const [rows, setRows] = useState<RowState[]>(() => loadFromStorage() ?? makeInitialRows());
+export function useGameState(isAliveList: boolean[], gameId: string | null): UseGameStateResult {
+  const [rows, setRows] = useState<RowState[]>(makeInitialRows);
+
+  useEffect(() => {
+    if (!gameId) return;
+    const saved = loadFromStorage(gameId);
+    if (saved) setRows(saved);
+  }, [gameId]);
 
   const allAnswered = rows.every(r => r.answered);
 
   useEffect(() => {
+    if (!gameId) return;
     if (rows.some(r => r.answered || r.hintsUsed.length > 0)) {
-      saveToStorage(rows);
+      saveToStorage(gameId, rows);
     }
-  }, [rows]);
+  }, [gameId, rows]);
 
   const submitAnswer = useCallback((index: number, guess: boolean) => {
     setRows(prev => {
@@ -79,13 +85,15 @@ export function useGameState(isAliveList: boolean[]): UseGameStateResult {
   }, []);
 
   const resetGame = useCallback(() => {
-    try {
-      localStorage.removeItem(LOCAL_STORAGE_KEY_PREFIX + getTodayKey());
-    } catch {
-      // ignore
+    if (gameId) {
+      try {
+        localStorage.removeItem(LOCAL_STORAGE_KEY_PREFIX + gameId);
+      } catch {
+        // ignore
+      }
     }
     setRows(makeInitialRows());
-  }, []);
+  }, [gameId]);
 
   return { gameState: { rows, allAnswered }, submitAnswer, useHint, resetGame };
 }
