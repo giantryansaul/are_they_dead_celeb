@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-05-07T04:54:01.189Z",
+  "generatedAt": "2026-05-10T04:07:06.851Z",
   "celebrities": [
     {
-      "id": 33259,
-      "name": "Jennifer Love Hewitt",
-      "popularity": 13.9,
+      "id": 1320544,
+      "name": "Daniella Wang",
+      "popularity": 29,
       "isAlive": true,
-      "birthYear": 1979,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gEDepjLEFGokSaexd1FzmtH1hlq.jpg",
+      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
       "knownFor": [
-        "I Know What You Did Last Summer",
-        "Ghost Whisperer",
-        "Garfield"
+        "Due West: Our Sex Journey",
+        "Midnight Hair",
+        "Crazy Tsunami"
       ]
     },
     {
-      "id": 1487683,
-      "name": "Hitoe Ootake",
-      "popularity": 17.7,
+      "id": 224513,
+      "name": "Ana de Armas",
+      "popularity": 14.6,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1988,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
+      "profilePath": "/3vxvsmYLTf4jnr163SUlBIw51ee.jpg",
       "knownFor": [
-        "Female Teacher Diary: Forbidden Sex",
-        "Female Teacher Diary 3: Hidden Sex",
-        "Molester Diary: A Man Who Kept Stroking Ass 3"
+        "Blade Runner 2049",
+        "Knives Out",
+        "Ballerina"
       ]
     },
     {
-      "id": 49624,
-      "name": "Jensen Ackles",
-      "popularity": 12.2,
+      "id": 1397778,
+      "name": "Anya Taylor-Joy",
+      "popularity": 12,
       "isAlive": true,
-      "birthYear": 1978,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg",
+      "profilePath": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
       "knownFor": [
-        "Supernatural",
-        "My Bloody Valentine",
-        "Batman: Under the Red Hood"
+        "Split",
+        "The Witch",
+        "The Menu"
       ]
     },
     {
-      "id": 95214,
-      "name": "Andrea Evans",
-      "popularity": 11.3,
+      "id": 101652,
+      "name": "Jennifer Runyon",
+      "popularity": 34.2,
       "isAlive": false,
-      "birthYear": 1957,
-      "deathDate": "2023-07-09",
-      "deathAge": 66,
-      "profilePath": "/wHWhyErj1mq0qkdWc4NKpTpVJuG.jpg",
+      "birthYear": 1960,
+      "deathDate": "2026-03-06",
+      "deathAge": 65,
+      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg",
       "knownFor": [
-        "Ice Cream Man",
-        "Hit List",
-        "A Low Down Dirty Shame"
+        "Ghostbusters",
+        "To All a Goodnight",
+        "Carnosaur"
       ]
     },
     {
-      "id": 34627,
-      "name": "Nadia Farès",
-      "popularity": 18.4,
+      "id": 143533,
+      "name": "John Shelton",
+      "popularity": 23.1,
       "isAlive": false,
-      "birthYear": 1968,
-      "deathDate": "2026-04-17",
-      "deathAge": 57,
-      "profilePath": "/uvomxwk2CfO8scOsR60CxHGM2J3.jpg",
+      "birthYear": 1915,
+      "deathDate": "1972-05-17",
+      "deathAge": 56,
+      "profilePath": "/kX8pkNHgpvSvUJojmENMFGVvQkC.jpg",
       "knownFor": [
-        "The Crimson Rivers",
-        "Storm Warning",
-        "On the Line"
+        "The Time of Their Lives",
+        "A-Haunting We Will Go",
+        "Blonde Inspiration"
       ]
     }
   ]
