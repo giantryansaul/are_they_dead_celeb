@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-05-10T04:07:06.851Z",
+  "generatedAt": "2026-05-11T04:17:43.899Z",
   "celebrities": [
     {
-      "id": 1320544,
-      "name": "Daniella Wang",
-      "popularity": 29,
+      "id": 2667928,
+      "name": "Billie Boullet",
+      "popularity": 14.5,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 2005,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
+      "profilePath": "/2T18NEAVoU8cWWpAtaI6fTrdolX.jpg",
       "knownFor": [
-        "Due West: Our Sex Journey",
-        "Midnight Hair",
-        "Crazy Tsunami"
+        "Worldbreaker",
+        "Man on Fire",
+        "A Small Light"
       ]
     },
     {
-      "id": 224513,
-      "name": "Ana de Armas",
-      "popularity": 14.6,
+      "id": 517,
+      "name": "Pierce Brosnan",
+      "popularity": 17.3,
       "isAlive": true,
-      "birthYear": 1988,
+      "birthYear": 1953,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3vxvsmYLTf4jnr163SUlBIw51ee.jpg",
+      "profilePath": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg",
       "knownFor": [
-        "Blade Runner 2049",
-        "Knives Out",
-        "Ballerina"
+        "GoldenEye",
+        "Die Another Day",
+        "Tomorrow Never Dies"
       ]
     },
     {
-      "id": 1397778,
-      "name": "Anya Taylor-Joy",
-      "popularity": 12,
+      "id": 575514,
+      "name": "Susan Shaw Yam-Yam",
+      "popularity": 12.2,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
+      "profilePath": "/w0CbId3WyKGjkLrt0vx5colsFFg.jpg",
       "knownFor": [
-        "Split",
-        "The Witch",
-        "The Menu"
+        "Vulgaria",
+        "Gallants",
+        "Thirty Years of Adonis"
       ]
     },
     {
-      "id": 101652,
-      "name": "Jennifer Runyon",
-      "popularity": 34.2,
+      "id": 78844,
+      "name": "Virginia Pearson",
+      "popularity": 25.7,
       "isAlive": false,
-      "birthYear": 1960,
-      "deathDate": "2026-03-06",
-      "deathAge": 65,
-      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg",
+      "birthYear": 1886,
+      "deathDate": "1958-06-06",
+      "deathAge": 72,
+      "profilePath": "/5zNG6IdLbUZzZb1Howmj9W9tM8c.jpg",
       "knownFor": [
-        "Ghostbusters",
-        "To All a Goodnight",
-        "Carnosaur"
+        "The Phantom of the Opera",
+        "The Wizard of Oz",
+        "The Red Kimona"
       ]
     },
     {
-      "id": 143533,
-      "name": "John Shelton",
-      "popularity": 23.1,
+      "id": 35732,
+      "name": "Janet Banzet",
+      "popularity": 42.2,
       "isAlive": false,
-      "birthYear": 1915,
-      "deathDate": "1972-05-17",
-      "deathAge": 56,
-      "profilePath": "/kX8pkNHgpvSvUJojmENMFGVvQkC.jpg",
+      "birthYear": 1934,
+      "deathDate": "1971-07-29",
+      "deathAge": 37,
+      "profilePath": null,
       "knownFor": [
-        "The Time of Their Lives",
-        "A-Haunting We Will Go",
-        "Blonde Inspiration"
+        "Breakfast at Tiffany's",
+        "The Party at Kitty and Stud's",
+        "A Thousand Pleasures"
       ]
     }
   ]
