@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-11T04:17:43.899Z",
+  "generatedAt": "2026-05-12T04:00:44.240Z",
   "celebrities": [
     {
-      "id": 2667928,
-      "name": "Billie Boullet",
-      "popularity": 14.5,
+      "id": 28782,
+      "name": "Monica Bellucci",
+      "popularity": 13.1,
       "isAlive": true,
-      "birthYear": 2005,
+      "birthYear": 1964,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/2T18NEAVoU8cWWpAtaI6fTrdolX.jpg",
+      "profilePath": "/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg",
       "knownFor": [
-        "Worldbreaker",
-        "Man on Fire",
-        "A Small Light"
+        "Irreversible",
+        "Malena",
+        "Spectre"
       ]
     },
     {
       "id": 517,
       "name": "Pierce Brosnan",
-      "popularity": 17.3,
+      "popularity": 12.4,
       "isAlive": true,
       "birthYear": 1953,
       "deathDate": null,
@@ -32,24 +32,24 @@
       ]
     },
     {
-      "id": 575514,
-      "name": "Susan Shaw Yam-Yam",
-      "popularity": 12.2,
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 13.7,
       "isAlive": true,
-      "birthYear": 1950,
+      "birthYear": 1962,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/w0CbId3WyKGjkLrt0vx5colsFFg.jpg",
+      "profilePath": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
       "knownFor": [
-        "Vulgaria",
-        "Gallants",
-        "Thirty Years of Adonis"
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
       ]
     },
     {
       "id": 78844,
       "name": "Virginia Pearson",
-      "popularity": 25.7,
+      "popularity": 24.5,
       "isAlive": false,
       "birthYear": 1886,
       "deathDate": "1958-06-06",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 35732,
-      "name": "Janet Banzet",
-      "popularity": 42.2,
+      "id": 143533,
+      "name": "John Shelton",
+      "popularity": 15.5,
       "isAlive": false,
-      "birthYear": 1934,
-      "deathDate": "1971-07-29",
-      "deathAge": 37,
-      "profilePath": null,
+      "birthYear": 1915,
+      "deathDate": "1972-05-17",
+      "deathAge": 56,
+      "profilePath": "/kX8pkNHgpvSvUJojmENMFGVvQkC.jpg",
       "knownFor": [
-        "Breakfast at Tiffany's",
-        "The Party at Kitty and Stud's",
-        "A Thousand Pleasures"
+        "The Time of Their Lives",
+        "A-Haunting We Will Go",
+        "Blonde Inspiration"
       ]
     }
   ]
