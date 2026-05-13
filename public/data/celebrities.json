@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-05-12T04:00:44.240Z",
+  "generatedAt": "2026-05-13T04:08:56.027Z",
   "celebrities": [
     {
-      "id": 28782,
-      "name": "Monica Bellucci",
-      "popularity": 13.1,
+      "id": 33259,
+      "name": "Jennifer Love Hewitt",
+      "popularity": 13,
       "isAlive": true,
-      "birthYear": 1964,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg",
+      "profilePath": "/gEDepjLEFGokSaexd1FzmtH1hlq.jpg",
       "knownFor": [
-        "Irreversible",
-        "Malena",
-        "Spectre"
+        "I Know What You Did Last Summer",
+        "Ghost Whisperer",
+        "Garfield"
       ]
     },
     {
-      "id": 517,
-      "name": "Pierce Brosnan",
-      "popularity": 12.4,
+      "id": 3052321,
+      "name": "Tyriq Withers",
+      "popularity": 17.2,
       "isAlive": true,
-      "birthYear": 1953,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg",
+      "profilePath": "/ilDZHfT8mlXWlvLCaWDhL0OlLSh.jpg",
       "knownFor": [
-        "GoldenEye",
-        "Die Another Day",
-        "Tomorrow Never Dies"
+        "HIM",
+        "I Know What You Did Last Summer",
+        "Reminders of Him"
       ]
     },
     {
-      "id": 500,
-      "name": "Tom Cruise",
-      "popularity": 13.7,
+      "id": 17244,
+      "name": "Hayden Christensen",
+      "popularity": 12.9,
       "isAlive": true,
-      "birthYear": 1962,
+      "birthYear": 1981,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
+      "profilePath": "/hqEgJYEUvZvL9ytmmiYBbbt63qd.jpg",
       "knownFor": [
-        "Edge of Tomorrow",
-        "Oblivion",
-        "Top Gun: Maverick"
+        "Star Wars: Episode III - Revenge of the Sith",
+        "Star Wars: Episode II - Attack of the Clones",
+        "Jumper"
       ]
     },
     {
-      "id": 78844,
-      "name": "Virginia Pearson",
-      "popularity": 24.5,
+      "id": 34627,
+      "name": "Nadia Farès",
+      "popularity": 13.6,
       "isAlive": false,
-      "birthYear": 1886,
-      "deathDate": "1958-06-06",
-      "deathAge": 72,
-      "profilePath": "/5zNG6IdLbUZzZb1Howmj9W9tM8c.jpg",
+      "birthYear": 1968,
+      "deathDate": "2026-04-17",
+      "deathAge": 57,
+      "profilePath": "/uvomxwk2CfO8scOsR60CxHGM2J3.jpg",
       "knownFor": [
-        "The Phantom of the Opera",
-        "The Wizard of Oz",
-        "The Red Kimona"
+        "The Crimson Rivers",
+        "Storm Warning",
+        "On the Line"
       ]
     },
     {
-      "id": 143533,
-      "name": "John Shelton",
-      "popularity": 15.5,
+      "id": 101652,
+      "name": "Jennifer Runyon",
+      "popularity": 23.9,
       "isAlive": false,
-      "birthYear": 1915,
-      "deathDate": "1972-05-17",
-      "deathAge": 56,
-      "profilePath": "/kX8pkNHgpvSvUJojmENMFGVvQkC.jpg",
+      "birthYear": 1960,
+      "deathDate": "2026-03-06",
+      "deathAge": 65,
+      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg",
       "knownFor": [
-        "The Time of Their Lives",
-        "A-Haunting We Will Go",
-        "Blonde Inspiration"
+        "Ghostbusters",
+        "To All a Goodnight",
+        "Carnosaur"
       ]
     }
   ]
