@@ -1,64 +1,49 @@
 {
-  "generatedAt": "2026-05-13T04:08:56.027Z",
+  "generatedAt": "2026-05-14T04:08:19.282Z",
   "celebrities": [
     {
-      "id": 33259,
-      "name": "Jennifer Love Hewitt",
-      "popularity": 13,
+      "id": 109513,
+      "name": "Alexandra Daddario",
+      "popularity": 12.7,
       "isAlive": true,
-      "birthYear": 1979,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gEDepjLEFGokSaexd1FzmtH1hlq.jpg",
+      "profilePath": "/mP3N1LTIaIG5Q0BHyt1XxjtIyYi.jpg",
       "knownFor": [
-        "I Know What You Did Last Summer",
-        "Ghost Whisperer",
-        "Garfield"
+        "San Andreas",
+        "Percy Jackson & the Olympians: The Lightning Thief",
+        "Baywatch"
       ]
     },
     {
-      "id": 3052321,
-      "name": "Tyriq Withers",
-      "popularity": 17.2,
+      "id": 1152083,
+      "name": "Sabrina Carpenter",
+      "popularity": 12.4,
       "isAlive": true,
-      "birthYear": 1998,
+      "birthYear": 1999,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ilDZHfT8mlXWlvLCaWDhL0OlLSh.jpg",
+      "profilePath": "/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg",
       "knownFor": [
-        "HIM",
-        "I Know What You Did Last Summer",
-        "Reminders of Him"
+        "Work It",
+        "Tall Girl",
+        "Clouds"
       ]
     },
     {
-      "id": 17244,
-      "name": "Hayden Christensen",
-      "popularity": 12.9,
-      "isAlive": true,
-      "birthYear": 1981,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/hqEgJYEUvZvL9ytmmiYBbbt63qd.jpg",
-      "knownFor": [
-        "Star Wars: Episode III - Revenge of the Sith",
-        "Star Wars: Episode II - Attack of the Clones",
-        "Jumper"
-      ]
-    },
-    {
-      "id": 34627,
-      "name": "Nadia Farès",
+      "id": 287,
+      "name": "Brad Pitt",
       "popularity": 13.6,
-      "isAlive": false,
-      "birthYear": 1968,
-      "deathDate": "2026-04-17",
-      "deathAge": 57,
-      "profilePath": "/uvomxwk2CfO8scOsR60CxHGM2J3.jpg",
+      "isAlive": true,
+      "birthYear": 1963,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/cckcYc2v0yh1tc9QjRelptcOBko.jpg",
       "knownFor": [
-        "The Crimson Rivers",
-        "Storm Warning",
-        "On the Line"
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
       ]
     },
     {
@@ -74,6 +59,21 @@
         "Ghostbusters",
         "To All a Goodnight",
         "Carnosaur"
+      ]
+    },
+    {
+      "id": 20877,
+      "name": "Renato Castellani",
+      "popularity": 13,
+      "isAlive": false,
+      "birthYear": 1913,
+      "deathDate": "1985-12-28",
+      "deathAge": 72,
+      "profilePath": "/hSKVksuXIKBoORFmZ2n7Q9HTuoD.jpg",
+      "knownFor": [
+        "Two Cents Worth of Hope",
+        "Ghosts, Italian Style",
+        "Hell in the City"
       ]
     }
   ]
