@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-05-14T04:08:19.282Z",
+  "generatedAt": "2026-05-15T04:12:44.781Z",
   "celebrities": [
     {
-      "id": 109513,
-      "name": "Alexandra Daddario",
-      "popularity": 12.7,
+      "id": 17265,
+      "name": "Hayden Panettiere",
+      "popularity": 11.5,
+      "isAlive": true,
+      "birthYear": 1989,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/bhGkVHCFu8peC4rIXIUMWCQqZR7.jpg",
+      "knownFor": [
+        "A Bug's Life",
+        "Heroes",
+        "I Love You, Beth Cooper"
+      ]
+    },
+    {
+      "id": 19537,
+      "name": "Megan Fox",
+      "popularity": 11.3,
       "isAlive": true,
       "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/mP3N1LTIaIG5Q0BHyt1XxjtIyYi.jpg",
+      "profilePath": "/9khvk5svs81TLqIGlI3ZJqYtqaY.jpg",
       "knownFor": [
-        "San Andreas",
-        "Percy Jackson & the Olympians: The Lightning Thief",
-        "Baywatch"
+        "Transformers",
+        "Transformers: Revenge of the Fallen",
+        "Jennifer's Body"
       ]
     },
     {
-      "id": 1152083,
-      "name": "Sabrina Carpenter",
+      "id": 2168270,
+      "name": "Adeline Rudolph",
       "popularity": 12.4,
       "isAlive": true,
-      "birthYear": 1999,
+      "birthYear": 1995,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg",
+      "profilePath": "/sWjjm53MeVrpQH2dxtFD3gfEt3v.jpg",
       "knownFor": [
-        "Work It",
-        "Tall Girl",
-        "Clouds"
-      ]
-    },
-    {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 13.6,
-      "isAlive": true,
-      "birthYear": 1963,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/cckcYc2v0yh1tc9QjRelptcOBko.jpg",
-      "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
+        "Chilling Adventures of Sabrina",
+        "Hellboy: The Crooked Man",
+        "Resident Evil"
       ]
     },
     {
       "id": 101652,
       "name": "Jennifer Runyon",
-      "popularity": 23.9,
+      "popularity": 20.4,
       "isAlive": false,
       "birthYear": 1960,
       "deathDate": "2026-03-06",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 20877,
-      "name": "Renato Castellani",
-      "popularity": 13,
+      "id": 70254,
+      "name": "Donald Gibb",
+      "popularity": 21.9,
       "isAlive": false,
-      "birthYear": 1913,
-      "deathDate": "1985-12-28",
-      "deathAge": 72,
-      "profilePath": "/hSKVksuXIKBoORFmZ2n7Q9HTuoD.jpg",
+      "birthYear": 1954,
+      "deathDate": "2026-05-12",
+      "deathAge": 71,
+      "profilePath": "/3SGqGltQ6J0LUJ84DZTdWSMh8O8.jpg",
       "knownFor": [
-        "Two Cents Worth of Hope",
-        "Ghosts, Italian Style",
-        "Hell in the City"
+        "Bloodsport",
+        "Hancock",
+        "Conan the Barbarian"
       ]
     }
   ]
