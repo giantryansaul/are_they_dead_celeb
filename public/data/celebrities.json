@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-05-15T04:12:44.781Z",
+  "generatedAt": "2026-05-16T03:54:46.295Z",
   "celebrities": [
     {
-      "id": 17265,
-      "name": "Hayden Panettiere",
-      "popularity": 11.5,
+      "id": 18277,
+      "name": "Sandra Bullock",
+      "popularity": 11.8,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 1964,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bhGkVHCFu8peC4rIXIUMWCQqZR7.jpg",
+      "profilePath": "/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg",
       "knownFor": [
-        "A Bug's Life",
-        "Heroes",
-        "I Love You, Beth Cooper"
+        "Gravity",
+        "Minions",
+        "Bird Box"
       ]
     },
     {
-      "id": 19537,
-      "name": "Megan Fox",
-      "popularity": 11.3,
+      "id": 6384,
+      "name": "Keanu Reeves",
+      "popularity": 11.9,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1964,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/9khvk5svs81TLqIGlI3ZJqYtqaY.jpg",
+      "profilePath": "/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg",
       "knownFor": [
-        "Transformers",
-        "Transformers: Revenge of the Fallen",
-        "Jennifer's Body"
+        "The Matrix",
+        "John Wick",
+        "John Wick: Chapter 2"
       ]
     },
     {
-      "id": 2168270,
-      "name": "Adeline Rudolph",
-      "popularity": 12.4,
+      "id": 33676,
+      "name": "Kathleen Robertson",
+      "popularity": 23.7,
       "isAlive": true,
-      "birthYear": 1995,
+      "birthYear": 1973,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/sWjjm53MeVrpQH2dxtFD3gfEt3v.jpg",
+      "profilePath": "/vtY0dPOu7gsxN2gVcTK0j0v76qc.jpg",
       "knownFor": [
-        "Chilling Adventures of Sabrina",
-        "Hellboy: The Crooked Man",
-        "Resident Evil"
+        "Scary Movie 2",
+        "The Vatican Tapes",
+        "Seal Team Six: The Raid on Osama Bin Laden"
       ]
     },
     {
-      "id": 101652,
-      "name": "Jennifer Runyon",
-      "popularity": 20.4,
+      "id": 738,
+      "name": "Sean Connery",
+      "popularity": 11.6,
       "isAlive": false,
-      "birthYear": 1960,
-      "deathDate": "2026-03-06",
-      "deathAge": 65,
-      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg",
+      "birthYear": 1930,
+      "deathDate": "2020-10-31",
+      "deathAge": 90,
+      "profilePath": "/hbB676mW62gjsh0f51ICYE11niG.jpg",
       "knownFor": [
-        "Ghostbusters",
-        "To All a Goodnight",
-        "Carnosaur"
+        "Indiana Jones and the Last Crusade",
+        "The Rock",
+        "The League of Extraordinary Gentlemen"
       ]
     },
     {
