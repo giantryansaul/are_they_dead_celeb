@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-05-16T03:54:46.295Z",
+  "generatedAt": "2026-05-17T04:14:21.701Z",
   "celebrities": [
     {
-      "id": 18277,
-      "name": "Sandra Bullock",
+      "id": 12835,
+      "name": "Vin Diesel",
+      "popularity": 10.6,
+      "isAlive": true,
+      "birthYear": 1967,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/nZdVry7lnUkE24PnXakok9okvL4.jpg",
+      "knownFor": [
+        "Furious 7",
+        "Fast & Furious 6",
+        "The Fate of the Furious"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Clint Eastwood",
+      "popularity": 10.3,
+      "isAlive": true,
+      "birthYear": 1930,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
+      "knownFor": [
+        "Gran Torino",
+        "Million Dollar Baby",
+        "The Good, the Bad and the Ugly"
+      ]
+    },
+    {
+      "id": 49624,
+      "name": "Jensen Ackles",
       "popularity": 11.8,
       "isAlive": true,
-      "birthYear": 1964,
+      "birthYear": 1978,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg",
+      "profilePath": "/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg",
       "knownFor": [
-        "Gravity",
-        "Minions",
-        "Bird Box"
+        "Supernatural",
+        "My Bloody Valentine",
+        "Batman: Under the Red Hood"
       ]
     },
     {
-      "id": 6384,
-      "name": "Keanu Reeves",
-      "popularity": 11.9,
-      "isAlive": true,
-      "birthYear": 1964,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg",
-      "knownFor": [
-        "The Matrix",
-        "John Wick",
-        "John Wick: Chapter 2"
-      ]
-    },
-    {
-      "id": 33676,
-      "name": "Kathleen Robertson",
-      "popularity": 23.7,
-      "isAlive": true,
-      "birthYear": 1973,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/vtY0dPOu7gsxN2gVcTK0j0v76qc.jpg",
-      "knownFor": [
-        "Scary Movie 2",
-        "The Vatican Tapes",
-        "Seal Team Six: The Raid on Osama Bin Laden"
-      ]
-    },
-    {
-      "id": 738,
-      "name": "Sean Connery",
-      "popularity": 11.6,
+      "id": 101652,
+      "name": "Jennifer Runyon",
+      "popularity": 12.5,
       "isAlive": false,
-      "birthYear": 1930,
-      "deathDate": "2020-10-31",
-      "deathAge": 90,
-      "profilePath": "/hbB676mW62gjsh0f51ICYE11niG.jpg",
+      "birthYear": 1960,
+      "deathDate": "2026-03-06",
+      "deathAge": 65,
+      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg",
       "knownFor": [
-        "Indiana Jones and the Last Crusade",
-        "The Rock",
-        "The League of Extraordinary Gentlemen"
+        "Ghostbusters",
+        "To All a Goodnight",
+        "Carnosaur"
       ]
     },
     {
       "id": 70254,
       "name": "Donald Gibb",
-      "popularity": 21.9,
+      "popularity": 21.8,
       "isAlive": false,
       "birthYear": 1954,
       "deathDate": "2026-05-12",
