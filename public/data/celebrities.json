@@ -1,55 +1,70 @@
 {
-  "generatedAt": "2026-05-17T04:14:21.701Z",
+  "generatedAt": "2026-05-18T04:25:16.728Z",
   "celebrities": [
     {
-      "id": 12835,
-      "name": "Vin Diesel",
-      "popularity": 10.6,
+      "id": 192,
+      "name": "Morgan Freeman",
+      "popularity": 10.1,
       "isAlive": true,
-      "birthYear": 1967,
+      "birthYear": 1937,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nZdVry7lnUkE24PnXakok9okvL4.jpg",
+      "profilePath": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg",
       "knownFor": [
-        "Furious 7",
-        "Fast & Furious 6",
-        "The Fate of the Furious"
+        "Se7en",
+        "The Shawshank Redemption",
+        "Lucy"
       ]
     },
     {
-      "id": 190,
-      "name": "Clint Eastwood",
-      "popularity": 10.3,
+      "id": 1320544,
+      "name": "Daniella Wang",
+      "popularity": 37.1,
       "isAlive": true,
+      "birthYear": 1989,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
+      "knownFor": [
+        "Due West: Our Sex Journey",
+        "Midnight Hair",
+        "Crazy Tsunami"
+      ]
+    },
+    {
+      "id": 18973,
+      "name": "Mila Kunis",
+      "popularity": 9.9,
+      "isAlive": true,
+      "birthYear": 1983,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg",
+      "knownFor": [
+        "Black Swan",
+        "Ted",
+        "Bad Moms"
+      ]
+    },
+    {
+      "id": 738,
+      "name": "Sean Connery",
+      "popularity": 10.9,
+      "isAlive": false,
       "birthYear": 1930,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
+      "deathDate": "2020-10-31",
+      "deathAge": 90,
+      "profilePath": "/hbB676mW62gjsh0f51ICYE11niG.jpg",
       "knownFor": [
-        "Gran Torino",
-        "Million Dollar Baby",
-        "The Good, the Bad and the Ugly"
-      ]
-    },
-    {
-      "id": 49624,
-      "name": "Jensen Ackles",
-      "popularity": 11.8,
-      "isAlive": true,
-      "birthYear": 1978,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg",
-      "knownFor": [
-        "Supernatural",
-        "My Bloody Valentine",
-        "Batman: Under the Red Hood"
+        "Indiana Jones and the Last Crusade",
+        "The Rock",
+        "The League of Extraordinary Gentlemen"
       ]
     },
     {
       "id": 101652,
       "name": "Jennifer Runyon",
-      "popularity": 12.5,
+      "popularity": 10.3,
       "isAlive": false,
       "birthYear": 1960,
       "deathDate": "2026-03-06",
@@ -59,21 +74,6 @@
         "Ghostbusters",
         "To All a Goodnight",
         "Carnosaur"
-      ]
-    },
-    {
-      "id": 70254,
-      "name": "Donald Gibb",
-      "popularity": 21.8,
-      "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2026-05-12",
-      "deathAge": 71,
-      "profilePath": "/3SGqGltQ6J0LUJ84DZTdWSMh8O8.jpg",
-      "knownFor": [
-        "Bloodsport",
-        "Hancock",
-        "Conan the Barbarian"
       ]
     }
   ]
