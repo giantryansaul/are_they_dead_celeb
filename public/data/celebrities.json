@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-05-18T04:25:16.728Z",
+  "generatedAt": "2026-05-19T04:20:28.973Z",
   "celebrities": [
     {
-      "id": 192,
-      "name": "Morgan Freeman",
-      "popularity": 10.1,
+      "id": 7132,
+      "name": "Vincent D'Onofrio",
+      "popularity": 12.7,
       "isAlive": true,
-      "birthYear": 1937,
+      "birthYear": 1959,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg",
+      "profilePath": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg",
       "knownFor": [
-        "Se7en",
-        "The Shawshank Redemption",
-        "Lucy"
+        "Jurassic World",
+        "Full Metal Jacket",
+        "Men in Black"
       ]
     },
     {
-      "id": 1320544,
-      "name": "Daniella Wang",
-      "popularity": 37.1,
+      "id": 224728,
+      "name": "Inma Cuesta",
+      "popularity": 11.1,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
+      "profilePath": "/wJrPN5ROu7P7gfDdKEDItzesDeO.jpg",
       "knownFor": [
-        "Due West: Our Sex Journey",
-        "Midnight Hair",
-        "Crazy Tsunami"
+        "Live Twice, Love Once",
+        "The Mess You Leave Behind",
+        "Julieta"
       ]
     },
     {
-      "id": 18973,
-      "name": "Mila Kunis",
-      "popularity": 9.9,
+      "id": 19498,
+      "name": "Jon Bernthal",
+      "popularity": 14.8,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg",
+      "profilePath": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
       "knownFor": [
-        "Black Swan",
-        "Ted",
-        "Bad Moms"
+        "The Walking Dead",
+        "The Wolf of Wall Street",
+        "Marvel's The Punisher"
       ]
     },
     {
-      "id": 738,
-      "name": "Sean Connery",
-      "popularity": 10.9,
+      "id": 70254,
+      "name": "Donald Gibb",
+      "popularity": 16.6,
       "isAlive": false,
-      "birthYear": 1930,
-      "deathDate": "2020-10-31",
-      "deathAge": 90,
-      "profilePath": "/hbB676mW62gjsh0f51ICYE11niG.jpg",
+      "birthYear": 1954,
+      "deathDate": "2026-05-12",
+      "deathAge": 71,
+      "profilePath": "/3SGqGltQ6J0LUJ84DZTdWSMh8O8.jpg",
       "knownFor": [
-        "Indiana Jones and the Last Crusade",
-        "The Rock",
-        "The League of Extraordinary Gentlemen"
+        "Bloodsport",
+        "Hancock",
+        "Conan the Barbarian"
       ]
     },
     {
