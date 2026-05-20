@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-05-19T04:20:28.973Z",
+  "generatedAt": "2026-05-20T04:22:07.968Z",
   "celebrities": [
     {
-      "id": 7132,
-      "name": "Vincent D'Onofrio",
-      "popularity": 12.7,
+      "id": 1303037,
+      "name": "Taron Egerton",
+      "popularity": 9,
       "isAlive": true,
-      "birthYear": 1959,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg",
+      "profilePath": "/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg",
       "knownFor": [
-        "Jurassic World",
-        "Full Metal Jacket",
-        "Men in Black"
+        "Kingsman: The Secret Service",
+        "Kingsman: The Golden Circle",
+        "Rocketman"
       ]
     },
     {
-      "id": 224728,
-      "name": "Inma Cuesta",
-      "popularity": 11.1,
+      "id": 1213613,
+      "name": "Jeri Ryan",
+      "popularity": 12,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1968,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/wJrPN5ROu7P7gfDdKEDItzesDeO.jpg",
+      "profilePath": "/faRGkffYDP3WdGaqL5DF5RxEG1p.jpg",
       "knownFor": [
-        "Live Twice, Love Once",
-        "The Mess You Leave Behind",
-        "Julieta"
+        "Star Trek: Picard",
+        "Star Trek: Voyager",
+        "Body of Proof"
       ]
     },
     {
-      "id": 19498,
-      "name": "Jon Bernthal",
-      "popularity": 14.8,
+      "id": 1604826,
+      "name": "Cha Eun-woo",
+      "popularity": 17.2,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1997,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+      "profilePath": "/kZUO2s2ZsBRYZ8acu0wMzlGHpRS.jpg",
       "knownFor": [
-        "The Walking Dead",
-        "The Wolf of Wall Street",
-        "Marvel's The Punisher"
+        "True Beauty",
+        "Island",
+        "My ID is Gangnam Beauty"
       ]
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 101652,
       "name": "Jennifer Runyon",
-      "popularity": 10.3,
+      "popularity": 10.9,
       "isAlive": false,
       "birthYear": 1960,
       "deathDate": "2026-03-06",
