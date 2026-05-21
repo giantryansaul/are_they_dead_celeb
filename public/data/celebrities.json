@@ -1,55 +1,70 @@
 {
-  "generatedAt": "2026-05-20T04:22:07.968Z",
+  "generatedAt": "2026-05-21T04:39:03.067Z",
   "celebrities": [
     {
-      "id": 1303037,
-      "name": "Taron Egerton",
-      "popularity": 9,
+      "id": 18050,
+      "name": "Elle Fanning",
+      "popularity": 14.4,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg",
+      "profilePath": "/ucC5faqfEYVhoC25M6Hi3znZmab.jpg",
       "knownFor": [
-        "Kingsman: The Secret Service",
-        "Kingsman: The Golden Circle",
-        "Rocketman"
+        "Maleficent",
+        "The Neon Demon",
+        "Super 8"
       ]
     },
     {
-      "id": 1213613,
-      "name": "Jeri Ryan",
-      "popularity": 12,
+      "id": 1562430,
+      "name": "Hannah Cheramy",
+      "popularity": 32.7,
       "isAlive": true,
-      "birthYear": 1968,
+      "birthYear": 2003,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/faRGkffYDP3WdGaqL5DF5RxEG1p.jpg",
+      "profilePath": "/bVNJpvLKWwzxvLPFFmhsoMsR5qu.jpg",
       "knownFor": [
-        "Star Trek: Picard",
-        "Star Trek: Voyager",
-        "Body of Proof"
+        "FROM",
+        "Colossal",
+        "The Hollow Child"
       ]
     },
     {
-      "id": 1604826,
-      "name": "Cha Eun-woo",
-      "popularity": 17.2,
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 12.4,
       "isAlive": true,
-      "birthYear": 1997,
+      "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kZUO2s2ZsBRYZ8acu0wMzlGHpRS.jpg",
+      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
       "knownFor": [
-        "True Beauty",
-        "Island",
-        "My ID is Gangnam Beauty"
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
+      ]
+    },
+    {
+      "id": 21743,
+      "name": "Alexander Held",
+      "popularity": 18.1,
+      "isAlive": false,
+      "birthYear": 1958,
+      "deathDate": "2026-05-12",
+      "deathAge": 67,
+      "profilePath": "/zE9NoMX4657qMX52EMFah9pHYSI.jpg",
+      "knownFor": [
+        "Schindler's List",
+        "Downfall",
+        "Sophie Scholl: The Final Days"
       ]
     },
     {
       "id": 70254,
       "name": "Donald Gibb",
-      "popularity": 16.6,
+      "popularity": 13.5,
       "isAlive": false,
       "birthYear": 1954,
       "deathDate": "2026-05-12",
@@ -59,21 +74,6 @@
         "Bloodsport",
         "Hancock",
         "Conan the Barbarian"
-      ]
-    },
-    {
-      "id": 101652,
-      "name": "Jennifer Runyon",
-      "popularity": 10.9,
-      "isAlive": false,
-      "birthYear": 1960,
-      "deathDate": "2026-03-06",
-      "deathAge": 65,
-      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg",
-      "knownFor": [
-        "Ghostbusters",
-        "To All a Goodnight",
-        "Carnosaur"
       ]
     }
   ]
