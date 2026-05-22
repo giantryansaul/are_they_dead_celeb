@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-05-21T04:39:03.067Z",
+  "generatedAt": "2026-05-22T04:23:50.578Z",
   "celebrities": [
     {
-      "id": 18050,
-      "name": "Elle Fanning",
-      "popularity": 14.4,
+      "id": 1892,
+      "name": "Matt Damon",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 1998,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ucC5faqfEYVhoC25M6Hi3znZmab.jpg",
+      "profilePath": "/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg",
       "knownFor": [
-        "Maleficent",
-        "The Neon Demon",
-        "Super 8"
+        "The Martian",
+        "Good Will Hunting",
+        "The Bourne Identity"
       ]
     },
     {
-      "id": 1562430,
-      "name": "Hannah Cheramy",
-      "popularity": 32.7,
+      "id": 681,
+      "name": "Nina Hoss",
+      "popularity": 14,
       "isAlive": true,
-      "birthYear": 2003,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bVNJpvLKWwzxvLPFFmhsoMsR5qu.jpg",
+      "profilePath": "/j4j3eenfrg0XgW0dVReFAdPNPE0.jpg",
       "knownFor": [
-        "FROM",
-        "Colossal",
-        "The Hollow Child"
+        "TÁR",
+        "Phoenix",
+        "Barbara"
       ]
     },
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 12.4,
+      "id": 114463,
+      "name": "Michelle Jenner",
+      "popularity": 9.7,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
+      "profilePath": "/g3JyHqwBcV7g1ds3dHtWkDXyXqb.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
+        "Tad, the Lost Explorer",
+        "Tad, the Lost Explorer, and the Secret of King Midas",
+        "Berlin"
       ]
     },
     {
       "id": 21743,
       "name": "Alexander Held",
-      "popularity": 18.1,
+      "popularity": 19.1,
       "isAlive": false,
       "birthYear": 1958,
       "deathDate": "2026-05-12",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 70254,
-      "name": "Donald Gibb",
-      "popularity": 13.5,
+      "id": 1166328,
+      "name": "Kostiantyn Stepankov",
+      "popularity": 15.3,
       "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2026-05-12",
-      "deathAge": 71,
-      "profilePath": "/3SGqGltQ6J0LUJ84DZTdWSMh8O8.jpg",
+      "birthYear": 1928,
+      "deathDate": "2004-07-22",
+      "deathAge": 76,
+      "profilePath": "/ikClq1NtRmVCsyGc2K2rSRDyH3n.jpg",
       "knownFor": [
-        "Bloodsport",
-        "Hancock",
-        "Conan the Barbarian"
+        "Ashik Kerib",
+        "Poem of Kovpak: Alarm",
+        "Poem of Kovpak: Snow-Storm"
       ]
     }
   ]
