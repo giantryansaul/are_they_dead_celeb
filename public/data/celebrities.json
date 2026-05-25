@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-05-24T04:23:35.293Z",
+  "generatedAt": "2026-05-25T04:46:08.842Z",
   "celebrities": [
     {
-      "id": 572043,
-      "name": "Yang Mi",
-      "popularity": 10.1,
+      "id": 2478377,
+      "name": "Ella Bright",
+      "popularity": 18.8,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 2006,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
+      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
       "knownFor": [
-        "A Writer's Odyssey",
-        "Reset",
-        "Tiny Times"
+        "Off Campus",
+        "Holmes & Watson",
+        "Malory Towers"
       ]
     },
     {
-      "id": 7775,
-      "name": "Stephen Sommers",
-      "popularity": 9.5,
+      "id": 2573266,
+      "name": "Stephen Kalyn",
+      "popularity": 11.7,
       "isAlive": true,
-      "birthYear": 1962,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/wGhd7IF1Buf7qPXuC4y1t02hams.jpg",
+      "profilePath": "/nsjW4Hj1dJFpAPGKsrfm1XdX5Bu.jpg",
       "knownFor": [
-        "The Mummy",
-        "The Mummy Returns",
-        "Van Helsing"
+        "Off Campus",
+        "Whistle",
+        "Cascade"
       ]
     },
     {
@@ -47,24 +47,9 @@
       ]
     },
     {
-      "id": 101652,
-      "name": "Jennifer Runyon",
-      "popularity": 14.3,
-      "isAlive": false,
-      "birthYear": 1960,
-      "deathDate": "2026-03-06",
-      "deathAge": 65,
-      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg",
-      "knownFor": [
-        "Ghostbusters",
-        "To All a Goodnight",
-        "Carnosaur"
-      ]
-    },
-    {
       "id": 21743,
       "name": "Alexander Held",
-      "popularity": 22,
+      "popularity": 15.9,
       "isAlive": false,
       "birthYear": 1958,
       "deathDate": "2026-05-12",
@@ -74,6 +59,21 @@
         "Schindler's List",
         "Downfall",
         "Sophie Scholl: The Final Days"
+      ]
+    },
+    {
+      "id": 101652,
+      "name": "Jennifer Runyon",
+      "popularity": 11.2,
+      "isAlive": false,
+      "birthYear": 1960,
+      "deathDate": "2026-03-06",
+      "deathAge": 65,
+      "profilePath": "/1j0Vt7pUROiNvI4ga0KfsNQnlWc.jpg",
+      "knownFor": [
+        "Ghostbusters",
+        "To All a Goodnight",
+        "Carnosaur"
       ]
     }
   ]
