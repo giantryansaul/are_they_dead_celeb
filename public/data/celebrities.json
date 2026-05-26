@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-05-25T04:46:08.842Z",
+  "generatedAt": "2026-05-26T04:20:51.024Z",
   "celebrities": [
     {
-      "id": 2478377,
-      "name": "Ella Bright",
-      "popularity": 18.8,
+      "id": 224513,
+      "name": "Ana de Armas",
+      "popularity": 8.4,
       "isAlive": true,
-      "birthYear": 2006,
+      "birthYear": 1988,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
+      "profilePath": "/tkBWBvcLTihUcVf6iwbMQTFqEEv.jpg",
       "knownFor": [
-        "Off Campus",
-        "Holmes & Watson",
-        "Malory Towers"
+        "Blade Runner 2049",
+        "Knives Out",
+        "Ballerina"
       ]
     },
     {
-      "id": 2573266,
-      "name": "Stephen Kalyn",
-      "popularity": 11.7,
+      "id": 2286570,
+      "name": "Belmont Cameli",
+      "popularity": 9.2,
       "isAlive": true,
       "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nsjW4Hj1dJFpAPGKsrfm1XdX5Bu.jpg",
+      "profilePath": "/pn7PMVIFbufXh7eCljg1tJHlpX0.jpg",
       "knownFor": [
-        "Off Campus",
-        "Whistle",
-        "Cascade"
+        "Until Dawn",
+        "Along for the Ride",
+        "Off Campus"
       ]
     },
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 10.7,
+      "id": 10727,
+      "name": "John Hannah",
+      "popularity": 19.4,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 1962,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
+      "profilePath": "/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
+        "The Mummy",
+        "The Mummy Returns",
+        "The Mummy: Tomb of the Dragon Emperor"
       ]
     },
     {
