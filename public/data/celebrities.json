@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-05-26T04:20:51.024Z",
+  "generatedAt": "2026-05-27T04:43:49.030Z",
   "celebrities": [
     {
-      "id": 224513,
-      "name": "Ana de Armas",
-      "popularity": 8.4,
+      "id": 26755,
+      "name": "Charlie Cho Cha-Lee",
+      "popularity": 8.8,
       "isAlive": true,
-      "birthYear": 1988,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/tkBWBvcLTihUcVf6iwbMQTFqEEv.jpg",
+      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
       "knownFor": [
-        "Blade Runner 2049",
-        "Knives Out",
-        "Ballerina"
+        "Police Story",
+        "The Golden Lotus: Love and Desire",
+        "Police Story 2"
       ]
     },
     {
-      "id": 2286570,
-      "name": "Belmont Cameli",
-      "popularity": 9.2,
+      "id": 1907997,
+      "name": "Min Do-yoon",
+      "popularity": 12.3,
       "isAlive": true,
-      "birthYear": 1998,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pn7PMVIFbufXh7eCljg1tJHlpX0.jpg",
+      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
       "knownFor": [
-        "Until Dawn",
-        "Along for the Ride",
-        "Off Campus"
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Beauty Salon: Special Service 3",
+        "Beauty Salon: Special Service 4"
       ]
     },
     {
-      "id": 10727,
-      "name": "John Hannah",
-      "popularity": 19.4,
+      "id": 17697,
+      "name": "John Krasinski",
+      "popularity": 9.8,
       "isAlive": true,
-      "birthYear": 1962,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg",
+      "profilePath": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg",
       "knownFor": [
-        "The Mummy",
-        "The Mummy Returns",
-        "The Mummy: Tomb of the Dragon Emperor"
+        "A Quiet Place",
+        "13 Hours: The Secret Soldiers of Benghazi",
+        "A Quiet Place Part II"
       ]
     },
     {
       "id": 21743,
       "name": "Alexander Held",
-      "popularity": 15.9,
+      "popularity": 12,
       "isAlive": false,
       "birthYear": 1958,
       "deathDate": "2026-05-12",
@@ -64,7 +64,7 @@
     {
       "id": 101652,
       "name": "Jennifer Runyon",
-      "popularity": 11.2,
+      "popularity": 9.7,
       "isAlive": false,
       "birthYear": 1960,
       "deathDate": "2026-03-06",
