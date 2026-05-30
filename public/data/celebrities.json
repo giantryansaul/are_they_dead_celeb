@@ -1,70 +1,40 @@
 {
-  "generatedAt": "2026-05-29T04:37:08.940Z",
+  "generatedAt": "2026-05-30T04:12:02.569Z",
   "celebrities": [
     {
-      "id": 73968,
-      "name": "Henry Cavill",
-      "popularity": 9.1,
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1962,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
+      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
       "knownFor": [
-        "Man of Steel",
-        "Batman v Superman: Dawn of Justice",
-        "The Man from U.N.C.L.E."
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
       ]
     },
     {
-      "id": 1320544,
-      "name": "Daniella Wang",
-      "popularity": 41.6,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 12.3,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "Due West: Our Sex Journey",
-        "Midnight Hair",
-        "Crazy Tsunami"
-      ]
-    },
-    {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 17.1,
-      "isAlive": true,
-      "birthYear": 1983,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
-      "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 3",
-        "Beauty Salon: Special Service 4"
-      ]
-    },
-    {
-      "id": 3164807,
-      "name": "Yoon Yool",
-      "popularity": 10.8,
-      "isAlive": true,
-      "birthYear": 1996,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
-      "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Dangerous Younger Cousin",
-        "Sisters Virus"
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     },
     {
       "id": 5235257,
       "name": "Kim Sun-young",
-      "popularity": 11.3,
+      "popularity": 10.5,
       "isAlive": true,
       "birthYear": 1980,
       "deathDate": null,
@@ -74,6 +44,36 @@
         "The Chaser",
         "Love Lesson",
         "Female War: A Nasty Deal"
+      ]
+    },
+    {
+      "id": 3295426,
+      "name": "Ayanna Misola",
+      "popularity": 8.9,
+      "isAlive": true,
+      "birthYear": 2002,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/dkxVPvNEzqUPvxuVak50GzZkWGk.jpg",
+      "knownFor": [
+        "Bula",
+        "Kinsenas, Katapusan",
+        "Bugso"
+      ]
+    },
+    {
+      "id": 1181426,
+      "name": "Valorie Curry",
+      "popularity": 10.4,
+      "isAlive": true,
+      "birthYear": 1986,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/jqBKANtzMt7xsmrTZ3be1sx9Ejv.jpg",
+      "knownFor": [
+        "The Boys",
+        "Blair Witch",
+        "The Twilight Saga: Breaking Dawn - Part 2"
       ]
     }
   ]
