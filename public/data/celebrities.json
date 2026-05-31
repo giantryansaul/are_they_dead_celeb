@@ -1,40 +1,10 @@
 {
-  "generatedAt": "2026-05-30T04:12:02.569Z",
+  "generatedAt": "2026-05-31T04:46:28.109Z",
   "celebrities": [
-    {
-      "id": 500,
-      "name": "Tom Cruise",
-      "popularity": 11.5,
-      "isAlive": true,
-      "birthYear": 1962,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
-      "knownFor": [
-        "Edge of Tomorrow",
-        "Oblivion",
-        "Top Gun: Maverick"
-      ]
-    },
-    {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 12.3,
-      "isAlive": true,
-      "birthYear": 1956,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
-      "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
-      ]
-    },
     {
       "id": 5235257,
       "name": "Kim Sun-young",
-      "popularity": 10.5,
+      "popularity": 10.8,
       "isAlive": true,
       "birthYear": 1980,
       "deathDate": null,
@@ -47,33 +17,63 @@
       ]
     },
     {
-      "id": 3295426,
-      "name": "Ayanna Misola",
-      "popularity": 8.9,
+      "id": 3371804,
+      "name": "Christine Bermas",
+      "popularity": 8.7,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/dkxVPvNEzqUPvxuVak50GzZkWGk.jpg",
+      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
       "knownFor": [
-        "Bula",
-        "Kinsenas, Katapusan",
-        "Bugso"
+        "Rita",
+        "Scorpio Nights 3",
+        "Bedspacer"
       ]
     },
     {
-      "id": 1181426,
-      "name": "Valorie Curry",
-      "popularity": 10.4,
+      "id": 70962,
+      "name": "Donatella Damiani",
+      "popularity": 9.5,
+      "isAlive": true,
+      "birthYear": 1958,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/c38UcLtlwAfedHgPiWJGjseIcnn.jpg",
+      "knownFor": [
+        "Lola's Secret",
+        "City of Women",
+        "How to Seduce Your Teacher"
+      ]
+    },
+    {
+      "id": 10882,
+      "name": "Rosamund Pike",
+      "popularity": 9,
+      "isAlive": true,
+      "birthYear": 1979,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/6NmTr2nm458J5b5cchWFEaiRReH.jpg",
+      "knownFor": [
+        "Gone Girl",
+        "Jack Reacher",
+        "I Care a Lot"
+      ]
+    },
+    {
+      "id": 572043,
+      "name": "Yang Mi",
+      "popularity": 17.9,
       "isAlive": true,
       "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jqBKANtzMt7xsmrTZ3be1sx9Ejv.jpg",
+      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
       "knownFor": [
-        "The Boys",
-        "Blair Witch",
-        "The Twilight Saga: Breaking Dawn - Part 2"
+        "A Writer's Odyssey",
+        "Reset",
+        "Tiny Times"
       ]
     }
   ]
