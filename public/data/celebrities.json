@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-05-31T04:46:28.109Z",
+  "generatedAt": "2026-06-01T05:08:19.550Z",
   "celebrities": [
     {
-      "id": 5235257,
-      "name": "Kim Sun-young",
+      "id": 73968,
+      "name": "Henry Cavill",
+      "popularity": 8.8,
+      "isAlive": true,
+      "birthYear": 1983,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
+      "knownFor": [
+        "Man of Steel",
+        "Batman v Superman: Dawn of Justice",
+        "The Man from U.N.C.L.E."
+      ]
+    },
+    {
+      "id": 1813,
+      "name": "Anne Hathaway",
+      "popularity": 12.9,
+      "isAlive": true,
+      "birthYear": 1982,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "knownFor": [
+        "Interstellar",
+        "The Devil Wears Prada",
+        "The Princess Diaries"
+      ]
+    },
+    {
+      "id": 2604515,
+      "name": "Emma Myers",
+      "popularity": 11.2,
+      "isAlive": true,
+      "birthYear": 2002,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/v1Y8RP39135ZOary9M4MbkrCAdn.jpg",
+      "knownFor": [
+        "Wednesday",
+        "A Minecraft Movie",
+        "A Good Girl's Guide to Murder"
+      ]
+    },
+    {
+      "id": 150614,
+      "name": "Kelly Curtis",
+      "popularity": 13.8,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2026-05-30",
+      "deathAge": 69,
+      "profilePath": "/m9r1KwCZro2apNZ0fjhxSHMwryw.jpg",
+      "knownFor": [
+        "The Sect",
+        "Trading Places",
+        "The Vikings"
+      ]
+    },
+    {
+      "id": 1245,
+      "name": "Scarlett Johansson",
       "popularity": 10.8,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
+      "profilePath": "/druW5adKddizHNSoPbI0q7Mvn0K.jpg",
       "knownFor": [
-        "The Chaser",
-        "Love Lesson",
-        "Female War: A Nasty Deal"
-      ]
-    },
-    {
-      "id": 3371804,
-      "name": "Christine Bermas",
-      "popularity": 8.7,
-      "isAlive": true,
-      "birthYear": 2001,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
-      "knownFor": [
-        "Rita",
-        "Scorpio Nights 3",
-        "Bedspacer"
-      ]
-    },
-    {
-      "id": 70962,
-      "name": "Donatella Damiani",
-      "popularity": 9.5,
-      "isAlive": true,
-      "birthYear": 1958,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/c38UcLtlwAfedHgPiWJGjseIcnn.jpg",
-      "knownFor": [
-        "Lola's Secret",
-        "City of Women",
-        "How to Seduce Your Teacher"
-      ]
-    },
-    {
-      "id": 10882,
-      "name": "Rosamund Pike",
-      "popularity": 9,
-      "isAlive": true,
-      "birthYear": 1979,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/6NmTr2nm458J5b5cchWFEaiRReH.jpg",
-      "knownFor": [
-        "Gone Girl",
-        "Jack Reacher",
-        "I Care a Lot"
-      ]
-    },
-    {
-      "id": 572043,
-      "name": "Yang Mi",
-      "popularity": 17.9,
-      "isAlive": true,
-      "birthYear": 1986,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
-      "knownFor": [
-        "A Writer's Odyssey",
-        "Reset",
-        "Tiny Times"
+        "Lucy",
+        "Black Widow",
+        "Ghost in the Shell"
       ]
     }
   ]
