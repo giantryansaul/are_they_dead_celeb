@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-06-01T05:08:19.550Z",
+  "generatedAt": "2026-06-02T04:55:33.591Z",
   "celebrities": [
     {
-      "id": 73968,
-      "name": "Henry Cavill",
-      "popularity": 8.8,
+      "id": 5235257,
+      "name": "Kim Sun-young",
+      "popularity": 10.4,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
+      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
       "knownFor": [
-        "Man of Steel",
-        "Batman v Superman: Dawn of Justice",
-        "The Man from U.N.C.L.E."
+        "The Chaser",
+        "Love Lesson",
+        "Female War: A Nasty Deal"
       ]
     },
     {
-      "id": 1813,
-      "name": "Anne Hathaway",
-      "popularity": 12.9,
+      "id": 30614,
+      "name": "Ryan Gosling",
+      "popularity": 10.8,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
       "knownFor": [
-        "Interstellar",
-        "The Devil Wears Prada",
-        "The Princess Diaries"
+        "La La Land",
+        "Blade Runner 2049",
+        "Drive"
       ]
     },
     {
-      "id": 2604515,
-      "name": "Emma Myers",
-      "popularity": 11.2,
+      "id": 1181426,
+      "name": "Valorie Curry",
+      "popularity": 9.9,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/v1Y8RP39135ZOary9M4MbkrCAdn.jpg",
+      "profilePath": "/jqBKANtzMt7xsmrTZ3be1sx9Ejv.jpg",
       "knownFor": [
-        "Wednesday",
-        "A Minecraft Movie",
-        "A Good Girl's Guide to Murder"
+        "The Boys",
+        "Blair Witch",
+        "The Twilight Saga: Breaking Dawn - Part 2"
       ]
     },
     {
       "id": 150614,
       "name": "Kelly Curtis",
-      "popularity": 13.8,
+      "popularity": 17.4,
       "isAlive": false,
       "birthYear": 1956,
       "deathDate": "2026-05-30",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1245,
-      "name": "Scarlett Johansson",
-      "popularity": 10.8,
+      "id": 6885,
+      "name": "Charlize Theron",
+      "popularity": 8.9,
       "isAlive": true,
-      "birthYear": 1984,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/druW5adKddizHNSoPbI0q7Mvn0K.jpg",
+      "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
       "knownFor": [
-        "Lucy",
-        "Black Widow",
-        "Ghost in the Shell"
+        "Mad Max: Fury Road",
+        "Atomic Blonde",
+        "Hancock"
       ]
     }
   ]
