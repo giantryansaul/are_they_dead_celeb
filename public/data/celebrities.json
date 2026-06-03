@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-06-02T04:55:33.591Z",
+  "generatedAt": "2026-06-03T05:05:32.718Z",
   "celebrities": [
     {
-      "id": 5235257,
-      "name": "Kim Sun-young",
-      "popularity": 10.4,
+      "id": 20652,
+      "name": "Cecilia Cheung",
+      "popularity": 12.1,
       "isAlive": true,
       "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
+      "profilePath": "/xghVxRPUmFCHYxzD0NxMO8NtoKK.jpg",
       "knownFor": [
-        "The Chaser",
-        "Love Lesson",
-        "Female War: A Nasty Deal"
+        "The Promise",
+        "King of Comedy",
+        "Shaolin Soccer"
       ]
     },
     {
-      "id": 30614,
-      "name": "Ryan Gosling",
-      "popularity": 10.8,
+      "id": 1245,
+      "name": "Scarlett Johansson",
+      "popularity": 11.1,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "profilePath": "/druW5adKddizHNSoPbI0q7Mvn0K.jpg",
       "knownFor": [
-        "La La Land",
-        "Blade Runner 2049",
-        "Drive"
+        "Lucy",
+        "Black Widow",
+        "Ghost in the Shell"
       ]
     },
     {
-      "id": 1181426,
-      "name": "Valorie Curry",
-      "popularity": 9.9,
+      "id": 12835,
+      "name": "Vin Diesel",
+      "popularity": 9.4,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1967,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jqBKANtzMt7xsmrTZ3be1sx9Ejv.jpg",
+      "profilePath": "/nZdVry7lnUkE24PnXakok9okvL4.jpg",
       "knownFor": [
-        "The Boys",
-        "Blair Witch",
-        "The Twilight Saga: Breaking Dawn - Part 2"
+        "Furious 7",
+        "Fast & Furious 6",
+        "The Fate of the Furious"
       ]
     },
     {
       "id": 150614,
       "name": "Kelly Curtis",
-      "popularity": 17.4,
+      "popularity": 20.3,
       "isAlive": false,
       "birthYear": 1956,
       "deathDate": "2026-05-30",
       "deathAge": 69,
-      "profilePath": "/m9r1KwCZro2apNZ0fjhxSHMwryw.jpg",
+      "profilePath": null,
       "knownFor": [
         "The Sect",
         "Trading Places",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 6885,
-      "name": "Charlize Theron",
-      "popularity": 8.9,
+      "id": 1084758,
+      "name": "James Preston Rogers",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1975,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
+      "profilePath": "/6eVau2kFnU15T7D35OCt1uk5cIl.jpg",
       "knownFor": [
-        "Mad Max: Fury Road",
-        "Atomic Blonde",
-        "Hancock"
+        "Pixels",
+        "Outlander",
+        "Max Payne"
       ]
     }
   ]
