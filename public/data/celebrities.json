@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-06-03T05:05:32.718Z",
+  "generatedAt": "2026-06-04T04:59:14.499Z",
   "celebrities": [
     {
-      "id": 20652,
-      "name": "Cecilia Cheung",
-      "popularity": 12.1,
+      "id": 1487683,
+      "name": "Hitoe Ootake",
+      "popularity": 19.4,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xghVxRPUmFCHYxzD0NxMO8NtoKK.jpg",
+      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
       "knownFor": [
-        "The Promise",
-        "King of Comedy",
-        "Shaolin Soccer"
+        "Female Teacher Diary: Forbidden Sex",
+        "Female Teacher Diary 3: Hidden Sex",
+        "Molester Diary: A Man Who Kept Stroking Ass 3"
       ]
     },
     {
-      "id": 1245,
-      "name": "Scarlett Johansson",
-      "popularity": 11.1,
+      "id": 18082,
+      "name": "Timothy Olyphant",
+      "popularity": 9.5,
       "isAlive": true,
-      "birthYear": 1984,
+      "birthYear": 1968,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/druW5adKddizHNSoPbI0q7Mvn0K.jpg",
+      "profilePath": "/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg",
       "knownFor": [
-        "Lucy",
-        "Black Widow",
-        "Ghost in the Shell"
+        "Hitman",
+        "Live Free or Die Hard",
+        "Once Upon a Time... in Hollywood"
       ]
     },
     {
-      "id": 12835,
-      "name": "Vin Diesel",
-      "popularity": 9.4,
+      "id": 18897,
+      "name": "Jackie Chan",
+      "popularity": 14.5,
       "isAlive": true,
-      "birthYear": 1967,
+      "birthYear": 1954,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nZdVry7lnUkE24PnXakok9okvL4.jpg",
+      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
       "knownFor": [
-        "Furious 7",
-        "Fast & Furious 6",
-        "The Fate of the Furious"
+        "Rush Hour",
+        "Rush Hour 2",
+        "Rush Hour 3"
       ]
     },
     {
       "id": 150614,
       "name": "Kelly Curtis",
-      "popularity": 20.3,
+      "popularity": 22.2,
       "isAlive": false,
       "birthYear": 1956,
       "deathDate": "2026-05-30",
       "deathAge": 69,
-      "profilePath": null,
+      "profilePath": "/pqaFwYEUBdwxegpBjfiizGiWbZ4.jpg",
       "knownFor": [
         "The Sect",
         "Trading Places",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1084758,
-      "name": "James Preston Rogers",
-      "popularity": 11.5,
+      "id": 1183234,
+      "name": "Gan Tingting",
+      "popularity": 18.7,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/6eVau2kFnU15T7D35OCt1uk5cIl.jpg",
+      "profilePath": "/xasI6vF76wCitYqsjyPLJ46Nlg4.jpg",
       "knownFor": [
-        "Pixels",
-        "Outlander",
-        "Max Payne"
+        "Drug War",
+        "General and I",
+        "Kung Fu Dunk"
       ]
     }
   ]
