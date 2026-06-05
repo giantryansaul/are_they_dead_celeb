@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-06-04T04:59:14.499Z",
+  "generatedAt": "2026-06-05T04:41:39.359Z",
   "celebrities": [
     {
-      "id": 1487683,
-      "name": "Hitoe Ootake",
-      "popularity": 19.4,
-      "isAlive": true,
-      "birthYear": 1972,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
-      "knownFor": [
-        "Female Teacher Diary: Forbidden Sex",
-        "Female Teacher Diary 3: Hidden Sex",
-        "Molester Diary: A Man Who Kept Stroking Ass 3"
-      ]
-    },
-    {
-      "id": 18082,
-      "name": "Timothy Olyphant",
-      "popularity": 9.5,
-      "isAlive": true,
-      "birthYear": 1968,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg",
-      "knownFor": [
-        "Hitman",
-        "Live Free or Die Hard",
-        "Once Upon a Time... in Hollywood"
-      ]
-    },
-    {
-      "id": 18897,
-      "name": "Jackie Chan",
+      "id": 1320544,
+      "name": "Daniella Wang",
       "popularity": 14.5,
       "isAlive": true,
-      "birthYear": 1954,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
       "knownFor": [
-        "Rush Hour",
-        "Rush Hour 2",
-        "Rush Hour 3"
+        "Due West: Our Sex Journey",
+        "Midnight Hair",
+        "Crazy Tsunami"
+      ]
+    },
+    {
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 11.3,
+      "isAlive": true,
+      "birthYear": 1962,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
+      "knownFor": [
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
+      ]
+    },
+    {
+      "id": 3164807,
+      "name": "Yoon Yool",
+      "popularity": 11.1,
+      "isAlive": true,
+      "birthYear": 1996,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "knownFor": [
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Dangerous Younger Cousin",
+        "Sisters Virus"
       ]
     },
     {
       "id": 150614,
       "name": "Kelly Curtis",
-      "popularity": 22.2,
+      "popularity": 24,
       "isAlive": false,
       "birthYear": 1956,
       "deathDate": "2026-05-30",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1183234,
-      "name": "Gan Tingting",
-      "popularity": 18.7,
+      "id": 54882,
+      "name": "Morena Baccarin",
+      "popularity": 10.6,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xasI6vF76wCitYqsjyPLJ46Nlg4.jpg",
+      "profilePath": "/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg",
       "knownFor": [
-        "Drug War",
-        "General and I",
-        "Kung Fu Dunk"
+        "Deadpool",
+        "Deadpool 2",
+        "Greenland"
       ]
     }
   ]
