@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-06-05T04:41:39.359Z",
+  "generatedAt": "2026-06-06T04:15:18.822Z",
   "celebrities": [
     {
-      "id": 1320544,
-      "name": "Daniella Wang",
-      "popularity": 14.5,
+      "id": 2461534,
+      "name": "Jack Martin",
+      "popularity": 13.9,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
+      "profilePath": "/pBAzaxxmUpIAuwXsoBo60ShPF5I.jpg",
       "knownFor": [
-        "Due West: Our Sex Journey",
-        "Midnight Hair",
-        "Crazy Tsunami"
+        "La Brea",
+        "Pizza Movie",
+        "The Rookie"
       ]
     },
     {
-      "id": 500,
-      "name": "Tom Cruise",
-      "popularity": 11.3,
+      "id": 1487683,
+      "name": "Hitoe Ootake",
+      "popularity": 19.7,
       "isAlive": true,
-      "birthYear": 1962,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
+      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
       "knownFor": [
-        "Edge of Tomorrow",
-        "Oblivion",
-        "Top Gun: Maverick"
+        "Female Teacher Diary: Forbidden Sex",
+        "Female Teacher Diary 3: Hidden Sex",
+        "Molester Diary: A Man Who Kept Stroking Ass 3"
       ]
     },
     {
-      "id": 3164807,
-      "name": "Yoon Yool",
-      "popularity": 11.1,
+      "id": 20652,
+      "name": "Cecilia Cheung",
+      "popularity": 11.4,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "profilePath": "/xghVxRPUmFCHYxzD0NxMO8NtoKK.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Dangerous Younger Cousin",
-        "Sisters Virus"
+        "The Promise",
+        "King of Comedy",
+        "Shaolin Soccer"
       ]
     },
     {
       "id": 150614,
       "name": "Kelly Curtis",
-      "popularity": 24,
+      "popularity": 24.5,
       "isAlive": false,
       "birthYear": 1956,
       "deathDate": "2026-05-30",
@@ -62,18 +62,16 @@
       ]
     },
     {
-      "id": 54882,
-      "name": "Morena Baccarin",
-      "popularity": 10.6,
-      "isAlive": true,
-      "birthYear": 1979,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg",
+      "id": 1111429,
+      "name": "Mattias Ripa",
+      "popularity": 25.1,
+      "isAlive": false,
+      "birthYear": 1972,
+      "deathDate": "2025-04-08",
+      "deathAge": 53,
+      "profilePath": "/uZDWQHqaWX1V5sv5t9VTOEkI64j.jpg",
       "knownFor": [
-        "Deadpool",
-        "Deadpool 2",
-        "Greenland"
+        "The Gang of the Jotas"
       ]
     }
   ]
