@@ -1,49 +1,64 @@
 {
-  "generatedAt": "2026-06-07T04:50:46.640Z",
+  "generatedAt": "2026-06-08T04:57:06.379Z",
   "celebrities": [
     {
-      "id": 57755,
-      "name": "Woody Harrelson",
-      "popularity": 12.4,
+      "id": 2461534,
+      "name": "Jack Martin",
+      "popularity": 15.6,
       "isAlive": true,
-      "birthYear": 1961,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg",
+      "profilePath": "/pBAzaxxmUpIAuwXsoBo60ShPF5I.jpg",
       "knownFor": [
-        "Now You See Me",
-        "Zombieland",
-        "Zombieland: Double Tap"
+        "La Brea",
+        "Pizza Movie",
+        "The Rookie"
       ]
     },
     {
-      "id": 1892,
-      "name": "Matt Damon",
+      "id": 115440,
+      "name": "Sydney Sweeney",
+      "popularity": 21.2,
+      "isAlive": true,
+      "birthYear": 1997,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "knownFor": [
+        "Euphoria",
+        "Anyone But You",
+        "The Housemaid"
+      ]
+    },
+    {
+      "id": 572043,
+      "name": "Yang Mi",
       "popularity": 11.1,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg",
+      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
       "knownFor": [
-        "The Martian",
-        "Good Will Hunting",
-        "The Bourne Identity"
+        "A Writer's Odyssey",
+        "Reset",
+        "Tiny Times"
       ]
     },
     {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 15.2,
-      "isAlive": true,
-      "birthYear": 1983,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+      "id": 150614,
+      "name": "Kelly Curtis",
+      "popularity": 15.8,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2026-05-30",
+      "deathAge": 69,
+      "profilePath": "/pqaFwYEUBdwxegpBjfiizGiWbZ4.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 3",
-        "Beauty Salon: Special Service 4"
+        "The Sect",
+        "Trading Places",
+        "The Vikings"
       ]
     },
     {
@@ -59,19 +74,6 @@
         "Percy Jackson: Sea of Monsters",
         "Ghost Rider: Spirit of Vengeance",
         "A Street Cat Named Bob"
-      ]
-    },
-    {
-      "id": 1111429,
-      "name": "Mattias Ripa",
-      "popularity": 12.4,
-      "isAlive": false,
-      "birthYear": 1972,
-      "deathDate": "2025-04-08",
-      "deathAge": 53,
-      "profilePath": "/uZDWQHqaWX1V5sv5t9VTOEkI64j.jpg",
-      "knownFor": [
-        "The Gang of the Jotas"
       ]
     }
   ]
