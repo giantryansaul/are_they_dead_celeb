@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-06-08T04:57:06.379Z",
+  "generatedAt": "2026-06-09T04:19:14.855Z",
   "celebrities": [
     {
-      "id": 2461534,
-      "name": "Jack Martin",
-      "popularity": 15.6,
+      "id": 3186373,
+      "name": "Cha Woo-min",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 1998,
+      "birthYear": 2000,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pBAzaxxmUpIAuwXsoBo60ShPF5I.jpg",
+      "profilePath": "/ixVqsa3izvBbWbwz8Isd4sjuTUm.jpg",
       "knownFor": [
-        "La Brea",
-        "Pizza Movie",
-        "The Rookie"
+        "Love Untangled",
+        "Study Group",
+        "Weak Hero"
       ]
     },
     {
-      "id": 115440,
-      "name": "Sydney Sweeney",
-      "popularity": 21.2,
+      "id": 549602,
+      "name": "Meena",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1997,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "profilePath": "/vMawuuT7VCeeJuBqpkm5siuWPij.jpg",
       "knownFor": [
-        "Euphoria",
-        "Anyone But You",
-        "The Housemaid"
+        "Drishyam",
+        "Drishyam 2",
+        "Muthu"
       ]
     },
     {
-      "id": 572043,
-      "name": "Yang Mi",
-      "popularity": 11.1,
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1962,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
+      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
       "knownFor": [
-        "A Writer's Odyssey",
-        "Reset",
-        "Tiny Times"
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
       ]
     },
     {
       "id": 150614,
       "name": "Kelly Curtis",
-      "popularity": 15.8,
+      "popularity": 12.5,
       "isAlive": false,
       "birthYear": 1956,
       "deathDate": "2026-05-30",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 34257,
-      "name": "Anthony Stewart Head",
-      "popularity": 13.9,
+      "id": 51551,
+      "name": "James Handy",
+      "popularity": 18.8,
       "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2026-06-01",
-      "deathAge": 72,
-      "profilePath": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg",
+      "birthYear": 1945,
+      "deathDate": "2026-06-03",
+      "deathAge": 81,
+      "profilePath": "/j2vG5tc8OcpcKG8eufBEMn2oiqZ.jpg",
       "knownFor": [
-        "Percy Jackson: Sea of Monsters",
-        "Ghost Rider: Spirit of Vengeance",
-        "A Street Cat Named Bob"
+        "Jumanji",
+        "Unbreakable",
+        "Logan"
       ]
     }
   ]
