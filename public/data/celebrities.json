@@ -1,64 +1,62 @@
 {
-  "generatedAt": "2026-06-09T04:19:14.855Z",
+  "generatedAt": "2026-06-10T04:39:56.234Z",
   "celebrities": [
     {
-      "id": 3186373,
-      "name": "Cha Woo-min",
-      "popularity": 10.7,
+      "id": 1371041,
+      "name": "Callum Turner",
+      "popularity": 8.5,
       "isAlive": true,
-      "birthYear": 2000,
+      "birthYear": 1990,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ixVqsa3izvBbWbwz8Isd4sjuTUm.jpg",
+      "profilePath": "/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg",
       "knownFor": [
-        "Love Untangled",
-        "Study Group",
-        "Weak Hero"
+        "Fantastic Beasts: The Crimes of Grindelwald",
+        "Assassin's Creed",
+        "Fantastic Beasts: The Secrets of Dumbledore"
       ]
     },
     {
-      "id": 549602,
-      "name": "Meena",
-      "popularity": 11.5,
+      "id": 54882,
+      "name": "Morena Baccarin",
+      "popularity": 11.2,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/vMawuuT7VCeeJuBqpkm5siuWPij.jpg",
+      "profilePath": "/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg",
       "knownFor": [
-        "Drishyam",
-        "Drishyam 2",
-        "Muthu"
+        "Deadpool",
+        "Deadpool 2",
+        "Greenland"
       ]
     },
     {
-      "id": 500,
-      "name": "Tom Cruise",
-      "popularity": 10.7,
+      "id": 2461534,
+      "name": "Jack Martin",
+      "popularity": 17,
       "isAlive": true,
-      "birthYear": 1962,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
+      "profilePath": "/pBAzaxxmUpIAuwXsoBo60ShPF5I.jpg",
       "knownFor": [
-        "Edge of Tomorrow",
-        "Oblivion",
-        "Top Gun: Maverick"
+        "La Brea",
+        "Pizza Movie",
+        "Not Suitable for Work"
       ]
     },
     {
-      "id": 150614,
-      "name": "Kelly Curtis",
-      "popularity": 12.5,
+      "id": 1111429,
+      "name": "Mattias Ripa",
+      "popularity": 9.2,
       "isAlive": false,
-      "birthYear": 1956,
-      "deathDate": "2026-05-30",
-      "deathAge": 69,
-      "profilePath": "/pqaFwYEUBdwxegpBjfiizGiWbZ4.jpg",
+      "birthYear": 1972,
+      "deathDate": "2025-04-08",
+      "deathAge": 53,
+      "profilePath": "/uZDWQHqaWX1V5sv5t9VTOEkI64j.jpg",
       "knownFor": [
-        "The Sect",
-        "Trading Places",
-        "The Vikings"
+        "The Gang of the Jotas"
       ]
     },
     {
