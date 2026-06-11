@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-06-10T04:39:56.234Z",
+  "generatedAt": "2026-06-11T04:53:35.654Z",
   "celebrities": [
     {
-      "id": 1371041,
-      "name": "Callum Turner",
-      "popularity": 8.5,
+      "id": 115440,
+      "name": "Sydney Sweeney",
+      "popularity": 17.3,
       "isAlive": true,
-      "birthYear": 1990,
+      "birthYear": 1997,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg",
+      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
       "knownFor": [
-        "Fantastic Beasts: The Crimes of Grindelwald",
-        "Assassin's Creed",
-        "Fantastic Beasts: The Secrets of Dumbledore"
+        "Euphoria",
+        "Anyone But You",
+        "The Housemaid"
       ]
     },
     {
-      "id": 54882,
-      "name": "Morena Baccarin",
-      "popularity": 11.2,
+      "id": 224513,
+      "name": "Ana de Armas",
+      "popularity": 9.1,
       "isAlive": true,
-      "birthYear": 1979,
+      "birthYear": 1988,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg",
+      "profilePath": "/tkBWBvcLTihUcVf6iwbMQTFqEEv.jpg",
       "knownFor": [
-        "Deadpool",
-        "Deadpool 2",
-        "Greenland"
+        "Blade Runner 2049",
+        "Knives Out",
+        "Ballerina"
       ]
     },
     {
-      "id": 2461534,
-      "name": "Jack Martin",
-      "popularity": 17,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 12.2,
       "isAlive": true,
-      "birthYear": 1998,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pBAzaxxmUpIAuwXsoBo60ShPF5I.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "La Brea",
-        "Pizza Movie",
-        "Not Suitable for Work"
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     },
     {
       "id": 1111429,
       "name": "Mattias Ripa",
-      "popularity": 9.2,
+      "popularity": 9.4,
       "isAlive": false,
       "birthYear": 1972,
       "deathDate": "2025-04-08",
@@ -60,18 +60,18 @@
       ]
     },
     {
-      "id": 51551,
-      "name": "James Handy",
-      "popularity": 18.8,
+      "id": 34257,
+      "name": "Anthony Stewart Head",
+      "popularity": 11.3,
       "isAlive": false,
-      "birthYear": 1945,
-      "deathDate": "2026-06-03",
-      "deathAge": 81,
-      "profilePath": "/j2vG5tc8OcpcKG8eufBEMn2oiqZ.jpg",
+      "birthYear": 1954,
+      "deathDate": "2026-06-01",
+      "deathAge": 72,
+      "profilePath": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg",
       "knownFor": [
-        "Jumanji",
-        "Unbreakable",
-        "Logan"
+        "Percy Jackson: Sea of Monsters",
+        "Ghost Rider: Spirit of Vengeance",
+        "A Street Cat Named Bob"
       ]
     }
   ]
