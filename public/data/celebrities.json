@@ -1,68 +1,70 @@
 {
-  "generatedAt": "2026-06-11T04:53:35.654Z",
+  "generatedAt": "2026-06-12T04:56:57.654Z",
   "celebrities": [
     {
-      "id": 115440,
-      "name": "Sydney Sweeney",
-      "popularity": 17.3,
+      "id": 73968,
+      "name": "Henry Cavill",
+      "popularity": 8.7,
       "isAlive": true,
-      "birthYear": 1997,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "profilePath": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
       "knownFor": [
-        "Euphoria",
-        "Anyone But You",
-        "The Housemaid"
+        "Man of Steel",
+        "Batman v Superman: Dawn of Justice",
+        "The Man from U.N.C.L.E."
       ]
     },
     {
-      "id": 224513,
-      "name": "Ana de Armas",
-      "popularity": 9.1,
+      "id": 5212949,
+      "name": "Anastasia Shestakova",
+      "popularity": 8.6,
       "isAlive": true,
-      "birthYear": 1988,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/tkBWBvcLTihUcVf6iwbMQTFqEEv.jpg",
+      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
       "knownFor": [
-        "Blade Runner 2049",
-        "Knives Out",
-        "Ballerina"
+        "Detective Chinatown 1900",
+        "Just a Job",
+        "不过是上班"
       ]
     },
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 12.2,
+      "id": 18897,
+      "name": "Jackie Chan",
+      "popularity": 12.6,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 1954,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
+        "Rush Hour",
+        "Rush Hour 2",
+        "Rush Hour 3"
       ]
     },
     {
-      "id": 1111429,
-      "name": "Mattias Ripa",
-      "popularity": 9.4,
+      "id": 51551,
+      "name": "James Handy",
+      "popularity": 12.4,
       "isAlive": false,
-      "birthYear": 1972,
-      "deathDate": "2025-04-08",
-      "deathAge": 53,
-      "profilePath": "/uZDWQHqaWX1V5sv5t9VTOEkI64j.jpg",
+      "birthYear": 1945,
+      "deathDate": "2026-06-03",
+      "deathAge": 81,
+      "profilePath": "/j2vG5tc8OcpcKG8eufBEMn2oiqZ.jpg",
       "knownFor": [
-        "The Gang of the Jotas"
+        "Jumanji",
+        "Unbreakable",
+        "Logan"
       ]
     },
     {
       "id": 34257,
       "name": "Anthony Stewart Head",
-      "popularity": 11.3,
+      "popularity": 9.7,
       "isAlive": false,
       "birthYear": 1954,
       "deathDate": "2026-06-01",
