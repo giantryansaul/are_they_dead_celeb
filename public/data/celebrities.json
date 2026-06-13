@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-06-12T04:56:57.654Z",
+  "generatedAt": "2026-06-13T04:43:33.551Z",
   "celebrities": [
     {
-      "id": 73968,
-      "name": "Henry Cavill",
-      "popularity": 8.7,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "Man of Steel",
-        "Batman v Superman: Dawn of Justice",
-        "The Man from U.N.C.L.E."
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     },
     {
-      "id": 5212949,
-      "name": "Anastasia Shestakova",
-      "popularity": 8.6,
+      "id": 3371804,
+      "name": "Christine Bermas",
+      "popularity": 9.9,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
+      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
       "knownFor": [
-        "Detective Chinatown 1900",
-        "Just a Job",
-        "不过是上班"
+        "Rita",
+        "Scorpio Nights 3",
+        "Bedspacer"
       ]
     },
     {
-      "id": 18897,
-      "name": "Jackie Chan",
-      "popularity": 12.6,
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 10.6,
       "isAlive": true,
-      "birthYear": 1954,
+      "birthYear": 1962,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
       "knownFor": [
-        "Rush Hour",
-        "Rush Hour 2",
-        "Rush Hour 3"
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
       ]
     },
     {
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 34257,
-      "name": "Anthony Stewart Head",
-      "popularity": 9.7,
+      "id": 2595206,
+      "name": "Jin Ze",
+      "popularity": 61,
       "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2026-06-01",
-      "deathAge": 72,
-      "profilePath": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg",
+      "birthYear": 1993,
+      "deathDate": "2026-06-04",
+      "deathAge": 33,
+      "profilePath": "/MOjid8gln59Qpkn4f3COwPS7AS.jpg",
       "knownFor": [
-        "Percy Jackson: Sea of Monsters",
-        "Ghost Rider: Spirit of Vengeance",
-        "A Street Cat Named Bob"
+        "Begin Again",
+        "Deep Love Love Again",
+        "Ms. Nirvana"
       ]
     }
   ]
