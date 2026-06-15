@@ -1,40 +1,10 @@
 {
-  "generatedAt": "2026-06-14T05:01:21.044Z",
+  "generatedAt": "2026-06-15T05:21:28.602Z",
   "celebrities": [
-    {
-      "id": 2520942,
-      "name": "Chloe Van Landschoot",
-      "popularity": 8.3,
-      "isAlive": true,
-      "birthYear": 1997,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg",
-      "knownFor": [
-        "FROM",
-        "Carrie",
-        "Chris Watts: Confessions of a Killer"
-      ]
-    },
-    {
-      "id": 2478377,
-      "name": "Ella Bright",
-      "popularity": 13.3,
-      "isAlive": true,
-      "birthYear": 2006,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
-      "knownFor": [
-        "Off Campus",
-        "Holmes & Watson",
-        "Malory Towers"
-      ]
-    },
     {
       "id": 31,
       "name": "Tom Hanks",
-      "popularity": 11.2,
+      "popularity": 11.1,
       "isAlive": true,
       "birthYear": 1956,
       "deathDate": null,
@@ -44,6 +14,51 @@
         "Forrest Gump",
         "Toy Story",
         "The Green Mile"
+      ]
+    },
+    {
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "popularity": 19.2,
+      "isAlive": true,
+      "birthYear": 2001,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/dOyn0C1bUIZiXy2Q4ws04kB1RhS.jpg",
+      "knownFor": [
+        "Superman & Lois",
+        "Obsession",
+        "Trap House"
+      ]
+    },
+    {
+      "id": 3371804,
+      "name": "Christine Bermas",
+      "popularity": 9.1,
+      "isAlive": true,
+      "birthYear": 2001,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
+      "knownFor": [
+        "Rita",
+        "Scorpio Nights 3",
+        "Bedspacer"
+      ]
+    },
+    {
+      "id": 238027,
+      "name": "Bharathiraja",
+      "popularity": 13.3,
+      "isAlive": false,
+      "birthYear": 1941,
+      "deathDate": "2026-06-10",
+      "deathAge": 84,
+      "profilePath": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
+      "knownFor": [
+        "16 Vayathinile",
+        "Modern Love Chennai",
+        "Sigappu Rojakkal"
       ]
     },
     {
@@ -59,21 +74,6 @@
         "Begin Again",
         "Deep Love Love Again",
         "Ms. Nirvana"
-      ]
-    },
-    {
-      "id": 238027,
-      "name": "Bharathiraja",
-      "popularity": 13.4,
-      "isAlive": false,
-      "birthYear": 1941,
-      "deathDate": "2026-06-10",
-      "deathAge": 84,
-      "profilePath": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
-      "knownFor": [
-        "16 Vayathinile",
-        "Modern Love Chennai",
-        "Sigappu Rojakkal"
       ]
     }
   ]
