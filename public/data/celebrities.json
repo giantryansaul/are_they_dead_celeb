@@ -1,55 +1,70 @@
 {
-  "generatedAt": "2026-06-15T05:21:28.602Z",
+  "generatedAt": "2026-06-16T05:25:14.343Z",
   "celebrities": [
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 11.1,
+      "id": 2478377,
+      "name": "Ella Bright",
+      "popularity": 13.4,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 2006,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
+        "Off Campus",
+        "Holmes & Watson",
+        "Malory Towers"
       ]
     },
     {
-      "id": 2638587,
-      "name": "Inde Navarrette",
-      "popularity": 19.2,
+      "id": 2676077,
+      "name": "Julia Doyle",
+      "popularity": 90.7,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 2003,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/dOyn0C1bUIZiXy2Q4ws04kB1RhS.jpg",
+      "profilePath": "/4CtJynpPkV5t7ydwobUUL0sGsTJ.jpg",
       "knownFor": [
-        "Superman & Lois",
-        "Obsession",
-        "Trap House"
+        "FROM",
+        "Hell of a Summer",
+        "Astrid & Lilly Save the World"
       ]
     },
     {
-      "id": 3371804,
-      "name": "Christine Bermas",
-      "popularity": 9.1,
+      "id": 109513,
+      "name": "Alexandra Daddario",
+      "popularity": 8.8,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
+      "profilePath": "/mP3N1LTIaIG5Q0BHyt1XxjtIyYi.jpg",
       "knownFor": [
-        "Rita",
-        "Scorpio Nights 3",
-        "Bedspacer"
+        "San Andreas",
+        "Percy Jackson & the Olympians: The Lightning Thief",
+        "Baywatch"
+      ]
+    },
+    {
+      "id": 2595206,
+      "name": "Jin Ze",
+      "popularity": 16.2,
+      "isAlive": false,
+      "birthYear": 1993,
+      "deathDate": "2026-06-05",
+      "deathAge": 33,
+      "profilePath": "/MOjid8gln59Qpkn4f3COwPS7AS.jpg",
+      "knownFor": [
+        "Begin Again",
+        "Deep Love Love Again",
+        "Ms. Nirvana"
       ]
     },
     {
       "id": 238027,
       "name": "Bharathiraja",
-      "popularity": 13.3,
+      "popularity": 10.4,
       "isAlive": false,
       "birthYear": 1941,
       "deathDate": "2026-06-10",
@@ -59,21 +74,6 @@
         "16 Vayathinile",
         "Modern Love Chennai",
         "Sigappu Rojakkal"
-      ]
-    },
-    {
-      "id": 2595206,
-      "name": "Jin Ze",
-      "popularity": 33.2,
-      "isAlive": false,
-      "birthYear": 1993,
-      "deathDate": "2026-06-04",
-      "deathAge": 33,
-      "profilePath": "/MOjid8gln59Qpkn4f3COwPS7AS.jpg",
-      "knownFor": [
-        "Begin Again",
-        "Deep Love Love Again",
-        "Ms. Nirvana"
       ]
     }
   ]
