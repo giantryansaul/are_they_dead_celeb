@@ -1,49 +1,64 @@
 {
-  "generatedAt": "2026-06-16T05:25:14.343Z",
+  "generatedAt": "2026-06-17T05:05:05.949Z",
   "celebrities": [
     {
-      "id": 2478377,
-      "name": "Ella Bright",
-      "popularity": 13.4,
+      "id": 1487683,
+      "name": "Hitoe Ootake",
+      "popularity": 15.8,
       "isAlive": true,
-      "birthYear": 2006,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
+      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
       "knownFor": [
-        "Off Campus",
-        "Holmes & Watson",
-        "Malory Towers"
+        "Female Teacher Diary: Forbidden Sex",
+        "Female Teacher Diary 3: Hidden Sex",
+        "Molester Diary: A Man Who Kept Stroking Ass 3"
       ]
     },
     {
-      "id": 2676077,
-      "name": "Julia Doyle",
-      "popularity": 90.7,
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "popularity": 17.8,
       "isAlive": true,
-      "birthYear": 2003,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4CtJynpPkV5t7ydwobUUL0sGsTJ.jpg",
+      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
       "knownFor": [
-        "FROM",
-        "Hell of a Summer",
-        "Astrid & Lilly Save the World"
+        "Superman & Lois",
+        "Obsession",
+        "Trap House"
       ]
     },
     {
-      "id": 109513,
-      "name": "Alexandra Daddario",
-      "popularity": 8.8,
+      "id": 1094091,
+      "name": "Maika Monroe",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1993,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/mP3N1LTIaIG5Q0BHyt1XxjtIyYi.jpg",
+      "profilePath": "/ir4tct8MyI8cCzufEiLZ3McuUQN.jpg",
       "knownFor": [
-        "San Andreas",
-        "Percy Jackson & the Olympians: The Lightning Thief",
-        "Baywatch"
+        "It Follows",
+        "Longlegs",
+        "Tau"
+      ]
+    },
+    {
+      "id": 2568605,
+      "name": "Ece İrtem",
+      "popularity": 44.2,
+      "isAlive": false,
+      "birthYear": 1991,
+      "deathDate": "2026-06-15",
+      "deathAge": 35,
+      "profilePath": "/2Fv4a3piAJwnmqcZYVQnuK0hRdM.jpg",
+      "knownFor": [
+        "10 Days of a Curious Man",
+        "Mr. Wrong",
+        "Zengo"
       ]
     },
     {
@@ -52,28 +67,13 @@
       "popularity": 16.2,
       "isAlive": false,
       "birthYear": 1993,
-      "deathDate": "2026-06-05",
+      "deathDate": "2026-06-04",
       "deathAge": 33,
       "profilePath": "/MOjid8gln59Qpkn4f3COwPS7AS.jpg",
       "knownFor": [
         "Begin Again",
         "Deep Love Love Again",
         "Ms. Nirvana"
-      ]
-    },
-    {
-      "id": 238027,
-      "name": "Bharathiraja",
-      "popularity": 10.4,
-      "isAlive": false,
-      "birthYear": 1941,
-      "deathDate": "2026-06-10",
-      "deathAge": 84,
-      "profilePath": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
-      "knownFor": [
-        "16 Vayathinile",
-        "Modern Love Chennai",
-        "Sigappu Rojakkal"
       ]
     }
   ]
