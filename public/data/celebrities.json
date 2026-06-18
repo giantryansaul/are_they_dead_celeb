@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-06-17T05:05:05.949Z",
+  "generatedAt": "2026-06-18T04:55:03.681Z",
   "celebrities": [
     {
-      "id": 1487683,
-      "name": "Hitoe Ootake",
-      "popularity": 15.8,
+      "id": 2212088,
+      "name": "Aslıhan Malbora",
+      "popularity": 8.2,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1995,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
+      "profilePath": "/lGc6gbYHlgVSn0ksOQjf9XzkIRy.jpg",
       "knownFor": [
-        "Female Teacher Diary: Forbidden Sex",
-        "Female Teacher Diary 3: Hidden Sex",
-        "Molester Diary: A Man Who Kept Stroking Ass 3"
+        "Kübra",
+        "Last Summer",
+        "Lefter: The Story of the Ordinarius"
       ]
     },
     {
-      "id": 2638587,
-      "name": "Inde Navarrette",
-      "popularity": 17.8,
+      "id": 2578201,
+      "name": "Avery Konrad",
+      "popularity": 7.6,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 1994,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
+      "profilePath": "/hiyJ1IUgy3C7rcp5D5hoqTz4JCZ.jpg",
       "knownFor": [
-        "Superman & Lois",
-        "Obsession",
-        "Trap House"
+        "FROM",
+        "Honor Society",
+        "Broil"
       ]
     },
     {
-      "id": 1094091,
-      "name": "Maika Monroe",
-      "popularity": 10.7,
+      "id": 84788,
+      "name": "Kim Moo-yul",
+      "popularity": 13.9,
       "isAlive": true,
-      "birthYear": 1993,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ir4tct8MyI8cCzufEiLZ3McuUQN.jpg",
+      "profilePath": "/wLuVca9icDLjUkOG84IlEmfP52b.jpg",
       "knownFor": [
-        "It Follows",
-        "Longlegs",
-        "Tau"
+        "The Gangster, the Cop, the Devil",
+        "Forgotten",
+        "Teach You a Lesson"
       ]
     },
     {
-      "id": 2568605,
-      "name": "Ece İrtem",
-      "popularity": 44.2,
+      "id": 238027,
+      "name": "Bharathiraja",
+      "popularity": 8.2,
       "isAlive": false,
-      "birthYear": 1991,
-      "deathDate": "2026-06-15",
-      "deathAge": 35,
-      "profilePath": "/2Fv4a3piAJwnmqcZYVQnuK0hRdM.jpg",
+      "birthYear": 1941,
+      "deathDate": "2026-06-10",
+      "deathAge": 84,
+      "profilePath": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
       "knownFor": [
-        "10 Days of a Curious Man",
-        "Mr. Wrong",
-        "Zengo"
+        "16 Vayathinile",
+        "Modern Love Chennai",
+        "Sigappu Rojakkal"
       ]
     },
     {
       "id": 2595206,
       "name": "Jin Ze",
-      "popularity": 16.2,
+      "popularity": 13.1,
       "isAlive": false,
       "birthYear": 1993,
       "deathDate": "2026-06-04",
