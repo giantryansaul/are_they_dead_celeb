@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-06-18T04:55:03.681Z",
+  "generatedAt": "2026-06-19T05:18:26.077Z",
   "celebrities": [
     {
-      "id": 2212088,
-      "name": "Aslıhan Malbora",
-      "popularity": 8.2,
+      "id": 115440,
+      "name": "Sydney Sweeney",
+      "popularity": 11.3,
       "isAlive": true,
-      "birthYear": 1995,
+      "birthYear": 1997,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lGc6gbYHlgVSn0ksOQjf9XzkIRy.jpg",
+      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
       "knownFor": [
-        "Kübra",
-        "Last Summer",
-        "Lefter: The Story of the Ordinarius"
+        "Euphoria",
+        "Anyone But You",
+        "The Housemaid"
       ]
     },
     {
-      "id": 2578201,
-      "name": "Avery Konrad",
-      "popularity": 7.6,
+      "id": 1487683,
+      "name": "Hitoe Ootake",
+      "popularity": 17.2,
       "isAlive": true,
-      "birthYear": 1994,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/hiyJ1IUgy3C7rcp5D5hoqTz4JCZ.jpg",
+      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
       "knownFor": [
-        "FROM",
-        "Honor Society",
-        "Broil"
+        "Female Teacher Diary: Forbidden Sex",
+        "Female Teacher Diary 3: Hidden Sex",
+        "Molester Diary: A Man Who Kept Stroking Ass 3"
       ]
     },
     {
-      "id": 84788,
-      "name": "Kim Moo-yul",
-      "popularity": 13.9,
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1962,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/wLuVca9icDLjUkOG84IlEmfP52b.jpg",
+      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
       "knownFor": [
-        "The Gangster, the Cop, the Devil",
-        "Forgotten",
-        "Teach You a Lesson"
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
       ]
     },
     {
-      "id": 238027,
-      "name": "Bharathiraja",
-      "popularity": 8.2,
+      "id": 2568605,
+      "name": "Ece İrtem",
+      "popularity": 47.8,
       "isAlive": false,
-      "birthYear": 1941,
-      "deathDate": "2026-06-10",
-      "deathAge": 84,
-      "profilePath": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
+      "birthYear": 1991,
+      "deathDate": "2026-06-15",
+      "deathAge": 35,
+      "profilePath": "/2Fv4a3piAJwnmqcZYVQnuK0hRdM.jpg",
       "knownFor": [
-        "16 Vayathinile",
-        "Modern Love Chennai",
-        "Sigappu Rojakkal"
+        "10 Days of a Curious Man",
+        "Mr. Wrong",
+        "Zengo"
       ]
     },
     {
       "id": 2595206,
       "name": "Jin Ze",
-      "popularity": 13.1,
+      "popularity": 11.6,
       "isAlive": false,
       "birthYear": 1993,
       "deathDate": "2026-06-04",
