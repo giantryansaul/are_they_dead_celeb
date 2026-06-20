@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-06-19T05:18:26.077Z",
+  "generatedAt": "2026-06-20T04:36:11.702Z",
   "celebrities": [
     {
-      "id": 115440,
-      "name": "Sydney Sweeney",
-      "popularity": 11.3,
+      "id": 1907997,
+      "name": "Min Do-yoon",
+      "popularity": 15.4,
       "isAlive": true,
-      "birthYear": 1997,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
       "knownFor": [
-        "Euphoria",
-        "Anyone But You",
-        "The Housemaid"
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Beauty Salon: Special Service 3",
+        "Beauty Salon: Special Service 4"
       ]
     },
     {
-      "id": 1487683,
-      "name": "Hitoe Ootake",
-      "popularity": 17.2,
+      "id": 552635,
+      "name": "Kaori Asô",
+      "popularity": 10,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
+      "profilePath": "/3Dv5PyJTa24Ka1rcce9L4vC5cie.jpg",
       "knownFor": [
-        "Female Teacher Diary: Forbidden Sex",
-        "Female Teacher Diary 3: Hidden Sex",
-        "Molester Diary: A Man Who Kept Stroking Ass 3"
+        "Flower and Snake 2: Sketch of Hell",
+        "Female Market: Imprisonment",
+        "Female Doctor: Flesh Slave"
       ]
     },
     {
-      "id": 500,
-      "name": "Tom Cruise",
-      "popularity": 11.5,
+      "id": 1373074,
+      "name": "Alissa Yagi",
+      "popularity": 8.6,
       "isAlive": true,
-      "birthYear": 1962,
+      "birthYear": 1995,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
+      "profilePath": "/uBOkNey4zXSqvdcn7DcWWQ6jss4.jpg",
       "knownFor": [
-        "Edge of Tomorrow",
-        "Oblivion",
-        "Top Gun: Maverick"
-      ]
-    },
-    {
-      "id": 2568605,
-      "name": "Ece İrtem",
-      "popularity": 47.8,
-      "isAlive": false,
-      "birthYear": 1991,
-      "deathDate": "2026-06-15",
-      "deathAge": 35,
-      "profilePath": "/2Fv4a3piAJwnmqcZYVQnuK0hRdM.jpg",
-      "knownFor": [
-        "10 Days of a Curious Man",
-        "Mr. Wrong",
-        "Zengo"
+        "Come Kiss Me at 0:00AM",
+        "Say 'I Love You'",
+        "We Made a Beautiful Bouquet"
       ]
     },
     {
       "id": 2595206,
       "name": "Jin Ze",
-      "popularity": 11.6,
+      "popularity": 10.7,
       "isAlive": false,
       "birthYear": 1993,
       "deathDate": "2026-06-04",
@@ -74,6 +59,21 @@
         "Begin Again",
         "Deep Love Love Again",
         "Ms. Nirvana"
+      ]
+    },
+    {
+      "id": 2568605,
+      "name": "Ece İrtem",
+      "popularity": 38.2,
+      "isAlive": false,
+      "birthYear": 1991,
+      "deathDate": "2026-06-15",
+      "deathAge": 35,
+      "profilePath": "/2Fv4a3piAJwnmqcZYVQnuK0hRdM.jpg",
+      "knownFor": [
+        "10 Days of a Curious Man",
+        "Mr. Wrong",
+        "Zengo"
       ]
     }
   ]
