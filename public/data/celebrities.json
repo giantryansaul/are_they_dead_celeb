@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-06-20T04:36:11.702Z",
+  "generatedAt": "2026-06-21T05:10:25.870Z",
   "celebrities": [
     {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 15.4,
+      "id": 2536699,
+      "name": "Mostafa Mansour",
+      "popularity": 9,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1988,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+      "profilePath": "/rEdDBIQw7k8UYOYcReZi28Tbuh2.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 3",
-        "Beauty Salon: Special Service 4"
+        "Pharaoh's War",
+        "Karmouz War",
+        "Mama's Boy"
       ]
     },
     {
-      "id": 552635,
-      "name": "Kaori Asô",
-      "popularity": 10,
+      "id": 1897341,
+      "name": "Jiang Peiyao",
+      "popularity": 10.7,
+      "isAlive": true,
+      "birthYear": 1994,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/dPXXxRNpU8r1V0vpFpEmdIspkPU.jpg",
+      "knownFor": [
+        "You Are My Hero",
+        "Go Go Squid!",
+        "Line Walker 2: Invisible Spy"
+      ]
+    },
+    {
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 8.7,
       "isAlive": true,
       "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3Dv5PyJTa24Ka1rcce9L4vC5cie.jpg",
+      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
       "knownFor": [
-        "Flower and Snake 2: Sketch of Hell",
-        "Female Market: Imprisonment",
-        "Female Doctor: Flesh Slave"
-      ]
-    },
-    {
-      "id": 1373074,
-      "name": "Alissa Yagi",
-      "popularity": 8.6,
-      "isAlive": true,
-      "birthYear": 1995,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/uBOkNey4zXSqvdcn7DcWWQ6jss4.jpg",
-      "knownFor": [
-        "Come Kiss Me at 0:00AM",
-        "Say 'I Love You'",
-        "We Made a Beautiful Bouquet"
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
       ]
     },
     {
       "id": 2595206,
       "name": "Jin Ze",
-      "popularity": 10.7,
+      "popularity": 9.3,
       "isAlive": false,
       "birthYear": 1993,
       "deathDate": "2026-06-04",
