@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-06-21T05:10:25.870Z",
+  "generatedAt": "2026-06-22T05:23:29.373Z",
   "celebrities": [
     {
-      "id": 2536699,
-      "name": "Mostafa Mansour",
-      "popularity": 9,
+      "id": 945130,
+      "name": "Chikako Aoyama",
+      "popularity": 9.5,
       "isAlive": true,
-      "birthYear": 1988,
+      "birthYear": 1966,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/rEdDBIQw7k8UYOYcReZi28Tbuh2.jpg",
+      "profilePath": "/kgYeNoOCwqxDCznoeXif50gqwi1.jpg",
       "knownFor": [
-        "Pharaoh's War",
-        "Karmouz War",
-        "Mama's Boy"
+        "Robotrix",
+        "Door II: Tokyo Diary",
+        "Taboo"
       ]
     },
     {
-      "id": 1897341,
-      "name": "Jiang Peiyao",
-      "popularity": 10.7,
+      "id": 2478377,
+      "name": "Ella Bright",
+      "popularity": 13.2,
       "isAlive": true,
-      "birthYear": 1994,
+      "birthYear": 2006,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/dPXXxRNpU8r1V0vpFpEmdIspkPU.jpg",
+      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
       "knownFor": [
-        "You Are My Hero",
-        "Go Go Squid!",
-        "Line Walker 2: Invisible Spy"
+        "Off Campus",
+        "Holmes & Watson",
+        "Malory Towers"
       ]
     },
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 8.7,
+      "id": 1907997,
+      "name": "Min Do-yoon",
+      "popularity": 17.5,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
+      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
-      ]
-    },
-    {
-      "id": 2595206,
-      "name": "Jin Ze",
-      "popularity": 9.3,
-      "isAlive": false,
-      "birthYear": 1993,
-      "deathDate": "2026-06-04",
-      "deathAge": 33,
-      "profilePath": "/MOjid8gln59Qpkn4f3COwPS7AS.jpg",
-      "knownFor": [
-        "Begin Again",
-        "Deep Love Love Again",
-        "Ms. Nirvana"
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Beauty Salon: Special Service 3",
+        "Beauty Salon: Special Service 4"
       ]
     },
     {
       "id": 2568605,
       "name": "Ece İrtem",
-      "popularity": 38.2,
+      "popularity": 27.8,
       "isAlive": false,
       "birthYear": 1991,
       "deathDate": "2026-06-15",
@@ -74,6 +59,21 @@
         "10 Days of a Curious Man",
         "Mr. Wrong",
         "Zengo"
+      ]
+    },
+    {
+      "id": 1580,
+      "name": "Daveigh Chase",
+      "popularity": 11.3,
+      "isAlive": false,
+      "birthYear": 1990,
+      "deathDate": "2026-06-16",
+      "deathAge": 35,
+      "profilePath": "/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg",
+      "knownFor": [
+        "Lilo & Stitch",
+        "Donnie Darko",
+        "Stitch! The Movie"
       ]
     }
   ]
