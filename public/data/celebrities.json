@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-06-22T05:23:29.373Z",
+  "generatedAt": "2026-06-23T04:15:54.405Z",
   "celebrities": [
     {
-      "id": 945130,
-      "name": "Chikako Aoyama",
-      "popularity": 9.5,
+      "id": 2676077,
+      "name": "Julia Doyle",
+      "popularity": 91,
       "isAlive": true,
-      "birthYear": 1966,
+      "birthYear": 2003,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kgYeNoOCwqxDCznoeXif50gqwi1.jpg",
+      "profilePath": "/4CtJynpPkV5t7ydwobUUL0sGsTJ.jpg",
       "knownFor": [
-        "Robotrix",
-        "Door II: Tokyo Diary",
-        "Taboo"
+        "FROM",
+        "Hell of a Summer",
+        "Astrid & Lilly Save the World"
       ]
     },
     {
-      "id": 2478377,
-      "name": "Ella Bright",
-      "popularity": 13.2,
+      "id": 64439,
+      "name": "Fan Bingbing",
+      "popularity": 8.5,
       "isAlive": true,
-      "birthYear": 2006,
+      "birthYear": 1981,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
+      "profilePath": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
       "knownFor": [
-        "Off Campus",
-        "Holmes & Watson",
-        "Malory Towers"
+        "X-Men: Days of Future Past",
+        "Ice Road: Vengeance",
+        "Skiptrace"
       ]
     },
     {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 17.5,
+      "id": 3124615,
+      "name": "Lisa Hogan",
+      "popularity": 11.3,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+      "profilePath": "/6vwYpmmQrFulM7f0SybsOeAOEuN.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 3",
-        "Beauty Salon: Special Service 4"
-      ]
-    },
-    {
-      "id": 2568605,
-      "name": "Ece İrtem",
-      "popularity": 27.8,
-      "isAlive": false,
-      "birthYear": 1991,
-      "deathDate": "2026-06-15",
-      "deathAge": 35,
-      "profilePath": "/2Fv4a3piAJwnmqcZYVQnuK0hRdM.jpg",
-      "knownFor": [
-        "10 Days of a Curious Man",
-        "Mr. Wrong",
-        "Zengo"
+        "Clarkson's Farm",
+        "Fierce Creatures",
+        "Prue Leith's Cotswold Kitchen"
       ]
     },
     {
       "id": 1580,
       "name": "Daveigh Chase",
-      "popularity": 11.3,
+      "popularity": 10.4,
       "isAlive": false,
       "birthYear": 1990,
       "deathDate": "2026-06-16",
@@ -74,6 +59,21 @@
         "Lilo & Stitch",
         "Donnie Darko",
         "Stitch! The Movie"
+      ]
+    },
+    {
+      "id": 2568605,
+      "name": "Ece İrtem",
+      "popularity": 18.3,
+      "isAlive": false,
+      "birthYear": 1991,
+      "deathDate": "2026-06-15",
+      "deathAge": 35,
+      "profilePath": "/2Fv4a3piAJwnmqcZYVQnuK0hRdM.jpg",
+      "knownFor": [
+        "10 Days of a Curious Man",
+        "Mr. Wrong",
+        "Zengo"
       ]
     }
   ]
