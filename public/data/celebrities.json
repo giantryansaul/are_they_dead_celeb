@@ -1,64 +1,49 @@
 {
-  "generatedAt": "2026-06-23T04:15:54.405Z",
+  "generatedAt": "2026-06-24T04:19:09.198Z",
   "celebrities": [
     {
-      "id": 2676077,
-      "name": "Julia Doyle",
-      "popularity": 91,
+      "id": 5212949,
+      "name": "Anastasia Shestakova",
+      "popularity": 10.8,
       "isAlive": true,
-      "birthYear": 2003,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4CtJynpPkV5t7ydwobUUL0sGsTJ.jpg",
+      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
       "knownFor": [
-        "FROM",
-        "Hell of a Summer",
-        "Astrid & Lilly Save the World"
+        "Detective Chinatown 1900",
+        "Just a Job",
+        "不过是上班"
       ]
     },
     {
-      "id": 64439,
-      "name": "Fan Bingbing",
-      "popularity": 8.5,
+      "id": 3590388,
+      "name": "Bao Shangen",
+      "popularity": 12.7,
       "isAlive": true,
-      "birthYear": 1981,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
+      "profilePath": "/mXe5qctfPpNJZQT42ROW0KZFp1P.jpg",
       "knownFor": [
-        "X-Men: Days of Future Past",
-        "Ice Road: Vengeance",
-        "Skiptrace"
+        "Youthful Glory",
+        "Whispers of Fate",
+        "Generation to Generation"
       ]
     },
     {
-      "id": 3124615,
-      "name": "Lisa Hogan",
-      "popularity": 11.3,
+      "id": 3046104,
+      "name": "Kai Asakura",
+      "popularity": 14.7,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1993,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/6vwYpmmQrFulM7f0SybsOeAOEuN.jpg",
+      "profilePath": "/xodMMypHPuYUMC6cr8OeriddPTj.jpg",
       "knownFor": [
-        "Clarkson's Farm",
-        "Fierce Creatures",
-        "Prue Leith's Cotswold Kitchen"
-      ]
-    },
-    {
-      "id": 1580,
-      "name": "Daveigh Chase",
-      "popularity": 10.4,
-      "isAlive": false,
-      "birthYear": 1990,
-      "deathDate": "2026-06-16",
-      "deathAge": 35,
-      "profilePath": "/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg",
-      "knownFor": [
-        "Lilo & Stitch",
-        "Donnie Darko",
-        "Stitch! The Movie"
+        "One-Percenter",
+        "RIZIN 20",
+        "RIZIN 26"
       ]
     },
     {
@@ -74,6 +59,21 @@
         "10 Days of a Curious Man",
         "Mr. Wrong",
         "Zengo"
+      ]
+    },
+    {
+      "id": 1081095,
+      "name": "Diana Pang Dan",
+      "popularity": 15.2,
+      "isAlive": true,
+      "birthYear": 1972,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/vkt9leHs5YZ3ywwzxSxWDMwXv2X.jpg",
+      "knownFor": [
+        "The Imp",
+        "Midnight Caller",
+        "The Six Devil Women"
       ]
     }
   ]
