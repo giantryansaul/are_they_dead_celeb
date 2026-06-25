@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-06-24T04:19:09.198Z",
+  "generatedAt": "2026-06-25T04:18:46.334Z",
   "celebrities": [
     {
-      "id": 5212949,
-      "name": "Anastasia Shestakova",
-      "popularity": 10.8,
+      "id": 2376443,
+      "name": "Sayumi Watabe",
+      "popularity": 5,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1997,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
+      "profilePath": "/8TfNoecH2Oyghr0fIQBKMEaUElj.jpg",
       "knownFor": [
-        "Detective Chinatown 1900",
-        "Just a Job",
-        "不过是上班"
+        "The Misfit of Demon King Academy",
+        "Tower of God",
+        "After the Rain"
       ]
     },
     {
-      "id": 3590388,
-      "name": "Bao Shangen",
-      "popularity": 12.7,
+      "id": 1059597,
+      "name": "Zoey Deutch",
+      "popularity": 10.1,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1994,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/mXe5qctfPpNJZQT42ROW0KZFp1P.jpg",
+      "profilePath": "/tn6ErnytTct7HNAFG2dW17QcBk5.jpg",
       "knownFor": [
-        "Youthful Glory",
-        "Whispers of Fate",
-        "Generation to Generation"
+        "Before I Fall",
+        "Vampire Academy",
+        "Why Him?"
       ]
     },
     {
-      "id": 3046104,
-      "name": "Kai Asakura",
-      "popularity": 14.7,
+      "id": 2065258,
+      "name": "Cemre Baysel",
+      "popularity": 10.1,
       "isAlive": true,
-      "birthYear": 1993,
+      "birthYear": 1999,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xodMMypHPuYUMC6cr8OeriddPTj.jpg",
+      "profilePath": "/c6ftdtt8o8NCp5o8v7rJmmhlQ3C.jpg",
       "knownFor": [
-        "One-Percenter",
-        "RIZIN 20",
-        "RIZIN 26"
+        "Leyla",
+        "The Beauty Inside",
+        "Twist of Fate"
       ]
     },
     {
       "id": 2568605,
       "name": "Ece İrtem",
-      "popularity": 18.3,
+      "popularity": 10.5,
       "isAlive": false,
       "birthYear": 1991,
       "deathDate": "2026-06-15",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1081095,
-      "name": "Diana Pang Dan",
-      "popularity": 15.2,
+      "id": 64439,
+      "name": "Fan Bingbing",
+      "popularity": 9.2,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1981,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/vkt9leHs5YZ3ywwzxSxWDMwXv2X.jpg",
+      "profilePath": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
       "knownFor": [
-        "The Imp",
-        "Midnight Caller",
-        "The Six Devil Women"
+        "X-Men: Days of Future Past",
+        "Ice Road: Vengeance",
+        "Skiptrace"
       ]
     }
   ]
