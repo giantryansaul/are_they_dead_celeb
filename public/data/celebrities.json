@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-06-25T04:18:46.334Z",
+  "generatedAt": "2026-06-26T04:25:14.095Z",
   "celebrities": [
     {
-      "id": 2376443,
-      "name": "Sayumi Watabe",
-      "popularity": 5,
+      "id": 2595175,
+      "name": "Anshul Chauhan",
+      "popularity": 10.9,
       "isAlive": true,
-      "birthYear": 1997,
+      "birthYear": 1993,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8TfNoecH2Oyghr0fIQBKMEaUElj.jpg",
+      "profilePath": "/gkFbpg1tvJa0OkbZRp66xnTQByJ.jpg",
       "knownFor": [
-        "The Misfit of Demon King Academy",
-        "Tower of God",
-        "After the Rain"
+        "Zero",
+        "Animal",
+        "Shubh Mangal Saavdhan"
       ]
     },
     {
-      "id": 1059597,
-      "name": "Zoey Deutch",
-      "popularity": 10.1,
+      "id": 1320544,
+      "name": "Daniella Wang",
+      "popularity": 11.4,
       "isAlive": true,
-      "birthYear": 1994,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/tn6ErnytTct7HNAFG2dW17QcBk5.jpg",
+      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
       "knownFor": [
-        "Before I Fall",
-        "Vampire Academy",
-        "Why Him?"
+        "Due West: Our Sex Journey",
+        "Midnight Hair",
+        "Crazy Tsunami"
       ]
     },
     {
-      "id": 2065258,
-      "name": "Cemre Baysel",
-      "popularity": 10.1,
+      "id": 18897,
+      "name": "Jackie Chan",
+      "popularity": 10.2,
       "isAlive": true,
-      "birthYear": 1999,
+      "birthYear": 1954,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/c6ftdtt8o8NCp5o8v7rJmmhlQ3C.jpg",
+      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
       "knownFor": [
-        "Leyla",
-        "The Beauty Inside",
-        "Twist of Fate"
+        "Rush Hour",
+        "Rush Hour 2",
+        "Rush Hour 3"
       ]
     },
     {
-      "id": 2568605,
-      "name": "Ece İrtem",
-      "popularity": 10.5,
-      "isAlive": false,
-      "birthYear": 1991,
-      "deathDate": "2026-06-15",
-      "deathAge": 35,
-      "profilePath": "/2Fv4a3piAJwnmqcZYVQnuK0hRdM.jpg",
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 9.3,
+      "isAlive": true,
+      "birthYear": 1963,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
       "knownFor": [
-        "10 Days of a Curious Man",
-        "Mr. Wrong",
-        "Zengo"
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
       ]
     },
     {
-      "id": 64439,
-      "name": "Fan Bingbing",
-      "popularity": 9.2,
+      "id": 65731,
+      "name": "Sam Worthington",
+      "popularity": 9.7,
       "isAlive": true,
-      "birthYear": 1981,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
+      "profilePath": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg",
       "knownFor": [
-        "X-Men: Days of Future Past",
-        "Ice Road: Vengeance",
-        "Skiptrace"
+        "Avatar",
+        "Avatar: The Way of Water",
+        "Hacksaw Ridge"
       ]
     }
   ]
