@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-06-26T04:25:14.095Z",
+  "generatedAt": "2026-06-27T04:11:22.074Z",
   "celebrities": [
     {
-      "id": 2595175,
-      "name": "Anshul Chauhan",
-      "popularity": 10.9,
+      "id": 83487,
+      "name": "Xie Miao",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1993,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gkFbpg1tvJa0OkbZRp66xnTQByJ.jpg",
+      "profilePath": "/o6uRkrY9vxxzZkZGnnQtKLPcZH1.jpg",
       "knownFor": [
-        "Zero",
-        "Animal",
-        "Shubh Mangal Saavdhan"
+        "Ip Man: The Awakening",
+        "The Enforcer",
+        "Legend of the Red Dragon"
       ]
     },
     {
-      "id": 1320544,
-      "name": "Daniella Wang",
-      "popularity": 11.4,
+      "id": 3194201,
+      "name": "Ui Mihara",
+      "popularity": 11,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
+      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
       "knownFor": [
-        "Due West: Our Sex Journey",
-        "Midnight Hair",
-        "Crazy Tsunami"
+        "Takara's Treasure",
+        "Call Me by No-Name",
+        "Wingman"
       ]
     },
     {
-      "id": 18897,
-      "name": "Jackie Chan",
-      "popularity": 10.2,
+      "id": 2520942,
+      "name": "Chloe Van Landschoot",
+      "popularity": 8.7,
       "isAlive": true,
-      "birthYear": 1954,
+      "birthYear": 1997,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+      "profilePath": "/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg",
       "knownFor": [
-        "Rush Hour",
-        "Rush Hour 2",
-        "Rush Hour 3"
+        "FROM",
+        "Carrie",
+        "Chris Watts: Confessions of a Killer"
       ]
     },
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 9.3,
+      "id": 2963,
+      "name": "Nicolas Cage",
+      "popularity": 8.5,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 1964,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
+      "profilePath": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
+        "The Croods",
+        "National Treasure",
+        "Ghost Rider"
       ]
     },
     {
-      "id": 65731,
-      "name": "Sam Worthington",
-      "popularity": 9.7,
+      "id": 35224,
+      "name": "Anndi McAfee",
+      "popularity": 16.6,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg",
+      "profilePath": "/31BmotCrcdSR6gFnJqqCUHvy6Dh.jpg",
       "knownFor": [
-        "Avatar",
-        "Avatar: The Way of Water",
-        "Hacksaw Ridge"
+        "Tom and Jerry: The Movie",
+        "Hey Arnold!",
+        "The Land Before Time VI: The Secret of Saurus Rock"
       ]
     }
   ]
