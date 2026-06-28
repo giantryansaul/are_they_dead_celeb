@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-06-27T04:11:22.074Z",
+  "generatedAt": "2026-06-28T04:46:02.516Z",
   "celebrities": [
     {
-      "id": 83487,
-      "name": "Xie Miao",
-      "popularity": 11.5,
+      "id": 65731,
+      "name": "Sam Worthington",
+      "popularity": 9.4,
       "isAlive": true,
-      "birthYear": 1984,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/o6uRkrY9vxxzZkZGnnQtKLPcZH1.jpg",
+      "profilePath": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg",
       "knownFor": [
-        "Ip Man: The Awakening",
-        "The Enforcer",
-        "Legend of the Red Dragon"
+        "Avatar",
+        "Avatar: The Way of Water",
+        "Hacksaw Ridge"
       ]
     },
     {
-      "id": 3194201,
-      "name": "Ui Mihara",
-      "popularity": 11,
+      "id": 2415162,
+      "name": "Hikari Kabashima",
+      "popularity": 9.8,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
+      "profilePath": "/nvFD94T4jk6peW5ZsBq3BprJh3v.jpg",
       "knownFor": [
-        "Takara's Treasure",
-        "Call Me by No-Name",
-        "Wingman"
+        "Kamen Rider Jeanne & Kamen Rider Aguilera with Girls Remix",
+        "CHASER GAME W: My Evil Boss is My Ex-Girlfriend",
+        "Sudden Marriage"
       ]
     },
     {
-      "id": 2520942,
-      "name": "Chloe Van Landschoot",
-      "popularity": 8.7,
+      "id": 58021,
+      "name": "Tinto Brass",
+      "popularity": 20.8,
       "isAlive": true,
-      "birthYear": 1997,
+      "birthYear": 1933,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg",
+      "profilePath": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg",
       "knownFor": [
-        "FROM",
-        "Carrie",
-        "Chris Watts: Confessions of a Killer"
+        "Caligula",
+        "Paprika",
+        "The Key"
       ]
     },
     {
-      "id": 2963,
-      "name": "Nicolas Cage",
-      "popularity": 8.5,
-      "isAlive": true,
-      "birthYear": 1964,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+      "id": 145409,
+      "name": "Kadir İnanır",
+      "popularity": 9.3,
+      "isAlive": false,
+      "birthYear": 1949,
+      "deathDate": "2026-06-26",
+      "deathAge": 77,
+      "profilePath": "/jauUUx1iAQueMTY4t4LvoUJRrH0.jpg",
       "knownFor": [
-        "The Croods",
-        "National Treasure",
-        "Ghost Rider"
+        "The Girl with the Red Scarf",
+        "Commissioner Shakespeare",
+        "Tatar Ramazan"
       ]
     },
     {
-      "id": 35224,
-      "name": "Anndi McAfee",
-      "popularity": 16.6,
+      "id": 1108907,
+      "name": "Nick Robinson",
+      "popularity": 9.8,
       "isAlive": true,
-      "birthYear": 1979,
+      "birthYear": 1995,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/31BmotCrcdSR6gFnJqqCUHvy6Dh.jpg",
+      "profilePath": "/w0eRVqmfdLs3zHogvF0CHDSak5S.jpg",
       "knownFor": [
-        "Tom and Jerry: The Movie",
-        "Hey Arnold!",
-        "The Land Before Time VI: The Secret of Saurus Rock"
+        "Love, Simon",
+        "Jurassic World",
+        "The 5th Wave"
       ]
     }
   ]
