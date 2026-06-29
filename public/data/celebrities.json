@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-06-28T04:46:02.516Z",
+  "generatedAt": "2026-06-29T04:54:23.524Z",
   "celebrities": [
     {
-      "id": 65731,
-      "name": "Sam Worthington",
-      "popularity": 9.4,
-      "isAlive": true,
-      "birthYear": 1976,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg",
-      "knownFor": [
-        "Avatar",
-        "Avatar: The Way of Water",
-        "Hacksaw Ridge"
-      ]
-    },
-    {
-      "id": 2415162,
-      "name": "Hikari Kabashima",
-      "popularity": 9.8,
-      "isAlive": true,
-      "birthYear": 1996,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/nvFD94T4jk6peW5ZsBq3BprJh3v.jpg",
-      "knownFor": [
-        "Kamen Rider Jeanne & Kamen Rider Aguilera with Girls Remix",
-        "CHASER GAME W: My Evil Boss is My Ex-Girlfriend",
-        "Sudden Marriage"
-      ]
-    },
-    {
-      "id": 58021,
-      "name": "Tinto Brass",
-      "popularity": 20.8,
-      "isAlive": true,
-      "birthYear": 1933,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg",
-      "knownFor": [
-        "Caligula",
-        "Paprika",
-        "The Key"
-      ]
-    },
-    {
-      "id": 145409,
-      "name": "Kadir İnanır",
+      "id": 117642,
+      "name": "Jason Momoa",
       "popularity": 9.3,
-      "isAlive": false,
-      "birthYear": 1949,
-      "deathDate": "2026-06-26",
-      "deathAge": 77,
-      "profilePath": "/jauUUx1iAQueMTY4t4LvoUJRrH0.jpg",
+      "isAlive": true,
+      "birthYear": 1979,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
       "knownFor": [
-        "The Girl with the Red Scarf",
-        "Commissioner Shakespeare",
-        "Tatar Ramazan"
+        "Aquaman",
+        "Dune",
+        "Aquaman and the Lost Kingdom"
       ]
     },
     {
-      "id": 1108907,
-      "name": "Nick Robinson",
-      "popularity": 9.8,
+      "id": 26755,
+      "name": "Charlie Cho Cha-Lee",
+      "popularity": 17.5,
       "isAlive": true,
-      "birthYear": 1995,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/w0eRVqmfdLs3zHogvF0CHDSak5S.jpg",
+      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
       "knownFor": [
-        "Love, Simon",
-        "Jurassic World",
-        "The 5th Wave"
+        "Police Story",
+        "Police Story 2",
+        "The Golden Lotus: Love and Desire"
+      ]
+    },
+    {
+      "id": 3748373,
+      "name": "Ana Garcés",
+      "popularity": 10.2,
+      "isAlive": true,
+      "birthYear": 2000,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/gwttUDHoPRmrkNKOXptzAoFBwjR.jpg",
+      "knownFor": [
+        "La promesa",
+        "Quizás mañana",
+        "Los comedores de loto"
+      ]
+    },
+    {
+      "id": 2769936,
+      "name": "Praveena Bhagyaraj",
+      "popularity": 31.4,
+      "isAlive": false,
+      "birthYear": 1958,
+      "deathDate": "1983-09-01",
+      "deathAge": 25,
+      "profilePath": null,
+      "knownFor": [
+        "Billa",
+        "Manmadha Leelai",
+        "Mazhanilavu"
+      ]
+    },
+    {
+      "id": 83487,
+      "name": "Xie Miao",
+      "popularity": 15.2,
+      "isAlive": true,
+      "birthYear": 1984,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/62wSKvC6mMT1gykVVr0C55d2YFe.jpg",
+      "knownFor": [
+        "Ip Man: The Awakening",
+        "The Enforcer",
+        "Legend of the Red Dragon"
       ]
     }
   ]
