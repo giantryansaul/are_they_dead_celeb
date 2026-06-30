@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-06-29T04:54:23.524Z",
+  "generatedAt": "2026-06-30T04:20:07.366Z",
   "celebrities": [
     {
-      "id": 117642,
-      "name": "Jason Momoa",
-      "popularity": 9.3,
-      "isAlive": true,
-      "birthYear": 1979,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
-      "knownFor": [
-        "Aquaman",
-        "Dune",
-        "Aquaman and the Lost Kingdom"
-      ]
-    },
-    {
-      "id": 26755,
-      "name": "Charlie Cho Cha-Lee",
-      "popularity": 17.5,
-      "isAlive": true,
-      "birthYear": 1950,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
-      "knownFor": [
-        "Police Story",
-        "Police Story 2",
-        "The Golden Lotus: Love and Desire"
-      ]
-    },
-    {
-      "id": 3748373,
-      "name": "Ana Garcés",
-      "popularity": 10.2,
+      "id": 2046128,
+      "name": "Milly Alcock",
+      "popularity": 23.2,
       "isAlive": true,
       "birthYear": 2000,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gwttUDHoPRmrkNKOXptzAoFBwjR.jpg",
+      "profilePath": "/cpcNqIORhZlpie8U2wSInhv0Hjf.jpg",
       "knownFor": [
-        "La promesa",
-        "Quizás mañana",
-        "Los comedores de loto"
+        "Supergirl",
+        "Sirens",
+        "Superman"
       ]
     },
     {
-      "id": 2769936,
-      "name": "Praveena Bhagyaraj",
-      "popularity": 31.4,
-      "isAlive": false,
-      "birthYear": 1958,
-      "deathDate": "1983-09-01",
-      "deathAge": 25,
-      "profilePath": null,
+      "id": 73968,
+      "name": "Henry Cavill",
+      "popularity": 12.1,
+      "isAlive": true,
+      "birthYear": 1983,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
       "knownFor": [
-        "Billa",
-        "Manmadha Leelai",
-        "Mazhanilavu"
+        "Man of Steel",
+        "Batman v Superman: Dawn of Justice",
+        "The Man from U.N.C.L.E."
+      ]
+    },
+    {
+      "id": 1562430,
+      "name": "Hannah Cheramy",
+      "popularity": 21,
+      "isAlive": true,
+      "birthYear": 2003,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/bVNJpvLKWwzxvLPFFmhsoMsR5qu.jpg",
+      "knownFor": [
+        "FROM",
+        "Colossal",
+        "The Hollow Child"
+      ]
+    },
+    {
+      "id": 1078753,
+      "name": "Jülide Kural",
+      "popularity": 9.9,
+      "isAlive": true,
+      "birthYear": 1965,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/pH2JJos836hZ36XBbOfeVptb67v.jpg",
+      "knownFor": [
+        "Super Dad",
+        "Silent Death",
+        "The Plane Tree"
       ]
     },
     {
