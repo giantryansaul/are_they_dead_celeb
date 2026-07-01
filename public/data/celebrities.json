@@ -1,25 +1,40 @@
 {
-  "generatedAt": "2026-06-30T04:20:07.366Z",
+  "generatedAt": "2026-07-01T04:47:55.351Z",
   "celebrities": [
     {
-      "id": 2046128,
-      "name": "Milly Alcock",
-      "popularity": 23.2,
+      "id": 3194201,
+      "name": "Ui Mihara",
+      "popularity": 15.5,
       "isAlive": true,
-      "birthYear": 2000,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cpcNqIORhZlpie8U2wSInhv0Hjf.jpg",
+      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
       "knownFor": [
-        "Supergirl",
-        "Sirens",
-        "Superman"
+        "Takara's Treasure",
+        "Call Me by No-Name",
+        "Wingman"
+      ]
+    },
+    {
+      "id": 2933480,
+      "name": "Jean Janssens",
+      "popularity": 20,
+      "isAlive": true,
+      "birthYear": 1999,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/8GJxmQLgiC0ftgMNdI89CnzjbnB.jpg",
+      "knownFor": [
+        "Arcadia",
+        "Lisa",
+        "GameKeepers"
       ]
     },
     {
       "id": 73968,
       "name": "Henry Cavill",
-      "popularity": 12.1,
+      "popularity": 11.9,
       "isAlive": true,
       "birthYear": 1983,
       "deathDate": null,
@@ -32,48 +47,33 @@
       ]
     },
     {
-      "id": 1562430,
-      "name": "Hannah Cheramy",
-      "popularity": 21,
-      "isAlive": true,
-      "birthYear": 2003,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/bVNJpvLKWwzxvLPFFmhsoMsR5qu.jpg",
+      "id": 2769936,
+      "name": "Praveena Bhagyaraj",
+      "popularity": 10.2,
+      "isAlive": false,
+      "birthYear": 1958,
+      "deathDate": "1983-09-01",
+      "deathAge": 25,
+      "profilePath": null,
       "knownFor": [
-        "FROM",
-        "Colossal",
-        "The Hollow Child"
+        "Billa",
+        "Manmadha Leelai",
+        "Mazhanilavu"
       ]
     },
     {
-      "id": 1078753,
-      "name": "Jülide Kural",
-      "popularity": 9.9,
+      "id": 122822,
+      "name": "Yvonne Yung Hung",
+      "popularity": 12.9,
       "isAlive": true,
-      "birthYear": 1965,
+      "birthYear": 1968,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pH2JJos836hZ36XBbOfeVptb67v.jpg",
+      "profilePath": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
       "knownFor": [
-        "Super Dad",
-        "Silent Death",
-        "The Plane Tree"
-      ]
-    },
-    {
-      "id": 83487,
-      "name": "Xie Miao",
-      "popularity": 15.2,
-      "isAlive": true,
-      "birthYear": 1984,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/62wSKvC6mMT1gykVVr0C55d2YFe.jpg",
-      "knownFor": [
-        "Ip Man: The Awakening",
-        "The Enforcer",
-        "Legend of the Red Dragon"
+        "The Legend of Drunken Master",
+        "A Chinese Torture Chamber Story",
+        "Sex and the Emperor"
       ]
     }
   ]
