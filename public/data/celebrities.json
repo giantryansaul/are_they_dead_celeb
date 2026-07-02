@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-01T04:47:55.351Z",
+  "generatedAt": "2026-07-02T04:15:30.655Z",
   "celebrities": [
     {
       "id": 3194201,
       "name": "Ui Mihara",
-      "popularity": 15.5,
+      "popularity": 15.1,
       "isAlive": true,
       "birthYear": 2002,
       "deathDate": null,
@@ -17,39 +17,39 @@
       ]
     },
     {
-      "id": 2933480,
-      "name": "Jean Janssens",
-      "popularity": 20,
+      "id": 3371804,
+      "name": "Christine Bermas",
+      "popularity": 12.6,
       "isAlive": true,
-      "birthYear": 1999,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8GJxmQLgiC0ftgMNdI89CnzjbnB.jpg",
+      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
       "knownFor": [
-        "Arcadia",
-        "Lisa",
-        "GameKeepers"
+        "Rita",
+        "Scorpio Nights 3",
+        "Bedspacer"
       ]
     },
     {
-      "id": 73968,
-      "name": "Henry Cavill",
-      "popularity": 11.9,
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 11.1,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
+      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
       "knownFor": [
-        "Man of Steel",
-        "Batman v Superman: Dawn of Justice",
-        "The Man from U.N.C.L.E."
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
       ]
     },
     {
       "id": 2769936,
       "name": "Praveena Bhagyaraj",
-      "popularity": 10.2,
+      "popularity": 8.4,
       "isAlive": false,
       "birthYear": 1958,
       "deathDate": "1983-09-01",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 122822,
-      "name": "Yvonne Yung Hung",
-      "popularity": 12.9,
-      "isAlive": true,
-      "birthYear": 1968,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
+      "id": 742,
+      "name": "Michael Byrne",
+      "popularity": 11.9,
+      "isAlive": false,
+      "birthYear": 1943,
+      "deathDate": "2026-06-20",
+      "deathAge": 82,
+      "profilePath": "/cWUhkJPdyPFbWAskmTuzgEXYR8X.jpg",
       "knownFor": [
-        "The Legend of Drunken Master",
-        "A Chinese Torture Chamber Story",
-        "Sex and the Emperor"
+        "Indiana Jones and the Last Crusade",
+        "Braveheart",
+        "Harry Potter and the Deathly Hallows: Part 1"
       ]
     }
   ]
