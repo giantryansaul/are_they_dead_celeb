@@ -1,64 +1,49 @@
 {
-  "generatedAt": "2026-07-02T04:15:30.655Z",
+  "generatedAt": "2026-07-03T04:02:00.400Z",
   "celebrities": [
     {
-      "id": 3194201,
-      "name": "Ui Mihara",
-      "popularity": 15.1,
+      "id": 2986719,
+      "name": "Daniel Zhou",
+      "popularity": 15.9,
       "isAlive": true,
       "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
+      "profilePath": "/vbouvEZoWedKOg7F7GK4UF46yyM.jpg",
       "knownFor": [
-        "Takara's Treasure",
-        "Call Me by No-Name",
-        "Wingman"
+        "Remember My Boy",
+        "Sniper Butterfly",
+        "Always Home"
       ]
     },
     {
-      "id": 3371804,
-      "name": "Christine Bermas",
-      "popularity": 12.6,
+      "id": 572043,
+      "name": "Yang Mi",
+      "popularity": 10.2,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
+      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
       "knownFor": [
-        "Rita",
-        "Scorpio Nights 3",
-        "Bedspacer"
+        "A Writer's Odyssey",
+        "Reset",
+        "Tiny Times"
       ]
     },
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 11.1,
+      "id": 70962,
+      "name": "Donatella Damiani",
+      "popularity": 12.3,
       "isAlive": true,
-      "birthYear": 1963,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
-      "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
-      ]
-    },
-    {
-      "id": 2769936,
-      "name": "Praveena Bhagyaraj",
-      "popularity": 8.4,
-      "isAlive": false,
       "birthYear": 1958,
-      "deathDate": "1983-09-01",
-      "deathAge": 25,
-      "profilePath": null,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/c38UcLtlwAfedHgPiWJGjseIcnn.jpg",
       "knownFor": [
-        "Billa",
-        "Manmadha Leelai",
-        "Mazhanilavu"
+        "Lola's Secret",
+        "City of Women",
+        "How to Seduce Your Teacher"
       ]
     },
     {
@@ -74,6 +59,21 @@
         "Indiana Jones and the Last Crusade",
         "Braveheart",
         "Harry Potter and the Deathly Hallows: Part 1"
+      ]
+    },
+    {
+      "id": 2520942,
+      "name": "Chloe Van Landschoot",
+      "popularity": 12.4,
+      "isAlive": true,
+      "birthYear": 1997,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg",
+      "knownFor": [
+        "FROM",
+        "Carrie",
+        "Chris Watts: Confessions of a Killer"
       ]
     }
   ]
