@@ -1,49 +1,64 @@
 {
-  "generatedAt": "2026-07-03T04:02:00.400Z",
+  "generatedAt": "2026-07-04T03:55:43.503Z",
   "celebrities": [
     {
-      "id": 2986719,
-      "name": "Daniel Zhou",
-      "popularity": 15.9,
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/vbouvEZoWedKOg7F7GK4UF46yyM.jpg",
+      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
       "knownFor": [
-        "Remember My Boy",
-        "Sniper Butterfly",
-        "Always Home"
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
       ]
     },
     {
-      "id": 572043,
-      "name": "Yang Mi",
-      "popularity": 10.2,
+      "id": 1907997,
+      "name": "Min Do-yoon",
+      "popularity": 25.9,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
+      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
       "knownFor": [
-        "A Writer's Odyssey",
-        "Reset",
-        "Tiny Times"
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Beauty Salon: Special Service 3",
+        "Beauty Salon: Special Service 4"
       ]
     },
     {
-      "id": 70962,
-      "name": "Donatella Damiani",
-      "popularity": 12.3,
+      "id": 1562430,
+      "name": "Hannah Cheramy",
+      "popularity": 18,
       "isAlive": true,
-      "birthYear": 1958,
+      "birthYear": 2003,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/c38UcLtlwAfedHgPiWJGjseIcnn.jpg",
+      "profilePath": "/bVNJpvLKWwzxvLPFFmhsoMsR5qu.jpg",
       "knownFor": [
-        "Lola's Secret",
-        "City of Women",
-        "How to Seduce Your Teacher"
+        "FROM",
+        "Colossal",
+        "The Hollow Child"
+      ]
+    },
+    {
+      "id": 588,
+      "name": "M. Emmet Walsh",
+      "popularity": 38.1,
+      "isAlive": false,
+      "birthYear": 1935,
+      "deathDate": "2024-03-19",
+      "deathAge": 88,
+      "profilePath": "/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg",
+      "knownFor": [
+        "Blade Runner",
+        "Knives Out",
+        "Wild Wild West"
       ]
     },
     {
@@ -59,21 +74,6 @@
         "Indiana Jones and the Last Crusade",
         "Braveheart",
         "Harry Potter and the Deathly Hallows: Part 1"
-      ]
-    },
-    {
-      "id": 2520942,
-      "name": "Chloe Van Landschoot",
-      "popularity": 12.4,
-      "isAlive": true,
-      "birthYear": 1997,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg",
-      "knownFor": [
-        "FROM",
-        "Carrie",
-        "Chris Watts: Confessions of a Killer"
       ]
     }
   ]
