@@ -1,55 +1,70 @@
 {
-  "generatedAt": "2026-07-04T03:55:43.503Z",
+  "generatedAt": "2026-07-05T04:15:06.698Z",
   "celebrities": [
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 10.7,
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "popularity": 24.3,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
+      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
+        "Obsession",
+        "Superman & Lois",
+        "Trap House"
       ]
     },
     {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 25.9,
+      "id": 3371804,
+      "name": "Christine Bermas",
+      "popularity": 13.1,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 3",
-        "Beauty Salon: Special Service 4"
+        "Rita",
+        "Scorpio Nights 3",
+        "Bedspacer"
       ]
     },
     {
-      "id": 1562430,
-      "name": "Hannah Cheramy",
-      "popularity": 18,
+      "id": 2986719,
+      "name": "Daniel Zhou",
+      "popularity": 15.2,
       "isAlive": true,
-      "birthYear": 2003,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bVNJpvLKWwzxvLPFFmhsoMsR5qu.jpg",
+      "profilePath": "/vbouvEZoWedKOg7F7GK4UF46yyM.jpg",
       "knownFor": [
-        "FROM",
-        "Colossal",
-        "The Hollow Child"
+        "Remember My Boy",
+        "Sniper Butterfly",
+        "Always Home"
+      ]
+    },
+    {
+      "id": 1438183,
+      "name": "Anne Birch",
+      "popularity": 69.5,
+      "isAlive": false,
+      "birthYear": 1945,
+      "deathDate": "1985-08-09",
+      "deathAge": 40,
+      "profilePath": "/rb9ZJXY6CQ2fEZLKR1TR6Cez8mt.jpg",
+      "knownFor": [
+        "Elise",
+        "Vandalism",
+        "The Gangster's Apprentice"
       ]
     },
     {
       "id": 588,
       "name": "M. Emmet Walsh",
-      "popularity": 38.1,
+      "popularity": 33.2,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2024-03-19",
@@ -59,21 +74,6 @@
         "Blade Runner",
         "Knives Out",
         "Wild Wild West"
-      ]
-    },
-    {
-      "id": 742,
-      "name": "Michael Byrne",
-      "popularity": 11.9,
-      "isAlive": false,
-      "birthYear": 1943,
-      "deathDate": "2026-06-20",
-      "deathAge": 82,
-      "profilePath": "/cWUhkJPdyPFbWAskmTuzgEXYR8X.jpg",
-      "knownFor": [
-        "Indiana Jones and the Last Crusade",
-        "Braveheart",
-        "Harry Potter and the Deathly Hallows: Part 1"
       ]
     }
   ]
