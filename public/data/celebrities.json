@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-06T04:22:33.115Z",
+  "generatedAt": "2026-07-07T04:11:46.691Z",
   "celebrities": [
     {
-      "id": 5212949,
-      "name": "Anastasia Shestakova",
-      "popularity": 22.7,
+      "id": 30614,
+      "name": "Ryan Gosling",
+      "popularity": 11,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
+      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
       "knownFor": [
-        "Detective Chinatown 1900",
-        "Just a Job",
-        "不过是上班"
+        "La La Land",
+        "Blade Runner 2049",
+        "Drive"
       ]
     },
     {
-      "id": 17146,
-      "name": "Tim Suhrstedt",
-      "popularity": 60,
+      "id": 1562430,
+      "name": "Hannah Cheramy",
+      "popularity": 16.1,
       "isAlive": true,
-      "birthYear": 1948,
+      "birthYear": 2003,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pdf6tsEJZQU7ocJjcNrZeQdhS6f.jpg",
+      "profilePath": "/bVNJpvLKWwzxvLPFFmhsoMsR5qu.jpg",
       "knownFor": [
-        "Little Miss Sunshine",
-        "17 Again",
-        "Sex Tape"
+        "FROM",
+        "Colossal",
+        "The Hollow Child"
       ]
     },
     {
-      "id": 3063910,
-      "name": "Sneha Paul",
-      "popularity": 13.9,
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "popularity": 26.6,
       "isAlive": true,
-      "birthYear": 1994,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/9ynw91mnpUAIlHu71W70LiAPZQZ.jpg",
+      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
       "knownFor": [
-        "Charmsukh",
-        "The Signature",
-        "Shuru Theke Shuru"
+        "Obsession",
+        "Superman & Lois",
+        "Trap House"
       ]
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 588,
       "name": "M. Emmet Walsh",
-      "popularity": 20.7,
+      "popularity": 19.7,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2024-03-19",
