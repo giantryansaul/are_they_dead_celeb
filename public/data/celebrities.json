@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-07-07T04:11:46.691Z",
+  "generatedAt": "2026-07-08T03:36:26.986Z",
   "celebrities": [
     {
-      "id": 30614,
-      "name": "Ryan Gosling",
-      "popularity": 11,
+      "id": 2065258,
+      "name": "Cemre Baysel",
+      "popularity": 10.5,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1999,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "profilePath": "/c6ftdtt8o8NCp5o8v7rJmmhlQ3C.jpg",
       "knownFor": [
-        "La La Land",
-        "Blade Runner 2049",
-        "Drive"
+        "Leyla",
+        "The Beauty Inside",
+        "Twist of Fate"
       ]
     },
     {
-      "id": 1562430,
-      "name": "Hannah Cheramy",
-      "popularity": 16.1,
+      "id": 18270,
+      "name": "Orlando Jones",
+      "popularity": 40.7,
       "isAlive": true,
-      "birthYear": 2003,
+      "birthYear": 1968,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bVNJpvLKWwzxvLPFFmhsoMsR5qu.jpg",
+      "profilePath": "/ypN7IS7lXOAij4rfMd4NlcF7f6R.jpg",
       "knownFor": [
-        "FROM",
-        "Colossal",
-        "The Hollow Child"
+        "Evolution",
+        "The Time Machine",
+        "Bedazzled"
       ]
     },
     {
-      "id": 2638587,
-      "name": "Inde Navarrette",
-      "popularity": 26.6,
+      "id": 1487683,
+      "name": "Hitoe Ootake",
+      "popularity": 13.3,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
+      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
       "knownFor": [
-        "Obsession",
-        "Superman & Lois",
-        "Trap House"
+        "Female Teacher Diary: Forbidden Sex",
+        "Female Teacher Diary 3: Hidden Sex",
+        "Molester Diary: A Man Who Kept Stroking Ass 3"
       ]
     },
     {
       "id": 1438183,
       "name": "Anne Birch",
-      "popularity": 60.1,
+      "popularity": 40,
       "isAlive": false,
       "birthYear": 1945,
       "deathDate": "1985-08-09",
@@ -64,7 +64,7 @@
     {
       "id": 588,
       "name": "M. Emmet Walsh",
-      "popularity": 19.7,
+      "popularity": 17.6,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2024-03-19",
