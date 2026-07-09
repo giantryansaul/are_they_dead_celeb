@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-08T03:36:26.986Z",
+  "generatedAt": "2026-07-09T04:06:30.760Z",
   "celebrities": [
     {
-      "id": 2065258,
-      "name": "Cemre Baysel",
-      "popularity": 10.5,
+      "id": 933238,
+      "name": "Rebecca Ferguson",
+      "popularity": 9.3,
       "isAlive": true,
-      "birthYear": 1999,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/c6ftdtt8o8NCp5o8v7rJmmhlQ3C.jpg",
+      "profilePath": "/lJloTOheuQSirSLXNA3JHsrMNfH.jpg",
       "knownFor": [
-        "Leyla",
-        "The Beauty Inside",
-        "Twist of Fate"
+        "Dune",
+        "The Girl on the Train",
+        "Dune: Part Two"
       ]
     },
     {
-      "id": 18270,
-      "name": "Orlando Jones",
-      "popularity": 40.7,
+      "id": 35224,
+      "name": "Anndi McAfee",
+      "popularity": 49.8,
       "isAlive": true,
-      "birthYear": 1968,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ypN7IS7lXOAij4rfMd4NlcF7f6R.jpg",
+      "profilePath": "/31BmotCrcdSR6gFnJqqCUHvy6Dh.jpg",
       "knownFor": [
-        "Evolution",
-        "The Time Machine",
-        "Bedazzled"
+        "Tom and Jerry: The Movie",
+        "Hey Arnold!",
+        "The Land Before Time VI: The Secret of Saurus Rock"
       ]
     },
     {
       "id": 1487683,
       "name": "Hitoe Ootake",
-      "popularity": 13.3,
+      "popularity": 13.4,
       "isAlive": true,
       "birthYear": 1972,
       "deathDate": null,
@@ -49,7 +49,7 @@
     {
       "id": 1438183,
       "name": "Anne Birch",
-      "popularity": 40,
+      "popularity": 36.9,
       "isAlive": false,
       "birthYear": 1945,
       "deathDate": "1985-08-09",
@@ -64,7 +64,7 @@
     {
       "id": 588,
       "name": "M. Emmet Walsh",
-      "popularity": 17.6,
+      "popularity": 14.9,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2024-03-19",
