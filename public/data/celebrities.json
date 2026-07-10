@@ -1,40 +1,10 @@
 {
-  "generatedAt": "2026-07-09T04:06:30.760Z",
+  "generatedAt": "2026-07-10T04:06:10.551Z",
   "celebrities": [
-    {
-      "id": 933238,
-      "name": "Rebecca Ferguson",
-      "popularity": 9.3,
-      "isAlive": true,
-      "birthYear": 1983,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/lJloTOheuQSirSLXNA3JHsrMNfH.jpg",
-      "knownFor": [
-        "Dune",
-        "The Girl on the Train",
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "id": 35224,
-      "name": "Anndi McAfee",
-      "popularity": 49.8,
-      "isAlive": true,
-      "birthYear": 1979,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/31BmotCrcdSR6gFnJqqCUHvy6Dh.jpg",
-      "knownFor": [
-        "Tom and Jerry: The Movie",
-        "Hey Arnold!",
-        "The Land Before Time VI: The Secret of Saurus Rock"
-      ]
-    },
     {
       "id": 1487683,
       "name": "Hitoe Ootake",
-      "popularity": 13.4,
+      "popularity": 13.5,
       "isAlive": true,
       "birthYear": 1972,
       "deathDate": null,
@@ -47,9 +17,39 @@
       ]
     },
     {
+      "id": 1629321,
+      "name": "Suvinder Vicky",
+      "popularity": 10.4,
+      "isAlive": true,
+      "birthYear": 1973,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/6T3Y0jvLMdMw19ShLZvLNHIkaSD.jpg",
+      "knownFor": [
+        "Kohrra",
+        "Kesari",
+        "Milestone"
+      ]
+    },
+    {
+      "id": 26755,
+      "name": "Charlie Cho Cha-Lee",
+      "popularity": 17,
+      "isAlive": true,
+      "birthYear": 1950,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
+      "knownFor": [
+        "Police Story",
+        "Police Story 2",
+        "The Golden Lotus: Love and Desire"
+      ]
+    },
+    {
       "id": 1438183,
       "name": "Anne Birch",
-      "popularity": 36.9,
+      "popularity": 32.5,
       "isAlive": false,
       "birthYear": 1945,
       "deathDate": "1985-08-09",
@@ -64,7 +64,7 @@
     {
       "id": 588,
       "name": "M. Emmet Walsh",
-      "popularity": 14.9,
+      "popularity": 10.8,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2024-03-19",
