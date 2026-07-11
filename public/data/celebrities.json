@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-07-10T04:06:10.551Z",
+  "generatedAt": "2026-07-11T03:33:22.896Z",
   "celebrities": [
     {
-      "id": 1487683,
-      "name": "Hitoe Ootake",
-      "popularity": 13.5,
+      "id": 505710,
+      "name": "Zendaya",
+      "popularity": 9.3,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
+      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
       "knownFor": [
-        "Female Teacher Diary: Forbidden Sex",
-        "Female Teacher Diary 3: Hidden Sex",
-        "Molester Diary: A Man Who Kept Stroking Ass 3"
+        "Spider-Man: No Way Home",
+        "Euphoria",
+        "Dune: Part Two"
       ]
     },
     {
-      "id": 1629321,
-      "name": "Suvinder Vicky",
-      "popularity": 10.4,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 12.3,
       "isAlive": true,
-      "birthYear": 1973,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/6T3Y0jvLMdMw19ShLZvLNHIkaSD.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "Kohrra",
-        "Kesari",
-        "Milestone"
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     },
     {
-      "id": 26755,
-      "name": "Charlie Cho Cha-Lee",
-      "popularity": 17,
+      "id": 18270,
+      "name": "Orlando Jones",
+      "popularity": 26.3,
       "isAlive": true,
-      "birthYear": 1950,
+      "birthYear": 1968,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
+      "profilePath": "/ypN7IS7lXOAij4rfMd4NlcF7f6R.jpg",
       "knownFor": [
-        "Police Story",
-        "Police Story 2",
-        "The Golden Lotus: Love and Desire"
+        "Evolution",
+        "The Time Machine",
+        "Bedazzled"
       ]
     },
     {
       "id": 1438183,
       "name": "Anne Birch",
-      "popularity": 32.5,
+      "popularity": 25.6,
       "isAlive": false,
       "birthYear": 1945,
       "deathDate": "1985-08-09",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 588,
-      "name": "M. Emmet Walsh",
-      "popularity": 10.8,
-      "isAlive": false,
-      "birthYear": 1935,
-      "deathDate": "2024-03-19",
-      "deathAge": 88,
-      "profilePath": "/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg",
+      "id": 21911,
+      "name": "Shu Qi",
+      "popularity": 8.8,
+      "isAlive": true,
+      "birthYear": 1976,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/jNaUWRClE4aFnguPZKQeVqfugPd.jpg",
       "knownFor": [
-        "Blade Runner",
-        "Knives Out",
-        "Wild Wild West"
+        "The Transporter",
+        "The Assassin",
+        "Journey to the West: Conquering the Demons"
       ]
     }
   ]
