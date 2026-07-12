@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-07-11T03:33:22.896Z",
+  "generatedAt": "2026-07-12T03:46:40.900Z",
   "celebrities": [
     {
-      "id": 505710,
-      "name": "Zendaya",
-      "popularity": 9.3,
+      "id": 572043,
+      "name": "Yang Mi",
+      "popularity": 8.8,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
       "knownFor": [
-        "Spider-Man: No Way Home",
-        "Euphoria",
-        "Dune: Part Two"
+        "A Writer's Odyssey",
+        "Reset",
+        "Tiny Times"
       ]
     },
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 12.3,
+      "id": 3371804,
+      "name": "Christine Bermas",
+      "popularity": 9.4,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
+        "Rita",
+        "Scorpio Nights 3",
+        "Bedspacer"
       ]
     },
     {
-      "id": 18270,
-      "name": "Orlando Jones",
-      "popularity": 26.3,
+      "id": 1222298,
+      "name": "Bridget Regan",
+      "popularity": 11.1,
       "isAlive": true,
-      "birthYear": 1968,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ypN7IS7lXOAij4rfMd4NlcF7f6R.jpg",
+      "profilePath": "/ri1kEBkWa9ShTYbV2iJAFa0V4VU.jpg",
       "knownFor": [
-        "Evolution",
-        "The Time Machine",
-        "Bedazzled"
+        "John Wick",
+        "Marvel's Agent Carter",
+        "Legend of the Seeker"
       ]
     },
     {
       "id": 1438183,
       "name": "Anne Birch",
-      "popularity": 25.6,
+      "popularity": 15.1,
       "isAlive": false,
       "birthYear": 1945,
       "deathDate": "1985-08-09",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 21911,
-      "name": "Shu Qi",
-      "popularity": 8.8,
+      "id": 945130,
+      "name": "Chikako Aoyama",
+      "popularity": 12.7,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1966,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jNaUWRClE4aFnguPZKQeVqfugPd.jpg",
+      "profilePath": "/kgYeNoOCwqxDCznoeXif50gqwi1.jpg",
       "knownFor": [
-        "The Transporter",
-        "The Assassin",
-        "Journey to the West: Conquering the Demons"
+        "Robotrix",
+        "Door II: Tokyo Diary",
+        "Taboo"
       ]
     }
   ]
