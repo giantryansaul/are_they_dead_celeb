@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-07-12T03:46:40.900Z",
+  "generatedAt": "2026-07-13T03:49:15.059Z",
   "celebrities": [
     {
-      "id": 572043,
-      "name": "Yang Mi",
-      "popularity": 8.8,
+      "id": 3578019,
+      "name": "Eve Ryan",
+      "popularity": 9.1,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 2000,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lPQ9RgOj5hY5AYRJ8G1CedjdCGz.jpg",
+      "profilePath": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg",
       "knownFor": [
-        "A Writer's Odyssey",
-        "Reset",
-        "Tiny Times"
+        "My Fault",
+        "Tell Me Softly",
+        "Boulevard"
       ]
     },
     {
-      "id": 3371804,
-      "name": "Christine Bermas",
-      "popularity": 9.4,
+      "id": 1892,
+      "name": "Matt Damon",
+      "popularity": 9,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
+      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
       "knownFor": [
-        "Rita",
-        "Scorpio Nights 3",
-        "Bedspacer"
+        "The Martian",
+        "Good Will Hunting",
+        "The Bourne Identity"
       ]
     },
     {
-      "id": 1222298,
-      "name": "Bridget Regan",
-      "popularity": 11.1,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 11.9,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ri1kEBkWa9ShTYbV2iJAFa0V4VU.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "John Wick",
-        "Marvel's Agent Carter",
-        "Legend of the Seeker"
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     },
     {
-      "id": 1438183,
-      "name": "Anne Birch",
-      "popularity": 15.1,
+      "id": 64238,
+      "name": "Randolph Mantooth",
+      "popularity": 7.9,
       "isAlive": false,
       "birthYear": 1945,
-      "deathDate": "1985-08-09",
-      "deathAge": 40,
-      "profilePath": "/rb9ZJXY6CQ2fEZLKR1TR6Cez8mt.jpg",
+      "deathDate": "2026-07-09",
+      "deathAge": 80,
+      "profilePath": "/mpyRvMaih07SmFqZNVGm34EoSu3.jpg",
       "knownFor": [
-        "Elise",
-        "Vandalism",
-        "The Gangster's Apprentice"
+        "He Was a Quiet Man",
+        "Emergency!",
+        "Agent Red"
       ]
     },
     {
-      "id": 945130,
-      "name": "Chikako Aoyama",
-      "popularity": 12.7,
+      "id": 2478377,
+      "name": "Ella Bright",
+      "popularity": 9.1,
       "isAlive": true,
-      "birthYear": 1966,
+      "birthYear": 2006,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kgYeNoOCwqxDCznoeXif50gqwi1.jpg",
+      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
       "knownFor": [
-        "Robotrix",
-        "Door II: Tokyo Diary",
-        "Taboo"
+        "Off Campus",
+        "Holmes & Watson",
+        "Malory Towers"
       ]
     }
   ]
