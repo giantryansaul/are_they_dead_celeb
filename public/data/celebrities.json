@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-07-14T03:22:23.495Z",
+  "generatedAt": "2026-07-15T03:22:42.243Z",
   "celebrities": [
     {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 20,
+      "id": 2072389,
+      "name": "Lana Rhodes",
+      "popularity": 15,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+      "profilePath": "/23xjaYjxyq2pcU704tJ8uvjr4FS.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 3",
-        "Beauty Salon: Special Service 4"
-      ]
-    },
-    {
-      "id": 17770,
-      "name": "Kevin Tighe",
-      "popularity": 10.3,
-      "isAlive": true,
-      "birthYear": 1944,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/t4LMNB2Rhu9SLbr64gOW5V4sW96.jpg",
-      "knownFor": [
-        "What's Eating Gilbert Grape",
-        "K-9",
-        "One Battle After Another"
+        "A História de Ester",
+        "Xuxa and the Elves",
+        "Xuxa Requebra"
       ]
     },
     {
@@ -47,33 +32,48 @@
       ]
     },
     {
-      "id": 1590823,
-      "name": "Lee Yuet-Sin",
-      "popularity": 9.7,
+      "id": 5235257,
+      "name": "Kim Sun-young",
+      "popularity": 10,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/9OY8hYhygzABioZmyEoBU3yTDgk.jpg",
+      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
       "knownFor": [
-        "Sex Racecourse",
-        "My Better Half",
-        "Pretty Woman"
+        "The Chaser",
+        "Love Lesson",
+        "Female War: A Nasty Deal"
       ]
     },
     {
-      "id": 2956795,
-      "name": "Hina Youmiya",
-      "popularity": 13.9,
-      "isAlive": true,
-      "birthYear": 2000,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/tOy21NTNnKuZG48JCL673tTP16z.jpg",
+      "id": 2103266,
+      "name": "Viktor Yegorov",
+      "popularity": 10.3,
+      "isAlive": false,
+      "birthYear": 1936,
+      "deathDate": "1988-01-22",
+      "deathAge": 51,
+      "profilePath": "/38Cdzy8TKpeL5wO7ROqAclbCRli.jpg",
       "knownFor": [
-        "The Dangers in My Heart",
-        "BanG Dream! It's MyGO!!!!!",
-        "SHOSHIMIN: How to Become Ordinary"
+        "The Unamenables",
+        "Light in the Window",
+        "Loneliness"
+      ]
+    },
+    {
+      "id": 4783,
+      "name": "Sam Neill",
+      "popularity": 55.3,
+      "isAlive": false,
+      "birthYear": 1947,
+      "deathDate": "2026-07-13",
+      "deathAge": 78,
+      "profilePath": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
+      "knownFor": [
+        "Jurassic Park",
+        "Jurassic Park III",
+        "Peaky Blinders"
       ]
     }
   ]
