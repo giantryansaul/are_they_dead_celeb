@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-16T03:29:02.934Z",
+  "generatedAt": "2026-07-17T03:31:05.981Z",
   "celebrities": [
     {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 16.7,
+      "id": 5235257,
+      "name": "Kim Sun-young",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 3",
-        "Beauty Salon: Special Service 4"
+        "The Chaser",
+        "Love Lesson",
+        "Female War: A Nasty Deal"
       ]
     },
     {
-      "id": 3194201,
-      "name": "Ui Mihara",
-      "popularity": 13.3,
+      "id": 83487,
+      "name": "Xie Miao",
+      "popularity": 13.5,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
+      "profilePath": "/wMs2w0GsTLStLHTEDyd1FfNhzuv.jpg",
       "knownFor": [
-        "Takara's Treasure",
-        "Call Me by No-Name",
-        "Wingman"
+        "Ip Man: The Awakening",
+        "The Furious",
+        "The Enforcer"
       ]
     },
     {
-      "id": 1320544,
-      "name": "Daniella Wang",
-      "popularity": 12.3,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 8.8,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "Due West: Our Sex Journey",
-        "Midnight Hair",
-        "Crazy Tsunami"
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     },
     {
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 2103266,
-      "name": "Viktor Yegorov",
-      "popularity": 104.5,
+      "id": 1810,
+      "name": "Heath Ledger",
+      "popularity": 4.8,
       "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "1988-01-22",
-      "deathAge": 51,
-      "profilePath": null,
+      "birthYear": 1979,
+      "deathDate": "2008-01-22",
+      "deathAge": 28,
+      "profilePath": "/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg",
       "knownFor": [
-        "The Unamenables",
-        "Light in the Window",
-        "Loneliness"
+        "The Dark Knight",
+        "10 Things I Hate About You",
+        "Brokeback Mountain"
       ]
     }
   ]
