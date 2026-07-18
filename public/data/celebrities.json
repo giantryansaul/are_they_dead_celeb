@@ -1,40 +1,25 @@
 {
-  "generatedAt": "2026-07-17T03:31:05.981Z",
+  "generatedAt": "2026-07-18T03:20:53.611Z",
   "celebrities": [
     {
-      "id": 5235257,
-      "name": "Kim Sun-young",
-      "popularity": 10.7,
+      "id": 122822,
+      "name": "Yvonne Yung Hung",
+      "popularity": 13,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1968,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
+      "profilePath": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
       "knownFor": [
-        "The Chaser",
-        "Love Lesson",
-        "Female War: A Nasty Deal"
-      ]
-    },
-    {
-      "id": 83487,
-      "name": "Xie Miao",
-      "popularity": 13.5,
-      "isAlive": true,
-      "birthYear": 1984,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/wMs2w0GsTLStLHTEDyd1FfNhzuv.jpg",
-      "knownFor": [
-        "Ip Man: The Awakening",
-        "The Furious",
-        "The Enforcer"
+        "The Legend of Drunken Master",
+        "A Chinese Torture Chamber Story",
+        "Sex and the Emperor"
       ]
     },
     {
       "id": 31,
       "name": "Tom Hanks",
-      "popularity": 8.8,
+      "popularity": 13.5,
       "isAlive": true,
       "birthYear": 1956,
       "deathDate": null,
@@ -47,9 +32,24 @@
       ]
     },
     {
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "popularity": 16.7,
+      "isAlive": true,
+      "birthYear": 2001,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
+      "knownFor": [
+        "Obsession",
+        "Superman & Lois",
+        "Trap House"
+      ]
+    },
+    {
       "id": 4783,
       "name": "Sam Neill",
-      "popularity": 34.4,
+      "popularity": 31.1,
       "isAlive": false,
       "birthYear": 1947,
       "deathDate": "2026-07-13",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1810,
-      "name": "Heath Ledger",
-      "popularity": 4.8,
+      "id": 2103266,
+      "name": "Viktor Yegorov",
+      "popularity": 37.8,
       "isAlive": false,
-      "birthYear": 1979,
-      "deathDate": "2008-01-22",
-      "deathAge": 28,
-      "profilePath": "/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg",
+      "birthYear": 1936,
+      "deathDate": "1988-01-22",
+      "deathAge": 51,
+      "profilePath": null,
       "knownFor": [
-        "The Dark Knight",
-        "10 Things I Hate About You",
-        "Brokeback Mountain"
+        "The Unamenables",
+        "Light in the Window",
+        "Loneliness"
       ]
     }
   ]
