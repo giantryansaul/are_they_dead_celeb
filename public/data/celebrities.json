@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-07-18T03:20:53.611Z",
+  "generatedAt": "2026-07-19T03:41:32.662Z",
   "celebrities": [
     {
-      "id": 122822,
-      "name": "Yvonne Yung Hung",
-      "popularity": 13,
+      "id": 1397778,
+      "name": "Anya Taylor-Joy",
+      "popularity": 10.9,
       "isAlive": true,
-      "birthYear": 1968,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
+      "profilePath": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
       "knownFor": [
-        "The Legend of Drunken Master",
-        "A Chinese Torture Chamber Story",
-        "Sex and the Emperor"
+        "Split",
+        "The Witch",
+        "The Menu"
       ]
     },
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 13.5,
+      "id": 1813,
+      "name": "Anne Hathaway",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
+        "Interstellar",
+        "The Devil Wears Prada",
+        "The Princess Diaries"
       ]
     },
     {
-      "id": 2638587,
-      "name": "Inde Navarrette",
-      "popularity": 16.7,
+      "id": 26755,
+      "name": "Charlie Cho Cha-Lee",
+      "popularity": 16.1,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
+      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
       "knownFor": [
-        "Obsession",
-        "Superman & Lois",
-        "Trap House"
+        "Police Story",
+        "Police Story 2",
+        "The Golden Lotus: Love and Desire"
       ]
     },
     {
       "id": 4783,
       "name": "Sam Neill",
-      "popularity": 31.1,
+      "popularity": 29.2,
       "isAlive": false,
       "birthYear": 1947,
       "deathDate": "2026-07-13",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 2103266,
-      "name": "Viktor Yegorov",
-      "popularity": 37.8,
+      "id": 1472472,
+      "name": "Fred C. Jones",
+      "popularity": 12.6,
       "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "1988-01-22",
-      "deathAge": 51,
+      "birthYear": 1884,
+      "deathDate": "1966-01-01",
+      "deathAge": 81,
       "profilePath": null,
       "knownFor": [
-        "The Unamenables",
-        "Light in the Window",
-        "Loneliness"
+        "The Girl Without a Soul",
+        "A Woman in Grey",
+        "Unconquered Woman"
       ]
     }
   ]
