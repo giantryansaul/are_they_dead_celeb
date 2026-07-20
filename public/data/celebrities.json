@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-19T03:41:32.662Z",
+  "generatedAt": "2026-07-20T03:55:19.583Z",
   "celebrities": [
     {
-      "id": 1397778,
-      "name": "Anya Taylor-Joy",
-      "popularity": 10.9,
+      "id": 2933480,
+      "name": "Jean Janssens",
+      "popularity": 20.4,
+      "isAlive": true,
+      "birthYear": 1999,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/8GJxmQLgiC0ftgMNdI89CnzjbnB.jpg",
+      "knownFor": [
+        "Arcadia",
+        "Lisa",
+        "GameKeepers"
+      ]
+    },
+    {
+      "id": 505710,
+      "name": "Zendaya",
+      "popularity": 12.3,
       "isAlive": true,
       "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
+      "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
       "knownFor": [
-        "Split",
-        "The Witch",
-        "The Menu"
+        "Spider-Man: No Way Home",
+        "Euphoria",
+        "Dune: Part Two"
       ]
     },
     {
-      "id": 1813,
-      "name": "Anne Hathaway",
-      "popularity": 11.5,
+      "id": 2065258,
+      "name": "Cemre Baysel",
+      "popularity": 10.5,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1999,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "profilePath": "/c6ftdtt8o8NCp5o8v7rJmmhlQ3C.jpg",
       "knownFor": [
-        "Interstellar",
-        "The Devil Wears Prada",
-        "The Princess Diaries"
-      ]
-    },
-    {
-      "id": 26755,
-      "name": "Charlie Cho Cha-Lee",
-      "popularity": 16.1,
-      "isAlive": true,
-      "birthYear": 1950,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
-      "knownFor": [
-        "Police Story",
-        "Police Story 2",
-        "The Golden Lotus: Love and Desire"
+        "Leyla",
+        "The Beauty Inside",
+        "Twist of Fate"
       ]
     },
     {
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1472472,
-      "name": "Fred C. Jones",
-      "popularity": 12.6,
+      "id": 2103266,
+      "name": "Viktor Yegorov",
+      "popularity": 24.7,
       "isAlive": false,
-      "birthYear": 1884,
-      "deathDate": "1966-01-01",
-      "deathAge": 81,
+      "birthYear": 1936,
+      "deathDate": "1988-01-22",
+      "deathAge": 51,
       "profilePath": null,
       "knownFor": [
-        "The Girl Without a Soul",
-        "A Woman in Grey",
-        "Unconquered Woman"
+        "The Unamenables",
+        "Light in the Window",
+        "Loneliness"
       ]
     }
   ]
