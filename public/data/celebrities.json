@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-07-20T03:55:19.583Z",
+  "generatedAt": "2026-07-21T03:34:52.278Z",
   "celebrities": [
     {
-      "id": 2933480,
-      "name": "Jean Janssens",
-      "popularity": 20.4,
+      "id": 3194201,
+      "name": "Ui Mihara",
+      "popularity": 11.9,
       "isAlive": true,
-      "birthYear": 1999,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8GJxmQLgiC0ftgMNdI89CnzjbnB.jpg",
+      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
       "knownFor": [
-        "Arcadia",
-        "Lisa",
-        "GameKeepers"
+        "Takara's Treasure",
+        "Call Me by No-Name",
+        "Wingman"
       ]
     },
     {
-      "id": 505710,
-      "name": "Zendaya",
-      "popularity": 12.3,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 13.4,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "Spider-Man: No Way Home",
-        "Euphoria",
-        "Dune: Part Two"
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     },
     {
-      "id": 2065258,
-      "name": "Cemre Baysel",
-      "popularity": 10.5,
+      "id": 19498,
+      "name": "Jon Bernthal",
+      "popularity": 10.6,
       "isAlive": true,
-      "birthYear": 1999,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/c6ftdtt8o8NCp5o8v7rJmmhlQ3C.jpg",
+      "profilePath": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
       "knownFor": [
-        "Leyla",
-        "The Beauty Inside",
-        "Twist of Fate"
+        "The Walking Dead",
+        "The Wolf of Wall Street",
+        "Marvel's The Punisher"
       ]
     },
     {
       "id": 4783,
       "name": "Sam Neill",
-      "popularity": 29.2,
+      "popularity": 25.3,
       "isAlive": false,
       "birthYear": 1947,
       "deathDate": "2026-07-13",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 2103266,
-      "name": "Viktor Yegorov",
-      "popularity": 24.7,
-      "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "1988-01-22",
-      "deathAge": 51,
-      "profilePath": null,
+      "id": 115440,
+      "name": "Sydney Sweeney",
+      "popularity": 10.8,
+      "isAlive": true,
+      "birthYear": 1997,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
       "knownFor": [
-        "The Unamenables",
-        "Light in the Window",
-        "Loneliness"
+        "Euphoria",
+        "Anyone but You",
+        "The Housemaid"
       ]
     }
   ]
