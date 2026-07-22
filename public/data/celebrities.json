@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-07-21T03:34:52.278Z",
+  "generatedAt": "2026-07-22T03:34:58.715Z",
   "celebrities": [
     {
-      "id": 3194201,
-      "name": "Ui Mihara",
-      "popularity": 11.9,
+      "id": 2676077,
+      "name": "Julia Doyle",
+      "popularity": 26,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 2003,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
+      "profilePath": "/k4afhKG1dBeD36SkHHnwIdsPbB6.jpg",
       "knownFor": [
-        "Takara's Treasure",
-        "Call Me by No-Name",
-        "Wingman"
+        "FROM",
+        "Hell of a Summer",
+        "Astrid & Lilly Save the World"
       ]
     },
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 13.4,
+      "id": 1892,
+      "name": "Matt Damon",
+      "popularity": 16,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
+        "The Martian",
+        "Good Will Hunting",
+        "The Bourne Identity"
       ]
     },
     {
-      "id": 19498,
-      "name": "Jon Bernthal",
-      "popularity": 10.6,
+      "id": 5423994,
+      "name": "Chloe Breen",
+      "popularity": 9.6,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1999,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+      "profilePath": "/oKBTQeGcQBM5aHNHwAqVWPjDVfz.jpg",
       "knownFor": [
-        "The Walking Dead",
-        "The Wolf of Wall Street",
-        "Marvel's The Punisher"
+        "Obsession",
+        "The Mask: Gone Viral",
+        "The Slasher Movie"
       ]
     },
     {
       "id": 4783,
       "name": "Sam Neill",
-      "popularity": 25.3,
+      "popularity": 15.7,
       "isAlive": false,
       "birthYear": 1947,
       "deathDate": "2026-07-13",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 115440,
-      "name": "Sydney Sweeney",
-      "popularity": 10.8,
-      "isAlive": true,
-      "birthYear": 1997,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "id": 70439,
+      "name": "Patrick Tse Yin",
+      "popularity": 10.5,
+      "isAlive": false,
+      "birthYear": 1936,
+      "deathDate": "2026-07-16",
+      "deathAge": 89,
+      "profilePath": "/kqfgBxSQ8OflEQtWuKcvgjhkteD.jpg",
       "knownFor": [
-        "Euphoria",
-        "Anyone but You",
-        "The Housemaid"
+        "Shaolin Soccer",
+        "Time",
+        "Rouge"
       ]
     }
   ]
