@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-07-22T03:34:58.715Z",
+  "generatedAt": "2026-07-23T03:37:10.342Z",
   "celebrities": [
     {
-      "id": 2676077,
-      "name": "Julia Doyle",
-      "popularity": 26,
+      "id": 1253360,
+      "name": "Pedro Pascal",
+      "popularity": 9.2,
       "isAlive": true,
-      "birthYear": 2003,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/k4afhKG1dBeD36SkHHnwIdsPbB6.jpg",
+      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
       "knownFor": [
-        "FROM",
-        "Hell of a Summer",
-        "Astrid & Lilly Save the World"
+        "The Mandalorian",
+        "The Last of Us",
+        "The Fantastic 4: First Steps"
       ]
     },
     {
-      "id": 1892,
-      "name": "Matt Damon",
-      "popularity": 16,
+      "id": 1136406,
+      "name": "Tom Holland",
+      "popularity": 14.9,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+      "profilePath": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
       "knownFor": [
-        "The Martian",
-        "Good Will Hunting",
-        "The Bourne Identity"
+        "Spider-Man: Homecoming",
+        "Spider-Man: No Way Home",
+        "Spider-Man: Far From Home"
       ]
     },
     {
-      "id": 5423994,
-      "name": "Chloe Breen",
-      "popularity": 9.6,
+      "id": 126932,
+      "name": "Elisabeth Röhm",
+      "popularity": 10.5,
       "isAlive": true,
-      "birthYear": 1999,
+      "birthYear": 1973,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oKBTQeGcQBM5aHNHwAqVWPjDVfz.jpg",
+      "profilePath": "/hIlBBZD2Rou4to1OauI799jV1UH.jpg",
       "knownFor": [
-        "Obsession",
-        "The Mask: Gone Viral",
-        "The Slasher Movie"
+        "American Hustle",
+        "Joy",
+        "Abduction"
       ]
     },
     {
       "id": 4783,
       "name": "Sam Neill",
-      "popularity": 15.7,
+      "popularity": 12.7,
       "isAlive": false,
       "birthYear": 1947,
       "deathDate": "2026-07-13",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 70439,
-      "name": "Patrick Tse Yin",
-      "popularity": 10.5,
+      "id": 2948491,
+      "name": "Kaylee Hottle",
+      "popularity": 11.6,
       "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "2026-07-16",
-      "deathAge": 89,
-      "profilePath": "/kqfgBxSQ8OflEQtWuKcvgjhkteD.jpg",
+      "birthYear": 2007,
+      "deathDate": "2026-07-21",
+      "deathAge": 19,
+      "profilePath": "/2JPJ8GJf5hPGdXjOwZcj8o79DXB.jpg",
       "knownFor": [
-        "Shaolin Soccer",
-        "Time",
-        "Rouge"
+        "Godzilla vs. Kong",
+        "Godzilla x Kong: The New Empire",
+        "Magnum P.I."
       ]
     }
   ]
