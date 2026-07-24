@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-07-23T03:37:10.342Z",
+  "generatedAt": "2026-07-24T03:34:47.339Z",
   "celebrities": [
     {
-      "id": 1253360,
-      "name": "Pedro Pascal",
-      "popularity": 9.2,
-      "isAlive": true,
-      "birthYear": 1975,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
-      "knownFor": [
-        "The Mandalorian",
-        "The Last of Us",
-        "The Fantastic 4: First Steps"
-      ]
-    },
-    {
-      "id": 1136406,
-      "name": "Tom Holland",
-      "popularity": 14.9,
+      "id": 1397778,
+      "name": "Anya Taylor-Joy",
+      "popularity": 15.3,
       "isAlive": true,
       "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+      "profilePath": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
       "knownFor": [
-        "Spider-Man: Homecoming",
-        "Spider-Man: No Way Home",
-        "Spider-Man: Far From Home"
+        "Split",
+        "The Witch",
+        "The Menu"
       ]
     },
     {
-      "id": 126932,
-      "name": "Elisabeth Röhm",
-      "popularity": 10.5,
+      "id": 234352,
+      "name": "Margot Robbie",
+      "popularity": 10.3,
       "isAlive": true,
-      "birthYear": 1973,
+      "birthYear": 1990,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/hIlBBZD2Rou4to1OauI799jV1UH.jpg",
+      "profilePath": "/au6Hq8nQXJD67mDtl34ZOm8DXrh.jpg",
       "knownFor": [
-        "American Hustle",
-        "Joy",
-        "Abduction"
+        "Barbie",
+        "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "The Suicide Squad"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Gary Oldman",
+      "popularity": 9.5,
+      "isAlive": true,
+      "birthYear": 1958,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg",
+      "knownFor": [
+        "The Dark Knight Rises",
+        "The Dark Knight",
+        "Bram Stoker's Dracula"
       ]
     },
     {
       "id": 4783,
       "name": "Sam Neill",
-      "popularity": 12.7,
+      "popularity": 11.6,
       "isAlive": false,
       "birthYear": 1947,
       "deathDate": "2026-07-13",
@@ -64,7 +64,7 @@
     {
       "id": 2948491,
       "name": "Kaylee Hottle",
-      "popularity": 11.6,
+      "popularity": 14.1,
       "isAlive": false,
       "birthYear": 2007,
       "deathDate": "2026-07-21",
