@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-07-25T03:31:41.429Z",
+  "generatedAt": "2026-07-26T03:47:46.864Z",
   "celebrities": [
     {
-      "id": 945130,
-      "name": "Chikako Aoyama",
-      "popularity": 9.9,
+      "id": 1253360,
+      "name": "Pedro Pascal",
+      "popularity": 9.3,
       "isAlive": true,
-      "birthYear": 1966,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kgYeNoOCwqxDCznoeXif50gqwi1.jpg",
+      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
       "knownFor": [
-        "Robotrix",
-        "Door II: Tokyo Diary",
-        "Taboo"
+        "The Mandalorian",
+        "The Last of Us",
+        "The Fantastic 4: First Steps"
       ]
     },
     {
-      "id": 18897,
-      "name": "Jackie Chan",
-      "popularity": 11.9,
+      "id": 126932,
+      "name": "Elisabeth Röhm",
+      "popularity": 11.1,
       "isAlive": true,
-      "birthYear": 1954,
+      "birthYear": 1973,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+      "profilePath": "/hIlBBZD2Rou4to1OauI799jV1UH.jpg",
       "knownFor": [
-        "Rush Hour",
-        "Rush Hour 2",
-        "Rush Hour 3"
+        "American Hustle",
+        "Joy",
+        "Abduction"
       ]
     },
     {
-      "id": 2478377,
-      "name": "Ella Bright",
-      "popularity": 9.1,
+      "id": 974169,
+      "name": "Jenna Ortega",
+      "popularity": 10.3,
       "isAlive": true,
-      "birthYear": 2006,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg",
+      "profilePath": "/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg",
       "knownFor": [
-        "Off Campus",
-        "Holmes & Watson",
-        "Malory Towers"
-      ]
-    },
-    {
-      "id": 2948491,
-      "name": "Kaylee Hottle",
-      "popularity": 11.3,
-      "isAlive": false,
-      "birthYear": 2007,
-      "deathDate": "2026-07-21",
-      "deathAge": 19,
-      "profilePath": "/2JPJ8GJf5hPGdXjOwZcj8o79DXB.jpg",
-      "knownFor": [
-        "Godzilla vs. Kong",
-        "Godzilla x Kong: The New Empire",
-        "Magnum P.I."
+        "Wednesday",
+        "X",
+        "Scream"
       ]
     },
     {
       "id": 4783,
       "name": "Sam Neill",
-      "popularity": 11.6,
+      "popularity": 9.9,
       "isAlive": false,
       "birthYear": 1947,
       "deathDate": "2026-07-13",
@@ -74,6 +59,21 @@
         "Jurassic Park",
         "Jurassic Park III",
         "Peaky Blinders"
+      ]
+    },
+    {
+      "id": 2948491,
+      "name": "Kaylee Hottle",
+      "popularity": 10.6,
+      "isAlive": false,
+      "birthYear": 2008,
+      "deathDate": "2026-07-21",
+      "deathAge": 18,
+      "profilePath": "/2JPJ8GJf5hPGdXjOwZcj8o79DXB.jpg",
+      "knownFor": [
+        "Godzilla vs. Kong",
+        "Godzilla x Kong: The New Empire",
+        "Magnum P.I."
       ]
     }
   ]
