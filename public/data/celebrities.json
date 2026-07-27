@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-07-26T03:47:46.864Z",
+  "generatedAt": "2026-07-27T03:55:56.828Z",
   "celebrities": [
     {
-      "id": 1253360,
-      "name": "Pedro Pascal",
-      "popularity": 9.3,
+      "id": 64295,
+      "name": "Alan Ritchson",
+      "popularity": 10,
       "isAlive": true,
-      "birthYear": 1975,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
+      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
       "knownFor": [
-        "The Mandalorian",
-        "The Last of Us",
-        "The Fantastic 4: First Steps"
+        "Teenage Mutant Ninja Turtles",
+        "Reacher",
+        "War Machine"
       ]
     },
     {
-      "id": 126932,
-      "name": "Elisabeth Röhm",
-      "popularity": 11.1,
-      "isAlive": true,
-      "birthYear": 1973,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/hIlBBZD2Rou4to1OauI799jV1UH.jpg",
-      "knownFor": [
-        "American Hustle",
-        "Joy",
-        "Abduction"
-      ]
-    },
-    {
-      "id": 974169,
-      "name": "Jenna Ortega",
-      "popularity": 10.3,
+      "id": 3194201,
+      "name": "Ui Mihara",
+      "popularity": 9.7,
       "isAlive": true,
       "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg",
+      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
       "knownFor": [
-        "Wednesday",
-        "X",
-        "Scream"
+        "Takara's Treasure",
+        "Call Me by No-Name",
+        "Wingman"
       ]
     },
     {
-      "id": 4783,
-      "name": "Sam Neill",
-      "popularity": 9.9,
-      "isAlive": false,
-      "birthYear": 1947,
-      "deathDate": "2026-07-13",
-      "deathAge": 78,
-      "profilePath": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
+      "id": 572043,
+      "name": "Yang Mi",
+      "popularity": 12.4,
+      "isAlive": true,
+      "birthYear": 1986,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/x5EsYXKH2Kdc6QPYhoaSoAsnsjw.jpg",
       "knownFor": [
-        "Jurassic Park",
-        "Jurassic Park III",
-        "Peaky Blinders"
+        "A Writer's Odyssey",
+        "Reset",
+        "Tiny Times"
       ]
     },
     {
       "id": 2948491,
       "name": "Kaylee Hottle",
-      "popularity": 10.6,
+      "popularity": 9.5,
       "isAlive": false,
       "birthYear": 2008,
       "deathDate": "2026-07-21",
@@ -74,6 +59,21 @@
         "Godzilla vs. Kong",
         "Godzilla x Kong: The New Empire",
         "Magnum P.I."
+      ]
+    },
+    {
+      "id": 1813,
+      "name": "Anne Hathaway",
+      "popularity": 15.8,
+      "isAlive": true,
+      "birthYear": 1982,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "knownFor": [
+        "Interstellar",
+        "The Devil Wears Prada",
+        "The Princess Diaries"
       ]
     }
   ]
