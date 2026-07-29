@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-28T03:27:23.783Z",
+  "generatedAt": "2026-07-29T03:29:49.234Z",
   "celebrities": [
     {
-      "id": 19498,
-      "name": "Jon Bernthal",
-      "popularity": 12.2,
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 10.2,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1962,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+      "profilePath": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
       "knownFor": [
-        "The Walking Dead",
-        "The Wolf of Wall Street",
-        "Marvel's The Punisher"
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
       ]
     },
     {
       "id": 1892,
       "name": "Matt Damon",
-      "popularity": 17.7,
+      "popularity": 17.5,
       "isAlive": true,
       "birthYear": 1970,
       "deathDate": null,
@@ -32,48 +32,48 @@
       ]
     },
     {
-      "id": 1139664,
-      "name": "Jillian Ward",
-      "popularity": 8.1,
-      "isAlive": true,
-      "birthYear": 2005,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/gFOfcwLEFN7zVa6tsh4dOhoCPto.jpg",
-      "knownFor": [
-        "Abot-Kamay Na Pangarap",
-        "Aswang",
-        "Prima Donnas"
-      ]
-    },
-    {
-      "id": 2676077,
-      "name": "Julia Doyle",
-      "popularity": 26.9,
-      "isAlive": true,
-      "birthYear": 2003,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/k4afhKG1dBeD36SkHHnwIdsPbB6.jpg",
-      "knownFor": [
-        "FROM",
-        "Hell of a Summer",
-        "Astrid & Lilly Save the World"
-      ]
-    },
-    {
-      "id": 11288,
-      "name": "Robert Pattinson",
-      "popularity": 11.8,
+      "id": 1183234,
+      "name": "Gan Tingting",
+      "popularity": 10,
       "isAlive": true,
       "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+      "profilePath": "/pGGWKxPNw0d9uynlzxq4xKQPhN2.jpg",
       "knownFor": [
-        "The Batman",
-        "Twilight",
-        "Tenet"
+        "Drug War",
+        "General and I",
+        "Kung Fu Dunk"
+      ]
+    },
+    {
+      "id": 24530,
+      "name": "René Goscinny",
+      "popularity": 10.3,
+      "isAlive": false,
+      "birthYear": 1926,
+      "deathDate": "1977-11-05",
+      "deathAge": 51,
+      "profilePath": "/z3fYRh33fBTYChnyZPWy4X7jcih.jpg",
+      "knownFor": [
+        "Asterix & Obelix: Mission Cleopatra",
+        "Asterix at the Olympic Games",
+        "Asterix and Obelix Take On Caesar"
+      ]
+    },
+    {
+      "id": 26755,
+      "name": "Charlie Cho Cha-Lee",
+      "popularity": 15.5,
+      "isAlive": true,
+      "birthYear": 1950,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
+      "knownFor": [
+        "Police Story",
+        "Police Story 2",
+        "The Golden Lotus: Love and Desire"
       ]
     }
   ]
