@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-30T03:17:12.953Z",
+  "generatedAt": "2026-07-31T03:43:52.611Z",
   "celebrities": [
     {
-      "id": 3164807,
-      "name": "Yoon Yool",
-      "popularity": 20.9,
+      "id": 126932,
+      "name": "Elisabeth Röhm",
+      "popularity": 11.8,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1973,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "profilePath": "/hIlBBZD2Rou4to1OauI799jV1UH.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Dangerous Younger Cousin",
-        "Youngest Sister Class"
+        "American Hustle",
+        "Joy",
+        "Abduction"
       ]
     },
     {
@@ -31,48 +31,48 @@
       ]
     },
     {
-      "id": 18897,
-      "name": "Jackie Chan",
-      "popularity": 11.8,
+      "id": 64439,
+      "name": "Fan Bingbing",
+      "popularity": 12.6,
       "isAlive": true,
-      "birthYear": 1954,
+      "birthYear": 1981,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+      "profilePath": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
       "knownFor": [
-        "Rush Hour",
-        "Rush Hour 2",
-        "Rush Hour 3"
+        "X-Men: Days of Future Past",
+        "Ice Road: Vengeance",
+        "Skiptrace"
       ]
     },
     {
-      "id": 1213757,
-      "name": "David Angell",
-      "popularity": 11,
-      "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2001-09-11",
-      "deathAge": 55,
-      "profilePath": null,
+      "id": 2963,
+      "name": "Nicolas Cage",
+      "popularity": 10.5,
+      "isAlive": true,
+      "birthYear": 1964,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
       "knownFor": [
-        "Frasier",
-        "Cheers",
-        "Wings"
+        "The Croods",
+        "National Treasure",
+        "Ghost Rider"
       ]
     },
     {
-      "id": 1721740,
-      "name": "Camila Mendes",
-      "popularity": 11.4,
+      "id": 5235257,
+      "name": "Kim Sun-young",
+      "popularity": 12.4,
       "isAlive": true,
-      "birthYear": 1994,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg",
+      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
       "knownFor": [
-        "Riverdale",
-        "Upgraded",
-        "Do Revenge"
+        "The Chaser",
+        "Love Lesson",
+        "Female War: A Nasty Deal"
       ]
     }
   ]
