@@ -1,78 +1,79 @@
 {
-  "generatedAt": "2026-07-31T03:43:52.611Z",
+  "generatedAt": "2026-08-01T03:43:21.975Z",
   "celebrities": [
     {
-      "id": 126932,
-      "name": "Elisabeth Röhm",
-      "popularity": 11.8,
+      "id": 5081,
+      "name": "Emily Blunt",
+      "popularity": 12.2,
       "isAlive": true,
-      "birthYear": 1973,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/hIlBBZD2Rou4to1OauI799jV1UH.jpg",
+      "profilePath": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg",
       "knownFor": [
-        "American Hustle",
-        "Joy",
-        "Abduction"
+        "A Quiet Place",
+        "Sicario",
+        "Edge of Tomorrow"
       ]
     },
     {
-      "id": 5727228,
-      "name": "Helin Elveren",
-      "popularity": 10.4,
+      "id": 1245,
+      "name": "Scarlett Johansson",
+      "popularity": 14.4,
       "isAlive": true,
-      "birthYear": 2005,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nN3WSJXmkpOS8TXUsBXC9LU51sG.jpg",
+      "profilePath": "/druW5adKddizHNSoPbI0q7Mvn0K.jpg",
       "knownFor": [
-        "Reborn",
-        "Torn Apart"
+        "Lucy",
+        "Black Widow",
+        "Ghost in the Shell"
       ]
     },
     {
-      "id": 64439,
-      "name": "Fan Bingbing",
-      "popularity": 12.6,
+      "id": 505710,
+      "name": "Zendaya",
+      "popularity": 21.3,
       "isAlive": true,
-      "birthYear": 1981,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
+      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
       "knownFor": [
-        "X-Men: Days of Future Past",
-        "Ice Road: Vengeance",
-        "Skiptrace"
+        "Spider-Man: No Way Home",
+        "Euphoria",
+        "Dune: Part Two"
       ]
     },
     {
-      "id": 2963,
-      "name": "Nicolas Cage",
-      "popularity": 10.5,
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "popularity": 16.7,
       "isAlive": true,
-      "birthYear": 1964,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
       "knownFor": [
-        "The Croods",
-        "National Treasure",
-        "Ghost Rider"
+        "Obsession",
+        "Superman & Lois",
+        "Trap House"
       ]
     },
     {
-      "id": 5235257,
-      "name": "Kim Sun-young",
-      "popularity": 12.4,
+      "id": 18897,
+      "name": "Jackie Chan",
+      "popularity": 13.3,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1954,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
+      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
       "knownFor": [
-        "The Chaser",
-        "Love Lesson",
-        "Female War: A Nasty Deal"
+        "Rush Hour",
+        "Rush Hour 2",
+        "Rush Hour 3"
       ]
     }
   ]
