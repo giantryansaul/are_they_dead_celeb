@@ -1,25 +1,10 @@
 {
-  "generatedAt": "2026-08-01T03:43:21.975Z",
+  "generatedAt": "2026-08-02T03:43:33.800Z",
   "celebrities": [
-    {
-      "id": 5081,
-      "name": "Emily Blunt",
-      "popularity": 12.2,
-      "isAlive": true,
-      "birthYear": 1983,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg",
-      "knownFor": [
-        "A Quiet Place",
-        "Sicario",
-        "Edge of Tomorrow"
-      ]
-    },
     {
       "id": 1245,
       "name": "Scarlett Johansson",
-      "popularity": 14.4,
+      "popularity": 13.9,
       "isAlive": true,
       "birthYear": 1984,
       "deathDate": null,
@@ -32,48 +17,63 @@
       ]
     },
     {
-      "id": 505710,
-      "name": "Zendaya",
-      "popularity": 21.3,
+      "id": 2676077,
+      "name": "Julia Doyle",
+      "popularity": 24.4,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 2003,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+      "profilePath": "/k4afhKG1dBeD36SkHHnwIdsPbB6.jpg",
       "knownFor": [
-        "Spider-Man: No Way Home",
-        "Euphoria",
+        "FROM",
+        "Hell of a Summer",
+        "Astrid & Lilly Save the World"
+      ]
+    },
+    {
+      "id": 126932,
+      "name": "Elisabeth Röhm",
+      "popularity": 11.6,
+      "isAlive": true,
+      "birthYear": 1973,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/hIlBBZD2Rou4to1OauI799jV1UH.jpg",
+      "knownFor": [
+        "American Hustle",
+        "Joy",
+        "Abduction"
+      ]
+    },
+    {
+      "id": 976,
+      "name": "Jason Statham",
+      "popularity": 18.2,
+      "isAlive": true,
+      "birthYear": 1967,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
+      "knownFor": [
+        "Snatch",
+        "The Meg",
+        "Wrath of Man"
+      ]
+    },
+    {
+      "id": 933238,
+      "name": "Rebecca Ferguson",
+      "popularity": 9.6,
+      "isAlive": true,
+      "birthYear": 1983,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg",
+      "knownFor": [
+        "Dune",
+        "The Girl on the Train",
         "Dune: Part Two"
-      ]
-    },
-    {
-      "id": 2638587,
-      "name": "Inde Navarrette",
-      "popularity": 16.7,
-      "isAlive": true,
-      "birthYear": 2001,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
-      "knownFor": [
-        "Obsession",
-        "Superman & Lois",
-        "Trap House"
-      ]
-    },
-    {
-      "id": 18897,
-      "name": "Jackie Chan",
-      "popularity": 13.3,
-      "isAlive": true,
-      "birthYear": 1954,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
-      "knownFor": [
-        "Rush Hour",
-        "Rush Hour 2",
-        "Rush Hour 3"
       ]
     }
   ]
