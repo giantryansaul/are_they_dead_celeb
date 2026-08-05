@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-08-04T03:29:43.073Z",
+  "generatedAt": "2026-08-05T03:25:02.147Z",
   "celebrities": [
     {
-      "id": 974169,
-      "name": "Jenna Ortega",
-      "popularity": 11.5,
+      "id": 1892,
+      "name": "Matt Damon",
+      "popularity": 14.9,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg",
+      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
       "knownFor": [
-        "Wednesday",
-        "X",
-        "Scream"
+        "The Martian",
+        "Good Will Hunting",
+        "The Bourne Identity"
       ]
     },
     {
-      "id": 30614,
-      "name": "Ryan Gosling",
-      "popularity": 13.1,
+      "id": 5235257,
+      "name": "Kim Sun-young",
+      "popularity": 12.8,
       "isAlive": true,
       "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
       "knownFor": [
-        "La La Land",
-        "Blade Runner 2049",
-        "Drive"
+        "The Chaser",
+        "Love Lesson",
+        "Female War: A Nasty Deal"
       ]
     },
     {
-      "id": 2963,
-      "name": "Nicolas Cage",
-      "popularity": 10.7,
+      "id": 5081,
+      "name": "Emily Blunt",
+      "popularity": 11.9,
       "isAlive": true,
-      "birthYear": 1964,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+      "profilePath": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg",
       "knownFor": [
-        "The Croods",
-        "National Treasure",
-        "Ghost Rider"
+        "A Quiet Place",
+        "Sicario",
+        "Edge of Tomorrow"
       ]
     },
     {
-      "id": 3164807,
-      "name": "Yoon Yool",
-      "popularity": 34.2,
-      "isAlive": true,
-      "birthYear": 1996,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "id": 1903237,
+      "name": "Martin Horsey",
+      "popularity": 10.6,
+      "isAlive": false,
+      "birthYear": 1945,
+      "deathDate": "2016-10-09",
+      "deathAge": 70,
+      "profilePath": "/tsplZms0GzPUQmrQxxFeG0qfRCo.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Dangerous Younger Cousin",
-        "Youngest Sister Class"
+        "Pirates of the Caribbean: Tales of the Code: Wedlocked",
+        "Too Late the Hero",
+        "The President's Analyst"
       ]
     },
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 16.9,
+      "id": 64295,
+      "name": "Alan Ritchson",
+      "popularity": 10.5,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
+        "Teenage Mutant Ninja Turtles",
+        "Reacher",
+        "War Machine"
       ]
     }
   ]
