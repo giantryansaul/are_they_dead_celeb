@@ -1,25 +1,40 @@
 {
-  "generatedAt": "2026-08-05T03:25:02.147Z",
+  "generatedAt": "2026-08-06T03:28:32.080Z",
   "celebrities": [
     {
-      "id": 1892,
-      "name": "Matt Damon",
-      "popularity": 14.9,
+      "id": 132621,
+      "name": "Christopher Norris",
+      "popularity": 22,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 1953,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+      "profilePath": "/k6HIgQzFcW3CFjZCXDiKOy2LA2Q.jpg",
       "knownFor": [
-        "The Martian",
-        "Good Will Hunting",
-        "The Bourne Identity"
+        "Summer of '42",
+        "Eat My Dust",
+        "Airport 1975"
+      ]
+    },
+    {
+      "id": 66791,
+      "name": "Anastasia Hille",
+      "popularity": 12,
+      "isAlive": true,
+      "birthYear": 1965,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/7xEVIVIizaKG624qheOpCz3I4YE.jpg",
+      "knownFor": [
+        "Snow White and the Huntsman",
+        "The Abandoned",
+        "Mamma Mia! Here We Go Again"
       ]
     },
     {
       "id": 5235257,
       "name": "Kim Sun-young",
-      "popularity": 12.8,
+      "popularity": 12,
       "isAlive": true,
       "birthYear": 1980,
       "deathDate": null,
@@ -32,48 +47,33 @@
       ]
     },
     {
-      "id": 5081,
-      "name": "Emily Blunt",
-      "popularity": 11.9,
+      "id": 234352,
+      "name": "Margot Robbie",
+      "popularity": 10.1,
+      "isAlive": true,
+      "birthYear": 1990,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg",
+      "knownFor": [
+        "Barbie",
+        "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "The Suicide Squad"
+      ]
+    },
+    {
+      "id": 1907997,
+      "name": "Min Do-yoon",
+      "popularity": 18.1,
       "isAlive": true,
       "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg",
+      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
       "knownFor": [
-        "A Quiet Place",
-        "Sicario",
-        "Edge of Tomorrow"
-      ]
-    },
-    {
-      "id": 1903237,
-      "name": "Martin Horsey",
-      "popularity": 10.6,
-      "isAlive": false,
-      "birthYear": 1945,
-      "deathDate": "2016-10-09",
-      "deathAge": 70,
-      "profilePath": "/tsplZms0GzPUQmrQxxFeG0qfRCo.jpg",
-      "knownFor": [
-        "Pirates of the Caribbean: Tales of the Code: Wedlocked",
-        "Too Late the Hero",
-        "The President's Analyst"
-      ]
-    },
-    {
-      "id": 64295,
-      "name": "Alan Ritchson",
-      "popularity": 10.5,
-      "isAlive": true,
-      "birthYear": 1982,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
-      "knownFor": [
-        "Teenage Mutant Ninja Turtles",
-        "Reacher",
-        "War Machine"
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Beauty Salon: Special Service 3",
+        "Beauty Salon: Special Service 4"
       ]
     }
   ]
