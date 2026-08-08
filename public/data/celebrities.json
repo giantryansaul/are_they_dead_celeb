@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-08-07T03:12:16.648Z",
+  "generatedAt": "2026-08-08T02:10:25.170Z",
   "celebrities": [
     {
-      "id": 1222298,
-      "name": "Bridget Regan",
-      "popularity": 10.7,
+      "id": 1136406,
+      "name": "Tom Holland",
+      "popularity": 44.7,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ri1kEBkWa9ShTYbV2iJAFa0V4VU.jpg",
+      "profilePath": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
       "knownFor": [
-        "John Wick",
-        "Marvel's Agent Carter",
-        "Legend of the Seeker"
+        "Spider-Man: Homecoming",
+        "Spider-Man: No Way Home",
+        "Spider-Man: Far From Home"
       ]
     },
     {
-      "id": 1081095,
-      "name": "Diana Pang Dan",
-      "popularity": 10,
+      "id": 18999,
+      "name": "J.K. Simmons",
+      "popularity": 13.5,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1955,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/vkt9leHs5YZ3ywwzxSxWDMwXv2X.jpg",
+      "profilePath": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
       "knownFor": [
-        "The Imp",
-        "Midnight Caller",
-        "The Six Devil Women"
+        "Whiplash",
+        "Spider-Man",
+        "Spider-Man 2"
       ]
     },
     {
-      "id": 550876,
-      "name": "Mayuko Sasaki",
-      "popularity": 22.7,
+      "id": 66791,
+      "name": "Anastasia Hille",
+      "popularity": 11,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 1965,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3SLMYw8kYB9Ubv7yEFVUMVCamj6.jpg",
+      "profilePath": "/7xEVIVIizaKG624qheOpCz3I4YE.jpg",
       "knownFor": [
-        "Psycho Hannibal",
-        "Tokyo Strangler",
-        "No Panties, White Coat, Wet Lower Abdomen"
+        "Snow White and the Huntsman",
+        "The Abandoned",
+        "Mamma Mia! Here We Go Again"
       ]
     },
     {
-      "id": 122822,
-      "name": "Yvonne Yung Hung",
-      "popularity": 60.1,
+      "id": 54693,
+      "name": "Emma Stone",
+      "popularity": 10.5,
       "isAlive": true,
-      "birthYear": 1968,
+      "birthYear": 1988,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
+      "profilePath": "/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg",
       "knownFor": [
-        "The Legend of Drunken Master",
-        "A Chinese Torture Chamber Story",
-        "Sex and the Emperor"
+        "Cruella",
+        "The Amazing Spider-Man",
+        "The Help"
       ]
     },
     {
       "id": 54882,
       "name": "Morena Baccarin",
-      "popularity": 11.3,
+      "popularity": 11.4,
       "isAlive": true,
       "birthYear": 1979,
       "deathDate": null,
