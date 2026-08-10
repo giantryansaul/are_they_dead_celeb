@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-08-09T02:22:34.917Z",
+  "generatedAt": "2026-08-10T02:27:16.022Z",
   "celebrities": [
     {
-      "id": 3223,
-      "name": "Robert Downey Jr.",
-      "popularity": 10.4,
-      "isAlive": true,
-      "birthYear": 1965,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
-      "knownFor": [
-        "The Avengers",
-        "Avengers: Infinity War",
-        "Iron Man"
-      ]
-    },
-    {
-      "id": 5212949,
-      "name": "Anastasia Shestakova",
-      "popularity": 35.3,
-      "isAlive": true,
-      "birthYear": 2002,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
-      "knownFor": [
-        "Detective Chinatown 1900",
-        "Just a Job",
-        "不过是上班"
-      ]
-    },
-    {
-      "id": 5292,
-      "name": "Denzel Washington",
-      "popularity": 9.7,
-      "isAlive": true,
-      "birthYear": 1954,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/jj2Gcobpopokal0YstuCQW0ldJ4.jpg",
-      "knownFor": [
-        "The Equalizer",
-        "The Book of Eli",
-        "Training Day"
-      ]
-    },
-    {
-      "id": 974169,
-      "name": "Jenna Ortega",
-      "popularity": 11.1,
-      "isAlive": true,
-      "birthYear": 2002,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg",
-      "knownFor": [
-        "Wednesday",
-        "X",
-        "Scream"
-      ]
-    },
-    {
-      "id": 589162,
-      "name": "Genesis Rodriguez",
+      "id": 1320544,
+      "name": "Daniella Wang",
       "popularity": 13.2,
       "isAlive": true,
-      "birthYear": 1987,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg",
+      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
       "knownFor": [
-        "Big Hero 6",
-        "Doña Bárbara",
-        "The Umbrella Academy"
+        "Due West: Our Sex Journey",
+        "Midnight Hair",
+        "Crazy Tsunami"
+      ]
+    },
+    {
+      "id": 976,
+      "name": "Jason Statham",
+      "popularity": 19.1,
+      "isAlive": true,
+      "birthYear": 1967,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
+      "knownFor": [
+        "Snatch",
+        "The Meg",
+        "Wrath of Man"
+      ]
+    },
+    {
+      "id": 5235257,
+      "name": "Kim Sun-young",
+      "popularity": 13.3,
+      "isAlive": true,
+      "birthYear": 1980,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
+      "knownFor": [
+        "The Chaser",
+        "Love Lesson",
+        "Female War: A Nasty Deal"
+      ]
+    },
+    {
+      "id": 1484776,
+      "name": "Samuel J. Briskin",
+      "popularity": 10.4,
+      "isAlive": false,
+      "birthYear": 1896,
+      "deathDate": "1968-11-14",
+      "deathAge": 72,
+      "profilePath": null,
+      "knownFor": [
+        "Twentieth Century",
+        "Strategic Air Command",
+        "Breakfast for Two"
+      ]
+    },
+    {
+      "id": 122822,
+      "name": "Yvonne Yung Hung",
+      "popularity": 54.3,
+      "isAlive": true,
+      "birthYear": 1968,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
+      "knownFor": [
+        "The Legend of Drunken Master",
+        "A Chinese Torture Chamber Story",
+        "Sex and the Emperor"
       ]
     }
   ]
