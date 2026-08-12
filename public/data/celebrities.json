@@ -1,25 +1,70 @@
 {
-  "generatedAt": "2026-08-11T02:20:46.397Z",
+  "generatedAt": "2026-08-12T02:36:23.469Z",
   "celebrities": [
     {
-      "id": 3223,
-      "name": "Robert Downey Jr.",
-      "popularity": 10.6,
+      "id": 2482368,
+      "name": "Emma Ho",
+      "popularity": 10.4,
       "isAlive": true,
-      "birthYear": 1965,
+      "birthYear": 2010,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
+      "profilePath": "/mUVxoj09thSFpHhHD6xzam7XyNm.jpg",
       "knownFor": [
-        "The Avengers",
-        "Avengers: Infinity War",
-        "Iron Man"
+        "Code 8",
+        "The Baker",
+        "The Last House"
+      ]
+    },
+    {
+      "id": 3164807,
+      "name": "Yoon Yool",
+      "popularity": 40.2,
+      "isAlive": true,
+      "birthYear": 1996,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "knownFor": [
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Dangerous Younger Cousin",
+        "Youngest Sister Class"
+      ]
+    },
+    {
+      "id": 589162,
+      "name": "Genesis Rodriguez",
+      "popularity": 17.7,
+      "isAlive": true,
+      "birthYear": 1987,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg",
+      "knownFor": [
+        "Big Hero 6",
+        "Doña Bárbara",
+        "The Umbrella Academy"
+      ]
+    },
+    {
+      "id": 19498,
+      "name": "Jon Bernthal",
+      "popularity": 20.7,
+      "isAlive": true,
+      "birthYear": 1976,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+      "knownFor": [
+        "The Walking Dead",
+        "The Wolf of Wall Street",
+        "Marvel's The Punisher"
       ]
     },
     {
       "id": 11288,
       "name": "Robert Pattinson",
-      "popularity": 13.1,
+      "popularity": 12.5,
       "isAlive": true,
       "birthYear": 1986,
       "deathDate": null,
@@ -29,51 +74,6 @@
         "The Batman",
         "Twilight",
         "Tenet"
-      ]
-    },
-    {
-      "id": 115440,
-      "name": "Sydney Sweeney",
-      "popularity": 13.5,
-      "isAlive": true,
-      "birthYear": 1997,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
-      "knownFor": [
-        "Euphoria",
-        "Anyone but You",
-        "The Housemaid"
-      ]
-    },
-    {
-      "id": 10983,
-      "name": "Richard Griffiths",
-      "popularity": 11.6,
-      "isAlive": false,
-      "birthYear": 1947,
-      "deathDate": "2013-03-28",
-      "deathAge": 65,
-      "profilePath": "/bFUo1pzPw74X8Zl9afzzXCBdV95.jpg",
-      "knownFor": [
-        "Harry Potter and the Philosopher's Stone",
-        "Harry Potter and the Chamber of Secrets",
-        "Harry Potter and the Order of the Phoenix"
-      ]
-    },
-    {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 18.2,
-      "isAlive": true,
-      "birthYear": 1983,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
-      "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 3",
-        "Beauty Salon: Special Service 4"
       ]
     }
   ]
