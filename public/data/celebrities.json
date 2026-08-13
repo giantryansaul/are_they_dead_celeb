@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-08-12T02:36:23.469Z",
+  "generatedAt": "2026-08-13T02:38:21.470Z",
   "celebrities": [
     {
-      "id": 2482368,
-      "name": "Emma Ho",
-      "popularity": 10.4,
+      "id": 122822,
+      "name": "Yvonne Yung Hung",
+      "popularity": 32.5,
       "isAlive": true,
-      "birthYear": 2010,
+      "birthYear": 1968,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/mUVxoj09thSFpHhHD6xzam7XyNm.jpg",
+      "profilePath": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
       "knownFor": [
-        "Code 8",
-        "The Baker",
-        "The Last House"
+        "The Legend of Drunken Master",
+        "A Chinese Torture Chamber Story",
+        "Sex and the Emperor"
       ]
     },
     {
-      "id": 3164807,
-      "name": "Yoon Yool",
-      "popularity": 40.2,
+      "id": 3223,
+      "name": "Robert Downey Jr.",
+      "popularity": 9.9,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1965,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "profilePath": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Dangerous Younger Cousin",
-        "Youngest Sister Class"
+        "The Avengers",
+        "Avengers: Infinity War",
+        "Iron Man"
       ]
     },
     {
@@ -47,33 +47,33 @@
       ]
     },
     {
-      "id": 19498,
-      "name": "Jon Bernthal",
-      "popularity": 20.7,
+      "id": 974169,
+      "name": "Jenna Ortega",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+      "profilePath": "/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg",
       "knownFor": [
-        "The Walking Dead",
-        "The Wolf of Wall Street",
-        "Marvel's The Punisher"
+        "Wednesday",
+        "X",
+        "Scream"
       ]
     },
     {
-      "id": 11288,
-      "name": "Robert Pattinson",
-      "popularity": 12.5,
+      "id": 1222298,
+      "name": "Bridget Regan",
+      "popularity": 10.1,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+      "profilePath": "/ri1kEBkWa9ShTYbV2iJAFa0V4VU.jpg",
       "knownFor": [
-        "The Batman",
-        "Twilight",
-        "Tenet"
+        "John Wick",
+        "Marvel's Agent Carter",
+        "Legend of the Seeker"
       ]
     }
   ]
