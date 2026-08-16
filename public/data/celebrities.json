@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-08-15T01:44:19.667Z",
+  "generatedAt": "2026-08-16T01:52:24.541Z",
   "celebrities": [
     {
-      "id": 3136043,
-      "name": "Mihir Ahuja",
-      "popularity": 10.7,
+      "id": 54882,
+      "name": "Morena Baccarin",
+      "popularity": 9.8,
       "isAlive": true,
-      "birthYear": 1998,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ovn1rXL2piZpww1qItFoYX4R0YI.jpg",
+      "profilePath": "/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg",
       "knownFor": [
-        "The Archies",
-        "Vijay 69",
-        "Super 30"
+        "Deadpool",
+        "Deadpool 2",
+        "Greenland"
       ]
     },
     {
-      "id": 64295,
-      "name": "Alan Ritchson",
-      "popularity": 13.8,
+      "id": 1892,
+      "name": "Matt Damon",
+      "popularity": 15.2,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
       "knownFor": [
-        "Teenage Mutant Ninja Turtles",
-        "Reacher",
-        "War Machine"
+        "The Martian",
+        "Good Will Hunting",
+        "The Bourne Identity"
       ]
     },
     {
-      "id": 2166901,
-      "name": "Yuka Tano",
-      "popularity": 13.7,
+      "id": 1320544,
+      "name": "Daniella Wang",
+      "popularity": 17.6,
       "isAlive": true,
-      "birthYear": 1997,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4V38aZkLEK9WiZ2VaL4jAx5v5jq.jpg",
+      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
       "knownFor": [
-        "Linking Love",
-        "Girls of the Thirteenth Month",
-        "The Boy Next World: My Destiny"
+        "Due West: Our Sex Journey",
+        "Midnight Hair",
+        "Crazy Tsunami"
       ]
     },
     {
-      "id": 1470763,
-      "name": "Jung Hae-in",
-      "popularity": 12.3,
+      "id": 19498,
+      "name": "Jon Bernthal",
+      "popularity": 17.8,
       "isAlive": true,
-      "birthYear": 1988,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/7ZMUHR2q0XTWMxuqijWSVfWQv14.jpg",
+      "profilePath": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
       "knownFor": [
-        "Snowdrop",
-        "Love Next Door",
-        "D.P."
+        "The Walking Dead",
+        "The Wolf of Wall Street",
+        "Marvel's The Punisher"
       ]
     },
     {
-      "id": 26755,
-      "name": "Charlie Cho Cha-Lee",
-      "popularity": 12.4,
+      "id": 122822,
+      "name": "Yvonne Yung Hung",
+      "popularity": 17.6,
       "isAlive": true,
-      "birthYear": 1950,
+      "birthYear": 1968,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
+      "profilePath": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
       "knownFor": [
-        "Police Story",
-        "Police Story 2",
-        "The Golden Lotus: Love and Desire"
+        "The Legend of Drunken Master",
+        "A Chinese Torture Chamber Story",
+        "Sex and the Emperor"
       ]
     }
   ]
