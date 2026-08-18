@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-08-17T01:50:04.521Z",
+  "generatedAt": "2026-08-18T01:45:13.863Z",
   "celebrities": [
     {
-      "id": 525,
-      "name": "Christopher Nolan",
-      "popularity": 11.9,
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "popularity": 19,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
       "knownFor": [
-        "Interstellar",
-        "Inception",
-        "The Dark Knight"
+        "Obsession",
+        "Superman & Lois",
+        "Trap House"
       ]
     },
     {
-      "id": 3194201,
-      "name": "Ui Mihara",
-      "popularity": 14.6,
-      "isAlive": true,
-      "birthYear": 2002,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/sUIg4YmNdGJNw0JPqMhwtpNxoXk.jpg",
-      "knownFor": [
-        "Takara's Treasure",
-        "Call Me by No-Name",
-        "Wingman"
-      ]
-    },
-    {
-      "id": 11288,
-      "name": "Robert Pattinson",
-      "popularity": 10.9,
+      "id": 1247604,
+      "name": "Agnez Mo",
+      "popularity": 18.2,
       "isAlive": true,
       "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+      "profilePath": "/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg",
       "knownFor": [
-        "The Batman",
-        "Twilight",
-        "Tenet"
+        "Reacher",
+        "Christian Chávez - Esencial",
+        "RuPaul Drives..."
       ]
     },
     {
-      "id": 1590797,
-      "name": "Sadie Sink",
-      "popularity": 26.9,
+      "id": 1048692,
+      "name": "Amrita Acharia",
+      "popularity": 18.2,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1987,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
+      "profilePath": "/AaFZh8HcQG14QDFA30YFSaQWlvh.jpg",
       "knownFor": [
-        "The Whale",
-        "Stranger Things",
-        "Fear Street: 1978"
+        "Missing Link",
+        "There's Something in the Barn",
+        "Dead Snow 2: Red vs. Dead"
       ]
     },
     {
-      "id": 54882,
-      "name": "Morena Baccarin",
-      "popularity": 10,
+      "id": 30614,
+      "name": "Ryan Gosling",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 1979,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg",
+      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
       "knownFor": [
-        "Deadpool",
-        "Deadpool 2",
-        "Greenland"
+        "La La Land",
+        "Blade Runner 2049",
+        "Drive"
+      ]
+    },
+    {
+      "id": 26755,
+      "name": "Charlie Cho Cha-Lee",
+      "popularity": 12,
+      "isAlive": true,
+      "birthYear": 1950,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
+      "knownFor": [
+        "Police Story",
+        "Police Story 2",
+        "The Golden Lotus: Love and Desire"
       ]
     }
   ]
