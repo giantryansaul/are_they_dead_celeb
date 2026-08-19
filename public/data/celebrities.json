@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-08-18T01:45:13.863Z",
+  "generatedAt": "2026-08-19T01:46:50.686Z",
   "celebrities": [
     {
-      "id": 2638587,
-      "name": "Inde Navarrette",
-      "popularity": 19,
+      "id": 86268,
+      "name": "Serinda Swan",
+      "popularity": 9.9,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
+      "profilePath": "/mA4qtNZnn0A2oT1s4IIHseO8oiu.jpg",
       "knownFor": [
-        "Obsession",
-        "Superman & Lois",
-        "Trap House"
-      ]
-    },
-    {
-      "id": 1247604,
-      "name": "Agnez Mo",
-      "popularity": 18.2,
-      "isAlive": true,
-      "birthYear": 1986,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg",
-      "knownFor": [
+        "TRON: Legacy",
         "Reacher",
-        "Christian Chávez - Esencial",
-        "RuPaul Drives..."
+        "Marvel's Inhumans"
       ]
     },
     {
-      "id": 1048692,
-      "name": "Amrita Acharia",
-      "popularity": 18.2,
+      "id": 1245,
+      "name": "Scarlett Johansson",
+      "popularity": 14.6,
       "isAlive": true,
-      "birthYear": 1987,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/AaFZh8HcQG14QDFA30YFSaQWlvh.jpg",
+      "profilePath": "/druW5adKddizHNSoPbI0q7Mvn0K.jpg",
       "knownFor": [
-        "Missing Link",
-        "There's Something in the Barn",
-        "Dead Snow 2: Red vs. Dead"
+        "Lucy",
+        "Black Widow",
+        "Ghost in the Shell"
       ]
     },
     {
-      "id": 30614,
-      "name": "Ryan Gosling",
-      "popularity": 10.7,
+      "id": 3164807,
+      "name": "Yoon Yool",
+      "popularity": 26.4,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
       "knownFor": [
-        "La La Land",
-        "Blade Runner 2049",
-        "Drive"
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Dangerous Younger Cousin",
+        "Youngest Sister Class"
       ]
     },
     {
-      "id": 26755,
-      "name": "Charlie Cho Cha-Lee",
-      "popularity": 12,
+      "id": 17265,
+      "name": "Hayden Panettiere",
+      "popularity": 51.7,
+      "isAlive": false,
+      "birthYear": 1989,
+      "deathDate": "2026-08-16",
+      "deathAge": 36,
+      "profilePath": "/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg",
+      "knownFor": [
+        "A Bug's Life",
+        "Heroes",
+        "I Love You, Beth Cooper"
+      ]
+    },
+    {
+      "id": 1253360,
+      "name": "Pedro Pascal",
+      "popularity": 9.7,
       "isAlive": true,
-      "birthYear": 1950,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
+      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
       "knownFor": [
-        "Police Story",
-        "Police Story 2",
-        "The Golden Lotus: Love and Desire"
+        "The Mandalorian",
+        "The Last of Us",
+        "The Fantastic 4: First Steps"
       ]
     }
   ]
