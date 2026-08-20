@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-08-19T01:46:50.686Z",
+  "generatedAt": "2026-08-20T01:45:37.036Z",
   "celebrities": [
     {
-      "id": 86268,
-      "name": "Serinda Swan",
-      "popularity": 9.9,
+      "id": 18897,
+      "name": "Jackie Chan",
+      "popularity": 10.9,
       "isAlive": true,
-      "birthYear": 1984,
+      "birthYear": 1954,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/mA4qtNZnn0A2oT1s4IIHseO8oiu.jpg",
+      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
       "knownFor": [
-        "TRON: Legacy",
-        "Reacher",
-        "Marvel's Inhumans"
+        "Rush Hour",
+        "Rush Hour 2",
+        "Rush Hour 3"
       ]
     },
     {
-      "id": 1245,
-      "name": "Scarlett Johansson",
-      "popularity": 14.6,
+      "id": 6885,
+      "name": "Charlize Theron",
+      "popularity": 11.9,
       "isAlive": true,
-      "birthYear": 1984,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/druW5adKddizHNSoPbI0q7Mvn0K.jpg",
+      "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
       "knownFor": [
-        "Lucy",
-        "Black Widow",
-        "Ghost in the Shell"
+        "Mad Max: Fury Road",
+        "Atomic Blonde",
+        "Hancock"
       ]
     },
     {
-      "id": 3164807,
-      "name": "Yoon Yool",
-      "popularity": 26.4,
+      "id": 976,
+      "name": "Jason Statham",
+      "popularity": 22.1,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1967,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Dangerous Younger Cousin",
-        "Youngest Sister Class"
+        "Snatch",
+        "The Meg",
+        "Wrath of Man"
       ]
     },
     {
       "id": 17265,
       "name": "Hayden Panettiere",
-      "popularity": 51.7,
+      "popularity": 33.4,
       "isAlive": false,
       "birthYear": 1989,
       "deathDate": "2026-08-16",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1253360,
-      "name": "Pedro Pascal",
-      "popularity": 9.7,
+      "id": 1813,
+      "name": "Anne Hathaway",
+      "popularity": 22.2,
       "isAlive": true,
-      "birthYear": 1975,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
+      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
       "knownFor": [
-        "The Mandalorian",
-        "The Last of Us",
-        "The Fantastic 4: First Steps"
+        "Interstellar",
+        "The Devil Wears Prada",
+        "The Princess Diaries"
       ]
     }
   ]
