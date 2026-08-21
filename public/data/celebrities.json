@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-08-20T01:45:37.036Z",
+  "generatedAt": "2026-08-21T01:51:04.744Z",
   "celebrities": [
     {
-      "id": 18897,
-      "name": "Jackie Chan",
-      "popularity": 10.9,
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "popularity": 18.3,
       "isAlive": true,
-      "birthYear": 1954,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
       "knownFor": [
-        "Rush Hour",
-        "Rush Hour 2",
-        "Rush Hour 3"
+        "Obsession",
+        "Superman & Lois",
+        "Trap House"
       ]
     },
     {
-      "id": 6885,
-      "name": "Charlize Theron",
-      "popularity": 11.9,
+      "id": 553623,
+      "name": "Misa Aika",
+      "popularity": 10.1,
       "isAlive": true,
-      "birthYear": 1975,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
+      "profilePath": "/E6mnVQcDWZxDtSMYvA0KOZdcE8.jpg",
       "knownFor": [
-        "Mad Max: Fury Road",
-        "Atomic Blonde",
-        "Hancock"
+        "Splatter: Naked Blood",
+        "Weather Woman Returns",
+        "Scan Doll"
       ]
     },
     {
-      "id": 976,
-      "name": "Jason Statham",
-      "popularity": 22.1,
+      "id": 550876,
+      "name": "Mayuko Sasaki",
+      "popularity": 11,
       "isAlive": true,
-      "birthYear": 1967,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
+      "profilePath": "/3SLMYw8kYB9Ubv7yEFVUMVCamj6.jpg",
       "knownFor": [
-        "Snatch",
-        "The Meg",
-        "Wrath of Man"
+        "Psycho Hannibal",
+        "Tokyo Strangler",
+        "Mourning Wife"
       ]
     },
     {
       "id": 17265,
       "name": "Hayden Panettiere",
-      "popularity": 33.4,
+      "popularity": 30.8,
       "isAlive": false,
       "birthYear": 1989,
       "deathDate": "2026-08-16",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1813,
-      "name": "Anne Hathaway",
-      "popularity": 22.2,
+      "id": 2963,
+      "name": "Nicolas Cage",
+      "popularity": 9.8,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1964,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "profilePath": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
       "knownFor": [
-        "Interstellar",
-        "The Devil Wears Prada",
-        "The Princess Diaries"
+        "The Croods",
+        "National Treasure",
+        "Ghost Rider"
       ]
     }
   ]
