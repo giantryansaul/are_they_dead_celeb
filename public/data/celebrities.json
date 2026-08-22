@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-08-21T01:51:04.744Z",
+  "generatedAt": "2026-08-22T01:44:25.616Z",
   "celebrities": [
     {
-      "id": 2638587,
-      "name": "Inde Navarrette",
-      "popularity": 18.3,
+      "id": 1590797,
+      "name": "Sadie Sink",
+      "popularity": 17.6,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
+      "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
       "knownFor": [
-        "Obsession",
-        "Superman & Lois",
-        "Trap House"
+        "The Whale",
+        "Stranger Things",
+        "Fear Street: 1978"
       ]
     },
     {
-      "id": 553623,
-      "name": "Misa Aika",
-      "popularity": 10.1,
+      "id": 1372369,
+      "name": "Samara Weaving",
+      "popularity": 11.6,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1992,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/E6mnVQcDWZxDtSMYvA0KOZdcE8.jpg",
+      "profilePath": "/ngVKl0sxrut5PPMAIDsfXrVjA1R.jpg",
       "knownFor": [
-        "Splatter: Naked Blood",
-        "Weather Woman Returns",
-        "Scan Doll"
+        "Ready or Not",
+        "The Babysitter",
+        "Ready or Not: Here I Come"
       ]
     },
     {
-      "id": 550876,
-      "name": "Mayuko Sasaki",
-      "popularity": 11,
+      "id": 5235257,
+      "name": "Kim Sun-young",
+      "popularity": 17,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3SLMYw8kYB9Ubv7yEFVUMVCamj6.jpg",
+      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
       "knownFor": [
-        "Psycho Hannibal",
-        "Tokyo Strangler",
-        "Mourning Wife"
+        "The Chaser",
+        "Love Lesson",
+        "Female War: A Nasty Deal"
       ]
     },
     {
       "id": 17265,
       "name": "Hayden Panettiere",
-      "popularity": 30.8,
+      "popularity": 30.9,
       "isAlive": false,
       "birthYear": 1989,
       "deathDate": "2026-08-16",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 2963,
-      "name": "Nicolas Cage",
-      "popularity": 9.8,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 18.7,
       "isAlive": true,
-      "birthYear": 1964,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "The Croods",
-        "National Treasure",
-        "Ghost Rider"
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     }
   ]
