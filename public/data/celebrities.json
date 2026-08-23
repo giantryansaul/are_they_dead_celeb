@@ -1,25 +1,40 @@
 {
-  "generatedAt": "2026-08-22T01:44:25.616Z",
+  "generatedAt": "2026-08-23T01:54:33.375Z",
   "celebrities": [
     {
-      "id": 1590797,
-      "name": "Sadie Sink",
-      "popularity": 17.6,
+      "id": 2573266,
+      "name": "Stephen Kalyn",
+      "popularity": 38.5,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
+      "profilePath": "/2vuVAhIHHIKtOaqBNR6YltYKn6k.jpg",
       "knownFor": [
-        "The Whale",
-        "Stranger Things",
-        "Fear Street: 1978"
+        "Off Campus",
+        "Whistle",
+        "Cascade"
+      ]
+    },
+    {
+      "id": 1615873,
+      "name": "Julia Cheng Yim-Lai",
+      "popularity": 20.6,
+      "isAlive": true,
+      "birthYear": 1972,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/5x3tJ6DJUenQvlsckIY1aLYfMgB.jpg",
+      "knownFor": [
+        "Daughter of Darkness 2",
+        "The Woman Behind",
+        "Lover of the Last Empress"
       ]
     },
     {
       "id": 1372369,
       "name": "Samara Weaving",
-      "popularity": 11.6,
+      "popularity": 11.7,
       "isAlive": true,
       "birthYear": 1992,
       "deathDate": null,
@@ -32,24 +47,9 @@
       ]
     },
     {
-      "id": 5235257,
-      "name": "Kim Sun-young",
-      "popularity": 17,
-      "isAlive": true,
-      "birthYear": 1980,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
-      "knownFor": [
-        "The Chaser",
-        "Love Lesson",
-        "Female War: A Nasty Deal"
-      ]
-    },
-    {
       "id": 17265,
       "name": "Hayden Panettiere",
-      "popularity": 30.9,
+      "popularity": 30.4,
       "isAlive": false,
       "birthYear": 1989,
       "deathDate": "2026-08-16",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 18.7,
+      "id": 1974009,
+      "name": "Kim Do-hee",
+      "popularity": 12.6,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+      "profilePath": "/vDK2YCaePyUO4bxTE5mbvQqdqwp.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
+        "Russian Mom",
+        "What a Good Secretary Wants",
+        "Sleepless Sex 2"
       ]
     }
   ]
