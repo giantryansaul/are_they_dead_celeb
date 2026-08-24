@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-08-23T01:54:33.375Z",
+  "generatedAt": "2026-08-24T01:51:49.295Z",
   "celebrities": [
     {
-      "id": 2573266,
-      "name": "Stephen Kalyn",
-      "popularity": 38.5,
+      "id": 64295,
+      "name": "Alan Ritchson",
+      "popularity": 19.9,
       "isAlive": true,
-      "birthYear": 1998,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/2vuVAhIHHIKtOaqBNR6YltYKn6k.jpg",
+      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
       "knownFor": [
-        "Off Campus",
-        "Whistle",
-        "Cascade"
+        "Teenage Mutant Ninja Turtles",
+        "Reacher",
+        "War Machine"
       ]
     },
     {
-      "id": 1615873,
-      "name": "Julia Cheng Yim-Lai",
-      "popularity": 20.6,
+      "id": 6885,
+      "name": "Charlize Theron",
+      "popularity": 12.7,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/5x3tJ6DJUenQvlsckIY1aLYfMgB.jpg",
+      "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
       "knownFor": [
-        "Daughter of Darkness 2",
-        "The Woman Behind",
-        "Lover of the Last Empress"
+        "Mad Max: Fury Road",
+        "Atomic Blonde",
+        "Hancock"
       ]
     },
     {
-      "id": 1372369,
-      "name": "Samara Weaving",
-      "popularity": 11.7,
+      "id": 1253360,
+      "name": "Pedro Pascal",
+      "popularity": 10.9,
       "isAlive": true,
-      "birthYear": 1992,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ngVKl0sxrut5PPMAIDsfXrVjA1R.jpg",
+      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
       "knownFor": [
-        "Ready or Not",
-        "The Babysitter",
-        "Ready or Not: Here I Come"
+        "The Mandalorian",
+        "The Last of Us",
+        "The Fantastic 4: First Steps"
       ]
     },
     {
       "id": 17265,
       "name": "Hayden Panettiere",
-      "popularity": 30.4,
+      "popularity": 27.7,
       "isAlive": false,
       "birthYear": 1989,
       "deathDate": "2026-08-16",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1974009,
-      "name": "Kim Do-hee",
-      "popularity": 12.6,
-      "isAlive": true,
-      "birthYear": 1983,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/vDK2YCaePyUO4bxTE5mbvQqdqwp.jpg",
+      "id": 2248,
+      "name": "Michael Wright",
+      "popularity": 41.9,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2026-08-19",
+      "deathAge": 70,
+      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
       "knownFor": [
-        "Russian Mom",
-        "What a Good Secretary Wants",
-        "Sleepless Sex 2"
+        "The Interpreter",
+        "V",
+        "The Principal"
       ]
     }
   ]
