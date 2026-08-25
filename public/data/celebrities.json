@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-08-24T01:51:49.295Z",
+  "generatedAt": "2026-08-25T01:46:02.431Z",
   "celebrities": [
+    {
+      "id": 2676077,
+      "name": "Julia Doyle",
+      "popularity": 16.4,
+      "isAlive": true,
+      "birthYear": 2003,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/k4afhKG1dBeD36SkHHnwIdsPbB6.jpg",
+      "knownFor": [
+        "FROM",
+        "Hell of a Summer",
+        "Astrid & Lilly Save the World"
+      ]
+    },
     {
       "id": 64295,
       "name": "Alan Ritchson",
-      "popularity": 19.9,
+      "popularity": 19.4,
       "isAlive": true,
       "birthYear": 1982,
       "deathDate": null,
@@ -17,54 +32,24 @@
       ]
     },
     {
-      "id": 6885,
-      "name": "Charlize Theron",
-      "popularity": 12.7,
+      "id": 30614,
+      "name": "Ryan Gosling",
+      "popularity": 12.1,
       "isAlive": true,
-      "birthYear": 1975,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
+      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
       "knownFor": [
-        "Mad Max: Fury Road",
-        "Atomic Blonde",
-        "Hancock"
-      ]
-    },
-    {
-      "id": 1253360,
-      "name": "Pedro Pascal",
-      "popularity": 10.9,
-      "isAlive": true,
-      "birthYear": 1975,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
-      "knownFor": [
-        "The Mandalorian",
-        "The Last of Us",
-        "The Fantastic 4: First Steps"
-      ]
-    },
-    {
-      "id": 17265,
-      "name": "Hayden Panettiere",
-      "popularity": 27.7,
-      "isAlive": false,
-      "birthYear": 1989,
-      "deathDate": "2026-08-16",
-      "deathAge": 36,
-      "profilePath": "/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg",
-      "knownFor": [
-        "A Bug's Life",
-        "Heroes",
-        "I Love You, Beth Cooper"
+        "La La Land",
+        "Blade Runner 2049",
+        "Drive"
       ]
     },
     {
       "id": 2248,
       "name": "Michael Wright",
-      "popularity": 41.9,
+      "popularity": 30.4,
       "isAlive": false,
       "birthYear": 1956,
       "deathDate": "2026-08-19",
@@ -74,6 +59,21 @@
         "The Interpreter",
         "V",
         "The Principal"
+      ]
+    },
+    {
+      "id": 17265,
+      "name": "Hayden Panettiere",
+      "popularity": 24.5,
+      "isAlive": false,
+      "birthYear": 1989,
+      "deathDate": "2026-08-16",
+      "deathAge": 36,
+      "profilePath": "/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg",
+      "knownFor": [
+        "A Bug's Life",
+        "Heroes",
+        "I Love You, Beth Cooper"
       ]
     }
   ]
