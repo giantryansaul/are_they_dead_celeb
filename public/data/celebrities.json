@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-08-25T01:46:02.431Z",
+  "generatedAt": "2026-08-26T01:51:37.863Z",
   "celebrities": [
     {
-      "id": 2676077,
-      "name": "Julia Doyle",
-      "popularity": 16.4,
+      "id": 21911,
+      "name": "Shu Qi",
+      "popularity": 12.2,
       "isAlive": true,
-      "birthYear": 2003,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/k4afhKG1dBeD36SkHHnwIdsPbB6.jpg",
+      "profilePath": "/jNaUWRClE4aFnguPZKQeVqfugPd.jpg",
       "knownFor": [
-        "FROM",
-        "Hell of a Summer",
-        "Astrid & Lilly Save the World"
+        "The Transporter",
+        "The Assassin",
+        "Journey to the West: Conquering the Demons"
       ]
     },
     {
-      "id": 64295,
-      "name": "Alan Ritchson",
-      "popularity": 19.4,
+      "id": 1813,
+      "name": "Anne Hathaway",
+      "popularity": 18.1,
       "isAlive": true,
       "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
       "knownFor": [
-        "Teenage Mutant Ninja Turtles",
-        "Reacher",
-        "War Machine"
+        "Interstellar",
+        "The Devil Wears Prada",
+        "The Princess Diaries"
       ]
     },
     {
-      "id": 30614,
-      "name": "Ryan Gosling",
-      "popularity": 12.1,
+      "id": 5682427,
+      "name": "Harutoki",
+      "popularity": 21,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "profilePath": "/bsQagcG9xKCGtrl60gtuHXWPDlT.jpg",
       "knownFor": [
-        "La La Land",
-        "Blade Runner 2049",
-        "Drive"
-      ]
-    },
-    {
-      "id": 2248,
-      "name": "Michael Wright",
-      "popularity": 30.4,
-      "isAlive": false,
-      "birthYear": 1956,
-      "deathDate": "2026-08-19",
-      "deathAge": 70,
-      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
-      "knownFor": [
-        "The Interpreter",
-        "V",
-        "The Principal"
+        "NOAH: The New Year 2025",
+        "NOAH Star Navigation Premium 2025 #2 ~ NOAH Jr. Tag League 2025 ~",
+        "NOAH Star Navigation Premium 2025 #3"
       ]
     },
     {
       "id": 17265,
       "name": "Hayden Panettiere",
-      "popularity": 24.5,
+      "popularity": 15.8,
       "isAlive": false,
       "birthYear": 1989,
       "deathDate": "2026-08-16",
@@ -74,6 +59,21 @@
         "A Bug's Life",
         "Heroes",
         "I Love You, Beth Cooper"
+      ]
+    },
+    {
+      "id": 2248,
+      "name": "Michael Wright",
+      "popularity": 29.2,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2026-08-19",
+      "deathAge": 70,
+      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
+      "knownFor": [
+        "The Interpreter",
+        "V",
+        "The Principal"
       ]
     }
   ]
