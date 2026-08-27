@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-08-26T01:51:37.863Z",
+  "generatedAt": "2026-08-27T09:27:46.160Z",
   "celebrities": [
     {
-      "id": 21911,
-      "name": "Shu Qi",
-      "popularity": 12.2,
+      "id": 82943,
+      "name": "Jill Wagner",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jNaUWRClE4aFnguPZKQeVqfugPd.jpg",
+      "profilePath": "/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg",
       "knownFor": [
-        "The Transporter",
-        "The Assassin",
-        "Journey to the West: Conquering the Demons"
+        "Splinter",
+        "Lioness",
+        "Braven"
       ]
     },
     {
-      "id": 1813,
-      "name": "Anne Hathaway",
-      "popularity": 18.1,
+      "id": 11288,
+      "name": "Robert Pattinson",
+      "popularity": 11.8,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
       "knownFor": [
-        "Interstellar",
-        "The Devil Wears Prada",
-        "The Princess Diaries"
+        "The Batman",
+        "Twilight",
+        "The Lighthouse"
       ]
     },
     {
-      "id": 5682427,
-      "name": "Harutoki",
-      "popularity": 21,
+      "id": 1320544,
+      "name": "Daniella Wang",
+      "popularity": 15.3,
       "isAlive": true,
-      "birthYear": 1998,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/bsQagcG9xKCGtrl60gtuHXWPDlT.jpg",
-      "knownFor": [
-        "NOAH: The New Year 2025",
-        "NOAH Star Navigation Premium 2025 #2 ~ NOAH Jr. Tag League 2025 ~",
-        "NOAH Star Navigation Premium 2025 #3"
-      ]
-    },
-    {
-      "id": 17265,
-      "name": "Hayden Panettiere",
-      "popularity": 15.8,
-      "isAlive": false,
       "birthYear": 1989,
-      "deathDate": "2026-08-16",
-      "deathAge": 36,
-      "profilePath": "/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg",
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
       "knownFor": [
-        "A Bug's Life",
-        "Heroes",
-        "I Love You, Beth Cooper"
+        "Due West: Our Sex Journey",
+        "Midnight Hair",
+        "Crazy Tsunami"
       ]
     },
     {
       "id": 2248,
       "name": "Michael Wright",
-      "popularity": 29.2,
+      "popularity": 51,
       "isAlive": false,
       "birthYear": 1956,
       "deathDate": "2026-08-19",
@@ -74,6 +59,21 @@
         "The Interpreter",
         "V",
         "The Principal"
+      ]
+    },
+    {
+      "id": 17265,
+      "name": "Hayden Panettiere",
+      "popularity": 11,
+      "isAlive": false,
+      "birthYear": 1989,
+      "deathDate": "2026-08-16",
+      "deathAge": 36,
+      "profilePath": "/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg",
+      "knownFor": [
+        "A Bug's Life",
+        "Heroes",
+        "I Love You, Beth Cooper"
       ]
     }
   ]
