@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-08-28T11:13:28.213Z",
+  "generatedAt": "2026-08-29T06:57:42.842Z",
   "celebrities": [
     {
-      "id": 1179210,
-      "name": "Rustam Khamdamov",
-      "popularity": 15.3,
-      "isAlive": true,
-      "birthYear": 1944,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/nBDNrF25AirqK4LFTBha9LQsFdL.jpg",
-      "knownFor": [
-        "Vocal Parallels",
-        "Anna Karamazoff",
-        "The Bottomless Bag"
-      ]
-    },
-    {
-      "id": 5235257,
-      "name": "Kim Sun-young",
-      "popularity": 13.6,
-      "isAlive": true,
-      "birthYear": 1980,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
-      "knownFor": [
-        "The Chaser",
-        "Love Lesson",
-        "Female War: A Nasty Deal"
-      ]
-    },
-    {
-      "id": 1446006,
-      "name": "Sonya Cassidy",
-      "popularity": 14.9,
+      "id": 589162,
+      "name": "Genesis Rodriguez",
+      "popularity": 15.8,
       "isAlive": true,
       "birthYear": 1987,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/7z0VYq74tKFXoJtKrIUpmygJxak.jpg",
+      "profilePath": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg",
       "knownFor": [
-        "Reacher",
-        "Survivor",
-        "The Man Who Fell to Earth"
+        "Big Hero 6",
+        "Doña Bárbara",
+        "The Umbrella Academy"
       ]
     },
     {
-      "id": 19540,
-      "name": "Peter Cullen",
-      "popularity": 13.6,
-      "isAlive": false,
-      "birthYear": 1941,
-      "deathDate": "2026-08-26",
-      "deathAge": 85,
-      "profilePath": "/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg",
+      "id": 1183234,
+      "name": "Gan Tingting",
+      "popularity": 15,
+      "isAlive": true,
+      "birthYear": 1986,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/pGGWKxPNw0d9uynlzxq4xKQPhN2.jpg",
       "knownFor": [
-        "Transformers: Age of Extinction",
-        "Transformers: Revenge of the Fallen",
-        "Transformers"
+        "Drug War",
+        "General and I",
+        "Kung Fu Dunk"
+      ]
+    },
+    {
+      "id": 1615873,
+      "name": "Julia Cheng Yim-Lai",
+      "popularity": 13.2,
+      "isAlive": true,
+      "birthYear": 1972,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/5x3tJ6DJUenQvlsckIY1aLYfMgB.jpg",
+      "knownFor": [
+        "Daughter of Darkness 2",
+        "The Woman Behind",
+        "Lover of the Last Empress"
       ]
     },
     {
       "id": 13472,
       "name": "Tim Curry",
-      "popularity": 36.2,
+      "popularity": 32,
       "isAlive": false,
       "birthYear": 1946,
       "deathDate": "2026-08-25",
@@ -74,6 +59,21 @@
         "It",
         "The Rocky Horror Picture Show",
         "Clue"
+      ]
+    },
+    {
+      "id": 2248,
+      "name": "Michael Wright",
+      "popularity": 43.2,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2026-08-19",
+      "deathAge": 70,
+      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
+      "knownFor": [
+        "The Interpreter",
+        "V",
+        "The Principal"
       ]
     }
   ]
