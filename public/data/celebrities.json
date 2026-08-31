@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-08-30T05:13:08.852Z",
+  "generatedAt": "2026-08-31T05:21:18.682Z",
   "celebrities": [
     {
-      "id": 20331,
-      "name": "Yuko Tanaka",
-      "popularity": 10.8,
+      "id": 1136406,
+      "name": "Tom Holland",
+      "popularity": 22.2,
       "isAlive": true,
-      "birthYear": 1955,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/fMonAnp3OQ16FmGy5SGhEJRcuVI.jpg",
+      "profilePath": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
       "knownFor": [
-        "Princess Mononoke",
-        "Tales from Earthsea",
-        "Monster"
+        "Spider-Man: Homecoming",
+        "Spider-Man: No Way Home",
+        "Spider-Man: Far From Home"
       ]
     },
     {
-      "id": 92730,
-      "name": "Pollyanna McIntosh",
+      "id": 26755,
+      "name": "Charlie Cho Cha-Lee",
       "popularity": 12.5,
       "isAlive": true,
-      "birthYear": 1979,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/c2YsFhPEEXEgqMTgASdvVoOkbnH.jpg",
+      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
       "knownFor": [
-        "The Woman",
-        "Exam",
-        "The Walking Dead: The Ones Who Live"
+        "Police Story",
+        "Police Story 2",
+        "The Golden Lotus: Love and Desire"
       ]
     },
     {
-      "id": 2222385,
-      "name": "Maksim Belborodov",
-      "popularity": 15.4,
+      "id": 30614,
+      "name": "Ryan Gosling",
+      "popularity": 10.7,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/iGQqx90Sabc5o9TFgYNDjDC0Rw7.jpg",
+      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
       "knownFor": [
-        "Ice",
-        "Panfilov's 28 Men",
-        "Fierce Town"
-      ]
-    },
-    {
-      "id": 67274,
-      "name": "Dolly Parton",
-      "popularity": 13,
-      "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2026-08-25",
-      "deathAge": 80,
-      "profilePath": "/vh8w4BXjs74HKCh1YiCoA08PHW.jpg",
-      "knownFor": [
-        "Steel Magnolias",
-        "Nine to Five",
-        "The Best Little Whorehouse in Texas"
+        "La La Land",
+        "Blade Runner 2049",
+        "Drive"
       ]
     },
     {
       "id": 13472,
       "name": "Tim Curry",
-      "popularity": 32,
+      "popularity": 31.1,
       "isAlive": false,
       "birthYear": 1946,
       "deathDate": "2026-08-25",
       "deathAge": 80,
-      "profilePath": "/aWGnGa7scPeGCP5DRhHosTrYdfA.jpg",
+      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
       "knownFor": [
         "It",
         "The Rocky Horror Picture Show",
         "Clue"
+      ]
+    },
+    {
+      "id": 2248,
+      "name": "Michael Wright",
+      "popularity": 29.1,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2026-08-19",
+      "deathAge": 70,
+      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
+      "knownFor": [
+        "The Interpreter",
+        "V",
+        "The Principal"
       ]
     }
   ]
