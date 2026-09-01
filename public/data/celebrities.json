@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-08-31T05:21:18.682Z",
+  "generatedAt": "2026-09-01T04:55:50.193Z",
   "celebrities": [
     {
-      "id": 1136406,
-      "name": "Tom Holland",
-      "popularity": 22.2,
+      "id": 1813,
+      "name": "Anne Hathaway",
+      "popularity": 24.3,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
       "knownFor": [
-        "Spider-Man: Homecoming",
-        "Spider-Man: No Way Home",
-        "Spider-Man: Far From Home"
+        "Interstellar",
+        "The Devil Wears Prada",
+        "The Princess Diaries"
       ]
     },
     {
-      "id": 26755,
-      "name": "Charlie Cho Cha-Lee",
-      "popularity": 12.5,
+      "id": 1278487,
+      "name": "Hannah Waddingham",
+      "popularity": 12.3,
       "isAlive": true,
-      "birthYear": 1950,
+      "birthYear": 1974,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
+      "profilePath": "/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg",
       "knownFor": [
-        "Police Story",
-        "Police Story 2",
-        "The Golden Lotus: Love and Desire"
+        "Ted Lasso",
+        "The Fall Guy",
+        "Game of Thrones"
       ]
     },
     {
-      "id": 30614,
-      "name": "Ryan Gosling",
-      "popularity": 10.7,
+      "id": 2649290,
+      "name": "Fernando Lindez",
+      "popularity": 12.9,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 2000,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "profilePath": "/quHSt84xNfEqCk9v5fv3qVxlbaX.jpg",
       "knownFor": [
-        "La La Land",
-        "Blade Runner 2049",
-        "Drive"
+        "Elite",
+        "Tell Me Softly",
+        "SKAM España"
       ]
     },
     {
-      "id": 13472,
-      "name": "Tim Curry",
-      "popularity": 31.1,
+      "id": 67274,
+      "name": "Dolly Parton",
+      "popularity": 15.2,
       "isAlive": false,
       "birthYear": 1946,
       "deathDate": "2026-08-25",
       "deathAge": 80,
-      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
+      "profilePath": "/vh8w4BXjs74HKCh1YiCoA08PHW.jpg",
       "knownFor": [
-        "It",
-        "The Rocky Horror Picture Show",
-        "Clue"
+        "Steel Magnolias",
+        "Nine to Five",
+        "The Best Little Whorehouse in Texas"
       ]
     },
     {
