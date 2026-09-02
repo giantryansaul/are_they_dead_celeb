@@ -1,49 +1,64 @@
 {
-  "generatedAt": "2026-09-01T04:55:50.193Z",
+  "generatedAt": "2026-09-02T04:17:49.828Z",
   "celebrities": [
     {
-      "id": 1813,
-      "name": "Anne Hathaway",
-      "popularity": 24.3,
+      "id": 550876,
+      "name": "Mayuko Sasaki",
+      "popularity": 38.8,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "profilePath": "/3SLMYw8kYB9Ubv7yEFVUMVCamj6.jpg",
       "knownFor": [
-        "Interstellar",
-        "The Devil Wears Prada",
-        "The Princess Diaries"
+        "Psycho Hannibal",
+        "Tokyo Strangler",
+        "Mourning Wife"
       ]
     },
     {
-      "id": 1278487,
-      "name": "Hannah Waddingham",
-      "popularity": 12.3,
+      "id": 58021,
+      "name": "Tinto Brass",
+      "popularity": 12,
       "isAlive": true,
-      "birthYear": 1974,
+      "birthYear": 1933,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg",
+      "profilePath": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg",
       "knownFor": [
-        "Ted Lasso",
-        "The Fall Guy",
-        "Game of Thrones"
+        "Caligula",
+        "Paprika",
+        "The Key"
       ]
     },
     {
-      "id": 2649290,
-      "name": "Fernando Lindez",
-      "popularity": 12.9,
+      "id": 3164807,
+      "name": "Yoon Yool",
+      "popularity": 22.4,
       "isAlive": true,
-      "birthYear": 2000,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/quHSt84xNfEqCk9v5fv3qVxlbaX.jpg",
+      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
       "knownFor": [
-        "Elite",
-        "Tell Me Softly",
-        "SKAM España"
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Dangerous Younger Cousin",
+        "Youngest Sister Class"
+      ]
+    },
+    {
+      "id": 2248,
+      "name": "Michael Wright",
+      "popularity": 25.4,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2026-08-21",
+      "deathAge": 70,
+      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
+      "knownFor": [
+        "The Interpreter",
+        "V",
+        "The Principal"
       ]
     },
     {
@@ -59,21 +74,6 @@
         "Steel Magnolias",
         "Nine to Five",
         "The Best Little Whorehouse in Texas"
-      ]
-    },
-    {
-      "id": 2248,
-      "name": "Michael Wright",
-      "popularity": 29.1,
-      "isAlive": false,
-      "birthYear": 1956,
-      "deathDate": "2026-08-19",
-      "deathAge": 70,
-      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
-      "knownFor": [
-        "The Interpreter",
-        "V",
-        "The Principal"
       ]
     }
   ]
