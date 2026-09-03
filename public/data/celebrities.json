@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-02T04:17:49.828Z",
+  "generatedAt": "2026-09-03T04:12:48.169Z",
   "celebrities": [
     {
-      "id": 550876,
-      "name": "Mayuko Sasaki",
-      "popularity": 38.8,
+      "id": 1602451,
+      "name": "Amanda Collin",
+      "popularity": 73.7,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3SLMYw8kYB9Ubv7yEFVUMVCamj6.jpg",
+      "profilePath": "/bFm5zt8vxD09Ez6irsJItmPigjq.jpg",
       "knownFor": [
-        "Psycho Hannibal",
-        "Tokyo Strangler",
-        "Mourning Wife"
+        "Raised by Wolves",
+        "The Promised Land",
+        "A Conspiracy of Faith"
       ]
     },
     {
-      "id": 58021,
-      "name": "Tinto Brass",
-      "popularity": 12,
+      "id": 976,
+      "name": "Jason Statham",
+      "popularity": 35.2,
       "isAlive": true,
-      "birthYear": 1933,
+      "birthYear": 1967,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg",
+      "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
       "knownFor": [
-        "Caligula",
-        "Paprika",
-        "The Key"
+        "Snatch",
+        "The Meg",
+        "Wrath of Man"
       ]
     },
     {
-      "id": 3164807,
-      "name": "Yoon Yool",
-      "popularity": 22.4,
+      "id": 34490,
+      "name": "Sarah Paulson",
+      "popularity": 14.8,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1974,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "profilePath": "/tJnhBV516yrekR3hTDUw15UMbxS.jpg",
       "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Dangerous Younger Cousin",
-        "Youngest Sister Class"
+        "Run",
+        "Bird Box",
+        "Glass"
       ]
     },
     {
-      "id": 2248,
-      "name": "Michael Wright",
-      "popularity": 25.4,
-      "isAlive": false,
-      "birthYear": 1956,
-      "deathDate": "2026-08-21",
-      "deathAge": 70,
-      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
-      "knownFor": [
-        "The Interpreter",
-        "V",
-        "The Principal"
-      ]
-    },
-    {
-      "id": 67274,
-      "name": "Dolly Parton",
-      "popularity": 15.2,
+      "id": 13472,
+      "name": "Tim Curry",
+      "popularity": 25.7,
       "isAlive": false,
       "birthYear": 1946,
       "deathDate": "2026-08-25",
       "deathAge": 80,
-      "profilePath": "/vh8w4BXjs74HKCh1YiCoA08PHW.jpg",
+      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
       "knownFor": [
-        "Steel Magnolias",
-        "Nine to Five",
-        "The Best Little Whorehouse in Texas"
+        "It",
+        "The Rocky Horror Picture Show",
+        "Clue"
+      ]
+    },
+    {
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 15.8,
+      "isAlive": true,
+      "birthYear": 1962,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg",
+      "knownFor": [
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
       ]
     }
   ]
