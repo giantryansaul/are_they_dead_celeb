@@ -1,70 +1,25 @@
 {
-  "generatedAt": "2026-09-03T04:12:48.169Z",
+  "generatedAt": "2026-09-04T04:25:57.294Z",
   "celebrities": [
     {
-      "id": 1602451,
-      "name": "Amanda Collin",
-      "popularity": 73.7,
+      "id": 92614,
+      "name": "Dawn Olivieri",
+      "popularity": 16.3,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1981,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/bFm5zt8vxD09Ez6irsJItmPigjq.jpg",
+      "profilePath": "/tet7ZVbzhLWwT44m9j94folyl5N.jpg",
       "knownFor": [
-        "Raised by Wolves",
-        "The Promised Land",
-        "A Conspiracy of Faith"
-      ]
-    },
-    {
-      "id": 976,
-      "name": "Jason Statham",
-      "popularity": 35.2,
-      "isAlive": true,
-      "birthYear": 1967,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
-      "knownFor": [
-        "Snatch",
-        "The Meg",
-        "Wrath of Man"
-      ]
-    },
-    {
-      "id": 34490,
-      "name": "Sarah Paulson",
-      "popularity": 14.8,
-      "isAlive": true,
-      "birthYear": 1974,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/tJnhBV516yrekR3hTDUw15UMbxS.jpg",
-      "knownFor": [
-        "Run",
-        "Bird Box",
-        "Glass"
-      ]
-    },
-    {
-      "id": 13472,
-      "name": "Tim Curry",
-      "popularity": 25.7,
-      "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2026-08-25",
-      "deathAge": 80,
-      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
-      "knownFor": [
-        "It",
-        "The Rocky Horror Picture Show",
-        "Clue"
+        "Bright",
+        "Den of Thieves",
+        "American Hustle"
       ]
     },
     {
       "id": 500,
       "name": "Tom Cruise",
-      "popularity": 15.8,
+      "popularity": 13.3,
       "isAlive": true,
       "birthYear": 1962,
       "deathDate": null,
@@ -74,6 +29,51 @@
         "Edge of Tomorrow",
         "Oblivion",
         "Top Gun: Maverick"
+      ]
+    },
+    {
+      "id": 33676,
+      "name": "Kathleen Robertson",
+      "popularity": 14.6,
+      "isAlive": true,
+      "birthYear": 1973,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
+      "knownFor": [
+        "Scary Movie 2",
+        "The Vatican Tapes",
+        "Seal Team Six: The Raid on Osama Bin Laden"
+      ]
+    },
+    {
+      "id": 2248,
+      "name": "Michael Wright",
+      "popularity": 8.5,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2026-08-19",
+      "deathAge": 70,
+      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
+      "knownFor": [
+        "The Interpreter",
+        "V",
+        "The Principal"
+      ]
+    },
+    {
+      "id": 122246,
+      "name": "Bobby J. Brown",
+      "popularity": 12.2,
+      "isAlive": false,
+      "birthYear": 1963,
+      "deathDate": "2026-02-24",
+      "deathAge": 63,
+      "profilePath": "/3VHp6Ik4cEsN71FrhERnJTdx41G.jpg",
+      "knownFor": [
+        "Pecker",
+        "My One and Only",
+        "The Wire"
       ]
     }
   ]
