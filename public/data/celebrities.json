@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-04T04:25:57.294Z",
+  "generatedAt": "2026-09-05T04:15:16.948Z",
   "celebrities": [
     {
-      "id": 92614,
-      "name": "Dawn Olivieri",
-      "popularity": 16.3,
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 13.5,
       "isAlive": true,
-      "birthYear": 1981,
+      "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/tet7ZVbzhLWwT44m9j94folyl5N.jpg",
+      "profilePath": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
       "knownFor": [
-        "Bright",
-        "Den of Thieves",
-        "American Hustle"
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
       ]
     },
     {
-      "id": 500,
-      "name": "Tom Cruise",
+      "id": 1892,
+      "name": "Matt Damon",
       "popularity": 13.3,
       "isAlive": true,
-      "birthYear": 1962,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg",
+      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
       "knownFor": [
-        "Edge of Tomorrow",
-        "Oblivion",
-        "Top Gun: Maverick"
+        "The Martian",
+        "Good Will Hunting",
+        "The Bourne Identity"
       ]
     },
     {
       "id": 33676,
       "name": "Kathleen Robertson",
-      "popularity": 14.6,
+      "popularity": 31.2,
       "isAlive": true,
       "birthYear": 1973,
       "deathDate": null,
@@ -47,33 +47,33 @@
       ]
     },
     {
-      "id": 2248,
-      "name": "Michael Wright",
-      "popularity": 8.5,
+      "id": 1563895,
+      "name": "Carla Jeffery",
+      "popularity": 14.9,
       "isAlive": false,
-      "birthYear": 1956,
-      "deathDate": "2026-08-19",
-      "deathAge": 70,
-      "profilePath": "/5aS8v1BcVyXSeEl4sY2Hij5Rv5i.jpg",
+      "birthYear": 1993,
+      "deathDate": "2026-09-01",
+      "deathAge": 33,
+      "profilePath": "/v2rGchK6DeQ9VVgrKMWp7MYDZap.jpg",
       "knownFor": [
-        "The Interpreter",
-        "V",
-        "The Principal"
+        "Z-O-M-B-I-E-S",
+        "Z-O-M-B-I-E-S 2",
+        "Z-O-M-B-I-E-S 3"
       ]
     },
     {
-      "id": 122246,
-      "name": "Bobby J. Brown",
-      "popularity": 12.2,
+      "id": 13472,
+      "name": "Tim Curry",
+      "popularity": 12.6,
       "isAlive": false,
-      "birthYear": 1963,
-      "deathDate": "2026-02-24",
-      "deathAge": 63,
-      "profilePath": "/3VHp6Ik4cEsN71FrhERnJTdx41G.jpg",
+      "birthYear": 1946,
+      "deathDate": "2026-08-25",
+      "deathAge": 80,
+      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
       "knownFor": [
-        "Pecker",
-        "My One and Only",
-        "The Wire"
+        "It",
+        "The Rocky Horror Picture Show",
+        "Clue"
       ]
     }
   ]
