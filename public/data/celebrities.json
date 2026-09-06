@@ -1,55 +1,70 @@
 {
-  "generatedAt": "2026-09-05T04:15:16.948Z",
+  "generatedAt": "2026-09-06T04:24:40.280Z",
   "celebrities": [
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 13.5,
+      "id": 84028,
+      "name": "Yu Aoi",
+      "popularity": 15.3,
       "isAlive": true,
+      "birthYear": 1985,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg",
+      "knownFor": [
+        "Space Pirate Captain Harlock",
+        "Redline",
+        "Rurouni Kenshin Part I: Origins"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Morgan Freeman",
+      "popularity": 12.2,
+      "isAlive": true,
+      "birthYear": 1937,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg",
+      "knownFor": [
+        "Se7en",
+        "The Shawshank Redemption",
+        "Lucy"
+      ]
+    },
+    {
+      "id": 30614,
+      "name": "Ryan Gosling",
+      "popularity": 14,
+      "isAlive": true,
+      "birthYear": 1980,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "knownFor": [
+        "La La Land",
+        "Blade Runner 2049",
+        "Drive"
+      ]
+    },
+    {
+      "id": 122246,
+      "name": "Bobby J. Brown",
+      "popularity": 32.2,
+      "isAlive": false,
       "birthYear": 1963,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+      "deathDate": "2026-02-24",
+      "deathAge": 63,
+      "profilePath": "/3VHp6Ik4cEsN71FrhERnJTdx41G.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
-      ]
-    },
-    {
-      "id": 1892,
-      "name": "Matt Damon",
-      "popularity": 13.3,
-      "isAlive": true,
-      "birthYear": 1970,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
-      "knownFor": [
-        "The Martian",
-        "Good Will Hunting",
-        "The Bourne Identity"
-      ]
-    },
-    {
-      "id": 33676,
-      "name": "Kathleen Robertson",
-      "popularity": 31.2,
-      "isAlive": true,
-      "birthYear": 1973,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
-      "knownFor": [
-        "Scary Movie 2",
-        "The Vatican Tapes",
-        "Seal Team Six: The Raid on Osama Bin Laden"
+        "Pecker",
+        "My One and Only",
+        "The Wire"
       ]
     },
     {
       "id": 1563895,
       "name": "Carla Jeffery",
-      "popularity": 14.9,
+      "popularity": 15.3,
       "isAlive": false,
       "birthYear": 1993,
       "deathDate": "2026-09-01",
@@ -59,21 +74,6 @@
         "Z-O-M-B-I-E-S",
         "Z-O-M-B-I-E-S 2",
         "Z-O-M-B-I-E-S 3"
-      ]
-    },
-    {
-      "id": 13472,
-      "name": "Tim Curry",
-      "popularity": 12.6,
-      "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2026-08-25",
-      "deathAge": 80,
-      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
-      "knownFor": [
-        "It",
-        "The Rocky Horror Picture Show",
-        "Clue"
       ]
     }
   ]
