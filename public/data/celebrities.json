@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-09-06T04:24:40.280Z",
+  "generatedAt": "2026-09-07T04:23:31.145Z",
   "celebrities": [
     {
-      "id": 84028,
-      "name": "Yu Aoi",
-      "popularity": 15.3,
+      "id": 2074238,
+      "name": "Olivier Richters",
+      "popularity": 14.5,
       "isAlive": true,
-      "birthYear": 1985,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg",
+      "profilePath": "/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg",
       "knownFor": [
-        "Space Pirate Captain Harlock",
-        "Redline",
-        "Rurouni Kenshin Part I: Origins"
+        "Indiana Jones and the Dial of Destiny",
+        "The King's Man",
+        "Black Widow"
       ]
     },
     {
-      "id": 192,
-      "name": "Morgan Freeman",
-      "popularity": 12.2,
+      "id": 1081095,
+      "name": "Diana Pang Dan",
+      "popularity": 18.7,
       "isAlive": true,
-      "birthYear": 1937,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg",
+      "profilePath": "/vkt9leHs5YZ3ywwzxSxWDMwXv2X.jpg",
       "knownFor": [
-        "Se7en",
-        "The Shawshank Redemption",
-        "Lucy"
+        "The Imp",
+        "Midnight Caller",
+        "The Six Devil Women"
       ]
     },
     {
-      "id": 30614,
-      "name": "Ryan Gosling",
-      "popularity": 14,
+      "id": 1253360,
+      "name": "Pedro Pascal",
+      "popularity": 12.6,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1975,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
       "knownFor": [
-        "La La Land",
-        "Blade Runner 2049",
-        "Drive"
+        "The Mandalorian",
+        "The Last of Us",
+        "The Fantastic 4: First Steps"
       ]
     },
     {
       "id": 122246,
       "name": "Bobby J. Brown",
-      "popularity": 32.2,
+      "popularity": 23.1,
       "isAlive": false,
       "birthYear": 1963,
       "deathDate": "2026-02-24",
