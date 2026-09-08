@@ -1,55 +1,70 @@
 {
-  "generatedAt": "2026-09-07T04:23:31.145Z",
+  "generatedAt": "2026-09-08T04:23:43.701Z",
   "celebrities": [
     {
-      "id": 2074238,
-      "name": "Olivier Richters",
-      "popularity": 14.5,
+      "id": 3356248,
+      "name": "Rishikanth",
+      "popularity": 12.2,
+      "isAlive": true,
+      "birthYear": 1992,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/psIJLUWAZ106KsWnpa4oqJjSuzu.jpg",
+      "knownFor": [
+        "Made in Korea",
+        "Indian 2: Zero Tolerance",
+        "Coolie"
+      ]
+    },
+    {
+      "id": 1590797,
+      "name": "Sadie Sink",
+      "popularity": 13.6,
+      "isAlive": true,
+      "birthYear": 2002,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
+      "knownFor": [
+        "The Whale",
+        "Stranger Things",
+        "Fear Street: 1978"
+      ]
+    },
+    {
+      "id": 1320544,
+      "name": "Daniella Wang",
+      "popularity": 13.6,
       "isAlive": true,
       "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg",
+      "profilePath": "/Afh0SE4hnXY0eiKu3uyB1R0XKZL.jpg",
       "knownFor": [
-        "Indiana Jones and the Dial of Destiny",
-        "The King's Man",
-        "Black Widow"
+        "Due West: Our Sex Journey",
+        "Midnight Hair",
+        "Crazy Tsunami"
       ]
     },
     {
-      "id": 1081095,
-      "name": "Diana Pang Dan",
-      "popularity": 18.7,
-      "isAlive": true,
-      "birthYear": 1972,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/vkt9leHs5YZ3ywwzxSxWDMwXv2X.jpg",
+      "id": 142469,
+      "name": "Shirō Ōsaka",
+      "popularity": 13.4,
+      "isAlive": false,
+      "birthYear": 1920,
+      "deathDate": "1989-03-03",
+      "deathAge": 69,
+      "profilePath": "/mK5nUj8Jk4LJgfd8fD7083jlVWT.jpg",
       "knownFor": [
-        "The Imp",
-        "Midnight Caller",
-        "The Six Devil Women"
-      ]
-    },
-    {
-      "id": 1253360,
-      "name": "Pedro Pascal",
-      "popularity": 12.6,
-      "isAlive": true,
-      "birthYear": 1975,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
-      "knownFor": [
-        "The Mandalorian",
-        "The Last of Us",
-        "The Fantastic 4: First Steps"
+        "Tokyo Story",
+        "Pigs and Battleships",
+        "Forever a Woman"
       ]
     },
     {
       "id": 122246,
       "name": "Bobby J. Brown",
-      "popularity": 23.1,
+      "popularity": 20.6,
       "isAlive": false,
       "birthYear": 1963,
       "deathDate": "2026-02-24",
@@ -59,21 +74,6 @@
         "Pecker",
         "My One and Only",
         "The Wire"
-      ]
-    },
-    {
-      "id": 1563895,
-      "name": "Carla Jeffery",
-      "popularity": 15.3,
-      "isAlive": false,
-      "birthYear": 1993,
-      "deathDate": "2026-09-01",
-      "deathAge": 33,
-      "profilePath": "/v2rGchK6DeQ9VVgrKMWp7MYDZap.jpg",
-      "knownFor": [
-        "Z-O-M-B-I-E-S",
-        "Z-O-M-B-I-E-S 2",
-        "Z-O-M-B-I-E-S 3"
       ]
     }
   ]
