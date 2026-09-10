@@ -1,40 +1,10 @@
 {
-  "generatedAt": "2026-09-09T04:28:46.890Z",
+  "generatedAt": "2026-09-10T04:27:08.382Z",
   "celebrities": [
-    {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "popularity": 17,
-      "isAlive": true,
-      "birthYear": 1983,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
-      "knownFor": [
-        "24 Year Old Yoon Yul's Sexy Breasts",
-        "Beauty Salon: Special Service 4",
-        "Beauty Salon: Special Service 3"
-      ]
-    },
-    {
-      "id": 90633,
-      "name": "Gal Gadot",
-      "popularity": 12.1,
-      "isAlive": true,
-      "birthYear": 1985,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg",
-      "knownFor": [
-        "Wonder Woman",
-        "Wonder Woman 1984",
-        "Batman v Superman: Dawn of Justice"
-      ]
-    },
     {
       "id": 1373074,
       "name": "Alissa Yagi",
-      "popularity": 17.5,
+      "popularity": 15.6,
       "isAlive": true,
       "birthYear": 1995,
       "deathDate": null,
@@ -47,33 +17,63 @@
       ]
     },
     {
-      "id": 7588,
-      "name": "Aleksandr Rogozhkin",
-      "popularity": 7,
-      "isAlive": false,
-      "birthYear": 1949,
-      "deathDate": "2021-10-23",
-      "deathAge": 72,
-      "profilePath": "/f4RWtQhLdhQFvdjqeIt0LN0DuFa.jpg",
+      "id": 18897,
+      "name": "Jackie Chan",
+      "popularity": 11.3,
+      "isAlive": true,
+      "birthYear": 1954,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
       "knownFor": [
-        "The Cuckoo",
-        "Peculiarities of the National Fishing",
-        "Peculiarities of the National Hunt"
+        "Rush Hour",
+        "Rush Hour 2",
+        "Rush Hour 3"
       ]
     },
     {
-      "id": 1563895,
-      "name": "Carla Jeffery",
-      "popularity": 15.6,
-      "isAlive": false,
-      "birthYear": 1993,
-      "deathDate": "2026-09-01",
-      "deathAge": 33,
-      "profilePath": "/v2rGchK6DeQ9VVgrKMWp7MYDZap.jpg",
+      "id": 1183234,
+      "name": "Gan Tingting",
+      "popularity": 30,
+      "isAlive": true,
+      "birthYear": 1986,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/pGGWKxPNw0d9uynlzxq4xKQPhN2.jpg",
       "knownFor": [
-        "Z-O-M-B-I-E-S",
-        "Z-O-M-B-I-E-S 2",
-        "Z-O-M-B-I-E-S 3"
+        "Drug War",
+        "General and I",
+        "Kung Fu Dunk"
+      ]
+    },
+    {
+      "id": 2314,
+      "name": "Peter Falk",
+      "popularity": 11.2,
+      "isAlive": false,
+      "birthYear": 1927,
+      "deathDate": "2011-06-23",
+      "deathAge": 83,
+      "profilePath": "/e59x8ITouNlyz8Qa2abb5lxiQvI.jpg",
+      "knownFor": [
+        "Columbo",
+        "The Princess Bride",
+        "Shark Tale"
+      ]
+    },
+    {
+      "id": 3248,
+      "name": "David O. Selznick",
+      "popularity": 5.6,
+      "isAlive": false,
+      "birthYear": 1902,
+      "deathDate": "1965-06-22",
+      "deathAge": 63,
+      "profilePath": "/7BAijrUZxGv9vF5jXh0yUxbDHMP.jpg",
+      "knownFor": [
+        "Gone with the Wind",
+        "The Third Man",
+        "Rebecca"
       ]
     }
   ]
