@@ -1,40 +1,25 @@
 {
-  "generatedAt": "2026-09-10T04:27:08.382Z",
+  "generatedAt": "2026-09-11T04:26:37.831Z",
   "celebrities": [
     {
-      "id": 1373074,
-      "name": "Alissa Yagi",
-      "popularity": 15.6,
+      "id": 1260846,
+      "name": "Asami Kanno",
+      "popularity": 12.9,
       "isAlive": true,
-      "birthYear": 1995,
+      "birthYear": 1976,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/uBOkNey4zXSqvdcn7DcWWQ6jss4.jpg",
+      "profilePath": "/apZNhSmx2EeJyN6sXAttvKQYOzy.jpg",
       "knownFor": [
-        "Come Kiss Me at 0:00AM",
-        "Say 'I Love You'",
-        "We Made a Beautiful Bouquet"
-      ]
-    },
-    {
-      "id": 18897,
-      "name": "Jackie Chan",
-      "popularity": 11.3,
-      "isAlive": true,
-      "birthYear": 1954,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
-      "knownFor": [
-        "Rush Hour",
-        "Rush Hour 2",
-        "Rush Hour 3"
+        "New Golden Lotus",
+        "New Golden Lotus III",
+        "New Jin Pin Mei"
       ]
     },
     {
       "id": 1183234,
       "name": "Gan Tingting",
-      "popularity": 30,
+      "popularity": 27.5,
       "isAlive": true,
       "birthYear": 1986,
       "deathDate": null,
@@ -47,33 +32,48 @@
       ]
     },
     {
-      "id": 2314,
-      "name": "Peter Falk",
-      "popularity": 11.2,
-      "isAlive": false,
-      "birthYear": 1927,
-      "deathDate": "2011-06-23",
-      "deathAge": 83,
-      "profilePath": "/e59x8ITouNlyz8Qa2abb5lxiQvI.jpg",
+      "id": 1813,
+      "name": "Anne Hathaway",
+      "popularity": 16.1,
+      "isAlive": true,
+      "birthYear": 1982,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
       "knownFor": [
-        "Columbo",
-        "The Princess Bride",
-        "Shark Tale"
+        "Interstellar",
+        "The Devil Wears Prada",
+        "The Princess Diaries"
       ]
     },
     {
-      "id": 3248,
-      "name": "David O. Selznick",
-      "popularity": 5.6,
+      "id": 10344,
+      "name": "Richard Loo",
+      "popularity": 11.9,
       "isAlive": false,
-      "birthYear": 1902,
-      "deathDate": "1965-06-22",
-      "deathAge": 63,
-      "profilePath": "/7BAijrUZxGv9vF5jXh0yUxbDHMP.jpg",
+      "birthYear": 1903,
+      "deathDate": "1983-11-20",
+      "deathAge": 80,
+      "profilePath": "/mCQFpDqmxaNMm0A4SKodUuNA92v.jpg",
       "knownFor": [
-        "Gone with the Wind",
-        "The Third Man",
-        "Rebecca"
+        "The Man with the Golden Gun",
+        "The Sand Pebbles",
+        "The Steel Helmet"
+      ]
+    },
+    {
+      "id": 90625,
+      "name": "George Murcell",
+      "popularity": 11.8,
+      "isAlive": false,
+      "birthYear": 1925,
+      "deathDate": "1998-12-03",
+      "deathAge": 73,
+      "profilePath": "/72rJKikMjZAjFRQ01k0MRBKqhNb.jpg",
+      "knownFor": [
+        "You Only Live Twice",
+        "Cutthroat Island",
+        "The Fall of the Roman Empire"
       ]
     }
   ]
