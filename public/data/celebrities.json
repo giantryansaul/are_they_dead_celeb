@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-11T04:26:37.831Z",
+  "generatedAt": "2026-09-12T04:24:32.679Z",
   "celebrities": [
     {
-      "id": 1260846,
-      "name": "Asami Kanno",
-      "popularity": 12.9,
+      "id": 505710,
+      "name": "Zendaya",
+      "popularity": 14.3,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/apZNhSmx2EeJyN6sXAttvKQYOzy.jpg",
+      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
       "knownFor": [
-        "New Golden Lotus",
-        "New Golden Lotus III",
-        "New Jin Pin Mei"
+        "Spider-Man: No Way Home",
+        "Euphoria",
+        "Dune: Part Two"
       ]
     },
     {
-      "id": 1183234,
-      "name": "Gan Tingting",
-      "popularity": 27.5,
+      "id": 64439,
+      "name": "Fan Bingbing",
+      "popularity": 11.2,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1981,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pGGWKxPNw0d9uynlzxq4xKQPhN2.jpg",
+      "profilePath": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
       "knownFor": [
-        "Drug War",
-        "General and I",
-        "Kung Fu Dunk"
+        "X-Men: Days of Future Past",
+        "Ice Road: Vengeance",
+        "Skiptrace"
       ]
     },
     {
-      "id": 1813,
-      "name": "Anne Hathaway",
-      "popularity": 16.1,
+      "id": 1094210,
+      "name": "Jing Boran",
+      "popularity": 12.8,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "profilePath": "/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg",
       "knownFor": [
-        "Interstellar",
-        "The Devil Wears Prada",
-        "The Princess Diaries"
+        "Monster Hunt",
+        "Us and Them",
+        "The Shadow Play"
       ]
     },
     {
-      "id": 10344,
-      "name": "Richard Loo",
-      "popularity": 11.9,
+      "id": 12150,
+      "name": "Maximilian Schell",
+      "popularity": 14.1,
       "isAlive": false,
-      "birthYear": 1903,
-      "deathDate": "1983-11-20",
-      "deathAge": 80,
-      "profilePath": "/mCQFpDqmxaNMm0A4SKodUuNA92v.jpg",
+      "birthYear": 1930,
+      "deathDate": "2014-02-01",
+      "deathAge": 83,
+      "profilePath": "/s5UwdDSf3nyW7cye8b4oyXlX0AI.jpg",
       "knownFor": [
-        "The Man with the Golden Gun",
-        "The Sand Pebbles",
-        "The Steel Helmet"
+        "Deep Impact",
+        "The Black Hole",
+        "Judgment at Nuremberg"
       ]
     },
     {
-      "id": 90625,
-      "name": "George Murcell",
-      "popularity": 11.8,
+      "id": 6844,
+      "name": "Dom DeLuise",
+      "popularity": 16.9,
       "isAlive": false,
-      "birthYear": 1925,
-      "deathDate": "1998-12-03",
-      "deathAge": 73,
-      "profilePath": "/72rJKikMjZAjFRQ01k0MRBKqhNb.jpg",
+      "birthYear": 1933,
+      "deathDate": "2009-05-04",
+      "deathAge": 75,
+      "profilePath": "/f2GmgZBSZjGUPKFQx9U8AMge8vs.jpg",
       "knownFor": [
-        "You Only Live Twice",
-        "Cutthroat Island",
-        "The Fall of the Roman Empire"
+        "All Dogs Go to Heaven",
+        "History of the World: Part I",
+        "The Secret of NIMH"
       ]
     }
   ]
