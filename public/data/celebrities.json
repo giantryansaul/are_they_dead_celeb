@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-09-12T04:24:32.679Z",
+  "generatedAt": "2026-09-13T04:37:08.073Z",
   "celebrities": [
     {
-      "id": 505710,
-      "name": "Zendaya",
-      "popularity": 14.3,
+      "id": 33676,
+      "name": "Kathleen Robertson",
+      "popularity": 39.6,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1973,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+      "profilePath": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
       "knownFor": [
-        "Spider-Man: No Way Home",
+        "Scary Movie 2",
+        "The Vatican Tapes",
+        "Seal Team Six: The Raid on Osama Bin Laden"
+      ]
+    },
+    {
+      "id": 1260846,
+      "name": "Asami Kanno",
+      "popularity": 19,
+      "isAlive": true,
+      "birthYear": 1976,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/apZNhSmx2EeJyN6sXAttvKQYOzy.jpg",
+      "knownFor": [
+        "New Golden Lotus",
+        "New Golden Lotus III",
+        "New Jin Pin Mei"
+      ]
+    },
+    {
+      "id": 115440,
+      "name": "Sydney Sweeney",
+      "popularity": 10.8,
+      "isAlive": true,
+      "birthYear": 1997,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "knownFor": [
         "Euphoria",
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "id": 64439,
-      "name": "Fan Bingbing",
-      "popularity": 11.2,
-      "isAlive": true,
-      "birthYear": 1981,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
-      "knownFor": [
-        "X-Men: Days of Future Past",
-        "Ice Road: Vengeance",
-        "Skiptrace"
-      ]
-    },
-    {
-      "id": 1094210,
-      "name": "Jing Boran",
-      "popularity": 12.8,
-      "isAlive": true,
-      "birthYear": 1989,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg",
-      "knownFor": [
-        "Monster Hunt",
-        "Us and Them",
-        "The Shadow Play"
-      ]
-    },
-    {
-      "id": 12150,
-      "name": "Maximilian Schell",
-      "popularity": 14.1,
-      "isAlive": false,
-      "birthYear": 1930,
-      "deathDate": "2014-02-01",
-      "deathAge": 83,
-      "profilePath": "/s5UwdDSf3nyW7cye8b4oyXlX0AI.jpg",
-      "knownFor": [
-        "Deep Impact",
-        "The Black Hole",
-        "Judgment at Nuremberg"
+        "Anyone but You",
+        "The Housemaid"
       ]
     },
     {
       "id": 6844,
       "name": "Dom DeLuise",
-      "popularity": 16.9,
+      "popularity": 9.7,
       "isAlive": false,
       "birthYear": 1933,
       "deathDate": "2009-05-04",
@@ -74,6 +59,21 @@
         "All Dogs Go to Heaven",
         "History of the World: Part I",
         "The Secret of NIMH"
+      ]
+    },
+    {
+      "id": 1195939,
+      "name": "Ayaka Miyoshi",
+      "popularity": 15.2,
+      "isAlive": true,
+      "birthYear": 1996,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/62oahK2mc58X5sNrxyhCVXKryIx.jpg",
+      "knownFor": [
+        "Alice in Borderland",
+        "Howling Village",
+        "Confessions"
       ]
     }
   ]
