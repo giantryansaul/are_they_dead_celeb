@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-13T04:37:08.073Z",
+  "generatedAt": "2026-09-14T04:44:22.492Z",
   "celebrities": [
     {
-      "id": 33676,
-      "name": "Kathleen Robertson",
-      "popularity": 39.6,
+      "id": 1245,
+      "name": "Scarlett Johansson",
+      "popularity": 10.5,
       "isAlive": true,
-      "birthYear": 1973,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
+      "profilePath": "/kcGQvyJZdOQFjw1RHTePnX5gxmB.jpg",
       "knownFor": [
-        "Scary Movie 2",
-        "The Vatican Tapes",
-        "Seal Team Six: The Raid on Osama Bin Laden"
+        "Lucy",
+        "Black Widow",
+        "Ghost in the Shell"
       ]
     },
     {
-      "id": 1260846,
-      "name": "Asami Kanno",
-      "popularity": 19,
+      "id": 84028,
+      "name": "Yu Aoi",
+      "popularity": 17.3,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1985,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/apZNhSmx2EeJyN6sXAttvKQYOzy.jpg",
+      "profilePath": "/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg",
       "knownFor": [
-        "New Golden Lotus",
-        "New Golden Lotus III",
-        "New Jin Pin Mei"
+        "Space Pirate Captain Harlock",
+        "Redline",
+        "Rurouni Kenshin Part I: Origins"
       ]
     },
     {
-      "id": 115440,
-      "name": "Sydney Sweeney",
-      "popularity": 10.8,
+      "id": 1822392,
+      "name": "Benedetta Porcaroli",
+      "popularity": 12,
       "isAlive": true,
-      "birthYear": 1997,
+      "birthYear": 1998,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "profilePath": "/aYSJ87nrceznZJPScm9wF5LNt8E.jpg",
       "knownFor": [
-        "Euphoria",
-        "Anyone but You",
-        "The Housemaid"
+        "Baby",
+        "Perfect Strangers",
+        "The Catholic School"
       ]
     },
     {
-      "id": 6844,
-      "name": "Dom DeLuise",
-      "popularity": 9.7,
+      "id": 854,
+      "name": "James Stewart",
+      "popularity": 11.1,
       "isAlive": false,
-      "birthYear": 1933,
-      "deathDate": "2009-05-04",
-      "deathAge": 75,
-      "profilePath": "/f2GmgZBSZjGUPKFQx9U8AMge8vs.jpg",
+      "birthYear": 1908,
+      "deathDate": "1997-07-02",
+      "deathAge": 89,
+      "profilePath": "/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg",
       "knownFor": [
-        "All Dogs Go to Heaven",
-        "History of the World: Part I",
-        "The Secret of NIMH"
+        "Rear Window",
+        "Vertigo",
+        "It's a Wonderful Life"
       ]
     },
     {
-      "id": 1195939,
-      "name": "Ayaka Miyoshi",
-      "popularity": 15.2,
+      "id": 1373074,
+      "name": "Alissa Yagi",
+      "popularity": 11.6,
       "isAlive": true,
-      "birthYear": 1996,
+      "birthYear": 1995,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/62oahK2mc58X5sNrxyhCVXKryIx.jpg",
+      "profilePath": "/uBOkNey4zXSqvdcn7DcWWQ6jss4.jpg",
       "knownFor": [
-        "Alice in Borderland",
-        "Howling Village",
-        "Confessions"
+        "Come Kiss Me at 0:00AM",
+        "Say 'I Love You'",
+        "We Made a Beautiful Bouquet"
       ]
     }
   ]
