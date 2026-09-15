@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-14T04:44:22.492Z",
+  "generatedAt": "2026-09-15T04:43:40.904Z",
   "celebrities": [
     {
-      "id": 1245,
-      "name": "Scarlett Johansson",
-      "popularity": 10.5,
+      "id": 18277,
+      "name": "Sandra Bullock",
+      "popularity": 10.9,
       "isAlive": true,
-      "birthYear": 1984,
+      "birthYear": 1964,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kcGQvyJZdOQFjw1RHTePnX5gxmB.jpg",
+      "profilePath": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg",
       "knownFor": [
-        "Lucy",
-        "Black Widow",
-        "Ghost in the Shell"
+        "Gravity",
+        "Minions",
+        "Bird Box"
       ]
     },
     {
-      "id": 84028,
-      "name": "Yu Aoi",
+      "id": 589162,
+      "name": "Genesis Rodriguez",
+      "popularity": 17.9,
+      "isAlive": true,
+      "birthYear": 1987,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg",
+      "knownFor": [
+        "Big Hero 6",
+        "Doña Bárbara",
+        "The Umbrella Academy"
+      ]
+    },
+    {
+      "id": 976,
+      "name": "Jason Statham",
       "popularity": 17.3,
       "isAlive": true,
-      "birthYear": 1985,
+      "birthYear": 1967,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg",
+      "profilePath": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg",
       "knownFor": [
-        "Space Pirate Captain Harlock",
-        "Redline",
-        "Rurouni Kenshin Part I: Origins"
+        "Snatch",
+        "The Meg",
+        "Wrath of Man"
       ]
     },
     {
-      "id": 1822392,
-      "name": "Benedetta Porcaroli",
-      "popularity": 12,
-      "isAlive": true,
-      "birthYear": 1998,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/aYSJ87nrceznZJPScm9wF5LNt8E.jpg",
-      "knownFor": [
-        "Baby",
-        "Perfect Strangers",
-        "The Catholic School"
-      ]
-    },
-    {
-      "id": 854,
-      "name": "James Stewart",
-      "popularity": 11.1,
+      "id": 83237,
+      "name": "Elizabeth Patterson",
+      "popularity": 11.8,
       "isAlive": false,
-      "birthYear": 1908,
-      "deathDate": "1997-07-02",
-      "deathAge": 89,
-      "profilePath": "/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg",
+      "birthYear": 1874,
+      "deathDate": "1966-01-31",
+      "deathAge": 91,
+      "profilePath": "/rSLcM8DsZi1ydRn8Dk3vXE89nCG.jpg",
       "knownFor": [
-        "Rear Window",
-        "Vertigo",
-        "It's a Wonderful Life"
+        "I Married a Witch",
+        "Remember the Night",
+        "Little Women"
       ]
     },
     {
-      "id": 1373074,
-      "name": "Alissa Yagi",
-      "popularity": 11.6,
-      "isAlive": true,
-      "birthYear": 1995,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/uBOkNey4zXSqvdcn7DcWWQ6jss4.jpg",
+      "id": 80237,
+      "name": "Binnie Barnes",
+      "popularity": 11.4,
+      "isAlive": false,
+      "birthYear": 1903,
+      "deathDate": "1998-07-27",
+      "deathAge": 95,
+      "profilePath": "/venfbwUiANzQyyNSWRE7II7PKPq.jpg",
       "knownFor": [
-        "Come Kiss Me at 0:00AM",
-        "Say 'I Love You'",
-        "We Made a Beautiful Bouquet"
+        "Holiday",
+        "The Last of the Mohicans",
+        "The Trouble with Angels"
       ]
     }
   ]
