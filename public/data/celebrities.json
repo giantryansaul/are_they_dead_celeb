@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-15T04:43:40.904Z",
+  "generatedAt": "2026-09-16T04:40:28.020Z",
   "celebrities": [
     {
-      "id": 18277,
-      "name": "Sandra Bullock",
-      "popularity": 10.9,
+      "id": 2025252,
+      "name": "Ester Expósito",
+      "popularity": 16.6,
       "isAlive": true,
-      "birthYear": 1964,
+      "birthYear": 2000,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg",
+      "profilePath": "/p6VTokjlBYQLoCaUX06ibMVsp5j.jpg",
       "knownFor": [
-        "Gravity",
-        "Minions",
-        "Bird Box"
+        "Elite",
+        "Venus",
+        "Elite Short Stories: Carla Samuel"
       ]
     },
     {
-      "id": 589162,
-      "name": "Genesis Rodriguez",
-      "popularity": 17.9,
+      "id": 5235257,
+      "name": "Kim Sun-young",
+      "popularity": 10.4,
       "isAlive": true,
-      "birthYear": 1987,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg",
+      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
       "knownFor": [
-        "Big Hero 6",
-        "Doña Bárbara",
-        "The Umbrella Academy"
+        "The Chaser",
+        "Love Lesson",
+        "Female War: A Nasty Deal"
       ]
     },
     {
-      "id": 976,
-      "name": "Jason Statham",
-      "popularity": 17.3,
+      "id": 1094210,
+      "name": "Jing Boran",
+      "popularity": 11.1,
       "isAlive": true,
-      "birthYear": 1967,
+      "birthYear": 1989,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg",
+      "profilePath": "/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg",
       "knownFor": [
-        "Snatch",
-        "The Meg",
-        "Wrath of Man"
+        "Monster Hunt",
+        "Us and Them",
+        "The Shadow Play"
       ]
     },
     {
-      "id": 83237,
-      "name": "Elizabeth Patterson",
-      "popularity": 11.8,
+      "id": 5331,
+      "name": "Stephenie McMillan",
+      "popularity": 17.6,
       "isAlive": false,
-      "birthYear": 1874,
-      "deathDate": "1966-01-31",
-      "deathAge": 91,
-      "profilePath": "/rSLcM8DsZi1ydRn8Dk3vXE89nCG.jpg",
+      "birthYear": 1942,
+      "deathDate": "2013-08-19",
+      "deathAge": 71,
+      "profilePath": "/hsDEB3aN8hCU2eysNM7DRCoDcXR.jpg",
       "knownFor": [
-        "I Married a Witch",
-        "Remember the Night",
-        "Little Women"
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Prisoner of Azkaban"
       ]
     },
     {
-      "id": 80237,
-      "name": "Binnie Barnes",
-      "popularity": 11.4,
-      "isAlive": false,
-      "birthYear": 1903,
-      "deathDate": "1998-07-27",
-      "deathAge": 95,
-      "profilePath": "/venfbwUiANzQyyNSWRE7II7PKPq.jpg",
+      "id": 78862,
+      "name": "Anna Silk",
+      "popularity": 9.1,
+      "isAlive": true,
+      "birthYear": 1974,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/3mrhM0mZeGBPBagm2keDCtUEjda.jpg",
       "knownFor": [
-        "Holiday",
-        "The Last of the Mohicans",
-        "The Trouble with Angels"
+        "Lost Girl",
+        "Assassins Tale",
+        "Earthstorm"
       ]
     }
   ]
