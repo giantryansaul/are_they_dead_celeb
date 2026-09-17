@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-16T04:40:28.020Z",
+  "generatedAt": "2026-09-17T04:43:34.648Z",
   "celebrities": [
     {
-      "id": 2025252,
-      "name": "Ester Expósito",
-      "popularity": 16.6,
+      "id": 59219,
+      "name": "Kyle Gallner",
+      "popularity": 12.1,
       "isAlive": true,
-      "birthYear": 2000,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/p6VTokjlBYQLoCaUX06ibMVsp5j.jpg",
+      "profilePath": "/wfdywrw6K3ti1uW1IYDWbUtU8se.jpg",
       "knownFor": [
-        "Elite",
-        "Venus",
-        "Elite Short Stories: Carla Samuel"
+        "American Sniper",
+        "Smile",
+        "A Nightmare on Elm Street"
       ]
     },
     {
-      "id": 5235257,
-      "name": "Kim Sun-young",
-      "popularity": 10.4,
+      "id": 3590388,
+      "name": "Bao Shangen",
+      "popularity": 12.3,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
+      "profilePath": "/z0DCiZ6k97DKWfnqSwQEvLmuu3O.jpg",
       "knownFor": [
-        "The Chaser",
-        "Love Lesson",
-        "Female War: A Nasty Deal"
+        "Never-Ending Summer",
+        "Youthful Glory",
+        "Whispers of Fate"
       ]
     },
     {
-      "id": 1094210,
-      "name": "Jing Boran",
-      "popularity": 11.1,
+      "id": 1731959,
+      "name": "Tanya Reynolds",
+      "popularity": 14.7,
       "isAlive": true,
-      "birthYear": 1989,
+      "birthYear": 1991,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg",
+      "profilePath": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg",
       "knownFor": [
-        "Monster Hunt",
-        "Us and Them",
-        "The Shadow Play"
+        "Sex Education",
+        "Emma.",
+        "Ted Lasso"
       ]
     },
     {
-      "id": 5331,
-      "name": "Stephenie McMillan",
-      "popularity": 17.6,
+      "id": 854,
+      "name": "James Stewart",
+      "popularity": 13,
       "isAlive": false,
-      "birthYear": 1942,
-      "deathDate": "2013-08-19",
-      "deathAge": 71,
-      "profilePath": "/hsDEB3aN8hCU2eysNM7DRCoDcXR.jpg",
+      "birthYear": 1908,
+      "deathDate": "1997-07-02",
+      "deathAge": 89,
+      "profilePath": "/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg",
       "knownFor": [
-        "Harry Potter and the Philosopher's Stone",
-        "Harry Potter and the Chamber of Secrets",
-        "Harry Potter and the Prisoner of Azkaban"
+        "Rear Window",
+        "Vertigo",
+        "It's a Wonderful Life"
       ]
     },
     {
-      "id": 78862,
-      "name": "Anna Silk",
-      "popularity": 9.1,
-      "isAlive": true,
-      "birthYear": 1974,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/3mrhM0mZeGBPBagm2keDCtUEjda.jpg",
+      "id": 32428,
+      "name": "William Powell",
+      "popularity": 12.9,
+      "isAlive": false,
+      "birthYear": 1892,
+      "deathDate": "1984-03-05",
+      "deathAge": 91,
+      "profilePath": "/8DTWs389THkVCTiDFu0x8ekNmUC.jpg",
       "knownFor": [
-        "Lost Girl",
-        "Assassins Tale",
-        "Earthstorm"
+        "The Thin Man",
+        "My Man Godfrey",
+        "After the Thin Man"
       ]
     }
   ]
