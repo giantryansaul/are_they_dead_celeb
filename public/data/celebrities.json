@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-17T04:43:34.648Z",
+  "generatedAt": "2026-09-18T04:31:09.821Z",
   "celebrities": [
     {
-      "id": 59219,
-      "name": "Kyle Gallner",
-      "popularity": 12.1,
+      "id": 21647,
+      "name": "Gérard Krawczyk",
+      "popularity": 14.4,
       "isAlive": true,
-      "birthYear": 1986,
+      "birthYear": 1953,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/wfdywrw6K3ti1uW1IYDWbUtU8se.jpg",
+      "profilePath": "/3As3jvza5WtPIbIbLl8hYQToNmV.jpg",
       "knownFor": [
-        "American Sniper",
-        "Smile",
-        "A Nightmare on Elm Street"
+        "Taxi 2",
+        "Taxi 3",
+        "Wasabi"
       ]
     },
     {
-      "id": 3590388,
-      "name": "Bao Shangen",
-      "popularity": 12.3,
+      "id": 2227,
+      "name": "Nicole Kidman",
+      "popularity": 10.3,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1967,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/z0DCiZ6k97DKWfnqSwQEvLmuu3O.jpg",
+      "profilePath": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
       "knownFor": [
-        "Never-Ending Summer",
-        "Youthful Glory",
-        "Whispers of Fate"
+        "The Others",
+        "Eyes Wide Shut",
+        "Aquaman"
       ]
     },
     {
-      "id": 1731959,
-      "name": "Tanya Reynolds",
-      "popularity": 14.7,
+      "id": 589162,
+      "name": "Genesis Rodriguez",
+      "popularity": 17.8,
       "isAlive": true,
-      "birthYear": 1991,
+      "birthYear": 1987,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg",
+      "profilePath": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg",
       "knownFor": [
-        "Sex Education",
-        "Emma.",
-        "Ted Lasso"
+        "Big Hero 6",
+        "Doña Bárbara",
+        "The Umbrella Academy"
       ]
     },
     {
-      "id": 854,
-      "name": "James Stewart",
-      "popularity": 13,
+      "id": 91256,
+      "name": "Sigrid Valdis",
+      "popularity": 18.6,
       "isAlive": false,
-      "birthYear": 1908,
-      "deathDate": "1997-07-02",
-      "deathAge": 89,
-      "profilePath": "/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg",
+      "birthYear": 1935,
+      "deathDate": "2007-10-14",
+      "deathAge": 72,
+      "profilePath": "/eIRS8e7DgdFWdNX9EsHxSw585fz.jpg",
       "knownFor": [
-        "Rear Window",
-        "Vertigo",
-        "It's a Wonderful Life"
+        "Our Man Flint",
+        "Marriage on the Rocks",
+        "Hogan's Heroes"
       ]
     },
     {
-      "id": 32428,
-      "name": "William Powell",
-      "popularity": 12.9,
+      "id": 5331,
+      "name": "Stephenie McMillan",
+      "popularity": 11,
       "isAlive": false,
-      "birthYear": 1892,
-      "deathDate": "1984-03-05",
-      "deathAge": 91,
-      "profilePath": "/8DTWs389THkVCTiDFu0x8ekNmUC.jpg",
+      "birthYear": 1942,
+      "deathDate": "2013-08-19",
+      "deathAge": 71,
+      "profilePath": "/hsDEB3aN8hCU2eysNM7DRCoDcXR.jpg",
       "knownFor": [
-        "The Thin Man",
-        "My Man Godfrey",
-        "After the Thin Man"
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Prisoner of Azkaban"
       ]
     }
   ]
