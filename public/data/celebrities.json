@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-09-18T04:31:09.821Z",
+  "generatedAt": "2026-09-19T04:28:01.795Z",
   "celebrities": [
     {
-      "id": 21647,
-      "name": "Gérard Krawczyk",
-      "popularity": 14.4,
+      "id": 209578,
+      "name": "Laura Haddock",
+      "popularity": 20.1,
       "isAlive": true,
-      "birthYear": 1953,
+      "birthYear": 1985,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3As3jvza5WtPIbIbLl8hYQToNmV.jpg",
+      "profilePath": "/6kRUvA7N3pMzznG9PdiqCOvxhGQ.jpg",
       "knownFor": [
-        "Taxi 2",
-        "Taxi 3",
-        "Wasabi"
+        "Transformers: The Last Knight",
+        "Guardians of the Galaxy",
+        "Guardians of the Galaxy Vol. 2"
       ]
     },
     {
-      "id": 2227,
-      "name": "Nicole Kidman",
-      "popularity": 10.3,
+      "id": 5212949,
+      "name": "Anastasia Shestakova",
+      "popularity": 13.6,
       "isAlive": true,
-      "birthYear": 1967,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
+      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
       "knownFor": [
-        "The Others",
-        "Eyes Wide Shut",
-        "Aquaman"
+        "Detective Chinatown 1900",
+        "Just a Job",
+        "不过是上班"
       ]
     },
     {
-      "id": 589162,
-      "name": "Genesis Rodriguez",
-      "popularity": 17.8,
+      "id": 115150,
+      "name": "Kaya Scodelario",
+      "popularity": 13.8,
       "isAlive": true,
-      "birthYear": 1987,
+      "birthYear": 1992,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg",
+      "profilePath": "/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg",
       "knownFor": [
-        "Big Hero 6",
-        "Doña Bárbara",
-        "The Umbrella Academy"
-      ]
-    },
-    {
-      "id": 91256,
-      "name": "Sigrid Valdis",
-      "popularity": 18.6,
-      "isAlive": false,
-      "birthYear": 1935,
-      "deathDate": "2007-10-14",
-      "deathAge": 72,
-      "profilePath": "/eIRS8e7DgdFWdNX9EsHxSw585fz.jpg",
-      "knownFor": [
-        "Our Man Flint",
-        "Marriage on the Rocks",
-        "Hogan's Heroes"
+        "The Maze Runner",
+        "Maze Runner: The Scorch Trials",
+        "Maze Runner: The Death Cure"
       ]
     },
     {
       "id": 5331,
       "name": "Stephenie McMillan",
-      "popularity": 11,
+      "popularity": 9.7,
       "isAlive": false,
       "birthYear": 1942,
       "deathDate": "2013-08-19",
@@ -74,6 +59,21 @@
         "Harry Potter and the Philosopher's Stone",
         "Harry Potter and the Chamber of Secrets",
         "Harry Potter and the Prisoner of Azkaban"
+      ]
+    },
+    {
+      "id": 91256,
+      "name": "Sigrid Valdis",
+      "popularity": 19.6,
+      "isAlive": false,
+      "birthYear": 1935,
+      "deathDate": "2007-10-14",
+      "deathAge": 72,
+      "profilePath": "/eIRS8e7DgdFWdNX9EsHxSw585fz.jpg",
+      "knownFor": [
+        "Our Man Flint",
+        "Marriage on the Rocks",
+        "Hogan's Heroes"
       ]
     }
   ]
