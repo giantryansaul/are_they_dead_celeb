@@ -1,70 +1,55 @@
 {
-  "generatedAt": "2026-09-19T04:28:01.795Z",
+  "generatedAt": "2026-09-20T04:45:45.363Z",
   "celebrities": [
     {
-      "id": 209578,
-      "name": "Laura Haddock",
-      "popularity": 20.1,
-      "isAlive": true,
-      "birthYear": 1985,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/6kRUvA7N3pMzznG9PdiqCOvxhGQ.jpg",
-      "knownFor": [
-        "Transformers: The Last Knight",
-        "Guardians of the Galaxy",
-        "Guardians of the Galaxy Vol. 2"
-      ]
-    },
-    {
-      "id": 5212949,
-      "name": "Anastasia Shestakova",
-      "popularity": 13.6,
+      "id": 3590388,
+      "name": "Bao Shangen",
+      "popularity": 17.1,
       "isAlive": true,
       "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
+      "profilePath": "/z0DCiZ6k97DKWfnqSwQEvLmuu3O.jpg",
       "knownFor": [
-        "Detective Chinatown 1900",
-        "Just a Job",
-        "不过是上班"
+        "Never-Ending Summer",
+        "Youthful Glory",
+        "Whispers of Fate"
       ]
     },
     {
-      "id": 115150,
-      "name": "Kaya Scodelario",
-      "popularity": 13.8,
+      "id": 31,
+      "name": "Tom Hanks",
+      "popularity": 17.2,
       "isAlive": true,
-      "birthYear": 1992,
+      "birthYear": 1956,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
       "knownFor": [
-        "The Maze Runner",
-        "Maze Runner: The Scorch Trials",
-        "Maze Runner: The Death Cure"
+        "Forrest Gump",
+        "Toy Story",
+        "The Green Mile"
       ]
     },
     {
-      "id": 5331,
-      "name": "Stephenie McMillan",
-      "popularity": 9.7,
-      "isAlive": false,
-      "birthYear": 1942,
-      "deathDate": "2013-08-19",
-      "deathAge": 71,
-      "profilePath": "/hsDEB3aN8hCU2eysNM7DRCoDcXR.jpg",
+      "id": 2123496,
+      "name": "Maria Sten",
+      "popularity": 20.6,
+      "isAlive": true,
+      "birthYear": 1989,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg",
       "knownFor": [
-        "Harry Potter and the Philosopher's Stone",
-        "Harry Potter and the Chamber of Secrets",
-        "Harry Potter and the Prisoner of Azkaban"
+        "Reacher",
+        "Swamp Thing",
+        "Channel Zero"
       ]
     },
     {
       "id": 91256,
       "name": "Sigrid Valdis",
-      "popularity": 19.6,
+      "popularity": 22.1,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2007-10-14",
@@ -74,6 +59,21 @@
         "Our Man Flint",
         "Marriage on the Rocks",
         "Hogan's Heroes"
+      ]
+    },
+    {
+      "id": 1260846,
+      "name": "Asami Kanno",
+      "popularity": 17.1,
+      "isAlive": true,
+      "birthYear": 1976,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/apZNhSmx2EeJyN6sXAttvKQYOzy.jpg",
+      "knownFor": [
+        "New Golden Lotus",
+        "New Golden Lotus III",
+        "New Jin Pin Mei"
       ]
     }
   ]
