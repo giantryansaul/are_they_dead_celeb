@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-09-20T04:45:45.363Z",
+  "generatedAt": "2026-09-21T04:44:33.864Z",
   "celebrities": [
     {
-      "id": 3590388,
-      "name": "Bao Shangen",
-      "popularity": 17.1,
+      "id": 933238,
+      "name": "Rebecca Ferguson",
+      "popularity": 11,
+      "isAlive": true,
+      "birthYear": 1983,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg",
+      "knownFor": [
+        "Dune",
+        "The Girl on the Train",
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "id": 1590797,
+      "name": "Sadie Sink",
+      "popularity": 11.7,
       "isAlive": true,
       "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/z0DCiZ6k97DKWfnqSwQEvLmuu3O.jpg",
+      "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
       "knownFor": [
-        "Never-Ending Summer",
-        "Youthful Glory",
-        "Whispers of Fate"
+        "The Whale",
+        "Stranger Things",
+        "Fear Street: 1978"
       ]
     },
     {
-      "id": 31,
-      "name": "Tom Hanks",
-      "popularity": 17.2,
+      "id": 149670,
+      "name": "Kevin Weisman",
+      "popularity": 24.3,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+      "profilePath": "/c0YWHu02cHGynufhOM7eNtIQ5ze.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Toy Story",
-        "The Green Mile"
-      ]
-    },
-    {
-      "id": 2123496,
-      "name": "Maria Sten",
-      "popularity": 20.6,
-      "isAlive": true,
-      "birthYear": 1989,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg",
-      "knownFor": [
-        "Reacher",
-        "Swamp Thing",
-        "Channel Zero"
+        "Flipped",
+        "Gone in Sixty Seconds",
+        "Alias"
       ]
     },
     {
       "id": 91256,
       "name": "Sigrid Valdis",
-      "popularity": 22.1,
+      "popularity": 21.8,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2007-10-14",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1260846,
-      "name": "Asami Kanno",
-      "popularity": 17.1,
+      "id": 33676,
+      "name": "Kathleen Robertson",
+      "popularity": 105.2,
       "isAlive": true,
-      "birthYear": 1976,
+      "birthYear": 1973,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/apZNhSmx2EeJyN6sXAttvKQYOzy.jpg",
+      "profilePath": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
       "knownFor": [
-        "New Golden Lotus",
-        "New Golden Lotus III",
-        "New Jin Pin Mei"
+        "Scary Movie 2",
+        "The Vatican Tapes",
+        "Seal Team Six: The Raid on Osama Bin Laden"
       ]
     }
   ]
