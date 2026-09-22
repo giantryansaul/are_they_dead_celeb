@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-09-21T04:44:33.864Z",
+  "generatedAt": "2026-09-22T04:41:50.168Z",
   "celebrities": [
     {
-      "id": 933238,
-      "name": "Rebecca Ferguson",
-      "popularity": 11,
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 12.3,
       "isAlive": true,
-      "birthYear": 1983,
+      "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg",
+      "profilePath": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
       "knownFor": [
-        "Dune",
-        "The Girl on the Train",
-        "Dune: Part Two"
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
       ]
     },
     {
-      "id": 1590797,
-      "name": "Sadie Sink",
-      "popularity": 11.7,
+      "id": 148992,
+      "name": "Austin Abrams",
+      "popularity": 12.1,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
+      "profilePath": "/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg",
       "knownFor": [
-        "The Whale",
-        "Stranger Things",
-        "Fear Street: 1978"
+        "Paper Towns",
+        "Chemical Hearts",
+        "Weapons"
       ]
     },
     {
-      "id": 149670,
-      "name": "Kevin Weisman",
-      "popularity": 24.3,
+      "id": 46772,
+      "name": "Marc Blucas",
+      "popularity": 16.8,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 1972,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/c0YWHu02cHGynufhOM7eNtIQ5ze.jpg",
+      "profilePath": "/zQrZosMrd5pDWTaoOIHcbfeFOQS.jpg",
       "knownFor": [
-        "Flipped",
-        "Gone in Sixty Seconds",
-        "Alias"
+        "Knight and Day",
+        "First Daughter",
+        "After Sex"
       ]
     },
     {
       "id": 91256,
       "name": "Sigrid Valdis",
-      "popularity": 21.8,
+      "popularity": 23.2,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2007-10-14",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 33676,
-      "name": "Kathleen Robertson",
-      "popularity": 105.2,
+      "id": 1297494,
+      "name": "Anggun",
+      "popularity": 17.2,
       "isAlive": true,
-      "birthYear": 1973,
+      "birthYear": 1974,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
+      "profilePath": "/4WxHGTehDvZudrunxTZmnR66CBi.jpg",
       "knownFor": [
-        "Scary Movie 2",
-        "The Vatican Tapes",
-        "Seal Team Six: The Raid on Osama Bin Laden"
+        "Reacher",
+        "Earth",
+        "Les Enfoirés 1999 - Dernière édition avant l'an 2000"
       ]
     }
   ]
