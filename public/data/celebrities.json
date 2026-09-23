@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-09-22T04:41:50.168Z",
+  "generatedAt": "2026-09-23T04:36:10.081Z",
   "celebrities": [
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 12.3,
+      "id": 1284159,
+      "name": "Simon Baker",
+      "popularity": 11.5,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 1969,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+      "profilePath": "/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
+        "The Mentalist",
+        "The Devil Wears Prada",
+        "Land of the Dead"
       ]
     },
     {
-      "id": 148992,
-      "name": "Austin Abrams",
-      "popularity": 12.1,
+      "id": 505710,
+      "name": "Zendaya",
+      "popularity": 12.2,
       "isAlive": true,
       "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg",
+      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
       "knownFor": [
-        "Paper Towns",
-        "Chemical Hearts",
-        "Weapons"
+        "Spider-Man: No Way Home",
+        "Euphoria",
+        "Dune: Part Two"
       ]
     },
     {
-      "id": 46772,
-      "name": "Marc Blucas",
-      "popularity": 16.8,
+      "id": 30364,
+      "name": "Tracey Ullman",
+      "popularity": 14.7,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1959,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/zQrZosMrd5pDWTaoOIHcbfeFOQS.jpg",
+      "profilePath": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg",
       "knownFor": [
-        "Knight and Day",
-        "First Daughter",
-        "After Sex"
+        "Corpse Bride",
+        "Kronk's New Groove",
+        "Onward"
       ]
     },
     {
       "id": 91256,
       "name": "Sigrid Valdis",
-      "popularity": 23.2,
+      "popularity": 13,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2007-10-14",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 1297494,
-      "name": "Anggun",
-      "popularity": 17.2,
+      "id": 550876,
+      "name": "Mayuko Sasaki",
+      "popularity": 13.9,
       "isAlive": true,
-      "birthYear": 1974,
+      "birthYear": 1970,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4WxHGTehDvZudrunxTZmnR66CBi.jpg",
+      "profilePath": "/3SLMYw8kYB9Ubv7yEFVUMVCamj6.jpg",
       "knownFor": [
-        "Reacher",
-        "Earth",
-        "Les Enfoirés 1999 - Dernière édition avant l'an 2000"
+        "Psycho Hannibal",
+        "Tokyo Strangler",
+        "Tokyo X Erotica"
       ]
     }
   ]
