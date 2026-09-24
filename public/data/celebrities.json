@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-09-23T04:36:10.081Z",
+  "generatedAt": "2026-09-24T04:34:49.601Z",
   "celebrities": [
     {
-      "id": 1284159,
-      "name": "Simon Baker",
-      "popularity": 11.5,
+      "id": 94076,
+      "name": "Kingdom Yuen King-Tan",
+      "popularity": 13,
       "isAlive": true,
-      "birthYear": 1969,
+      "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg",
+      "profilePath": "/nXVQeVWR0sMpW2eZ4blSqZt9ces.jpg",
       "knownFor": [
-        "The Mentalist",
-        "The Devil Wears Prada",
-        "Land of the Dead"
+        "Flirting Scholar",
+        "Wing Chun",
+        "The God of Cookery"
       ]
     },
     {
-      "id": 505710,
-      "name": "Zendaya",
-      "popularity": 12.2,
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 13.4,
+      "isAlive": true,
+      "birthYear": 1963,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+      "knownFor": [
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
+      ]
+    },
+    {
+      "id": 1136406,
+      "name": "Tom Holland",
+      "popularity": 11.9,
       "isAlive": true,
       "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+      "profilePath": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg",
       "knownFor": [
+        "Spider-Man: Homecoming",
         "Spider-Man: No Way Home",
-        "Euphoria",
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "id": 30364,
-      "name": "Tracey Ullman",
-      "popularity": 14.7,
-      "isAlive": true,
-      "birthYear": 1959,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg",
-      "knownFor": [
-        "Corpse Bride",
-        "Kronk's New Groove",
-        "Onward"
+        "Spider-Man: Far From Home"
       ]
     },
     {
       "id": 91256,
       "name": "Sigrid Valdis",
-      "popularity": 13,
+      "popularity": 8.9,
       "isAlive": false,
       "birthYear": 1935,
       "deathDate": "2007-10-14",
@@ -62,18 +62,18 @@
       ]
     },
     {
-      "id": 550876,
-      "name": "Mayuko Sasaki",
-      "popularity": 13.9,
+      "id": 5212949,
+      "name": "Anastasia Shestakova",
+      "popularity": 14.5,
       "isAlive": true,
-      "birthYear": 1970,
+      "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3SLMYw8kYB9Ubv7yEFVUMVCamj6.jpg",
+      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
       "knownFor": [
-        "Psycho Hannibal",
-        "Tokyo Strangler",
-        "Tokyo X Erotica"
+        "Detective Chinatown 1900",
+        "Just a Job",
+        "不过是上班"
       ]
     }
   ]
