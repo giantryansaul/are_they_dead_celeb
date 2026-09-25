@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-24T04:34:49.601Z",
+  "generatedAt": "2026-09-25T04:45:23.845Z",
   "celebrities": [
     {
-      "id": 94076,
-      "name": "Kingdom Yuen King-Tan",
-      "popularity": 13,
+      "id": 64295,
+      "name": "Alan Ritchson",
+      "popularity": 25,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 1982,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nXVQeVWR0sMpW2eZ4blSqZt9ces.jpg",
+      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
       "knownFor": [
-        "Flirting Scholar",
-        "Wing Chun",
-        "The God of Cookery"
+        "Teenage Mutant Ninja Turtles",
+        "Reacher",
+        "War Machine"
       ]
     },
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 13.4,
+      "id": 1247604,
+      "name": "Agnez Mo",
+      "popularity": 69.7,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 1986,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+      "profilePath": "/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
+        "Reacher",
+        "Christian Chávez - Esencial",
+        "RuPaul Drives..."
       ]
     },
     {
-      "id": 1136406,
-      "name": "Tom Holland",
-      "popularity": 11.9,
+      "id": 2275144,
+      "name": "Stephanie Nur",
+      "popularity": 14.7,
+      "isAlive": true,
+      "birthYear": 1988,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/kpYEaUMYU60Cu8sZLWwDo4GZkVR.jpg",
+      "knownFor": [
+        "Lioness",
+        "Mary",
+        "My Big Fat Greek Wedding 3"
+      ]
+    },
+    {
+      "id": 148992,
+      "name": "Austin Abrams",
+      "popularity": 13.1,
       "isAlive": true,
       "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg",
+      "profilePath": "/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg",
       "knownFor": [
-        "Spider-Man: Homecoming",
-        "Spider-Man: No Way Home",
-        "Spider-Man: Far From Home"
+        "Paper Towns",
+        "Chemical Hearts",
+        "Weapons"
       ]
     },
     {
-      "id": 91256,
-      "name": "Sigrid Valdis",
-      "popularity": 8.9,
-      "isAlive": false,
-      "birthYear": 1935,
-      "deathDate": "2007-10-14",
-      "deathAge": 72,
-      "profilePath": "/eIRS8e7DgdFWdNX9EsHxSw585fz.jpg",
-      "knownFor": [
-        "Our Man Flint",
-        "Marriage on the Rocks",
-        "Hogan's Heroes"
-      ]
-    },
-    {
-      "id": 5212949,
-      "name": "Anastasia Shestakova",
-      "popularity": 14.5,
+      "id": 209578,
+      "name": "Laura Haddock",
+      "popularity": 17.4,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1985,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
+      "profilePath": "/6kRUvA7N3pMzznG9PdiqCOvxhGQ.jpg",
       "knownFor": [
-        "Detective Chinatown 1900",
-        "Just a Job",
-        "不过是上班"
+        "Transformers: The Last Knight",
+        "Guardians of the Galaxy",
+        "Guardians of the Galaxy Vol. 2"
       ]
     }
   ]
