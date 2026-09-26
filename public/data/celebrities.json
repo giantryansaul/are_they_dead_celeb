@@ -1,25 +1,70 @@
 {
-  "generatedAt": "2026-09-25T04:45:23.845Z",
+  "generatedAt": "2026-09-26T04:46:30.528Z",
   "celebrities": [
     {
-      "id": 64295,
-      "name": "Alan Ritchson",
-      "popularity": 25,
+      "id": 57578,
+      "name": "MyAnna Buring",
+      "popularity": 11.2,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1979,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+      "profilePath": "/boC5LKewKpz8zhtUmPScHfkSAlV.jpg",
       "knownFor": [
-        "Teenage Mutant Ninja Turtles",
-        "Reacher",
-        "War Machine"
+        "The Descent",
+        "The Twilight Saga: Breaking Dawn - Part 2",
+        "The Witcher"
+      ]
+    },
+    {
+      "id": 59238,
+      "name": "Christopher Rodriguez Marquette",
+      "popularity": 19.4,
+      "isAlive": true,
+      "birthYear": 1984,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg",
+      "knownFor": [
+        "The Girl Next Door",
+        "Freddy vs. Jason",
+        "Just Friends"
+      ]
+    },
+    {
+      "id": 205258,
+      "name": "Harry Lloyd",
+      "popularity": 18.1,
+      "isAlive": true,
+      "birthYear": 1983,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg",
+      "knownFor": [
+        "Game of Thrones",
+        "The Theory of Everything",
+        "Anthropoid"
+      ]
+    },
+    {
+      "id": 19498,
+      "name": "Jon Bernthal",
+      "popularity": 12,
+      "isAlive": true,
+      "birthYear": 1976,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg",
+      "knownFor": [
+        "The Walking Dead",
+        "The Wolf of Wall Street",
+        "Marvel's The Punisher"
       ]
     },
     {
       "id": 1247604,
       "name": "Agnez Mo",
-      "popularity": 69.7,
+      "popularity": 68.1,
       "isAlive": true,
       "birthYear": 1986,
       "deathDate": null,
@@ -29,51 +74,6 @@
         "Reacher",
         "Christian Chávez - Esencial",
         "RuPaul Drives..."
-      ]
-    },
-    {
-      "id": 2275144,
-      "name": "Stephanie Nur",
-      "popularity": 14.7,
-      "isAlive": true,
-      "birthYear": 1988,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/kpYEaUMYU60Cu8sZLWwDo4GZkVR.jpg",
-      "knownFor": [
-        "Lioness",
-        "Mary",
-        "My Big Fat Greek Wedding 3"
-      ]
-    },
-    {
-      "id": 148992,
-      "name": "Austin Abrams",
-      "popularity": 13.1,
-      "isAlive": true,
-      "birthYear": 1996,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg",
-      "knownFor": [
-        "Paper Towns",
-        "Chemical Hearts",
-        "Weapons"
-      ]
-    },
-    {
-      "id": 209578,
-      "name": "Laura Haddock",
-      "popularity": 17.4,
-      "isAlive": true,
-      "birthYear": 1985,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/6kRUvA7N3pMzznG9PdiqCOvxhGQ.jpg",
-      "knownFor": [
-        "Transformers: The Last Knight",
-        "Guardians of the Galaxy",
-        "Guardians of the Galaxy Vol. 2"
       ]
     }
   ]
