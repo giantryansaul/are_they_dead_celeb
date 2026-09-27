@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-26T04:46:30.528Z",
+  "generatedAt": "2026-09-27T05:09:18.588Z",
   "celebrities": [
     {
-      "id": 57578,
-      "name": "MyAnna Buring",
-      "popularity": 11.2,
+      "id": 1104414,
+      "name": "Sydelle Noel",
+      "popularity": 13.9,
       "isAlive": true,
-      "birthYear": 1979,
+      "birthYear": 1985,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/boC5LKewKpz8zhtUmPScHfkSAlV.jpg",
+      "profilePath": "/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg",
       "knownFor": [
-        "The Descent",
-        "The Twilight Saga: Breaking Dawn - Part 2",
-        "The Witcher"
-      ]
-    },
-    {
-      "id": 59238,
-      "name": "Christopher Rodriguez Marquette",
-      "popularity": 19.4,
-      "isAlive": true,
-      "birthYear": 1984,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg",
-      "knownFor": [
-        "The Girl Next Door",
-        "Freddy vs. Jason",
-        "Just Friends"
-      ]
-    },
-    {
-      "id": 205258,
-      "name": "Harry Lloyd",
-      "popularity": 18.1,
-      "isAlive": true,
-      "birthYear": 1983,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg",
-      "knownFor": [
-        "Game of Thrones",
-        "The Theory of Everything",
-        "Anthropoid"
-      ]
-    },
-    {
-      "id": 19498,
-      "name": "Jon Bernthal",
-      "popularity": 12,
-      "isAlive": true,
-      "birthYear": 1976,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg",
-      "knownFor": [
-        "The Walking Dead",
-        "The Wolf of Wall Street",
-        "Marvel's The Punisher"
-      ]
-    },
-    {
-      "id": 1247604,
-      "name": "Agnez Mo",
-      "popularity": 68.1,
-      "isAlive": true,
-      "birthYear": 1986,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg",
-      "knownFor": [
+        "Black Panther",
         "Reacher",
-        "Christian Chávez - Esencial",
-        "RuPaul Drives..."
+        "GLOW"
+      ]
+    },
+    {
+      "id": 115440,
+      "name": "Sydney Sweeney",
+      "popularity": 13.5,
+      "isAlive": true,
+      "birthYear": 1997,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "knownFor": [
+        "Euphoria",
+        "Anyone but You",
+        "The Housemaid"
+      ]
+    },
+    {
+      "id": 974169,
+      "name": "Jenna Ortega",
+      "popularity": 11.8,
+      "isAlive": true,
+      "birthYear": 2002,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg",
+      "knownFor": [
+        "Wednesday",
+        "X",
+        "Scream"
+      ]
+    },
+    {
+      "id": 209578,
+      "name": "Laura Haddock",
+      "popularity": 13.7,
+      "isAlive": true,
+      "birthYear": 1985,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/6kRUvA7N3pMzznG9PdiqCOvxhGQ.jpg",
+      "knownFor": [
+        "Transformers: The Last Knight",
+        "Guardians of the Galaxy",
+        "Guardians of the Galaxy Vol. 2"
+      ]
+    },
+    {
+      "id": 56365,
+      "name": "Charlie Hunnam",
+      "popularity": 18,
+      "isAlive": true,
+      "birthYear": 1980,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg",
+      "knownFor": [
+        "Pacific Rim",
+        "King Arthur: Legend of the Sword",
+        "The Gentlemen"
       ]
     }
   ]
