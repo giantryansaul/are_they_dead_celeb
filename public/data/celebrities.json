@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-27T05:09:18.588Z",
+  "generatedAt": "2026-09-28T05:12:07.863Z",
   "celebrities": [
     {
-      "id": 1104414,
-      "name": "Sydelle Noel",
-      "popularity": 13.9,
-      "isAlive": true,
-      "birthYear": 1985,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg",
-      "knownFor": [
-        "Black Panther",
-        "Reacher",
-        "GLOW"
-      ]
-    },
-    {
-      "id": 115440,
-      "name": "Sydney Sweeney",
-      "popularity": 13.5,
-      "isAlive": true,
-      "birthYear": 1997,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
-      "knownFor": [
-        "Euphoria",
-        "Anyone but You",
-        "The Housemaid"
-      ]
-    },
-    {
-      "id": 974169,
-      "name": "Jenna Ortega",
-      "popularity": 11.8,
+      "id": 1590797,
+      "name": "Sadie Sink",
+      "popularity": 11.7,
       "isAlive": true,
       "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg",
+      "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
       "knownFor": [
-        "Wednesday",
-        "X",
-        "Scream"
+        "The Whale",
+        "Stranger Things",
+        "Fear Street: 1978"
       ]
     },
     {
-      "id": 209578,
-      "name": "Laura Haddock",
-      "popularity": 13.7,
+      "id": 500,
+      "name": "Tom Cruise",
+      "popularity": 11.6,
       "isAlive": true,
-      "birthYear": 1985,
+      "birthYear": 1962,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/6kRUvA7N3pMzznG9PdiqCOvxhGQ.jpg",
+      "profilePath": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
       "knownFor": [
-        "Transformers: The Last Knight",
-        "Guardians of the Galaxy",
-        "Guardians of the Galaxy Vol. 2"
+        "Edge of Tomorrow",
+        "Oblivion",
+        "Top Gun: Maverick"
       ]
     },
     {
-      "id": 56365,
-      "name": "Charlie Hunnam",
-      "popularity": 18,
+      "id": 1245,
+      "name": "Scarlett Johansson",
+      "popularity": 13.4,
       "isAlive": true,
-      "birthYear": 1980,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg",
+      "profilePath": "/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg",
       "knownFor": [
-        "Pacific Rim",
-        "King Arthur: Legend of the Sword",
-        "The Gentlemen"
+        "Lucy",
+        "Black Widow",
+        "Ghost in the Shell"
+      ]
+    },
+    {
+      "id": 505710,
+      "name": "Zendaya",
+      "popularity": 12.7,
+      "isAlive": true,
+      "birthYear": 1996,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
+      "knownFor": [
+        "Spider-Man: No Way Home",
+        "Euphoria",
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "id": 1373074,
+      "name": "Alissa Yagi",
+      "popularity": 21.8,
+      "isAlive": true,
+      "birthYear": 1995,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/uBOkNey4zXSqvdcn7DcWWQ6jss4.jpg",
+      "knownFor": [
+        "Come Kiss Me at 0:00AM",
+        "Say 'I Love You'",
+        "We Made a Beautiful Bouquet"
       ]
     }
   ]
