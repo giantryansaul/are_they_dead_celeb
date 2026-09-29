@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-28T05:12:07.863Z",
+  "generatedAt": "2026-09-29T05:34:24.425Z",
   "celebrities": [
     {
-      "id": 1590797,
-      "name": "Sadie Sink",
-      "popularity": 11.7,
+      "id": 976,
+      "name": "Jason Statham",
+      "popularity": 16.7,
+      "isAlive": true,
+      "birthYear": 1967,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg",
+      "knownFor": [
+        "Snatch",
+        "The Meg",
+        "Wrath of Man"
+      ]
+    },
+    {
+      "id": 21647,
+      "name": "Gérard Krawczyk",
+      "popularity": 20.1,
+      "isAlive": true,
+      "birthYear": 1953,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/3As3jvza5WtPIbIbLl8hYQToNmV.jpg",
+      "knownFor": [
+        "Taxi 2",
+        "Taxi 3",
+        "Wasabi"
+      ]
+    },
+    {
+      "id": 5212949,
+      "name": "Anastasia Shestakova",
+      "popularity": 12.4,
       "isAlive": true,
       "birthYear": 2002,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
+      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
       "knownFor": [
-        "The Whale",
-        "Stranger Things",
-        "Fear Street: 1978"
+        "Detective Chinatown 1900",
+        "Just a Job",
+        "不过是上班"
       ]
     },
     {
-      "id": 500,
-      "name": "Tom Cruise",
-      "popularity": 11.6,
+      "id": 26755,
+      "name": "Charlie Cho Cha-Lee",
+      "popularity": 14.4,
       "isAlive": true,
-      "birthYear": 1962,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
+      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
       "knownFor": [
-        "Edge of Tomorrow",
-        "Oblivion",
-        "Top Gun: Maverick"
+        "Police Story",
+        "Police Story 2",
+        "The Golden Lotus: Love and Desire"
       ]
     },
     {
-      "id": 1245,
-      "name": "Scarlett Johansson",
-      "popularity": 13.4,
+      "id": 1265629,
+      "name": "Angourie Rice",
+      "popularity": 6.8,
       "isAlive": true,
-      "birthYear": 1984,
+      "birthYear": 2001,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg",
+      "profilePath": "/iHZzyhvIYW9CSsMSLnxm9FsJohL.jpg",
       "knownFor": [
-        "Lucy",
-        "Black Widow",
-        "Ghost in the Shell"
-      ]
-    },
-    {
-      "id": 505710,
-      "name": "Zendaya",
-      "popularity": 12.7,
-      "isAlive": true,
-      "birthYear": 1996,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
-      "knownFor": [
-        "Spider-Man: No Way Home",
-        "Euphoria",
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "id": 1373074,
-      "name": "Alissa Yagi",
-      "popularity": 21.8,
-      "isAlive": true,
-      "birthYear": 1995,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/uBOkNey4zXSqvdcn7DcWWQ6jss4.jpg",
-      "knownFor": [
-        "Come Kiss Me at 0:00AM",
-        "Say 'I Love You'",
-        "We Made a Beautiful Bouquet"
+        "The Nice Guys",
+        "Every Day",
+        "Spider-Man: Far From Home"
       ]
     }
   ]
