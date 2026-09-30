@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-29T05:34:24.425Z",
+  "generatedAt": "2026-09-30T05:22:55.628Z",
   "celebrities": [
     {
-      "id": 976,
-      "name": "Jason Statham",
-      "popularity": 16.7,
+      "id": 30364,
+      "name": "Tracey Ullman",
+      "popularity": 12,
       "isAlive": true,
-      "birthYear": 1967,
+      "birthYear": 1959,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg",
+      "profilePath": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg",
       "knownFor": [
-        "Snatch",
-        "The Meg",
-        "Wrath of Man"
+        "Corpse Bride",
+        "Kronk's New Groove",
+        "Onward"
       ]
     },
     {
-      "id": 21647,
-      "name": "Gérard Krawczyk",
-      "popularity": 20.1,
+      "id": 587020,
+      "name": "Theo James",
+      "popularity": 12.5,
       "isAlive": true,
-      "birthYear": 1953,
+      "birthYear": 1984,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/3As3jvza5WtPIbIbLl8hYQToNmV.jpg",
+      "profilePath": "/g4yeW1EgIpyht0fy1stv7EXUmPC.jpg",
       "knownFor": [
-        "Taxi 2",
-        "Taxi 3",
-        "Wasabi"
+        "Divergent",
+        "Insurgent",
+        "Allegiant"
       ]
     },
     {
-      "id": 5212949,
-      "name": "Anastasia Shestakova",
-      "popularity": 12.4,
+      "id": 1373074,
+      "name": "Alissa Yagi",
+      "popularity": 18.7,
       "isAlive": true,
-      "birthYear": 2002,
+      "birthYear": 1995,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/rxyrRMo7IhdvDMqA9Nj97aycjSp.jpg",
+      "profilePath": "/w7j0E3UQyZaDPw5h4RWyxfhw9oP.jpg",
       "knownFor": [
-        "Detective Chinatown 1900",
-        "Just a Job",
-        "不过是上班"
+        "Come Kiss Me at 0:00AM",
+        "Say 'I Love You'",
+        "We Made a Beautiful Bouquet"
       ]
     },
     {
-      "id": 26755,
-      "name": "Charlie Cho Cha-Lee",
-      "popularity": 14.4,
-      "isAlive": true,
-      "birthYear": 1950,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/cpBOiG6IhklSXS1L13lxQm1XAx0.jpg",
+      "id": 70324,
+      "name": "Keiju Kobayashi",
+      "popularity": 21.2,
+      "isAlive": false,
+      "birthYear": 1923,
+      "deathDate": "2010-09-16",
+      "deathAge": 86,
+      "profilePath": "/nG3Yzjl2zJXdpQwJDXvoGND87Sh.jpg",
       "knownFor": [
-        "Police Story",
-        "Police Story 2",
-        "The Golden Lotus: Love and Desire"
+        "The Return of Godzilla",
+        "Whisper of the Heart",
+        "Sanjuro"
       ]
     },
     {
-      "id": 1265629,
-      "name": "Angourie Rice",
-      "popularity": 6.8,
+      "id": 505710,
+      "name": "Zendaya",
+      "popularity": 15.2,
       "isAlive": true,
-      "birthYear": 2001,
+      "birthYear": 1996,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/iHZzyhvIYW9CSsMSLnxm9FsJohL.jpg",
+      "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
       "knownFor": [
-        "The Nice Guys",
-        "Every Day",
-        "Spider-Man: Far From Home"
+        "Spider-Man: No Way Home",
+        "Euphoria",
+        "Dune: Part Two"
       ]
     }
   ]
