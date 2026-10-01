@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-09-30T05:22:55.628Z",
+  "generatedAt": "2026-10-01T05:38:51.983Z",
   "celebrities": [
     {
-      "id": 30364,
-      "name": "Tracey Ullman",
-      "popularity": 12,
+      "id": 90633,
+      "name": "Gal Gadot",
+      "popularity": 24.5,
       "isAlive": true,
-      "birthYear": 1959,
+      "birthYear": 1985,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg",
+      "profilePath": "/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg",
       "knownFor": [
-        "Corpse Bride",
-        "Kronk's New Groove",
-        "Onward"
+        "Wonder Woman",
+        "Wonder Woman 1984",
+        "Batman v Superman: Dawn of Justice"
       ]
     },
     {
-      "id": 587020,
-      "name": "Theo James",
-      "popularity": 12.5,
+      "id": 287,
+      "name": "Brad Pitt",
+      "popularity": 13.8,
       "isAlive": true,
-      "birthYear": 1984,
+      "birthYear": 1963,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/g4yeW1EgIpyht0fy1stv7EXUmPC.jpg",
+      "profilePath": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
       "knownFor": [
-        "Divergent",
-        "Insurgent",
-        "Allegiant"
+        "Inglourious Basterds",
+        "World War Z",
+        "Fight Club"
       ]
     },
     {
-      "id": 1373074,
-      "name": "Alissa Yagi",
-      "popularity": 18.7,
+      "id": 92614,
+      "name": "Dawn Olivieri",
+      "popularity": 12.8,
       "isAlive": true,
-      "birthYear": 1995,
+      "birthYear": 1981,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/w7j0E3UQyZaDPw5h4RWyxfhw9oP.jpg",
+      "profilePath": "/tet7ZVbzhLWwT44m9j94folyl5N.jpg",
       "knownFor": [
-        "Come Kiss Me at 0:00AM",
-        "Say 'I Love You'",
-        "We Made a Beautiful Bouquet"
+        "Bright",
+        "Den of Thieves",
+        "American Hustle"
       ]
     },
     {
-      "id": 70324,
-      "name": "Keiju Kobayashi",
-      "popularity": 21.2,
+      "id": 5026,
+      "name": "Akira Kurosawa",
+      "popularity": 12.8,
       "isAlive": false,
-      "birthYear": 1923,
-      "deathDate": "2010-09-16",
-      "deathAge": 86,
-      "profilePath": "/nG3Yzjl2zJXdpQwJDXvoGND87Sh.jpg",
+      "birthYear": 1910,
+      "deathDate": "1998-09-06",
+      "deathAge": 88,
+      "profilePath": "/g2iwSho2vJxVz7cbD1FAKAmPD6A.jpg",
       "knownFor": [
-        "The Return of Godzilla",
-        "Whisper of the Heart",
-        "Sanjuro"
+        "Seven Samurai",
+        "Rashomon",
+        "Ran"
       ]
     },
     {
-      "id": 505710,
-      "name": "Zendaya",
-      "popularity": 15.2,
-      "isAlive": true,
-      "birthYear": 1996,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
+      "id": 213504,
+      "name": "Hideko Takamine",
+      "popularity": 13,
+      "isAlive": false,
+      "birthYear": 1924,
+      "deathDate": "2010-12-28",
+      "deathAge": 86,
+      "profilePath": "/24VkBe4QDZtFRFDDamwkdtKU5wk.jpg",
       "knownFor": [
-        "Spider-Man: No Way Home",
-        "Euphoria",
-        "Dune: Part Two"
+        "When a Woman Ascends the Stairs",
+        "Floating Clouds",
+        "Twenty-Four Eyes"
       ]
     }
   ]
