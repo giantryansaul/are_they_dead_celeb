@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-01T05:38:51.983Z",
+  "generatedAt": "2026-10-02T05:24:20.577Z",
   "celebrities": [
     {
-      "id": 90633,
-      "name": "Gal Gadot",
-      "popularity": 24.5,
+      "id": 146652,
+      "name": "Ryushi Mizukami",
+      "popularity": 15.9,
       "isAlive": true,
-      "birthYear": 1985,
+      "birthYear": 1964,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg",
+      "profilePath": "/hsopSYez7MjzqfPrn7smxhMgqlX.jpg",
       "knownFor": [
-        "Wonder Woman",
-        "Wonder Woman 1984",
-        "Batman v Superman: Dawn of Justice"
+        "Ring 0",
+        "Female Ninjas Magic Chronicles: Legend of Yagyu Part 1",
+        "Dead or Alive"
       ]
     },
     {
-      "id": 287,
-      "name": "Brad Pitt",
-      "popularity": 13.8,
+      "id": 78921,
+      "name": "Dimple Kapadia",
+      "popularity": 21.4,
       "isAlive": true,
-      "birthYear": 1963,
+      "birthYear": 1957,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+      "profilePath": "/nZoVs8drMLefoBN7PZ49slHuJe7.jpg",
       "knownFor": [
-        "Inglourious Basterds",
-        "World War Z",
-        "Fight Club"
+        "Tenet",
+        "Dil Chahta Hai",
+        "Pathaan"
       ]
     },
     {
-      "id": 92614,
-      "name": "Dawn Olivieri",
-      "popularity": 12.8,
+      "id": 1907997,
+      "name": "Min Do-yoon",
+      "popularity": 13.7,
       "isAlive": true,
-      "birthYear": 1981,
+      "birthYear": 1983,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/tet7ZVbzhLWwT44m9j94folyl5N.jpg",
+      "profilePath": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
       "knownFor": [
-        "Bright",
-        "Den of Thieves",
-        "American Hustle"
+        "24 Year Old Yoon Yul's Sexy Breasts",
+        "Beauty Salon: Special Service 4",
+        "Beauty Salon: Special Service 3"
       ]
     },
     {
-      "id": 5026,
-      "name": "Akira Kurosawa",
-      "popularity": 12.8,
+      "id": 1243319,
+      "name": "Takeshi Watabe",
+      "popularity": 15.7,
       "isAlive": false,
-      "birthYear": 1910,
-      "deathDate": "1998-09-06",
-      "deathAge": 88,
-      "profilePath": "/g2iwSho2vJxVz7cbD1FAKAmPD6A.jpg",
+      "birthYear": 1936,
+      "deathDate": "2010-12-13",
+      "deathAge": 74,
+      "profilePath": "/5H3ViQhKZFKSqCzqORDnABpa5z4.jpg",
       "knownFor": [
-        "Seven Samurai",
-        "Rashomon",
-        "Ran"
+        "Dragon Ball Z: Bardock - The Father of Goku",
+        "Naruto",
+        "Ocean Waves"
       ]
     },
     {
-      "id": 213504,
-      "name": "Hideko Takamine",
-      "popularity": 13,
+      "id": 226920,
+      "name": "Yōichi Sai",
+      "popularity": 7.6,
       "isAlive": false,
-      "birthYear": 1924,
-      "deathDate": "2010-12-28",
-      "deathAge": 86,
-      "profilePath": "/24VkBe4QDZtFRFDDamwkdtKU5wk.jpg",
+      "birthYear": 1949,
+      "deathDate": "2022-11-27",
+      "deathAge": 73,
+      "profilePath": "/xmnelxm6X31BvSS6oQ7eNjb1KGa.jpg",
       "knownFor": [
-        "When a Woman Ascends the Stairs",
-        "Floating Clouds",
-        "Twenty-Four Eyes"
+        "In the Realm of the Senses",
+        "Blood and Bones",
+        "Kamui"
       ]
     }
   ]
