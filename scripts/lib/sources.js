@@ -16,13 +16,34 @@ export async function tmdbGet(path) {
   const key = process.env.TMDB_API_KEY;
   if (!key) throw new Error('TMDB_API_KEY not set. Copy .env.example to .env and add your key.');
   const sep = path.includes('?') ? '&' : '?';
-  const res = await fetch(`${TMDB_BASE}${path}${sep}api_key=${key}`);
-  if (!res.ok) {
-    const err = new Error(`TMDB ${path}: ${res.status} ${res.statusText}`);
-    err.status = res.status;
-    throw err;
+  const url = `${TMDB_BASE}${path}${sep}api_key=${key}`;
+  const MAX_RETRIES = 3;
+  let lastErr;
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    let retryAfterMs = 1000 * 2 ** attempt; // 1s, 2s, 4s
+    try {
+      const res = await fetch(url);
+      if (res.ok) {
+        return res.json();
+      }
+      if (res.status !== 429 && res.status < 500) {
+        // Throw immediately for client errors (except 429 which is retryable)
+        const err = new Error(`TMDB ${path}: ${res.status} ${res.statusText}`);
+        err.status = res.status;
+        throw err;
+      }
+      // For 429 or 5xx, check Retry-After header and prepare to retry
+      const header = Number(res.headers.get('retry-after'));
+      if (Number.isFinite(header) && header > 0) retryAfterMs = header * 1000;
+      lastErr = new Error(`TMDB ${path}: ${res.status} ${res.statusText}`);
+      lastErr.status = res.status;
+    } catch (err) {
+      // Network error or other exception: save and retry
+      lastErr = err;
+    }
+    if (attempt < MAX_RETRIES) await sleep(retryAfterMs);
   }
-  return res.json();
+  throw lastErr;
 }
 
 export async function fetchKnownFor(tmdbId) {

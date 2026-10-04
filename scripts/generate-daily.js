@@ -42,7 +42,10 @@ async function buildCelebrity(entry) {
     console.log(`  ${detail.name}: pool says alive but died ${deathDate}; next build-list will update the pool`);
   }
 
-  const birthday = detail.birthday ?? entry.birthDate;
+  const birthday = entry.birthDate || detail.birthday;
+  if (!birthday) {
+    throw new Error(`${detail.name ?? entry.name} (tmdb ${entry.tmdbId}): no birth date`);
+  }
   return {
     id: detail.id,
     name: detail.name,
@@ -84,6 +87,11 @@ async function main() {
     const status = c.isAlive ? 'alive' : `died ${c.deathDate} (age ${c.deathAge})`;
     console.log(`  ${i + 1}. ${c.name} (born ${c.birthYear}) — ${status}`);
   });
+
+  const deadCount = celebrities.filter(c => !c.isAlive).length;
+  if (deadCount < 1 || deadCount > 4) {
+    console.warn(`  ⚠ Live death checks changed the dead count to ${deadCount}`);
+  }
 
   if (dryRun) {
     console.log('\n--dry-run: nothing written.');
