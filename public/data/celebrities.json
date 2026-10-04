@@ -1,64 +1,49 @@
 {
-  "generatedAt": "2026-10-03T05:07:39.115Z",
+  "generatedAt": "2026-10-04T05:41:00.085Z",
   "celebrities": [
     {
-      "id": 90633,
-      "name": "Gal Gadot",
-      "popularity": 17.5,
+      "id": 68921,
+      "name": "Masahiko Minami",
+      "popularity": 18.1,
       "isAlive": true,
-      "birthYear": 1985,
+      "birthYear": 1961,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg",
+      "profilePath": "/36iayCTbXRFD5O5yO3Xbj4rrMWJ.jpg",
       "knownFor": [
-        "Wonder Woman",
-        "Wonder Woman 1984",
-        "Batman v Superman: Dawn of Justice"
+        "My Hero Academia",
+        "Cowboy Bebop",
+        "Mob Psycho 100"
       ]
     },
     {
-      "id": 4602908,
-      "name": "Shashank Yeleti",
-      "popularity": 22.7,
+      "id": 78921,
+      "name": "Dimple Kapadia",
+      "popularity": 13.2,
       "isAlive": true,
-      "birthYear": 1985,
+      "birthYear": 1957,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/upjftoc4hJR4ruzw4swkLmzRT3c.jpg",
+      "profilePath": "/nZoVs8drMLefoBN7PZ49slHuJe7.jpg",
       "knownFor": [
-        "Don't Trouble the Trouble",
-        "Ashwini",
-        "Mana Mugguri Love Story"
+        "Tenet",
+        "Dil Chahta Hai",
+        "Pathaan"
       ]
     },
     {
-      "id": 1813,
-      "name": "Anne Hathaway",
-      "popularity": 17.4,
+      "id": 33676,
+      "name": "Kathleen Robertson",
+      "popularity": 51.9,
       "isAlive": true,
-      "birthYear": 1982,
+      "birthYear": 1973,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "profilePath": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
       "knownFor": [
-        "Interstellar",
-        "The Devil Wears Prada",
-        "The Princess Diaries"
-      ]
-    },
-    {
-      "id": 20337,
-      "name": "Akira Nagoya",
-      "popularity": 13.6,
-      "isAlive": false,
-      "birthYear": 1930,
-      "deathDate": "2003-06-24",
-      "deathAge": 72,
-      "profilePath": "/dkPU1ibDTdZpK4XnPx1f5zpckbQ.jpg",
-      "knownFor": [
-        "Princess Mononoke",
-        "High and Low",
-        "Flying Phantom Ship"
+        "Scary Movie 2",
+        "The Vatican Tapes",
+        "Seal Team Six: The Raid on Osama Bin Laden"
       ]
     },
     {
@@ -74,6 +59,21 @@
         "The Return of Godzilla",
         "Whisper of the Heart",
         "Sanjuro"
+      ]
+    },
+    {
+      "id": 20337,
+      "name": "Akira Nagoya",
+      "popularity": 13.6,
+      "isAlive": false,
+      "birthYear": 1930,
+      "deathDate": "2003-06-24",
+      "deathAge": 72,
+      "profilePath": "/dkPU1ibDTdZpK4XnPx1f5zpckbQ.jpg",
+      "knownFor": [
+        "Princess Mononoke",
+        "High and Low",
+        "Flying Phantom Ship"
       ]
     }
   ]
