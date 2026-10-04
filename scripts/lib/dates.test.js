@@ -17,6 +17,6 @@ test('daysBetween returns days from first to second date', () => {
 });
 
 test('pageviewRange covers the 12 full months before today', () => {
-  assert.deepEqual(pageviewRange('2026-10-04'), { start: '20251001', end: '20261001' });
-  assert.deepEqual(pageviewRange('2026-01-15'), { start: '20250101', end: '20260101' });
+  assert.deepEqual(pageviewRange('2026-10-04'), { start: '20251001', end: '20260930' });
+  assert.deepEqual(pageviewRange('2026-01-15'), { start: '20250101', end: '20251231' });
 });
