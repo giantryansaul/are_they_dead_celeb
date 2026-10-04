@@ -130,23 +130,31 @@ async function save(tmdbId, patch) {
   return body.entry;
 }
 
+let busy = false;
+
 async function decide(status) {
+  if (busy) return;
   const { entry } = current();
   if (!entry || entry.status === status) return;
   const previous = entry.status;
+  busy = true;
   try {
     await save(entry.tmdbId, { status });
     state.undo.push({ tmdbId: entry.tmdbId, status: previous });
     state.error = '';
   } catch (err) {
     state.error = `Save failed: ${err.message}`;
+  } finally {
+    busy = false;
   }
   render();
 }
 
 async function undo() {
+  if (busy) return;
   const last = state.undo.pop();
   if (!last) return;
+  busy = true;
   try {
     await save(last.tmdbId, { status: last.status });
     state.tab = last.status;
@@ -155,6 +163,8 @@ async function undo() {
   } catch (err) {
     state.undo.push(last);
     state.error = `Undo failed: ${err.message}`;
+  } finally {
+    busy = false;
   }
   render();
 }
@@ -273,10 +283,11 @@ document.addEventListener('click', ev => {
   if (action === 'pending') decide('pending');
 });
 
-$('sort').addEventListener('change', ev => { state.sort = ev.target.value; state.index = 0; render(); });
-$('filter').addEventListener('change', ev => { state.filter = ev.target.value; state.index = 0; render(); });
+$('sort').addEventListener('change', ev => { state.sort = ev.target.value; state.index = 0; ev.target.blur(); render(); });
+$('filter').addEventListener('change', ev => { state.filter = ev.target.value; state.index = 0; ev.target.blur(); render(); });
 
 document.addEventListener('keydown', ev => {
+  if (ev.repeat) return;
   const typing = ['TEXTAREA', 'INPUT', 'SELECT'].includes(document.activeElement?.tagName);
   if (typing) {
     if (ev.key === 'Escape') document.activeElement.blur();
