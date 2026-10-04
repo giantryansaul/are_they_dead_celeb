@@ -92,15 +92,24 @@ export async function sparql(query) {
 export async function fetchEnPageviews(title, today) {
   const { start, end } = pageviewRange(today);
   const article = encodeURIComponent(title.replaceAll(' ', '_'));
-  try {
-    const res = await fetch(`${PAGEVIEWS_BASE}/${article}/monthly/${start}/${end}`, {
-      headers: { 'User-Agent': USER_AGENT },
-    });
-    if (res.status === 404) return 0;
-    if (!res.ok) return null;
-    const data = await res.json();
-    return (data.items ?? []).reduce((sum, item) => sum + item.views, 0);
-  } catch {
-    return null;
+  const url = `${PAGEVIEWS_BASE}/${article}/monthly/${start}/${end}`;
+  const MAX_RETRIES = 3;
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    let retryAfterMs = 1000 * 2 ** attempt; // 1s, 2s, 4s
+    try {
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
+      if (res.status === 404) return 0;
+      if (res.ok) {
+        const data = await res.json();
+        return (data.items ?? []).reduce((sum, item) => sum + item.views, 0);
+      }
+      if (res.status !== 429 && res.status < 500) return null;
+      const header = Number(res.headers.get('retry-after'));
+      if (Number.isFinite(header) && header > 0) retryAfterMs = header * 1000;
+    } catch {
+      // network error: fall through to retry
+    }
+    if (attempt < MAX_RETRIES) await sleep(retryAfterMs);
   }
+  return null;
 }
