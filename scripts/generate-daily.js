@@ -1,16 +1,19 @@
 #!/usr/bin/env node
-// Fetches 5 celebrities from TMDB, cross-checks death dates via Wikidata,
-// and writes public/data/celebrities.json.
+// Selects 5 celebrities from the curated list (public/data/celeb-list.json),
+// cross-checks death dates via Wikidata, and writes public/data/celebrities.json.
 //
 // Usage: node --env-file=.env scripts/generate-daily.js
 // Requires: TMDB_API_KEY in .env (see .env.example)
 
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, readFileSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = join(__dirname, '..', 'public', 'data', 'celebrities.json');
+const HISTORY_PATH = join(__dirname, '..', 'public', 'data', 'shown-history.json');
+const CELEB_LIST_PATH = join(__dirname, '..', 'public', 'data', 'celeb-list.json');
+const HISTORY_WINDOW_DAYS = 30;
 
 const TMDB_KEY = process.env.TMDB_API_KEY;
 if (!TMDB_KEY) {
@@ -20,7 +23,6 @@ if (!TMDB_KEY) {
 
 const TMDB_BASE = 'https://api.themoviedb.org/3';
 const WIKIDATA_SPARQL = 'https://query.wikidata.org/sparql';
-const CANDIDATES_TO_DETAIL = 60;
 
 // Seed offset can be passed as CLI arg: node generate-daily.js --seed-offset 1
 const seedOffset = (() => {
@@ -82,130 +84,171 @@ async function wikidataDeathDate(tmdbId) {
     if (!res.ok) return null;
     const data = await res.json();
     const val = data.results?.bindings?.[0]?.deathDate?.value;
-    // Wikidata returns full ISO datetime: "1977-08-16T00:00:00Z"
     return val ? val.slice(0, 10) : null;
   } catch {
     return null;
   }
 }
 
-async function fetchCandidates() {
-  console.log('Fetching popular people from TMDB (pages 1-4)...');
-  const [p1, p2, p3, p4] = await Promise.all([
-    tmdbGet('/person/popular?page=1'),
-    tmdbGet('/person/popular?page=2'),
-    tmdbGet('/person/popular?page=3'),
-    tmdbGet('/person/popular?page=4'),
-  ]);
-  const all = [...p1.results, ...p2.results, ...p3.results, ...p4.results];
-  const filtered = all.filter(p => !p.adult);
-  console.log(`Filtered out ${all.length - filtered.length} adult-flagged candidates.`);
-  return filtered;
-}
-
-async function fetchDetails(candidates) {
-  const knownForMap = new Map(candidates.map(c => [c.id, c.known_for ?? []]));
-  const sorted = [...candidates].sort((a, b) => b.popularity - a.popularity);
-  const top = sorted.slice(0, CANDIDATES_TO_DETAIL);
-  console.log(`Fetching details for top ${top.length} candidates...`);
-
-  const results = [];
-  for (const person of top) {
-    try {
-      const detail = await tmdbGet(`/person/${person.id}`);
-      if (detail.adult) {
-        process.stdout.write('x');
-        await sleep(60);
-        continue;
-      }
-      detail._knownFor = knownForMap.get(person.id) ?? [];
-      results.push(detail);
-      process.stdout.write('.');
-      await sleep(60); // ~16 req/s, well under 50/s limit
-    } catch (err) {
-      console.warn(`\n  Skipping ${person.name}: ${err.message}`);
-    }
+async function fetchKnownFor(tmdbId) {
+  try {
+    const data = await tmdbGet(`/person/${tmdbId}/combined_credits`);
+    const credits = [...(data.cast ?? []), ...(data.crew ?? [])];
+    const seen = new Set();
+    return credits
+      .filter(c => !c.adult)
+      .sort((a, b) => (b.vote_count ?? 0) - (a.vote_count ?? 0))
+      .filter(c => {
+        const title = c.media_type === 'tv' ? c.name : c.title;
+        if (!title || seen.has(title)) return false;
+        seen.add(title);
+        return true;
+      })
+      .slice(0, 3)
+      .map(c => (c.media_type === 'tv' ? c.name : c.title));
+  } catch {
+    return [];
   }
-  console.log();
-  return results;
 }
 
-function pickFive(details) {
-  const withBirth = details.filter(p => p.birthday && p.name);
-  const alive = withBirth.filter(p => !p.deathday);
-  const dead = withBirth.filter(p => !!p.deathday);
+function loadCelebList() {
+  const raw = readFileSync(CELEB_LIST_PATH, 'utf8');
+  const data = JSON.parse(raw);
+  const list = data.celebrities ?? [];
+  if (list.length === 0) {
+    console.error('Error: celeb-list.json is empty. Run npm run build-list to populate it.');
+    process.exit(1);
+  }
+  return list;
+}
 
-  console.log(`Candidates with birth date: ${withBirth.length} (${alive.length} alive, ${dead.length} dead)`);
+function loadHistory() {
+  try {
+    const raw = readFileSync(HISTORY_PATH, 'utf8');
+    const data = JSON.parse(raw);
+    const cutoff = new Date();
+    cutoff.setDate(cutoff.getDate() - HISTORY_WINDOW_DAYS);
+    return (data.shown ?? []).filter(e => new Date(e.date) >= cutoff);
+  } catch {
+    return [];
+  }
+}
 
-  // Seed from today's date + offset so each day produces a unique stable set.
-  const today = new Date().toISOString().slice(0, 10); // "2026-05-06"
-  const dateSeed = today.split('-').reduce((acc, n) => acc * 100 + parseInt(n, 10), 0) + seedOffset;
+function saveHistory(history, pickedIds) {
+  const today = new Date().toISOString().slice(0, 10);
+  const updated = [
+    ...history.filter(e => e.date !== today),
+    { date: today, ids: pickedIds },
+  ];
+  writeFileSync(HISTORY_PATH, JSON.stringify({ shown: updated }, null, 2));
+}
 
-  const shuffledAlive = seededShuffle(alive, dateSeed);
-  const shuffledDead = seededShuffle(dead, dateSeed + 1);
+function selectFive(celebList, recentlyShownIds, dateSeed) {
+  const excluded = new Set(recentlyShownIds);
+  const available = celebList.filter(c => !excluded.has(c.tmdbId));
 
-  const picked = [
-    ...shuffledAlive.slice(0, 3),
-    ...shuffledDead.slice(0, 2),
+  if (recentlyShownIds.length > 0) {
+    console.log(`Excluding ${recentlyShownIds.length} recently-shown IDs.`);
+  }
+
+  const easyPool  = seededShuffle(available.filter(c => c.difficulty === 'easy'),   dateSeed);
+  const mediumPool = seededShuffle(available.filter(c => c.difficulty === 'medium'), dateSeed + 1);
+  const hardPool  = seededShuffle(available.filter(c => c.difficulty === 'hard'),   dateSeed + 2);
+
+  console.log(`Pools — easy: ${easyPool.length}, medium: ${mediumPool.length}, hard: ${hardPool.length}`);
+
+  const picked = [];
+  const usedIds = new Set();
+
+  const targets = [
+    { pool: easyPool,   want: 2, label: 'easy'   },
+    { pool: mediumPool, want: 2, label: 'medium'  },
+    { pool: hardPool,   want: 1, label: 'hard'    },
   ];
 
+  for (const { pool, want, label } of targets) {
+    let added = 0;
+    for (const c of pool) {
+      if (added >= want) break;
+      picked.push(c);
+      usedIds.add(c.tmdbId);
+      added++;
+    }
+    if (added < want) {
+      console.warn(`  Warning: ${label} pool only supplied ${added}/${want}.`);
+    }
+  }
+
   if (picked.length < 5) {
-    const ids = new Set(picked.map(p => p.id));
-    const extra = seededShuffle(withBirth.filter(p => !ids.has(p.id)), dateSeed + 2);
-    picked.push(...extra.slice(0, 5 - picked.length));
+    const needed = 5 - picked.length;
+    const fallback = seededShuffle(
+      available.filter(c => !usedIds.has(c.tmdbId)),
+      dateSeed + 3
+    );
+    console.warn(`  Fallback: drawing ${needed} from full pool.`);
+    picked.push(...fallback.slice(0, needed));
   }
 
   return picked.slice(0, 5);
 }
 
-async function buildCelebrity(person) {
-  const isAlive = !person.deathday;
-  let deathDate = person.deathday || null;
+async function buildCelebrity(celebEntry) {
+  const detail = await tmdbGet(`/person/${celebEntry.tmdbId}`);
+  await sleep(60);
+
+  const knownFor = await fetchKnownFor(celebEntry.tmdbId);
+  await sleep(60);
+
+  const isAlive = !detail.deathday;
+  let deathDate = detail.deathday || null;
 
   if (!isAlive) {
-    const wikiDate = await wikidataDeathDate(person.id);
+    const wikiDate = await wikidataDeathDate(detail.id);
     if (wikiDate && wikiDate !== deathDate) {
-      console.log(`  ${person.name}: TMDB=${deathDate}, Wikidata=${wikiDate} → using Wikidata`);
+      console.log(`  ${detail.name}: TMDB=${deathDate}, Wikidata=${wikiDate} → using Wikidata`);
       deathDate = wikiDate;
     } else if (!wikiDate) {
-      console.log(`  ${person.name}: no Wikidata match, keeping TMDB date (${deathDate})`);
+      console.log(`  ${detail.name}: no Wikidata match, keeping TMDB date (${deathDate})`);
     }
-    await sleep(500); // Wikidata courtesy delay
+    await sleep(500);
   }
 
-  const knownFor = (person._knownFor ?? [])
-    .slice(0, 3)
-    .map(item => item.media_type === 'tv' ? item.name : item.title)
-    .filter(Boolean);
-
   return {
-    id: person.id,
-    name: person.name,
-    popularity: Math.round(person.popularity * 10) / 10,
+    id: detail.id,
+    name: detail.name,
+    popularity: Math.round(detail.popularity * 10) / 10,
     isAlive,
-    birthYear: new Date(person.birthday).getFullYear(),
+    birthYear: new Date(detail.birthday).getFullYear(),
     deathDate,
-    deathAge: deathDate ? computeAge(person.birthday, deathDate) : null,
-    profilePath: person.profile_path || null,
+    deathAge: deathDate ? computeAge(detail.birthday, deathDate) : null,
+    profilePath: detail.profile_path || null,
     knownFor,
   };
 }
 
 async function main() {
-  const candidates = await fetchCandidates();
-  const details = await fetchDetails(candidates);
-  const five = pickFive(details);
+  const history = loadHistory();
+  const recentlyShownIds = history.flatMap(e => e.ids);
 
-  console.log('\nCross-checking death dates with Wikidata...');
+  const today = new Date().toISOString().slice(0, 10);
+  const dateSeed = today.split('-').reduce((acc, n) => acc * 100 + parseInt(n, 10), 0) + seedOffset;
+
+  const celebList = loadCelebList();
+  console.log(`Loaded ${celebList.length} celebrities from curated list.`);
+
+  const five = selectFive(celebList, recentlyShownIds, dateSeed);
+
+  console.log('\nFetching details and cross-checking death dates...');
   const celebrities = [];
-  for (const person of five) {
-    celebrities.push(await buildCelebrity(person));
+  for (const celeb of five) {
+    celebrities.push(await buildCelebrity(celeb));
   }
 
   const output = { generatedAt: new Date().toISOString(), celebrities };
 
   mkdirSync(join(__dirname, '..', 'public', 'data'), { recursive: true });
   writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
+  saveHistory(history, five.map(c => c.tmdbId));
 
   console.log(`\nWrote ${OUTPUT_PATH}`);
   celebrities.forEach((c, i) => {
