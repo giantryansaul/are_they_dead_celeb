@@ -172,10 +172,18 @@ async function saveField(patch) {
   renderError();
   if (!state.error) {
     renderHealth();
+    const pos = visible().findIndex(e => e.tmdbId === tmdbId);
+    if (pos !== -1) state.index = pos;
+    renderPosition();
     const saved = state.pool.find(e => e.tmdbId === tmdbId);
     const stat = $('trickiness');
     if (stat && saved) stat.textContent = `${effective(saved)}${saved.trickinessOverride != null ? '*' : ''}`;
   }
+}
+
+function renderPosition() {
+  const { list } = current();
+  $('position').textContent = list.length ? `${state.index + 1} / ${list.length}` : '0 / 0';
 }
 
 function renderError() {
@@ -244,8 +252,8 @@ function renderCard(e) {
 
 function render() {
   renderHealth();
-  const { list, entry } = current();
-  $('position').textContent = list.length ? `${state.index + 1} / ${list.length}` : '0 / 0';
+  const { entry } = current();
+  renderPosition();
   renderError();
   $('card').innerHTML = (entry ? renderCard(entry) : `<p class="empty">Nothing ${esc(state.tab)} here.</p>`);
   if (!entry) return;
