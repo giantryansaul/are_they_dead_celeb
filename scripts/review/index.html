@@ -75,7 +75,7 @@
   <span class="muted" id="position"></span>
   <div class="health" id="health"></div>
 </header>
-<main id="main"><p class="empty">Loading…</p></main>
+<main><div id="error"></div><div id="card"><p class="empty">Loading…</p></div></main>
 <footer>
   <kbd>A</kbd> approve · <kbd>R</kbd> reject · <kbd>N</kbd> notes · <kbd>←</kbd>/<kbd>→</kbd> navigate · <kbd>Z</kbd> undo · <kbd>Esc</kbd> leave field
 </footer>
@@ -160,15 +160,26 @@ async function undo() {
 }
 
 async function saveField(patch) {
-  const { entry } = current();
-  if (!entry) return;
+  // Target the entry shown on the card, not current(): an override can re-sort the list.
+  const tmdbId = Number(document.querySelector('.card')?.dataset.id);
+  if (!tmdbId) return;
   try {
-    await save(entry.tmdbId, patch);
+    await save(tmdbId, patch);
     state.error = '';
   } catch (err) {
     state.error = `Save failed: ${err.message}`;
   }
-  render();
+  renderError();
+  if (!state.error) {
+    renderHealth();
+    const saved = state.pool.find(e => e.tmdbId === tmdbId);
+    const stat = $('trickiness');
+    if (stat && saved) stat.textContent = `${effective(saved)}${saved.trickinessOverride != null ? '*' : ''}`;
+  }
+}
+
+function renderError() {
+  $('error').innerHTML = state.error ? `<div class="error">${esc(state.error)}</div>` : '';
 }
 
 function renderHealth() {
@@ -202,14 +213,14 @@ function renderCard(e) {
     ? `<a href="https://en.wikipedia.org/wiki/${encodeURIComponent(e.enTitle.replaceAll(' ', '_'))}" target="_blank" rel="noopener">Wikipedia</a>` : '';
   const known = (e.knownFor ?? []).map(t => `<li>${esc(t)}</li>`).join('') || '<li class="muted">No credits</li>';
   return `
-    <article class="card">
+    <article class="card" data-id="${e.tmdbId}">
       ${photo}
       <div>
         <h2>${esc(e.name)}</h2>
         <div>${life}${underAge}</div>
         <div class="muted">${esc((e.nationality ?? []).join(', ') || 'Nationality unknown')}</div>
         <div class="stats">
-          <div><span class="muted">Trickiness</span><b>${effective(e)}${e.trickinessOverride != null ? '*' : ''}</b></div>
+          <div><span class="muted">Trickiness</span><b id="trickiness">${effective(e)}${e.trickinessOverride != null ? '*' : ''}</b></div>
           <div><span class="muted">en.wiki views / yr</span><b>${fmtNum(e.enPageviews)}</b></div>
           <div><span class="muted">Sitelinks</span><b>${fmtNum(e.sitelinks)}</b></div>
         </div>
@@ -235,8 +246,8 @@ function render() {
   renderHealth();
   const { list, entry } = current();
   $('position').textContent = list.length ? `${state.index + 1} / ${list.length}` : '0 / 0';
-  const error = state.error ? `<div class="error">${esc(state.error)}</div>` : '';
-  $('main').innerHTML = error + (entry ? renderCard(entry) : `<p class="empty">Nothing ${esc(state.tab)} here.</p>`);
+  renderError();
+  $('card').innerHTML = (entry ? renderCard(entry) : `<p class="empty">Nothing ${esc(state.tab)} here.</p>`);
   if (!entry) return;
   $('notes').addEventListener('change', ev => saveField({ notes: ev.target.value }));
   $('override').addEventListener('change', ev => {
