@@ -1,3 +1,282 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><title>Celebrity Review</title></head>
-<body><p>Review UI placeholder.</p></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Celebrity Review</title>
+<style>
+  :root {
+    --bg: #111418; --panel: #1b2027; --field: #262c35; --line: #333b46;
+    --text: #e8eaed; --muted: #9aa3ad; --accent: #7cc4ff;
+    --ok: #5fd38d; --bad: #ff7a7a; --warn: #f2c94c;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.45 system-ui, sans-serif; background: var(--bg); color: var(--text); }
+  header {
+    position: sticky; top: 0; z-index: 1; display: flex; flex-wrap: wrap; gap: 10px;
+    align-items: center; padding: 12px 16px; background: var(--panel); border-bottom: 1px solid var(--line);
+  }
+  button, select, input, textarea {
+    font: inherit; color: var(--text); background: var(--field);
+    border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px;
+  }
+  button { cursor: pointer; }
+  .tabs button[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+  .health { margin-left: auto; display: flex; gap: 14px; color: var(--muted); }
+  .health b.low { color: var(--warn); }
+  .health b.ok { color: var(--ok); }
+  main { max-width: 860px; margin: 24px auto; padding: 0 16px; }
+  .error { background: #4a1f1f; color: #ffd6d6; padding: 8px 12px; border-radius: 6px; margin-bottom: 12px; }
+  .empty { color: var(--muted); text-align: center; padding: 48px 0; }
+  .card { display: grid; grid-template-columns: 220px 1fr; gap: 20px; background: var(--panel); border-radius: 10px; padding: 20px; }
+  .card img, .card .noimg { width: 220px; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 8px; background: var(--field); }
+  .noimg { display: grid; place-items: center; color: var(--muted); }
+  @media (max-width: 640px) {
+    .card { grid-template-columns: 1fr; }
+    .card img, .card .noimg { width: 100%; max-width: 260px; }
+    .health { margin-left: 0; }
+  }
+  h2 { margin: 0; font-size: 26px; }
+  .muted { color: var(--muted); }
+  .alive { color: var(--ok); } .dead { color: var(--bad); }
+  .badge { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: 12px; background: var(--field); border: 1px solid var(--line); }
+  .badge.warn { color: var(--warn); border-color: var(--warn); }
+  .stats { display: flex; flex-wrap: wrap; gap: 20px; margin: 14px 0; }
+  .stats b { display: block; font-size: 22px; }
+  .known { margin: 6px 0 12px; padding-left: 18px; }
+  .links a { color: var(--accent); margin-right: 14px; }
+  label { display: block; margin-top: 12px; color: var(--muted); font-size: 13px; }
+  textarea { width: 100%; min-height: 56px; resize: vertical; }
+  input[type="number"] { width: 90px; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+  .actions .approve { border-color: var(--ok); color: var(--ok); }
+  .actions .reject { border-color: var(--bad); color: var(--bad); }
+  footer { text-align: center; color: var(--muted); font-size: 13px; padding: 16px; }
+  kbd { background: var(--field); border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="tabs" id="tabs">
+    <button data-tab="pending">Pending</button>
+    <button data-tab="approved">Approved</button>
+    <button data-tab="rejected">Rejected</button>
+  </div>
+  <select id="sort" aria-label="Sort">
+    <option value="trickiness">Sort: trickiness</option>
+    <option value="pageviews">Sort: pageviews</option>
+    <option value="name">Sort: name</option>
+  </select>
+  <select id="filter" aria-label="Filter">
+    <option value="all">All</option>
+    <option value="alive">Alive</option>
+    <option value="dead">Dead</option>
+  </select>
+  <span class="muted" id="position"></span>
+  <div class="health" id="health"></div>
+</header>
+<main id="main"><p class="empty">Loading…</p></main>
+<footer>
+  <kbd>A</kbd> approve · <kbd>R</kbd> reject · <kbd>N</kbd> notes · <kbd>←</kbd>/<kbd>→</kbd> navigate · <kbd>Z</kbd> undo · <kbd>Esc</kbd> leave field
+</footer>
+<script>
+const TODAY = new Date().toISOString().slice(0, 10);
+const HEALTH_TARGET = 75;
+const MIN_ALIVE_AGE = 50;
+const state = { pool: [], tab: 'pending', sort: 'trickiness', filter: 'all', index: 0, undo: [], error: '' };
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const effective = e => e.trickinessOverride ?? e.trickiness ?? 0;
+const fmtNum = n => (n == null ? '—' : n.toLocaleString());
+
+function ageOn(birth, on) {
+  const b = new Date(birth), d = new Date(on);
+  let age = d.getUTCFullYear() - b.getUTCFullYear();
+  const m = d.getUTCMonth() - b.getUTCMonth();
+  if (m < 0 || (m === 0 && d.getUTCDate() < b.getUTCDate())) age--;
+  return age;
+}
+
+const pickable = e => e.status === 'approved' && (e.deathDate || ageOn(e.birthDate, TODAY) >= MIN_ALIVE_AGE);
+
+function visible() {
+  const compare = {
+    trickiness: (a, b) => effective(b) - effective(a),
+    pageviews: (a, b) => (b.enPageviews ?? -1) - (a.enPageviews ?? -1),
+    name: () => 0,
+  }[state.sort];
+  return state.pool
+    .filter(e => e.status === state.tab)
+    .filter(e => state.filter === 'all' || (state.filter === 'dead') === Boolean(e.deathDate))
+    .sort((a, b) => compare(a, b) || a.name.localeCompare(b.name));
+}
+
+function current() {
+  const list = visible();
+  state.index = Math.max(0, Math.min(state.index, list.length - 1));
+  return { list, entry: list[state.index] };
+}
+
+async function save(tmdbId, patch) {
+  const res = await fetch(`/api/entry/${tmdbId}`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(patch),
+  });
+  const body = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(body.error || res.statusText);
+  state.pool[state.pool.findIndex(e => e.tmdbId === tmdbId)] = body.entry;
+  return body.entry;
+}
+
+async function decide(status) {
+  const { entry } = current();
+  if (!entry || entry.status === status) return;
+  const previous = entry.status;
+  try {
+    await save(entry.tmdbId, { status });
+    state.undo.push({ tmdbId: entry.tmdbId, status: previous });
+    state.error = '';
+  } catch (err) {
+    state.error = `Save failed: ${err.message}`;
+  }
+  render();
+}
+
+async function undo() {
+  const last = state.undo.pop();
+  if (!last) return;
+  try {
+    await save(last.tmdbId, { status: last.status });
+    state.tab = last.status;
+    state.index = visible().findIndex(e => e.tmdbId === last.tmdbId);
+    state.error = '';
+  } catch (err) {
+    state.undo.push(last);
+    state.error = `Undo failed: ${err.message}`;
+  }
+  render();
+}
+
+async function saveField(patch) {
+  const { entry } = current();
+  if (!entry) return;
+  try {
+    await save(entry.tmdbId, patch);
+    state.error = '';
+  } catch (err) {
+    state.error = `Save failed: ${err.message}`;
+  }
+  render();
+}
+
+function renderHealth() {
+  const approved = state.pool.filter(pickable);
+  const dead = approved.filter(e => e.deathDate).length;
+  const alive = approved.length - dead;
+  const cls = n => (n >= HEALTH_TARGET ? 'ok' : 'low');
+  const counts = { pending: 0, approved: 0, rejected: 0 };
+  state.pool.forEach(e => counts[e.status]++);
+  $('health').innerHTML =
+    `<span>Pickable alive <b class="${cls(alive)}">${alive}</b>/${HEALTH_TARGET}</span>` +
+    `<span>Pickable dead <b class="${cls(dead)}">${dead}</b>/${HEALTH_TARGET}</span>`;
+  document.querySelectorAll('#tabs button').forEach(b => {
+    b.setAttribute('aria-pressed', String(b.dataset.tab === state.tab));
+    b.textContent = `${b.dataset.tab[0].toUpperCase()}${b.dataset.tab.slice(1)} (${counts[b.dataset.tab]})`;
+  });
+}
+
+function renderCard(e) {
+  const dead = Boolean(e.deathDate);
+  const age = ageOn(e.birthDate, TODAY);
+  const life = dead
+    ? `<span class="dead">Dead</span> · born ${esc(e.birthDate)} · died ${esc(e.deathDate)} at ${ageOn(e.birthDate, e.deathDate)}`
+    : `<span class="alive">Alive</span> · born ${esc(e.birthDate)} · age ${age}`;
+  const underAge = !dead && age < MIN_ALIVE_AGE
+    ? ' <span class="badge warn">under 50 — never picked</span>' : '';
+  const photo = e.profilePath
+    ? `<img src="https://image.tmdb.org/t/p/w300${esc(e.profilePath)}" alt="">`
+    : '<div class="noimg">No photo</div>';
+  const wiki = e.enTitle
+    ? `<a href="https://en.wikipedia.org/wiki/${encodeURIComponent(e.enTitle.replaceAll(' ', '_'))}" target="_blank" rel="noopener">Wikipedia</a>` : '';
+  const known = (e.knownFor ?? []).map(t => `<li>${esc(t)}</li>`).join('') || '<li class="muted">No credits</li>';
+  return `
+    <article class="card">
+      ${photo}
+      <div>
+        <h2>${esc(e.name)}</h2>
+        <div>${life}${underAge}</div>
+        <div class="muted">${esc((e.nationality ?? []).join(', ') || 'Nationality unknown')}</div>
+        <div class="stats">
+          <div><span class="muted">Trickiness</span><b>${effective(e)}${e.trickinessOverride != null ? '*' : ''}</b></div>
+          <div><span class="muted">en.wiki views / yr</span><b>${fmtNum(e.enPageviews)}</b></div>
+          <div><span class="muted">Sitelinks</span><b>${fmtNum(e.sitelinks)}</b></div>
+        </div>
+        <div class="muted">Known for</div>
+        <ul class="known">${known}</ul>
+        <div class="links">
+          <a href="https://www.themoviedb.org/person/${e.tmdbId}" target="_blank" rel="noopener">TMDB</a>${wiki}
+        </div>
+        <label for="notes">Notes</label>
+        <textarea id="notes">${esc(e.notes)}</textarea>
+        <label for="override">Trickiness override (blank = computed ${e.trickiness ?? 0})</label>
+        <input id="override" type="number" min="0" max="100" step="1" value="${e.trickinessOverride ?? ''}">
+        <div class="actions">
+          <button class="approve" data-action="approve">Approve (A)</button>
+          <button class="reject" data-action="reject">Reject (R)</button>
+          <button data-action="pending">Back to pending</button>
+        </div>
+      </div>
+    </article>`;
+}
+
+function render() {
+  renderHealth();
+  const { list, entry } = current();
+  $('position').textContent = list.length ? `${state.index + 1} / ${list.length}` : '0 / 0';
+  const error = state.error ? `<div class="error">${esc(state.error)}</div>` : '';
+  $('main').innerHTML = error + (entry ? renderCard(entry) : `<p class="empty">Nothing ${esc(state.tab)} here.</p>`);
+  if (!entry) return;
+  $('notes').addEventListener('change', ev => saveField({ notes: ev.target.value }));
+  $('override').addEventListener('change', ev => {
+    const raw = ev.target.value.trim();
+    saveField({ trickinessOverride: raw === '' ? null : Math.round(Number(raw)) });
+  });
+}
+
+document.addEventListener('click', ev => {
+  const tab = ev.target.closest('[data-tab]');
+  if (tab) { state.tab = tab.dataset.tab; state.index = 0; render(); return; }
+  const action = ev.target.closest('[data-action]')?.dataset.action;
+  if (action === 'approve') decide('approved');
+  if (action === 'reject') decide('rejected');
+  if (action === 'pending') decide('pending');
+});
+
+$('sort').addEventListener('change', ev => { state.sort = ev.target.value; state.index = 0; render(); });
+$('filter').addEventListener('change', ev => { state.filter = ev.target.value; state.index = 0; render(); });
+
+document.addEventListener('keydown', ev => {
+  const typing = ['TEXTAREA', 'INPUT', 'SELECT'].includes(document.activeElement?.tagName);
+  if (typing) {
+    if (ev.key === 'Escape') document.activeElement.blur();
+    return;
+  }
+  if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
+  const key = ev.key.toLowerCase();
+  if (key === 'a') decide('approved');
+  else if (key === 'r') decide('rejected');
+  else if (key === 'z') undo();
+  else if (key === 'n') { ev.preventDefault(); $('notes')?.focus(); }
+  else if (ev.key === 'ArrowRight') { state.index++; render(); }
+  else if (ev.key === 'ArrowLeft') { state.index--; render(); }
+});
+
+fetch('/api/pool')
+  .then(res => res.json())
+  .then(data => { state.pool = data.celebrities ?? []; render(); })
+  .catch(err => { state.error = `Could not load pool: ${err.message}`; render(); });
+</script>
+</body>
+</html>
