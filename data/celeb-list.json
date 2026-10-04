@@ -3,6 +3,29 @@
   "lastUpdated": "2026-10-04",
   "celebrities": [
     {
+      "tmdbId": 190,
+      "wikidataId": "Q43203",
+      "name": "Clint Eastwood",
+      "enTitle": "Clint Eastwood",
+      "birthDate": "1930-05-31",
+      "deathDate": null,
+      "nationality": [
+        "US"
+      ],
+      "sitelinks": 135,
+      "enPageviews": 4994043,
+      "profilePath": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
+      "knownFor": [
+        "American Sniper",
+        "Gran Torino",
+        "Million Dollar Baby"
+      ],
+      "trickiness": 99,
+      "status": "pending",
+      "notes": "",
+      "trickinessOverride": null
+    },
+    {
       "tmdbId": 86543,
       "wikidataId": "Q183337",
       "name": "David Attenborough",
@@ -23111,29 +23134,6 @@
         "Westworld"
       ],
       "trickiness": 0,
-      "status": "pending",
-      "notes": "",
-      "trickinessOverride": null
-    },
-    {
-      "tmdbId": 190,
-      "wikidataId": "Q43203",
-      "name": "Clint Eastwood",
-      "enTitle": "Clint Eastwood",
-      "birthDate": "1930-05-31",
-      "deathDate": null,
-      "nationality": [
-        "US"
-      ],
-      "sitelinks": 135,
-      "enPageviews": 4994043,
-      "profilePath": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
-      "knownFor": [
-        "American Sniper",
-        "Gran Torino",
-        "Million Dollar Baby"
-      ],
-      "trickiness": 99,
       "status": "pending",
       "notes": "",
       "trickinessOverride": null
