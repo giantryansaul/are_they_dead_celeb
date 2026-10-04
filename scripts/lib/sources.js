@@ -38,7 +38,8 @@ export async function tmdbGet(path) {
       lastErr = new Error(`TMDB ${path}: ${res.status} ${res.statusText}`);
       lastErr.status = res.status;
     } catch (err) {
-      // Network error or other exception: save and retry
+      if (err.status && err.status !== 429 && err.status < 500) throw err;
+      // Network error or retryable status: save and retry
       lastErr = err;
     }
     if (attempt < MAX_RETRIES) await sleep(retryAfterMs);
