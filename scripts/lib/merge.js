@@ -38,6 +38,8 @@ export function mergePool(existing, fresh) {
 // v1 lists had auto-assigned difficulty and no review status, so nothing
 // carries over except the ids, which are re-checked against the filters.
 export function migrateLegacy(data) {
-  if (data.version === '2') return { existing: data.celebrities ?? [], legacyIds: [] };
+  const version = String(data.version ?? '1');
+  if (version === '2') return { existing: data.celebrities ?? [], legacyIds: [] };
+  if (version !== '1') throw new Error(`Unsupported celeb-list version: ${data.version}`);
   return { existing: [], legacyIds: (data.celebrities ?? []).map(e => e.tmdbId) };
 }

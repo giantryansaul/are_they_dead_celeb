@@ -37,6 +37,11 @@ function readBody(req) {
 }
 
 async function handle(req, res) {
+  // Guard against DNS rebinding and cross-site form posts.
+  const host = req.headers.host;
+  if (host !== `${HOST}:${PORT}` && host !== `localhost:${PORT}`) {
+    throw new ReviewError(403, 'Forbidden host');
+  }
   const { pathname } = new URL(req.url, `http://${HOST}`);
 
   if (req.method === 'GET' && pathname === '/') {
@@ -47,6 +52,9 @@ async function handle(req, res) {
   }
   const match = pathname.match(/^\/api\/entry\/(\d+)$/);
   if (req.method === 'POST' && match) {
+    if (!String(req.headers['content-type'] ?? '').startsWith('application/json')) {
+      throw new ReviewError(415, 'Content-Type must be application/json');
+    }
     const raw = await readBody(req);
     let patch;
     try {

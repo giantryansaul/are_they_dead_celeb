@@ -23,15 +23,19 @@ function parseNationality(raw) {
   return [...new Set(codes)];
 }
 
+// Wikidata returns an IRI (.../genid/...) for "unknown value" dates.
+const ISO_DATE = /^\d{4}-\d{2}-\d{2}/;
+
 export function parseWikidataRow(binding) {
   const tmdbId = Number(value(binding, 'tmdb'));
   const birth = value(binding, 'birthDate');
-  if (!Number.isInteger(tmdbId) || tmdbId <= 0 || !birth) return null;
+  if (!Number.isInteger(tmdbId) || tmdbId <= 0 || !ISO_DATE.test(birth ?? '')) return null;
+  const death = value(binding, 'deathDate');
   return {
     wikidataId: value(binding, 'item').split('/').pop(),
     tmdbId,
     birthDate: birth.slice(0, 10),
-    deathDate: value(binding, 'deathDate')?.slice(0, 10) ?? null,
+    deathDate: ISO_DATE.test(death ?? '') ? death.slice(0, 10) : null,
     sitelinks: Number(value(binding, 'sitelinks') ?? 0),
     enTitle: value(binding, 'enTitle'),
     nationality: parseNationality(value(binding, 'citizenships')),

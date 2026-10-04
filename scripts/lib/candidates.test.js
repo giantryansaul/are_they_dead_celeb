@@ -59,3 +59,13 @@ test('passesPageviews: per-pass thresholds; unknown views are kept', () => {
   assert.equal(passesPageviews({ enPageviews: 2_000_000 }, 'fame'), true);
   assert.equal(passesPageviews({ enPageviews: null }, 'fame'), true);
 });
+
+test('parseWikidataRow drops rows with a non-date birth value', () => {
+  const iri = { value: 'http://www.wikidata.org/.well-known/genid/abc' };
+  assert.equal(parseWikidataRow(binding({ birthDate: iri })), null);
+});
+
+test('parseWikidataRow treats a non-date death value as no death date', () => {
+  const iri = { value: 'http://www.wikidata.org/.well-known/genid/abc' };
+  assert.equal(parseWikidataRow(binding({ deathDate: iri })).deathDate, null);
+});

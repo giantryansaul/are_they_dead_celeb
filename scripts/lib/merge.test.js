@@ -55,3 +55,16 @@ test('migrateLegacy passes v2 through', () => {
   const v2 = { version: '2', celebrities: [{ tmdbId: 7, status: 'approved' }] };
   assert.deepEqual(migrateLegacy(v2), { existing: v2.celebrities, legacyIds: [] });
 });
+
+test('migrateLegacy treats numeric version 2 as v2', () => {
+  const v2 = { version: 2, celebrities: [{ tmdbId: 7, status: 'approved' }] };
+  assert.deepEqual(migrateLegacy(v2), { existing: v2.celebrities, legacyIds: [] });
+});
+
+test('migrateLegacy treats a missing version as v1', () => {
+  assert.deepEqual(migrateLegacy({ celebrities: [{ tmdbId: 3 }] }), { existing: [], legacyIds: [3] });
+});
+
+test('migrateLegacy throws on unknown versions', () => {
+  assert.throws(() => migrateLegacy({ version: '3', celebrities: [] }), /Unsupported celeb-list version: 3/);
+});
