@@ -53,9 +53,9 @@ test('passesAgeRule: dead at any age, alive only at 50+', () => {
 });
 
 test('passesPageviews: per-pass thresholds; unknown views are kept', () => {
-  assert.equal(passesPageviews({ enPageviews: 100_000 }, 'core'), true);
-  assert.equal(passesPageviews({ enPageviews: 99_999 }, 'core'), false);
-  assert.equal(passesPageviews({ enPageviews: 400_000 }, 'fame'), false);
-  assert.equal(passesPageviews({ enPageviews: 500_000 }, 'fame'), true);
+  assert.equal(passesPageviews({ enPageviews: 1_000_000 }, 'core'), true);
+  assert.equal(passesPageviews({ enPageviews: 999_999 }, 'core'), false);
+  assert.equal(passesPageviews({ enPageviews: 1_999_999 }, 'fame'), false);
+  assert.equal(passesPageviews({ enPageviews: 2_000_000 }, 'fame'), true);
   assert.equal(passesPageviews({ enPageviews: null }, 'fame'), true);
 });

@@ -6,8 +6,8 @@ import { MIN_ALIVE_AGE } from './picker.js';
 
 export const MIN_SITELINKS = 30;
 export const MIN_SITELINKS_FOREIGN = 60;
-export const MIN_EN_PAGEVIEWS = 100_000;
-export const MIN_EN_PAGEVIEWS_FOREIGN = 500_000;
+export const MIN_EN_PAGEVIEWS = 1_000_000;
+export const MIN_EN_PAGEVIEWS_FOREIGN = 2_000_000;
 
 const NATIONALITY_CODES = { Q30: 'US', Q145: 'GB' };
 const CORE_NATIONALITIES = new Set(['US', 'GB']);
