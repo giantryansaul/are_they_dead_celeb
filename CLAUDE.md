@@ -9,27 +9,31 @@ A daily Wordle-style game: five celebrities are shown, player guesses alive or d
 ## Commands
 
 ```bash
-npm run dev          # Vite dev server
-npm run build        # tsc + vite build → dist/
-npm run lint         # ESLint
-npm run generate     # Regenerate public/data/celebrities.json (needs .env with TMDB_API_KEY)
+npm run dev           # Vite dev server
+npm run build         # tsc + vite build → dist/
+npm run lint          # ESLint
+npm run test:scripts  # node:test unit tests for scripts/lib
+npm run build-list    # Refresh the candidate pool in data/celeb-list.json (needs .env with TMDB_API_KEY)
+npm run review        # Local review UI at http://127.0.0.1:5174 — approve/reject candidates
+npm run generate      # Regenerate public/data/celebrities.json from approved pool
 ```
 
 To get a different set for the same day: `node --env-file=.env scripts/generate-daily.js --seed-offset 1`
+To preview without writing: add `--dry-run`. To test against another pool file: `--pool path/to/pool.json`.
 
 ## Architecture
 
-### Data pipeline (Node, runs daily in CI)
+### Data pipeline
 
-`scripts/generate-daily.js` is the only backend code. It:
-1. Fetches pages 1–4 of TMDB `/person/popular`, filters adult-flagged entries
-2. Takes the top 60 by popularity and fetches full `/person/{id}` detail
-3. Calls Wikidata SPARQL to cross-check death dates for any deceased picks (TMDB death dates can be wrong/missing)
-4. Uses a date-seeded deterministic shuffle (`seededRandom` / `seededShuffle`) to pick 3 alive + 2 dead celebrities
-5. Reads/writes `public/data/shown-history.json` to avoid repeating celebrities within a 30-day window
-6. Writes `public/data/celebrities.json` — the only artifact the frontend reads
+Two stages, sharing pure modules in `scripts/lib/` (unit-tested with `node:test`):
 
-CI (`.github/workflows/deploy.yml`) runs this at 00:05 UTC daily, commits the JSON to `main`, then triggers a Vercel deploy hook. Secrets needed: `TMDB_API_KEY`, `VERCEL_DEPLOY_HOOK`.
+**1. Curating the pool (manual).** `scripts/build-celeb-list.js` queries Wikidata for actors with a TMDB ID who are dead or 50+, keeps US/UK citizens with ≥ 30 sitelinks plus anyone with ≥ 60 sitelinks, filters by 12-month en.wikipedia pageviews (≥ 1M/yr for US/UK, ≥ 2M/yr for others; tuned in `scripts/lib/candidates.js`), retrying transient failures, enriches from TMDB (photo, known-for), scores `trickiness` (`scripts/lib/trickiness.js`), and merges into `data/celeb-list.json`. New people arrive as `pending`. `status`, `notes` and `trickinessOverride` are human-owned and never overwritten. `npm run review` serves a local page for approving/rejecting; commit `data/celeb-list.json` afterwards.
+
+**2. Daily pick (CI).** `scripts/generate-daily.js` picks 5 from approved entries via `scripts/lib/picker.js`: 1–4 dead (seeded, weighted toward 2–3), alive picks must be 50+ today, draws weighted by trickiness, 30-day no-repeat window from `data/shown-history.json` with least-recently-shown fallback. Death dates are re-checked live (Wikidata, then TMDB). Fails if fewer than 5 approved entries are eligible. Writes `public/data/celebrities.json` — the only artifact the frontend reads.
+
+`data/` is deliberately outside `public/` so the pool (which reveals answers) is never deployed.
+
+CI (`.github/workflows/deploy.yml`) runs stage 2 at 00:05 UTC daily, commits `public/data/celebrities.json` and `data/shown-history.json` to `main`, then triggers a Vercel deploy hook. Secrets needed: `TMDB_API_KEY`, `VERCEL_DEPLOY_HOOK`. Keep ≥ 75 approved alive and ≥ 75 approved dead for the 30-day window; the run logs a warning when below.
 
 ### Frontend (React + TypeScript + Vite)
 
@@ -57,3 +61,5 @@ GameBoard (state orchestration)
 ### Key files for the data shape
 
 `src/types/index.ts` — `Celebrity`, `DailyData`, `HintType`, `RowState`, `GameState`, `GameResult`. Changes to `celebrities.json` shape must stay in sync with this file and `buildCelebrity()` in the generate script.
+
+`data/celeb-list.json` (pool, `version: "2"`) — shape is produced by `build-celeb-list.js` and edited only through `scripts/lib/review-api.js`.
