@@ -169,7 +169,18 @@ async function main() {
     }),
   }));
 
-  const { celebrities, added, refreshed } = mergePool(existing, fresh);
+  // Re-read: decisions saved through the review UI during this run must survive.
+  const { existing: latest } = migrateLegacy(
+    readJson(CELEB_LIST_PATH, { version: '2', celebrities: [] }),
+  );
+  const startStatus = new Map(existing.map(e => [e.tmdbId, e.status]));
+  const changed = latest.length !== existing.length ||
+    latest.some(e => startStatus.get(e.tmdbId) !== e.status);
+  if (changed) {
+    console.log(`Pool changed during the run (${existing.length} -> ${latest.length} entries or statuses edited); merging into the fresh copy.`);
+  }
+
+  const { celebrities, added, refreshed } = mergePool(latest, fresh);
   writeJsonAtomic(CELEB_LIST_PATH, { version: '2', lastUpdated: today, celebrities });
 
   const byStatus = { pending: 0, approved: 0, rejected: 0 };
