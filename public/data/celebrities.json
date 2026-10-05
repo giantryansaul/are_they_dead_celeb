@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-04T05:41:00.085Z",
+  "generatedAt": "2026-10-05T05:24:33.073Z",
   "celebrities": [
     {
-      "id": 68921,
-      "name": "Masahiko Minami",
-      "popularity": 18.1,
+      "id": 9707,
+      "name": "Ayumi Ito",
+      "popularity": 14.3,
       "isAlive": true,
-      "birthYear": 1961,
+      "birthYear": 1980,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/36iayCTbXRFD5O5yO3Xbj4rrMWJ.jpg",
+      "profilePath": "/9uc0XnA8nAcCYInxUq5nkNSHc7N.jpg",
       "knownFor": [
-        "My Hero Academia",
-        "Cowboy Bebop",
-        "Mob Psycho 100"
+        "Final Fantasy VII: Advent Children",
+        "Swallowtail Butterfly",
+        "All About Lily Chou-Chou"
       ]
     },
     {
-      "id": 78921,
-      "name": "Dimple Kapadia",
-      "popularity": 13.2,
+      "id": 30320,
+      "name": "Annette Badland",
+      "popularity": 13.9,
       "isAlive": true,
-      "birthYear": 1957,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nZoVs8drMLefoBN7PZ49slHuJe7.jpg",
+      "profilePath": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg",
       "knownFor": [
-        "Tenet",
-        "Dil Chahta Hai",
-        "Pathaan"
+        "Charlie and the Chocolate Factory",
+        "Outlander",
+        "The Man Who Invented Christmas"
       ]
     },
     {
-      "id": 33676,
-      "name": "Kathleen Robertson",
-      "popularity": 51.9,
+      "id": 84028,
+      "name": "Yu Aoi",
+      "popularity": 18,
       "isAlive": true,
-      "birthYear": 1973,
+      "birthYear": 1985,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
+      "profilePath": "/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg",
       "knownFor": [
-        "Scary Movie 2",
-        "The Vatican Tapes",
-        "Seal Team Six: The Raid on Osama Bin Laden"
+        "Space Pirate Captain Harlock",
+        "Redline",
+        "Rurouni Kenshin Part I: Origins"
       ]
     },
     {
-      "id": 70324,
-      "name": "Keiju Kobayashi",
-      "popularity": 12.4,
-      "isAlive": false,
-      "birthYear": 1923,
-      "deathDate": "2010-09-16",
-      "deathAge": 86,
-      "profilePath": "/nG3Yzjl2zJXdpQwJDXvoGND87Sh.jpg",
-      "knownFor": [
-        "The Return of Godzilla",
-        "Whisper of the Heart",
-        "Sanjuro"
-      ]
-    },
-    {
-      "id": 20337,
-      "name": "Akira Nagoya",
+      "id": 1032322,
+      "name": "Kajirō Yamamoto",
       "popularity": 13.6,
       "isAlive": false,
-      "birthYear": 1930,
-      "deathDate": "2003-06-24",
+      "birthYear": 1902,
+      "deathDate": "1974-09-21",
       "deathAge": 72,
-      "profilePath": "/dkPU1ibDTdZpK4XnPx1f5zpckbQ.jpg",
+      "profilePath": "/yQSQYBMm6C0Di2QDDysJPQLoAN8.jpg",
       "knownFor": [
-        "Princess Mononoke",
-        "High and Low",
-        "Flying Phantom Ship"
+        "Composition Class",
+        "Horse",
+        "Colonel Kato's Falcon Squadron"
+      ]
+    },
+    {
+      "id": 1057579,
+      "name": "Tatsuya Nagamine",
+      "popularity": 17.8,
+      "isAlive": false,
+      "birthYear": 1971,
+      "deathDate": "2025-08-20",
+      "deathAge": 53,
+      "profilePath": "/hiSUYqVI52RDFyaUPzfR85fQKZg.jpg",
+      "knownFor": [
+        "One Piece",
+        "Dragon Ball Super",
+        "Dragon Ball Super: Broly"
       ]
     }
   ]
