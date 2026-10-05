@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-05-07T04:54:01.189Z",
+  "generatedAt": "2026-10-05T05:24:33.073Z",
   "celebrities": [
     {
-      "id": 33259,
-      "name": "Jennifer Love Hewitt",
+      "id": 9707,
+      "name": "Ayumi Ito",
+      "popularity": 14.3,
+      "isAlive": true,
+      "birthYear": 1980,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/9uc0XnA8nAcCYInxUq5nkNSHc7N.jpg",
+      "knownFor": [
+        "Final Fantasy VII: Advent Children",
+        "Swallowtail Butterfly",
+        "All About Lily Chou-Chou"
+      ]
+    },
+    {
+      "id": 30320,
+      "name": "Annette Badland",
       "popularity": 13.9,
       "isAlive": true,
-      "birthYear": 1979,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gEDepjLEFGokSaexd1FzmtH1hlq.jpg",
+      "profilePath": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg",
       "knownFor": [
-        "I Know What You Did Last Summer",
-        "Ghost Whisperer",
-        "Garfield"
+        "Charlie and the Chocolate Factory",
+        "Outlander",
+        "The Man Who Invented Christmas"
       ]
     },
     {
-      "id": 1487683,
-      "name": "Hitoe Ootake",
-      "popularity": 17.7,
+      "id": 84028,
+      "name": "Yu Aoi",
+      "popularity": 18,
       "isAlive": true,
-      "birthYear": 1972,
+      "birthYear": 1985,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/44pPj6GmPInI9q6BAKMIygp9yN6.jpg",
+      "profilePath": "/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg",
       "knownFor": [
-        "Female Teacher Diary: Forbidden Sex",
-        "Female Teacher Diary 3: Hidden Sex",
-        "Molester Diary: A Man Who Kept Stroking Ass 3"
+        "Space Pirate Captain Harlock",
+        "Redline",
+        "Rurouni Kenshin Part I: Origins"
       ]
     },
     {
-      "id": 49624,
-      "name": "Jensen Ackles",
-      "popularity": 12.2,
-      "isAlive": true,
-      "birthYear": 1978,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg",
-      "knownFor": [
-        "Supernatural",
-        "My Bloody Valentine",
-        "Batman: Under the Red Hood"
-      ]
-    },
-    {
-      "id": 95214,
-      "name": "Andrea Evans",
-      "popularity": 11.3,
+      "id": 1032322,
+      "name": "Kajirō Yamamoto",
+      "popularity": 13.6,
       "isAlive": false,
-      "birthYear": 1957,
-      "deathDate": "2023-07-09",
-      "deathAge": 66,
-      "profilePath": "/wHWhyErj1mq0qkdWc4NKpTpVJuG.jpg",
+      "birthYear": 1902,
+      "deathDate": "1974-09-21",
+      "deathAge": 72,
+      "profilePath": "/yQSQYBMm6C0Di2QDDysJPQLoAN8.jpg",
       "knownFor": [
-        "Ice Cream Man",
-        "Hit List",
-        "A Low Down Dirty Shame"
+        "Composition Class",
+        "Horse",
+        "Colonel Kato's Falcon Squadron"
       ]
     },
     {
-      "id": 34627,
-      "name": "Nadia Farès",
-      "popularity": 18.4,
+      "id": 1057579,
+      "name": "Tatsuya Nagamine",
+      "popularity": 17.8,
       "isAlive": false,
-      "birthYear": 1968,
-      "deathDate": "2026-04-17",
-      "deathAge": 57,
-      "profilePath": "/uvomxwk2CfO8scOsR60CxHGM2J3.jpg",
+      "birthYear": 1971,
+      "deathDate": "2025-08-20",
+      "deathAge": 53,
+      "profilePath": "/hiSUYqVI52RDFyaUPzfR85fQKZg.jpg",
       "knownFor": [
-        "The Crimson Rivers",
-        "Storm Warning",
-        "On the Line"
+        "One Piece",
+        "Dragon Ball Super",
+        "Dragon Ball Super: Broly"
       ]
     }
   ]
