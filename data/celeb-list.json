@@ -21,7 +21,7 @@
         "Million Dollar Baby"
       ],
       "trickiness": 99,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -44,7 +44,7 @@
         "Prehistoric Planet"
       ],
       "trickiness": 99,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -67,7 +67,7 @@
         "Night at the Museum: Secret of the Tomb"
       ],
       "trickiness": 99,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -90,7 +90,7 @@
         "Buffy the Vampire Slayer"
       ],
       "trickiness": 99,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -113,7 +113,7 @@
         "Law & Order: Special Victims Unit"
       ],
       "trickiness": 99,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -137,7 +137,7 @@
         "Charlie's Angels"
       ],
       "trickiness": 99,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -162,7 +162,7 @@
         "Rick and Morty"
       ],
       "trickiness": 98,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -186,7 +186,7 @@
         "The Nightmare Before Christmas"
       ],
       "trickiness": 97,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -209,7 +209,7 @@
         "Hawaii Five-0"
       ],
       "trickiness": 97,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -232,7 +232,7 @@
         "X-Men: The Last Stand"
       ],
       "trickiness": 97,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -255,7 +255,7 @@
         "Law & Order: Special Victims Unit"
       ],
       "trickiness": 97,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -278,7 +278,7 @@
         "The Simpsons"
       ],
       "trickiness": 97,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -301,7 +301,7 @@
         "Apocalypse Now"
       ],
       "trickiness": 97,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -324,7 +324,7 @@
         "The Godfather Part II"
       ],
       "trickiness": 96,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -347,7 +347,7 @@
         "Saturday Night Live"
       ],
       "trickiness": 96,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -370,7 +370,7 @@
         "The Ring"
       ],
       "trickiness": 96,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -394,7 +394,7 @@
         "Rocky Aur Rani Kii Prem Kahaani"
       ],
       "trickiness": 96,
-      "status": "pending",
+      "status": "rejected",
       "notes": "",
       "trickinessOverride": null
     },
@@ -417,7 +417,7 @@
         "Finding Dory"
       ],
       "trickiness": 96,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -440,7 +440,7 @@
         "Vanilla Sky"
       ],
       "trickiness": 96,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -463,7 +463,7 @@
         "The Empire Strikes Back"
       ],
       "trickiness": 95,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -486,7 +486,7 @@
         "Masculin Féminin"
       ],
       "trickiness": 94,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -509,7 +509,7 @@
         "One Flew Over the Cuckoo's Nest"
       ],
       "trickiness": 94,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -532,7 +532,7 @@
         "Youth"
       ],
       "trickiness": 93,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -555,7 +555,7 @@
         "Hotel Transylvania 2"
       ],
       "trickiness": 93,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -578,7 +578,7 @@
         "The Tonight Show Starring Jimmy Fallon"
       ],
       "trickiness": 93,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -601,7 +601,7 @@
         "Match Point"
       ],
       "trickiness": 93,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -624,7 +624,7 @@
         "Sinister"
       ],
       "trickiness": 92,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -647,7 +647,7 @@
         "Shrek 2"
       ],
       "trickiness": 92,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -670,7 +670,7 @@
         "The Dark Knight"
       ],
       "trickiness": 92,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -693,7 +693,7 @@
         "Criminal Minds"
       ],
       "trickiness": 92,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -717,7 +717,7 @@
         "GoodFellas"
       ],
       "trickiness": 92,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -740,7 +740,7 @@
         "The Dark Knight Rises"
       ],
       "trickiness": 91,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -763,7 +763,7 @@
         "Escape from L.A."
       ],
       "trickiness": 91,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -786,7 +786,7 @@
         "Ghost Rider: Spirit of Vengeance"
       ],
       "trickiness": 90,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -810,7 +810,7 @@
         "The Departed"
       ],
       "trickiness": 90,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -833,7 +833,7 @@
         "The Sting"
       ],
       "trickiness": 90,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -856,7 +856,7 @@
         "Heat"
       ],
       "trickiness": 90,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -879,7 +879,7 @@
         "Little Fockers"
       ],
       "trickiness": 89,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -902,7 +902,7 @@
         "American Horror Story"
       ],
       "trickiness": 89,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -925,7 +925,7 @@
         "My Best Friend's Girl"
       ],
       "trickiness": 89,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -949,7 +949,7 @@
         "The Departed"
       ],
       "trickiness": 89,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -973,7 +973,7 @@
         "Chinatown"
       ],
       "trickiness": 89,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -996,7 +996,7 @@
         "Rules Don't Apply"
       ],
       "trickiness": 89,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1020,7 +1020,7 @@
         "Thor: The Dark World"
       ],
       "trickiness": 88,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1043,7 +1043,7 @@
         "The Lord of the Rings: The Two Towers"
       ],
       "trickiness": 88,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1066,7 +1066,7 @@
         "Ghost Rider"
       ],
       "trickiness": 88,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1090,7 +1090,7 @@
         "Miss Congeniality"
       ],
       "trickiness": 88,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1113,7 +1113,7 @@
         "The Suicide Squad"
       ],
       "trickiness": 87,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1136,7 +1136,7 @@
         "The Wind Gods"
       ],
       "trickiness": 86,
-      "status": "pending",
+      "status": "rejected",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1159,7 +1159,7 @@
         "Naked Gun 33⅓: The Final Insult"
       ],
       "trickiness": 86,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1183,7 +1183,7 @@
         "Predator"
       ],
       "trickiness": 85,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1206,7 +1206,7 @@
         "Jack"
       ],
       "trickiness": 85,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1229,7 +1229,7 @@
         "Pretty Baby: Brooke Shields"
       ],
       "trickiness": 85,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1252,7 +1252,7 @@
         "Zookeeper"
       ],
       "trickiness": 85,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1275,7 +1275,7 @@
         "The Christmas Chronicles: Part Two"
       ],
       "trickiness": 85,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1298,7 +1298,7 @@
         "Naked Gun 33⅓: The Final Insult"
       ],
       "trickiness": 85,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1321,7 +1321,7 @@
         "Shrek"
       ],
       "trickiness": 85,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1344,7 +1344,7 @@
         "Zoolander 2"
       ],
       "trickiness": 85,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1368,7 +1368,7 @@
         "Queen"
       ],
       "trickiness": 84,
-      "status": "pending",
+      "status": "rejected",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1391,7 +1391,7 @@
         "Last Action Hero"
       ],
       "trickiness": 84,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1414,7 +1414,7 @@
         "Mission: Impossible"
       ],
       "trickiness": 84,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1437,7 +1437,7 @@
         "American Idol"
       ],
       "trickiness": 84,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1460,7 +1460,7 @@
         "The Elephant Man"
       ],
       "trickiness": 83,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1483,7 +1483,7 @@
         "The Wiz"
       ],
       "trickiness": 83,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1507,7 +1507,7 @@
         "Ant-Man and the Wasp"
       ],
       "trickiness": 83,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1530,7 +1530,7 @@
         "Slow Horses"
       ],
       "trickiness": 83,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1553,7 +1553,7 @@
         "Buffy the Vampire Slayer"
       ],
       "trickiness": 83,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1577,7 +1577,7 @@
         "Transformers: Revenge of the Fallen"
       ],
       "trickiness": 83,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1600,7 +1600,7 @@
         "Apocalypse Now"
       ],
       "trickiness": 82,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1624,7 +1624,7 @@
         "The Fate of the Furious"
       ],
       "trickiness": 81,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1647,7 +1647,7 @@
         "The Amazing Spider-Man 2"
       ],
       "trickiness": 81,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1670,7 +1670,7 @@
         "The Apartment"
       ],
       "trickiness": 81,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1693,7 +1693,7 @@
         "High Fidelity"
       ],
       "trickiness": 80,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1716,7 +1716,7 @@
         "Kung Fu Panda 2"
       ],
       "trickiness": 80,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1739,7 +1739,7 @@
         "Don't Look Up"
       ],
       "trickiness": 80,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1762,7 +1762,7 @@
         "Diego Maradona"
       ],
       "trickiness": 80,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1785,7 +1785,7 @@
         "Law & Order: Special Victims Unit"
       ],
       "trickiness": 79,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1808,7 +1808,7 @@
         "Casino Royale"
       ],
       "trickiness": 79,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1831,7 +1831,7 @@
         "Sex and the City 2"
       ],
       "trickiness": 79,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1854,7 +1854,7 @@
         "The Green Mile"
       ],
       "trickiness": 79,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1877,7 +1877,7 @@
         "The Garfield Movie"
       ],
       "trickiness": 78,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1900,7 +1900,7 @@
         "Schindler's List"
       ],
       "trickiness": 78,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1923,7 +1923,7 @@
         "Young Sheldon"
       ],
       "trickiness": 78,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1946,7 +1946,7 @@
         "The Simpsons"
       ],
       "trickiness": 78,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1970,7 +1970,7 @@
         "17 Again"
       ],
       "trickiness": 78,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -1993,7 +1993,7 @@
         "The Vatican Tapes"
       ],
       "trickiness": 78,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2016,7 +2016,7 @@
         "Two and a Half Men"
       ],
       "trickiness": 77,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2039,7 +2039,7 @@
         "The Mask"
       ],
       "trickiness": 77,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2062,7 +2062,7 @@
         "Friends"
       ],
       "trickiness": 77,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2085,7 +2085,7 @@
         "No Country for Old Men"
       ],
       "trickiness": 77,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2108,7 +2108,7 @@
         "One Flew Over the Cuckoo's Nest"
       ],
       "trickiness": 76,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2131,7 +2131,7 @@
         "Home"
       ],
       "trickiness": 76,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2154,7 +2154,7 @@
         "Criminal Minds"
       ],
       "trickiness": 75,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2177,7 +2177,7 @@
         "I Know What You Did Last Summer"
       ],
       "trickiness": 75,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2200,7 +2200,7 @@
         "Dune: Part Two"
       ],
       "trickiness": 75,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2223,7 +2223,7 @@
         "Law & Order: Special Victims Unit"
       ],
       "trickiness": 75,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2246,7 +2246,7 @@
         "Guardians of the Galaxy Vol. 2"
       ],
       "trickiness": 75,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2269,7 +2269,7 @@
         "Arthur and the Revenge of Maltazard"
       ],
       "trickiness": 75,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2292,7 +2292,7 @@
         "Parting Shots"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "rejected",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2315,7 +2315,7 @@
         "The Big Bang Theory"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2338,7 +2338,7 @@
         "Tifosi"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "rejected",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2361,7 +2361,7 @@
         "Home Alone 2: Lost in New York"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2384,7 +2384,7 @@
         "Butch Cassidy and the Sundance Kid"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2408,7 +2408,7 @@
         "Gilmore Girls"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2431,7 +2431,7 @@
         "The Graduate"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2454,7 +2454,7 @@
         "Hook"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "rejected",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2477,7 +2477,7 @@
         "Thor"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2500,7 +2500,7 @@
         "The Simpsons"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
@@ -2524,7 +2524,7 @@
         "GoldenEye"
       ],
       "trickiness": 74,
-      "status": "pending",
+      "status": "approved",
       "notes": "",
       "trickinessOverride": null
     },
