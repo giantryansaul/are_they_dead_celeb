@@ -1,49 +1,34 @@
 {
-  "generatedAt": "2026-10-06T04:22:19.219Z",
+  "generatedAt": "2026-10-06T06:09:13.904Z",
   "celebrities": [
     {
-      "id": 34257,
-      "name": "Anthony Stewart Head",
-      "popularity": 3.3,
+      "id": 14408,
+      "name": "Matthew Perry",
+      "popularity": 3.4,
       "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2026-06-01",
-      "deathAge": 72,
-      "profilePath": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg",
+      "birthYear": 1969,
+      "deathDate": "2023-10-28",
+      "deathAge": 54,
+      "profilePath": "/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg",
       "knownFor": [
-        "Sweeney Todd: The Demon Barber of Fleet Street",
-        "Percy Jackson: Sea of Monsters",
-        "Ghost Rider: Spirit of Vengeance"
+        "The Simpsons",
+        "Friends",
+        "17 Again"
       ]
     },
     {
-      "id": 1748,
-      "name": "William Shatner",
-      "popularity": 3.6,
+      "id": 9594,
+      "name": "Katharine Ross",
+      "popularity": 2.4,
       "isAlive": true,
-      "birthYear": 1931,
+      "birthYear": 1940,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/puzpe91Lh0CzdRKg9iYilQsjoYk.jpg",
+      "profilePath": "/cfWayhVkjcHuXIJOYnDCJxvWp2B.jpg",
       "knownFor": [
-        "The Big Bang Theory",
-        "Over the Hedge",
-        "Miss Congeniality"
-      ]
-    },
-    {
-      "id": 5296,
-      "name": "James Ransone",
-      "popularity": 2.3,
-      "isAlive": false,
-      "birthYear": 1979,
-      "deathDate": "2025-12-19",
-      "deathAge": 46,
-      "profilePath": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
-      "knownFor": [
-        "It Chapter Two",
-        "Inside Man",
-        "Sinister"
+        "Donnie Darko",
+        "The Graduate",
+        "Butch Cassidy and the Sundance Kid"
       ]
     },
     {
@@ -62,18 +47,33 @@
       ]
     },
     {
-      "id": 2176,
-      "name": "Tommy Lee Jones",
+      "id": 172069,
+      "name": "Chadwick Boseman",
+      "popularity": 3.2,
+      "isAlive": false,
+      "birthYear": 1976,
+      "deathDate": "2020-08-28",
+      "deathAge": 43,
+      "profilePath": "/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg",
+      "knownFor": [
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Captain America: Civil War"
+      ]
+    },
+    {
+      "id": 7056,
+      "name": "Emma Thompson",
       "popularity": 5.1,
       "isAlive": true,
-      "birthYear": 1946,
+      "birthYear": 1959,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg",
+      "profilePath": "/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg",
       "knownFor": [
-        "Captain America: The First Avenger",
-        "Men in Black",
-        "No Country for Old Men"
+        "Harry Potter and the Prisoner of Azkaban",
+        "Harry Potter and the Deathly Hallows: Part 2",
+        "Harry Potter and the Order of the Phoenix"
       ]
     }
   ]
