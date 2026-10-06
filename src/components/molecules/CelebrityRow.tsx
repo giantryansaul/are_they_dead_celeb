@@ -28,8 +28,14 @@ export function CelebrityRow({ celebrity, rowState, index, onAnswer, onHint }: C
   const photoRevealed = hintsUsed.includes('photo') || answered;
   const yearRevealed = hintsUsed.includes('birthYear') || answered;
 
+  const cardState = !answered
+    ? 'bg-atd-surface border border-atd-border'
+    : rowState.correct
+      ? 'bg-atd-green/10 border-2 border-atd-green'
+      : 'bg-atd-red/10 border-2 border-atd-red';
+
   return (
-    <div className="bg-atd-surface border border-atd-border overflow-hidden">
+    <div className={`${cardState} overflow-hidden transition-colors`}>
       {/* Row 1: Name | Photo | Birth Year */}
       <div className="grid grid-cols-[1fr_1.4fr_1fr] gap-1.5 sm:gap-2 p-2 pb-1">
         {/* Name */}
