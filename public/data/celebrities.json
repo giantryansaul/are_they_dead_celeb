@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-05T05:24:33.073Z",
+  "generatedAt": "2026-10-06T03:47:15.021Z",
   "celebrities": [
     {
-      "id": 9707,
-      "name": "Ayumi Ito",
-      "popularity": 14.3,
-      "isAlive": true,
-      "birthYear": 1980,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/9uc0XnA8nAcCYInxUq5nkNSHc7N.jpg",
-      "knownFor": [
-        "Final Fantasy VII: Advent Children",
-        "Swallowtail Butterfly",
-        "All About Lily Chou-Chou"
-      ]
-    },
-    {
-      "id": 30320,
-      "name": "Annette Badland",
-      "popularity": 13.9,
-      "isAlive": true,
-      "birthYear": 1950,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg",
-      "knownFor": [
-        "Charlie and the Chocolate Factory",
-        "Outlander",
-        "The Man Who Invented Christmas"
-      ]
-    },
-    {
-      "id": 84028,
-      "name": "Yu Aoi",
-      "popularity": 18,
-      "isAlive": true,
-      "birthYear": 1985,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg",
-      "knownFor": [
-        "Space Pirate Captain Harlock",
-        "Redline",
-        "Rurouni Kenshin Part I: Origins"
-      ]
-    },
-    {
-      "id": 1032322,
-      "name": "Kajirō Yamamoto",
-      "popularity": 13.6,
+      "id": 34257,
+      "name": "Anthony Stewart Head",
+      "popularity": 3.3,
       "isAlive": false,
-      "birthYear": 1902,
-      "deathDate": "1974-09-21",
+      "birthYear": 1954,
+      "deathDate": "2026-06-01",
       "deathAge": 72,
-      "profilePath": "/yQSQYBMm6C0Di2QDDysJPQLoAN8.jpg",
+      "profilePath": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg",
       "knownFor": [
-        "Composition Class",
-        "Horse",
-        "Colonel Kato's Falcon Squadron"
+        "Sweeney Todd: The Demon Barber of Fleet Street",
+        "Percy Jackson: Sea of Monsters",
+        "Ghost Rider: Spirit of Vengeance"
       ]
     },
     {
-      "id": 1057579,
-      "name": "Tatsuya Nagamine",
-      "popularity": 17.8,
+      "id": 1748,
+      "name": "William Shatner",
+      "popularity": 4.4,
+      "isAlive": true,
+      "birthYear": 1931,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/puzpe91Lh0CzdRKg9iYilQsjoYk.jpg",
+      "knownFor": [
+        "The Big Bang Theory",
+        "Over the Hedge",
+        "Miss Congeniality"
+      ]
+    },
+    {
+      "id": 5296,
+      "name": "James Ransone",
+      "popularity": 2.3,
+      "isAlive": false,
+      "birthYear": 1979,
+      "deathDate": "2025-12-19",
+      "deathAge": 46,
+      "profilePath": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
+      "knownFor": [
+        "It Chapter Two",
+        "Inside Man",
+        "Sinister"
+      ]
+    },
+    {
+      "id": 71675,
+      "name": "Nicholas Brendon",
+      "popularity": 1.7,
       "isAlive": false,
       "birthYear": 1971,
-      "deathDate": "2025-08-20",
-      "deathAge": 53,
-      "profilePath": "/hiSUYqVI52RDFyaUPzfR85fQKZg.jpg",
+      "deathDate": "2026-03-20",
+      "deathAge": 54,
+      "profilePath": "/6O5sg97Fv07EzdWjpoq3lb8KnTM.jpg",
       "knownFor": [
-        "One Piece",
-        "Dragon Ball Super",
-        "Dragon Ball Super: Broly"
+        "Criminal Minds",
+        "Coherence",
+        "Buffy the Vampire Slayer"
+      ]
+    },
+    {
+      "id": 2176,
+      "name": "Tommy Lee Jones",
+      "popularity": 5.1,
+      "isAlive": true,
+      "birthYear": 1946,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg",
+      "knownFor": [
+        "Captain America: The First Avenger",
+        "Men in Black",
+        "No Country for Old Men"
       ]
     }
   ]
