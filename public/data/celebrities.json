@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-07T05:44:18.866Z",
+  "generatedAt": "2026-10-08T05:51:20.048Z",
   "celebrities": [
     {
-      "id": 3284,
-      "name": "Bruce Springsteen",
-      "popularity": 1.3,
-      "isAlive": true,
-      "birthYear": 1949,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/et5hx6xJRnquGgEHGshmiAZZwgN.jpg",
-      "knownFor": [
-        "The Wrestler",
-        "25th Hour",
-        "High Fidelity"
-      ]
-    },
-    {
-      "id": 67274,
-      "name": "Dolly Parton",
-      "popularity": 3.8,
-      "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2026-08-25",
-      "deathAge": 80,
-      "profilePath": "/4fnvjhfjqJl2Qx8Rcl1NUd76NIn.jpg",
-      "knownFor": [
-        "The Simpsons",
-        "Gnomeo & Juliet",
-        "Buffy the Vampire Slayer"
-      ]
-    },
-    {
-      "id": 140152,
-      "name": "Pelé",
-      "popularity": 2,
-      "isAlive": false,
-      "birthYear": 1940,
-      "deathDate": "2022-12-29",
-      "deathAge": 82,
-      "profilePath": "/e5M1Jn4ugSmWvuNPuHteDDcb40P.jpg",
-      "knownFor": [
-        "Pelé: Birth of a Legend",
-        "Escape to Victory",
-        "Diego Maradona"
-      ]
-    },
-    {
-      "id": 108661,
-      "name": "Chester Bennington",
-      "popularity": 1.5,
-      "isAlive": false,
-      "birthYear": 1976,
-      "deathDate": "2017-07-20",
-      "deathAge": 41,
-      "profilePath": "/5ZlvGvV6UdJcEgXi6WCjnNGo9f6.jpg",
-      "knownFor": [
-        "The Matrix Reloaded",
-        "Crank",
-        "Saw 3D"
-      ]
-    },
-    {
-      "id": 62036,
-      "name": "Robert Carradine",
-      "popularity": 2.1,
+      "id": 34257,
+      "name": "Anthony Stewart Head",
+      "popularity": 2.9,
       "isAlive": false,
       "birthYear": 1954,
-      "deathDate": "2026-02-23",
-      "deathAge": 71,
-      "profilePath": "/kQrhmy4WKxFP8Zz8H3CUosHrhPp.jpg",
+      "deathDate": "2026-06-01",
+      "deathAge": 72,
+      "profilePath": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg",
       "knownFor": [
-        "Django Unchained",
-        "Mean Streets",
-        "Escape from L.A."
+        "Sweeney Todd: The Demon Barber of Fleet Street",
+        "Percy Jackson: Sea of Monsters",
+        "Ghost Rider: Spirit of Vengeance"
+      ]
+    },
+    {
+      "id": 1533,
+      "name": "Andie MacDowell",
+      "popularity": 5.4,
+      "isAlive": true,
+      "birthYear": 1958,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg",
+      "knownFor": [
+        "Groundhog Day",
+        "Ready or Not",
+        "Four Weddings and a Funeral"
+      ]
+    },
+    {
+      "id": 9560,
+      "name": "Ellen Burstyn",
+      "popularity": 2.8,
+      "isAlive": true,
+      "birthYear": 1932,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg",
+      "knownFor": [
+        "Interstellar",
+        "Requiem for a Dream",
+        "The Exorcist"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "George Lucas",
+      "popularity": 3.2,
+      "isAlive": true,
+      "birthYear": 1944,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg",
+      "knownFor": [
+        "The Godfather",
+        "Star Wars",
+        "Star Wars: The Force Awakens"
+      ]
+    },
+    {
+      "id": 19144,
+      "name": "Shannen Doherty",
+      "popularity": 3.1,
+      "isAlive": false,
+      "birthYear": 1971,
+      "deathDate": "2024-07-13",
+      "deathAge": 53,
+      "profilePath": "/c3EXtxx7x4inTlf1O1GgKD5kYZa.jpg",
+      "knownFor": [
+        "Riverdale",
+        "Naked Gun 33⅓: The Final Insult",
+        "Charmed"
       ]
     }
   ]
