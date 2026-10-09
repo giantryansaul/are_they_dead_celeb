@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-08T05:51:20.048Z",
+  "generatedAt": "2026-10-09T05:56:54.842Z",
   "celebrities": [
     {
-      "id": 34257,
-      "name": "Anthony Stewart Head",
-      "popularity": 2.9,
-      "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2026-06-01",
-      "deathAge": 72,
-      "profilePath": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg",
-      "knownFor": [
-        "Sweeney Todd: The Demon Barber of Fleet Street",
-        "Percy Jackson: Sea of Monsters",
-        "Ghost Rider: Spirit of Vengeance"
-      ]
-    },
-    {
-      "id": 1533,
-      "name": "Andie MacDowell",
-      "popularity": 5.4,
+      "id": 6449,
+      "name": "Warren Beatty",
+      "popularity": 2.2,
       "isAlive": true,
-      "birthYear": 1958,
+      "birthYear": 1937,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg",
+      "profilePath": "/zjKCKPNw5PEInsJl7MJ9BIHlR1.jpg",
       "knownFor": [
-        "Groundhog Day",
-        "Ready or Not",
-        "Four Weddings and a Funeral"
+        "Bonnie and Clyde",
+        "Dick Tracy",
+        "Rules Don't Apply"
       ]
     },
     {
-      "id": 9560,
-      "name": "Ellen Burstyn",
-      "popularity": 2.8,
+      "id": 9274,
+      "name": "James Brolin",
+      "popularity": 2.7,
       "isAlive": true,
-      "birthYear": 1932,
+      "birthYear": 1940,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg",
+      "profilePath": "/j5DCjshDWSv4nMJdWyXWCmRmROU.jpg",
       "knownFor": [
-        "Interstellar",
-        "Requiem for a Dream",
-        "The Exorcist"
+        "Catch Me If You Can",
+        "True Grit",
+        "Law & Order: Special Victims Unit"
       ]
     },
     {
-      "id": 1,
-      "name": "George Lucas",
-      "popularity": 3.2,
+      "id": 16431,
+      "name": "Sam Elliott",
+      "popularity": 4.4,
       "isAlive": true,
       "birthYear": 1944,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg",
+      "profilePath": "/zE1fpXlIUo7fcujlVlGvHdDiCv6.jpg",
       "knownFor": [
-        "The Godfather",
-        "Star Wars",
-        "Star Wars: The Force Awakens"
+        "The Big Lebowski",
+        "A Star Is Born",
+        "Ghost Rider"
       ]
     },
     {
-      "id": 19144,
-      "name": "Shannen Doherty",
-      "popularity": 3.1,
-      "isAlive": false,
-      "birthYear": 1971,
-      "deathDate": "2024-07-13",
-      "deathAge": 53,
-      "profilePath": "/c3EXtxx7x4inTlf1O1GgKD5kYZa.jpg",
+      "id": 51962,
+      "name": "Bill Cosby",
+      "popularity": 1.4,
+      "isAlive": true,
+      "birthYear": 1937,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/oN2wqTSYNrMliATEijuBYV4vi9z.jpg",
       "knownFor": [
-        "Riverdale",
-        "Naked Gun 33⅓: The Final Insult",
-        "Charmed"
+        "Men of Honor",
+        "Malcolm X",
+        "Jack"
+      ]
+    },
+    {
+      "id": 3085,
+      "name": "James Caan",
+      "popularity": 3.9,
+      "isAlive": false,
+      "birthYear": 1940,
+      "deathDate": "2022-07-06",
+      "deathAge": 82,
+      "profilePath": "/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg",
+      "knownFor": [
+        "The Godfather",
+        "The Godfather Part II",
+        "The Simpsons"
       ]
     }
   ]
