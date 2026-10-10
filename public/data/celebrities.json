@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-09T05:56:54.842Z",
+  "generatedAt": "2026-10-10T05:39:35.075Z",
   "celebrities": [
     {
-      "id": 6449,
-      "name": "Warren Beatty",
-      "popularity": 2.2,
+      "id": 380,
+      "name": "Robert De Niro",
+      "popularity": 7.5,
       "isAlive": true,
-      "birthYear": 1937,
+      "birthYear": 1943,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/zjKCKPNw5PEInsJl7MJ9BIHlR1.jpg",
+      "profilePath": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
       "knownFor": [
-        "Bonnie and Clyde",
-        "Dick Tracy",
-        "Rules Don't Apply"
+        "Joker",
+        "Bohemian Rhapsody",
+        "GoodFellas"
       ]
     },
     {
-      "id": 9274,
-      "name": "James Brolin",
-      "popularity": 2.7,
+      "id": 77260,
+      "name": "Paul Anka",
+      "popularity": 1.9,
       "isAlive": true,
-      "birthYear": 1940,
+      "birthYear": 1941,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/j5DCjshDWSv4nMJdWyXWCmRmROU.jpg",
+      "profilePath": "/8Qx0tMaYEPAWkUOwOnsnm4lZad5.jpg",
       "knownFor": [
-        "Catch Me If You Can",
-        "True Grit",
+        "The Simpsons",
+        "That '70s Show",
+        "Gilmore Girls"
+      ]
+    },
+    {
+      "id": 14837,
+      "name": "Carol Burnett",
+      "popularity": 1.8,
+      "isAlive": true,
+      "birthYear": 1933,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/cxIvKChBGjmjsaLLX8CGivPRhZi.jpg",
+      "knownFor": [
+        "Toy Story 4",
+        "Better Call Saul",
         "Law & Order: Special Victims Unit"
       ]
     },
     {
-      "id": 16431,
-      "name": "Sam Elliott",
-      "popularity": 4.4,
-      "isAlive": true,
-      "birthYear": 1944,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/zE1fpXlIUo7fcujlVlGvHdDiCv6.jpg",
-      "knownFor": [
-        "The Big Lebowski",
-        "A Star Is Born",
-        "Ghost Rider"
-      ]
-    },
-    {
-      "id": 51962,
-      "name": "Bill Cosby",
-      "popularity": 1.4,
-      "isAlive": true,
-      "birthYear": 1937,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/oN2wqTSYNrMliATEijuBYV4vi9z.jpg",
-      "knownFor": [
-        "Men of Honor",
-        "Malcolm X",
-        "Jack"
-      ]
-    },
-    {
-      "id": 3085,
-      "name": "James Caan",
-      "popularity": 3.9,
+      "id": 10823,
+      "name": "Kris Kristofferson",
+      "popularity": 1.5,
       "isAlive": false,
-      "birthYear": 1940,
-      "deathDate": "2022-07-06",
-      "deathAge": 82,
-      "profilePath": "/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg",
+      "birthYear": 1936,
+      "deathDate": "2024-09-28",
+      "deathAge": 88,
+      "profilePath": "/efD2Uu8QYBN7ZWSFa79mm3Pkk4L.jpg",
       "knownFor": [
-        "The Godfather",
-        "The Godfather Part II",
-        "The Simpsons"
+        "Taxi Driver",
+        "Blade",
+        "Blade II"
+      ]
+    },
+    {
+      "id": 6065,
+      "name": "Dennis Quaid",
+      "popularity": 5.4,
+      "isAlive": true,
+      "birthYear": 1954,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+      "knownFor": [
+        "The Day After Tomorrow",
+        "The Substance",
+        "G.I. Joe: The Rise of Cobra"
       ]
     }
   ]
