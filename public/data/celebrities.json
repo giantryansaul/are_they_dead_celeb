@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-10T05:39:35.075Z",
+  "generatedAt": "2026-10-11T05:34:51.538Z",
   "celebrities": [
     {
-      "id": 380,
-      "name": "Robert De Niro",
-      "popularity": 7.5,
-      "isAlive": true,
-      "birthYear": 1943,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
-      "knownFor": [
-        "Joker",
-        "Bohemian Rhapsody",
-        "GoodFellas"
-      ]
-    },
-    {
-      "id": 77260,
-      "name": "Paul Anka",
-      "popularity": 1.9,
-      "isAlive": true,
-      "birthYear": 1941,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/8Qx0tMaYEPAWkUOwOnsnm4lZad5.jpg",
-      "knownFor": [
-        "The Simpsons",
-        "That '70s Show",
-        "Gilmore Girls"
-      ]
-    },
-    {
-      "id": 14837,
-      "name": "Carol Burnett",
-      "popularity": 1.8,
-      "isAlive": true,
-      "birthYear": 1933,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/cxIvKChBGjmjsaLLX8CGivPRhZi.jpg",
-      "knownFor": [
-        "Toy Story 4",
-        "Better Call Saul",
-        "Law & Order: Special Victims Unit"
-      ]
-    },
-    {
-      "id": 10823,
-      "name": "Kris Kristofferson",
-      "popularity": 1.5,
+      "id": 3087,
+      "name": "Robert Duvall",
+      "popularity": 3.2,
       "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "2024-09-28",
-      "deathAge": 88,
-      "profilePath": "/efD2Uu8QYBN7ZWSFa79mm3Pkk4L.jpg",
+      "birthYear": 1931,
+      "deathDate": "2026-02-15",
+      "deathAge": 95,
+      "profilePath": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg",
       "knownFor": [
-        "Taxi Driver",
-        "Blade",
-        "Blade II"
+        "The Godfather",
+        "The Godfather Part II",
+        "Apocalypse Now"
       ]
     },
     {
-      "id": 6065,
-      "name": "Dennis Quaid",
-      "popularity": 5.4,
+      "id": 516,
+      "name": "Annette Bening",
+      "popularity": 3.8,
       "isAlive": true,
-      "birthYear": 1954,
+      "birthYear": 1958,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+      "profilePath": "/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg",
       "knownFor": [
-        "The Day After Tomorrow",
-        "The Substance",
-        "G.I. Joe: The Rise of Cobra"
+        "Captain Marvel",
+        "American Beauty",
+        "Mars Attacks!"
+      ]
+    },
+    {
+      "id": 13472,
+      "name": "Tim Curry",
+      "popularity": 4.6,
+      "isAlive": false,
+      "birthYear": 1946,
+      "deathDate": "2026-08-25",
+      "deathAge": 80,
+      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
+      "knownFor": [
+        "Home Alone 2: Lost in New York",
+        "Scary Movie 2",
+        "Charlie's Angels"
+      ]
+    },
+    {
+      "id": 7470,
+      "name": "Meat Loaf",
+      "popularity": 1.6,
+      "isAlive": false,
+      "birthYear": 1947,
+      "deathDate": "2022-01-20",
+      "deathAge": 74,
+      "profilePath": "/1zkohpaG3my4qQAZGVgzgPuXwZ6.jpg",
+      "knownFor": [
+        "Fight Club",
+        "House",
+        "Sausage Party"
+      ]
+    },
+    {
+      "id": 27319,
+      "name": "Christoph Waltz",
+      "popularity": 6.5,
+      "isAlive": true,
+      "birthYear": 1956,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg",
+      "knownFor": [
+        "Django Unchained",
+        "Inglourious Basterds",
+        "Spectre"
       ]
     }
   ]
