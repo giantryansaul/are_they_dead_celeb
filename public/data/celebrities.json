@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-12T05:45:02.199Z",
+  "generatedAt": "2026-10-13T06:39:51.513Z",
   "celebrities": [
     {
-      "id": 4090,
-      "name": "Shirley MacLaine",
-      "popularity": 3.5,
-      "isAlive": true,
-      "birthYear": 1934,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/vU4QsP3GRj03S8Z92vrZfkdb7rO.jpg",
+      "id": 6587,
+      "name": "Diane Ladd",
+      "popularity": 2,
+      "isAlive": false,
+      "birthYear": 1935,
+      "deathDate": "2025-11-03",
+      "deathAge": 89,
+      "profilePath": "/l09hDywACsXFkmSy7d8V2YJiRNW.jpg",
       "knownFor": [
-        "The Secret Life of Walter Mitty",
-        "Valentine's Day",
-        "The Apartment"
+        "Chinatown",
+        "Joy",
+        "Young Sheldon"
       ]
     },
     {
-      "id": 21037,
-      "name": "Prince",
-      "popularity": 1.3,
+      "id": 3027,
+      "name": "Stephen King",
+      "popularity": 2.7,
+      "isAlive": true,
+      "birthYear": 1947,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/7r5nEzNanuEhmxtpsKE1uCBU5Jd.jpg",
+      "knownFor": [
+        "The Shawshank Redemption",
+        "It",
+        "The Green Mile"
+      ]
+    },
+    {
+      "id": 1640,
+      "name": "Stellan Skarsgård",
+      "popularity": 3.3,
+      "isAlive": true,
+      "birthYear": 1951,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg",
+      "knownFor": [
+        "The Avengers",
+        "Avengers: Age of Ultron",
+        "Thor"
+      ]
+    },
+    {
+      "id": 3092,
+      "name": "Diane Keaton",
+      "popularity": 2.3,
       "isAlive": false,
+      "birthYear": 1946,
+      "deathDate": "2025-10-11",
+      "deathAge": 79,
+      "profilePath": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg",
+      "knownFor": [
+        "The Godfather",
+        "The Godfather Part II",
+        "Finding Dory"
+      ]
+    },
+    {
+      "id": 1160,
+      "name": "Michelle Pfeiffer",
+      "popularity": 4.7,
+      "isAlive": true,
       "birthYear": 1958,
-      "deathDate": "2016-04-21",
-      "deathAge": 57,
-      "profilePath": "/5HPqjSXEQukk6ta8v1i9mPHUeqk.jpg",
-      "knownFor": [
-        "Batman",
-        "BlacKkKlansman",
-        "Happy Feet"
-      ]
-    },
-    {
-      "id": 19210,
-      "name": "James Van Der Beek",
-      "popularity": 1.8,
-      "isAlive": false,
-      "birthYear": 1977,
-      "deathDate": "2026-02-11",
-      "deathAge": 48,
-      "profilePath": "/romoF6aNi4v9UcUqRSElfeDvBuJ.jpg",
-      "knownFor": [
-        "Scary Movie",
-        "How I Met Your Mother",
-        "Law & Order: Special Victims Unit"
-      ]
-    },
-    {
-      "id": 1733,
-      "name": "Nick Nolte",
-      "popularity": 3.2,
-      "isAlive": true,
-      "birthYear": 1941,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg",
+      "profilePath": "/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg",
       "knownFor": [
-        "The Mandalorian",
-        "Tropic Thunder",
-        "Noah"
-      ]
-    },
-    {
-      "id": 19540,
-      "name": "Peter Cullen",
-      "popularity": 3.2,
-      "isAlive": false,
-      "birthYear": 1941,
-      "deathDate": "2026-08-26",
-      "deathAge": 85,
-      "profilePath": "/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg",
-      "knownFor": [
-        "Transformers",
-        "Predator",
-        "Transformers: Revenge of the Fallen"
+        "Avengers: Endgame",
+        "Ant-Man and the Wasp",
+        "Scarface"
       ]
     }
   ]
