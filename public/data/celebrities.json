@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-13T06:39:51.513Z",
+  "generatedAt": "2026-10-14T04:42:34.786Z",
   "celebrities": [
     {
-      "id": 6587,
-      "name": "Diane Ladd",
-      "popularity": 2,
-      "isAlive": false,
-      "birthYear": 1935,
-      "deathDate": "2025-11-03",
-      "deathAge": 89,
-      "profilePath": "/l09hDywACsXFkmSy7d8V2YJiRNW.jpg",
+      "id": 1428,
+      "name": "Mick Jagger",
+      "popularity": 1.8,
+      "isAlive": true,
+      "birthYear": 1943,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/wDanhh7Z94tI0kdWJ1YFZK1UV5O.jpg",
       "knownFor": [
-        "Chinatown",
-        "Joy",
-        "Young Sheldon"
+        "The Simpsons",
+        "The Bank Job",
+        "Slow Horses"
       ]
     },
     {
-      "id": 3027,
-      "name": "Stephen King",
-      "popularity": 2.7,
-      "isAlive": true,
+      "id": 51576,
+      "name": "Chuck Norris",
+      "popularity": 2.5,
+      "isAlive": false,
+      "birthYear": 1940,
+      "deathDate": "2026-03-19",
+      "deathAge": 86,
+      "profilePath": "/m3uLikdhi9qObRvGVHsKX5H93lR.jpg",
+      "knownFor": [
+        "The Expendables 2",
+        "DodgeBall: A True Underdog Story",
+        "Hawaii Five-0"
+      ]
+    },
+    {
+      "id": 4783,
+      "name": "Sam Neill",
+      "popularity": 6.2,
+      "isAlive": false,
       "birthYear": 1947,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/7r5nEzNanuEhmxtpsKE1uCBU5Jd.jpg",
+      "deathDate": "2026-07-13",
+      "deathAge": 78,
+      "profilePath": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
       "knownFor": [
-        "The Shawshank Redemption",
-        "It",
-        "The Green Mile"
+        "Thor: Ragnarok",
+        "Jurassic Park",
+        "Rick and Morty"
       ]
     },
     {
-      "id": 1640,
-      "name": "Stellan Skarsgård",
-      "popularity": 3.3,
-      "isAlive": true,
-      "birthYear": 1951,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg",
-      "knownFor": [
-        "The Avengers",
-        "Avengers: Age of Ultron",
-        "Thor"
-      ]
-    },
-    {
-      "id": 3092,
-      "name": "Diane Keaton",
-      "popularity": 2.3,
+      "id": 49961,
+      "name": "Michelle Trachtenberg",
+      "popularity": 2.7,
       "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2025-10-11",
-      "deathAge": 79,
-      "profilePath": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg",
+      "birthYear": 1985,
+      "deathDate": "2025-02-26",
+      "deathAge": 39,
+      "profilePath": "/8eb8ts6E7gM5SgEFn8VcXfGc39r.jpg",
       "knownFor": [
-        "The Godfather",
-        "The Godfather Part II",
-        "Finding Dory"
+        "House",
+        "17 Again",
+        "Criminal Minds"
       ]
     },
     {
-      "id": 1160,
-      "name": "Michelle Pfeiffer",
-      "popularity": 4.7,
+      "id": 1461,
+      "name": "George Clooney",
+      "popularity": 3.9,
       "isAlive": true,
-      "birthYear": 1958,
+      "birthYear": 1961,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg",
+      "profilePath": "/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg",
       "knownFor": [
-        "Avengers: Endgame",
-        "Ant-Man and the Wasp",
-        "Scarface"
+        "Gravity",
+        "Ocean's Eleven",
+        "Friends"
       ]
     }
   ]
