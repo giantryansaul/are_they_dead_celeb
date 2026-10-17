@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-16T04:19:55.863Z",
+  "generatedAt": "2026-10-17T04:11:50.761Z",
   "celebrities": [
     {
-      "id": 11164,
-      "name": "Kelly Preston",
-      "popularity": 3.1,
+      "id": 1523704,
+      "name": "Pope Francis",
+      "popularity": 0.6,
       "isAlive": false,
-      "birthYear": 1962,
-      "deathDate": "2020-07-12",
-      "deathAge": 57,
-      "profilePath": "/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg",
+      "birthYear": 1936,
+      "deathDate": "2025-04-21",
+      "deathAge": 88,
+      "profilePath": "/uHnuMXrJmAlUqu4w00CQV29FOR0.jpg",
       "knownFor": [
-        "From Dusk Till Dawn",
-        "Jerry Maguire",
-        "The Last Song"
+        "The Two Popes",
+        "Elle",
+        "The Vatican Tapes"
       ]
     },
     {
-      "id": 4004,
-      "name": "Jeffrey Jones",
-      "popularity": 1.8,
+      "id": 15737,
+      "name": "Helen McCrory",
+      "popularity": 2.4,
+      "isAlive": false,
+      "birthYear": 1968,
+      "deathDate": "2021-04-16",
+      "deathAge": 52,
+      "profilePath": "/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg",
+      "knownFor": [
+        "Harry Potter and the Deathly Hallows: Part 2",
+        "Harry Potter and the Half-Blood Prince",
+        "Harry Potter and the Deathly Hallows: Part 1"
+      ]
+    },
+    {
+      "id": 5602,
+      "name": "David Lynch",
+      "popularity": 3.2,
+      "isAlive": false,
+      "birthYear": 1946,
+      "deathDate": "2025-01-16",
+      "deathAge": 78,
+      "profilePath": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+      "knownFor": [
+        "Mulholland Drive",
+        "Family Guy",
+        "The Elephant Man"
+      ]
+    },
+    {
+      "id": 10669,
+      "name": "Timothy Dalton",
+      "popularity": 2.8,
       "isAlive": true,
       "birthYear": 1946,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/2vlQDwmMlAAEKqdFIey0liR0T1E.jpg",
+      "profilePath": "/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg",
       "knownFor": [
-        "Beetlejuice",
-        "Sleepy Hollow",
-        "The Devil's Advocate"
+        "Toy Story 3",
+        "Toy Story 4",
+        "Hot Fuzz"
       ]
     },
     {
-      "id": 13637,
-      "name": "Joan Collins",
-      "popularity": 2.7,
+      "id": 73931,
+      "name": "Bette Midler",
+      "popularity": 2.2,
       "isAlive": true,
-      "birthYear": 1933,
+      "birthYear": 1945,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jmXqOnp2xBDl2EMuU5Rj39uHzUQ.jpg",
+      "profilePath": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg",
       "knownFor": [
-        "Hawaii Five-0",
-        "Star Trek",
-        "The Nanny"
-      ]
-    },
-    {
-      "id": 11477,
-      "name": "Ray Liotta",
-      "popularity": 4.6,
-      "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2022-05-26",
-      "deathAge": 67,
-      "profilePath": "/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg",
-      "knownFor": [
-        "GoodFellas",
         "The Simpsons",
-        "Marriage Story"
-      ]
-    },
-    {
-      "id": 192,
-      "name": "Morgan Freeman",
-      "popularity": 9.6,
-      "isAlive": true,
-      "birthYear": 1937,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg",
-      "knownFor": [
-        "The Dark Knight",
-        "The Shawshank Redemption",
-        "The Dark Knight Rises"
+        "What Women Want",
+        "Hocus Pocus"
       ]
     }
   ]
