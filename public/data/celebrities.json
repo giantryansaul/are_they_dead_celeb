@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-17T04:11:50.761Z",
+  "generatedAt": "2026-10-18T04:18:23.732Z",
   "celebrities": [
     {
-      "id": 1523704,
-      "name": "Pope Francis",
-      "popularity": 0.6,
-      "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "2025-04-21",
-      "deathAge": 88,
-      "profilePath": "/uHnuMXrJmAlUqu4w00CQV29FOR0.jpg",
-      "knownFor": [
-        "The Two Popes",
-        "Elle",
-        "The Vatican Tapes"
-      ]
-    },
-    {
-      "id": 15737,
-      "name": "Helen McCrory",
-      "popularity": 2.4,
-      "isAlive": false,
-      "birthYear": 1968,
-      "deathDate": "2021-04-16",
-      "deathAge": 52,
-      "profilePath": "/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg",
-      "knownFor": [
-        "Harry Potter and the Deathly Hallows: Part 2",
-        "Harry Potter and the Half-Blood Prince",
-        "Harry Potter and the Deathly Hallows: Part 1"
-      ]
-    },
-    {
-      "id": 5602,
-      "name": "David Lynch",
-      "popularity": 3.2,
-      "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2025-01-16",
-      "deathAge": 78,
-      "profilePath": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
-      "knownFor": [
-        "Mulholland Drive",
-        "Family Guy",
-        "The Elephant Man"
-      ]
-    },
-    {
-      "id": 10669,
-      "name": "Timothy Dalton",
-      "popularity": 2.8,
-      "isAlive": true,
-      "birthYear": 1946,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg",
-      "knownFor": [
-        "Toy Story 3",
-        "Toy Story 4",
-        "Hot Fuzz"
-      ]
-    },
-    {
-      "id": 73931,
-      "name": "Bette Midler",
+      "id": 11803,
+      "name": "Peter Greene",
       "popularity": 2.2,
+      "isAlive": false,
+      "birthYear": 1959,
+      "deathDate": "2025-12-12",
+      "deathAge": 66,
+      "profilePath": "/n49XdJsMwNRdc4qT9XVAGb3fIQW.jpg",
+      "knownFor": [
+        "Pulp Fiction",
+        "The Usual Suspects",
+        "The Mask"
+      ]
+    },
+    {
+      "id": 5576,
+      "name": "Val Kilmer",
+      "popularity": 3.5,
+      "isAlive": false,
+      "birthYear": 1959,
+      "deathDate": "2025-04-01",
+      "deathAge": 65,
+      "profilePath": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+      "knownFor": [
+        "Top Gun: Maverick",
+        "Top Gun",
+        "Heat"
+      ]
+    },
+    {
+      "id": 33663,
+      "name": "Donald Trump",
+      "popularity": 2.9,
       "isAlive": true,
-      "birthYear": 1945,
+      "birthYear": 1946,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg",
+      "profilePath": "/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg",
       "knownFor": [
-        "The Simpsons",
-        "What Women Want",
-        "Hocus Pocus"
+        "Home Alone 2: Lost in New York",
+        "BlacKkKlansman",
+        "American Horror Story"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Carrie Fisher",
+      "popularity": 3,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2016-12-27",
+      "deathAge": 60,
+      "profilePath": "/of4yHmryKPy92eeskUQ7MRmjC3l.jpg",
+      "knownFor": [
+        "Star Wars",
+        "Star Wars: The Force Awakens",
+        "The Empire Strikes Back"
+      ]
+    },
+    {
+      "id": 3783,
+      "name": "Brigitte Bardot",
+      "popularity": 1.7,
+      "isAlive": false,
+      "birthYear": 1934,
+      "deathDate": "2025-12-28",
+      "deathAge": 91,
+      "profilePath": "/vqYOnEZyA3AO7sx3SxIFWYrggQJ.jpg",
+      "knownFor": [
+        "The Twelve Tasks of Asterix",
+        "Contempt",
+        "Masculin Féminin"
       ]
     }
   ]
