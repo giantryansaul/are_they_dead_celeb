@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-18T04:18:23.732Z",
+  "generatedAt": "2026-10-19T04:27:50.092Z",
   "celebrities": [
     {
-      "id": 11803,
-      "name": "Peter Greene",
-      "popularity": 2.2,
-      "isAlive": false,
-      "birthYear": 1959,
-      "deathDate": "2025-12-12",
-      "deathAge": 66,
-      "profilePath": "/n49XdJsMwNRdc4qT9XVAGb3fIQW.jpg",
-      "knownFor": [
-        "Pulp Fiction",
-        "The Usual Suspects",
-        "The Mask"
-      ]
-    },
-    {
-      "id": 5576,
-      "name": "Val Kilmer",
+      "id": 10223,
+      "name": "Jane Seymour",
       "popularity": 3.5,
-      "isAlive": false,
-      "birthYear": 1959,
-      "deathDate": "2025-04-01",
-      "deathAge": 65,
-      "profilePath": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+      "isAlive": true,
+      "birthYear": 1951,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/4crZXhSXSeAiwZDZyjfQ9dMgbj0.jpg",
       "knownFor": [
-        "Top Gun: Maverick",
-        "Top Gun",
-        "Heat"
+        "How I Met Your Mother",
+        "Wedding Crashers",
+        "Smallville"
       ]
     },
     {
-      "id": 33663,
-      "name": "Donald Trump",
-      "popularity": 2.9,
+      "id": 5296,
+      "name": "James Ransone",
+      "popularity": 2.4,
+      "isAlive": false,
+      "birthYear": 1979,
+      "deathDate": "2025-12-19",
+      "deathAge": 46,
+      "profilePath": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
+      "knownFor": [
+        "It Chapter Two",
+        "Inside Man",
+        "Sinister"
+      ]
+    },
+    {
+      "id": 8892,
+      "name": "Olivia Newton-John",
+      "popularity": 2.1,
+      "isAlive": false,
+      "birthYear": 1948,
+      "deathDate": "2022-08-08",
+      "deathAge": 73,
+      "profilePath": "/pPgHm4ToBirjWcuOTrEMxS82stP.jpg",
+      "knownFor": [
+        "Grease",
+        "Glee",
+        "Saturday Night Live"
+      ]
+    },
+    {
+      "id": 16483,
+      "name": "Sylvester Stallone",
+      "popularity": 11.4,
       "isAlive": true,
       "birthYear": 1946,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg",
+      "profilePath": "/gn3pDWthJqR0VDYGViGD3048og7.jpg",
       "knownFor": [
-        "Home Alone 2: Lost in New York",
-        "BlacKkKlansman",
-        "American Horror Story"
+        "Guardians of the Galaxy Vol. 2",
+        "Men in Black",
+        "The Suicide Squad"
       ]
     },
     {
-      "id": 4,
-      "name": "Carrie Fisher",
-      "popularity": 3,
-      "isAlive": false,
-      "birthYear": 1956,
-      "deathDate": "2016-12-27",
-      "deathAge": 60,
-      "profilePath": "/of4yHmryKPy92eeskUQ7MRmjC3l.jpg",
+      "id": 21731,
+      "name": "Michael McKean",
+      "popularity": 3.5,
+      "isAlive": true,
+      "birthYear": 1947,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg",
       "knownFor": [
-        "Star Wars",
-        "Star Wars: The Force Awakens",
-        "The Empire Strikes Back"
-      ]
-    },
-    {
-      "id": 3783,
-      "name": "Brigitte Bardot",
-      "popularity": 1.7,
-      "isAlive": false,
-      "birthYear": 1934,
-      "deathDate": "2025-12-28",
-      "deathAge": 91,
-      "profilePath": "/vqYOnEZyA3AO7sx3SxIFWYrggQJ.jpg",
-      "knownFor": [
-        "The Twelve Tasks of Asterix",
-        "Contempt",
-        "Masculin Féminin"
+        "Jaws",
+        "The Simpsons",
+        "Friends"
       ]
     }
   ]
