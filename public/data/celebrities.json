@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-19T04:27:50.092Z",
+  "generatedAt": "2026-10-20T04:37:50.492Z",
   "celebrities": [
     {
-      "id": 10223,
-      "name": "Jane Seymour",
-      "popularity": 3.5,
+      "id": 589,
+      "name": "Daryl Hannah",
+      "popularity": 4.1,
       "isAlive": true,
-      "birthYear": 1951,
+      "birthYear": 1960,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/4crZXhSXSeAiwZDZyjfQ9dMgbj0.jpg",
+      "profilePath": "/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg",
       "knownFor": [
-        "How I Met Your Mother",
-        "Wedding Crashers",
-        "Smallville"
+        "Kill Bill: Vol. 1",
+        "Kill Bill: Vol. 2",
+        "Blade Runner"
       ]
     },
     {
-      "id": 5296,
-      "name": "James Ransone",
-      "popularity": 2.4,
+      "id": 10978,
+      "name": "Maggie Smith",
+      "popularity": 3.6,
       "isAlive": false,
-      "birthYear": 1979,
-      "deathDate": "2025-12-19",
-      "deathAge": 46,
-      "profilePath": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
+      "birthYear": 1934,
+      "deathDate": "2024-09-27",
+      "deathAge": 89,
+      "profilePath": "/hjoWy2WB7RayROumynH3wuCa9aL.jpg",
       "knownFor": [
-        "It Chapter Two",
-        "Inside Man",
-        "Sinister"
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Prisoner of Azkaban"
       ]
     },
     {
-      "id": 8892,
-      "name": "Olivia Newton-John",
-      "popularity": 2.1,
+      "id": 72450,
+      "name": "Bob Saget",
+      "popularity": 1.9,
       "isAlive": false,
-      "birthYear": 1948,
-      "deathDate": "2022-08-08",
-      "deathAge": 73,
-      "profilePath": "/pPgHm4ToBirjWcuOTrEMxS82stP.jpg",
+      "birthYear": 1956,
+      "deathDate": "2022-01-09",
+      "deathAge": 65,
+      "profilePath": "/yxTuHygLUF8h2927bP3dYDEYwwP.jpg",
       "knownFor": [
-        "Grease",
-        "Glee",
-        "Saturday Night Live"
+        "Madagascar",
+        "Law & Order: Special Victims Unit",
+        "Shameless"
       ]
     },
     {
-      "id": 16483,
-      "name": "Sylvester Stallone",
-      "popularity": 11.4,
+      "id": 3896,
+      "name": "Liam Neeson",
+      "popularity": 8.5,
+      "isAlive": true,
+      "birthYear": 1952,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg",
+      "knownFor": [
+        "The Dark Knight Rises",
+        "Batman Begins",
+        "Schindler's List"
+      ]
+    },
+    {
+      "id": 2176,
+      "name": "Tommy Lee Jones",
+      "popularity": 5.5,
       "isAlive": true,
       "birthYear": 1946,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+      "profilePath": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg",
       "knownFor": [
-        "Guardians of the Galaxy Vol. 2",
+        "Captain America: The First Avenger",
         "Men in Black",
-        "The Suicide Squad"
-      ]
-    },
-    {
-      "id": 21731,
-      "name": "Michael McKean",
-      "popularity": 3.5,
-      "isAlive": true,
-      "birthYear": 1947,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg",
-      "knownFor": [
-        "Jaws",
-        "The Simpsons",
-        "Friends"
+        "No Country for Old Men"
       ]
     }
   ]
