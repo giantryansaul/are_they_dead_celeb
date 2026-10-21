@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-20T04:37:50.492Z",
+  "generatedAt": "2026-10-21T04:30:53.075Z",
   "celebrities": [
     {
-      "id": 589,
-      "name": "Daryl Hannah",
-      "popularity": 4.1,
+      "id": 15735,
+      "name": "Helen Mirren",
+      "popularity": 5.9,
       "isAlive": true,
-      "birthYear": 1960,
+      "birthYear": 1945,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg",
+      "profilePath": "/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg",
       "knownFor": [
-        "Kill Bill: Vol. 1",
-        "Kill Bill: Vol. 2",
-        "Blade Runner"
+        "Barbie",
+        "Monsters University",
+        "The Fate of the Furious"
       ]
     },
     {
-      "id": 10978,
-      "name": "Maggie Smith",
-      "popularity": 3.6,
+      "id": 75041,
+      "name": "Cameron Boyce",
+      "popularity": 3,
       "isAlive": false,
-      "birthYear": 1934,
-      "deathDate": "2024-09-27",
-      "deathAge": 89,
-      "profilePath": "/hjoWy2WB7RayROumynH3wuCa9aL.jpg",
+      "birthYear": 1999,
+      "deathDate": "2019-07-06",
+      "deathAge": 20,
+      "profilePath": "/dtONrW7kQ9DFyduL0W1YPawkGYs.jpg",
       "knownFor": [
-        "Harry Potter and the Philosopher's Stone",
-        "Harry Potter and the Chamber of Secrets",
-        "Harry Potter and the Prisoner of Azkaban"
+        "Grown Ups",
+        "Grown Ups 2",
+        "Eagle Eye"
       ]
     },
     {
-      "id": 72450,
-      "name": "Bob Saget",
-      "popularity": 1.9,
+      "id": 18999,
+      "name": "J.K. Simmons",
+      "popularity": 8.1,
+      "isAlive": true,
+      "birthYear": 1955,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
+      "knownFor": [
+        "Spider-Man: No Way Home",
+        "Spider-Man",
+        "Zootopia"
+      ]
+    },
+    {
+      "id": 1104,
+      "name": "Jesse Ventura",
+      "popularity": 1.8,
+      "isAlive": true,
+      "birthYear": 1951,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/j1OaAOYJbelxGrFMzlwz6wfGaXA.jpg",
+      "knownFor": [
+        "Predator",
+        "Batman & Robin",
+        "The Naked Gun: From the Files of Police Squad!"
+      ]
+    },
+    {
+      "id": 12951,
+      "name": "O. J. Simpson",
+      "popularity": 1.3,
       "isAlive": false,
-      "birthYear": 1956,
-      "deathDate": "2022-01-09",
-      "deathAge": 65,
-      "profilePath": "/yxTuHygLUF8h2927bP3dYDEYwwP.jpg",
+      "birthYear": 1947,
+      "deathDate": "2024-04-10",
+      "deathAge": 76,
+      "profilePath": "/3q6XMf1L5zCApoUsiAMoFS9ADXY.jpg",
       "knownFor": [
-        "Madagascar",
-        "Law & Order: Special Victims Unit",
-        "Shameless"
-      ]
-    },
-    {
-      "id": 3896,
-      "name": "Liam Neeson",
-      "popularity": 8.5,
-      "isAlive": true,
-      "birthYear": 1952,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg",
-      "knownFor": [
-        "The Dark Knight Rises",
-        "Batman Begins",
-        "Schindler's List"
-      ]
-    },
-    {
-      "id": 2176,
-      "name": "Tommy Lee Jones",
-      "popularity": 5.5,
-      "isAlive": true,
-      "birthYear": 1946,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg",
-      "knownFor": [
-        "Captain America: The First Avenger",
-        "Men in Black",
-        "No Country for Old Men"
+        "The Naked Gun: From the Files of Police Squad!",
+        "The Naked Gun 2½: The Smell of Fear",
+        "Naked Gun 33⅓: The Final Insult"
       ]
     }
   ]
