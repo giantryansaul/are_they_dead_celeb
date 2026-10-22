@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-21T04:30:53.075Z",
+  "generatedAt": "2026-10-22T04:29:25.742Z",
   "celebrities": [
     {
-      "id": 15735,
-      "name": "Helen Mirren",
-      "popularity": 5.9,
+      "id": 1748,
+      "name": "William Shatner",
+      "popularity": 3.3,
       "isAlive": true,
-      "birthYear": 1945,
+      "birthYear": 1931,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg",
+      "profilePath": "/puzpe91Lh0CzdRKg9iYilQsjoYk.jpg",
       "knownFor": [
-        "Barbie",
-        "Monsters University",
-        "The Fate of the Furious"
+        "The Big Bang Theory",
+        "Over the Hedge",
+        "Miss Congeniality"
       ]
     },
     {
-      "id": 75041,
-      "name": "Cameron Boyce",
-      "popularity": 3,
+      "id": 8256,
+      "name": "Anne Heche",
+      "popularity": 3.4,
       "isAlive": false,
-      "birthYear": 1999,
-      "deathDate": "2019-07-06",
-      "deathAge": 20,
-      "profilePath": "/dtONrW7kQ9DFyduL0W1YPawkGYs.jpg",
+      "birthYear": 1969,
+      "deathDate": "2022-08-11",
+      "deathAge": 53,
+      "profilePath": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg",
       "knownFor": [
-        "Grown Ups",
-        "Grown Ups 2",
-        "Eagle Eye"
+        "Donnie Brasco",
+        "The Other Guys",
+        "I Know What You Did Last Summer"
       ]
     },
     {
-      "id": 18999,
-      "name": "J.K. Simmons",
-      "popularity": 8.1,
-      "isAlive": true,
-      "birthYear": 1955,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
-      "knownFor": [
-        "Spider-Man: No Way Home",
-        "Spider-Man",
-        "Zootopia"
-      ]
-    },
-    {
-      "id": 1104,
-      "name": "Jesse Ventura",
-      "popularity": 1.8,
+      "id": 6856,
+      "name": "Kurt Russell",
+      "popularity": 6.4,
       "isAlive": true,
       "birthYear": 1951,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/j1OaAOYJbelxGrFMzlwz6wfGaXA.jpg",
+      "profilePath": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg",
       "knownFor": [
-        "Predator",
-        "Batman & Robin",
-        "The Naked Gun: From the Files of Police Squad!"
+        "Forrest Gump",
+        "Django Unchained",
+        "Guardians of the Galaxy Vol. 2"
       ]
     },
     {
-      "id": 12951,
-      "name": "O. J. Simpson",
-      "popularity": 1.3,
+      "id": 129101,
+      "name": "Lance Reddick",
+      "popularity": 4,
       "isAlive": false,
-      "birthYear": 1947,
-      "deathDate": "2024-04-10",
-      "deathAge": 76,
-      "profilePath": "/3q6XMf1L5zCApoUsiAMoFS9ADXY.jpg",
+      "birthYear": 1962,
+      "deathDate": "2023-03-17",
+      "deathAge": 60,
+      "profilePath": "/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg",
       "knownFor": [
-        "The Naked Gun: From the Files of Police Squad!",
-        "The Naked Gun 2½: The Smell of Fear",
-        "Naked Gun 33⅓: The Final Insult"
+        "John Wick",
+        "John Wick: Chapter 2",
+        "John Wick: Chapter 3 - Parabellum"
+      ]
+    },
+    {
+      "id": 4517,
+      "name": "Joe Pesci",
+      "popularity": 6.4,
+      "isAlive": true,
+      "birthYear": 1943,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg",
+      "knownFor": [
+        "GoodFellas",
+        "Home Alone",
+        "Home Alone 2: Lost in New York"
       ]
     }
   ]
