@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-22T04:29:25.742Z",
+  "generatedAt": "2026-10-23T04:34:43.874Z",
   "celebrities": [
     {
-      "id": 1748,
-      "name": "William Shatner",
-      "popularity": 3.3,
+      "id": 87026,
+      "name": "Linda Ronstadt",
+      "popularity": 1,
       "isAlive": true,
-      "birthYear": 1931,
+      "birthYear": 1946,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/puzpe91Lh0CzdRKg9iYilQsjoYk.jpg",
+      "profilePath": "/cLeoa4C727LC6RBcdOwMHnCbNYw.jpg",
       "knownFor": [
-        "The Big Bang Theory",
-        "Over the Hedge",
-        "Miss Congeniality"
+        "The Simpsons",
+        "An American Tail",
+        "Saturday Night Live"
       ]
     },
     {
-      "id": 8256,
-      "name": "Anne Heche",
-      "popularity": 3.4,
+      "id": 15152,
+      "name": "James Earl Jones",
+      "popularity": 3.7,
       "isAlive": false,
-      "birthYear": 1969,
-      "deathDate": "2022-08-11",
-      "deathAge": 53,
-      "profilePath": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg",
+      "birthYear": 1931,
+      "deathDate": "2024-09-09",
+      "deathAge": 93,
+      "profilePath": "/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg",
       "knownFor": [
-        "Donnie Brasco",
-        "The Other Guys",
-        "I Know What You Did Last Summer"
+        "Star Wars",
+        "The Lion King",
+        "The Empire Strikes Back"
       ]
     },
     {
-      "id": 6856,
-      "name": "Kurt Russell",
-      "popularity": 6.4,
+      "id": 3125,
+      "name": "Madonna",
+      "popularity": 2.8,
       "isAlive": true,
-      "birthYear": 1951,
+      "birthYear": 1958,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg",
+      "profilePath": "/8XtGxpB4z428QDgwKlFYPktYHFC.jpg",
       "knownFor": [
-        "Forrest Gump",
-        "Django Unchained",
-        "Guardians of the Galaxy Vol. 2"
+        "Die Another Day",
+        "Austin Powers: The Spy Who Shagged Me",
+        "Arthur and the Invisibles"
       ]
     },
     {
-      "id": 129101,
-      "name": "Lance Reddick",
+      "id": 17265,
+      "name": "Hayden Panettiere",
+      "popularity": 6.1,
+      "isAlive": false,
+      "birthYear": 1989,
+      "deathDate": "2026-08-16",
+      "deathAge": 36,
+      "profilePath": "/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg",
+      "knownFor": [
+        "A Bug's Life",
+        "Malcolm in the Middle",
+        "Law & Order: Special Victims Unit"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Michael Madsen",
       "popularity": 4,
       "isAlive": false,
-      "birthYear": 1962,
-      "deathDate": "2023-03-17",
-      "deathAge": 60,
-      "profilePath": "/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg",
+      "birthYear": 1957,
+      "deathDate": "2025-07-03",
+      "deathAge": 67,
+      "profilePath": "/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg",
       "knownFor": [
-        "John Wick",
-        "John Wick: Chapter 2",
-        "John Wick: Chapter 3 - Parabellum"
-      ]
-    },
-    {
-      "id": 4517,
-      "name": "Joe Pesci",
-      "popularity": 6.4,
-      "isAlive": true,
-      "birthYear": 1943,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg",
-      "knownFor": [
-        "GoodFellas",
-        "Home Alone",
-        "Home Alone 2: Lost in New York"
+        "Kill Bill: Vol. 1",
+        "Reservoir Dogs",
+        "The Hateful Eight"
       ]
     }
   ]
