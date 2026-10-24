@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-23T04:34:43.874Z",
+  "generatedAt": "2026-10-24T04:24:47.709Z",
   "celebrities": [
     {
-      "id": 87026,
-      "name": "Linda Ronstadt",
-      "popularity": 1,
+      "id": 38225,
+      "name": "Cher",
+      "popularity": 1.6,
       "isAlive": true,
       "birthYear": 1946,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/cLeoa4C727LC6RBcdOwMHnCbNYw.jpg",
+      "profilePath": "/yDglV70XMu2cBWZigp5Jxd4etfv.jpg",
       "knownFor": [
-        "The Simpsons",
-        "An American Tail",
-        "Saturday Night Live"
+        "Mamma Mia! Here We Go Again",
+        "Burlesque",
+        "Zookeeper"
       ]
     },
     {
-      "id": 15152,
-      "name": "James Earl Jones",
-      "popularity": 3.7,
-      "isAlive": false,
-      "birthYear": 1931,
-      "deathDate": "2024-09-09",
-      "deathAge": 93,
-      "profilePath": "/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg",
-      "knownFor": [
-        "Star Wars",
-        "The Lion King",
-        "The Empire Strikes Back"
-      ]
-    },
-    {
-      "id": 3125,
-      "name": "Madonna",
-      "popularity": 2.8,
+      "id": 23220,
+      "name": "Cliff Richard",
+      "popularity": 0.9,
       "isAlive": true,
-      "birthYear": 1958,
+      "birthYear": 1940,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/8XtGxpB4z428QDgwKlFYPktYHFC.jpg",
+      "profilePath": "/6GFjqrMxg1DNV6AU7HHn00p6wdj.jpg",
       "knownFor": [
-        "Die Another Day",
-        "Austin Powers: The Spy Who Shagged Me",
-        "Arthur and the Invisibles"
+        "Top Gear",
+        "The Graham Norton Show",
+        "Thunderbirds Are GO"
       ]
     },
     {
-      "id": 17265,
-      "name": "Hayden Panettiere",
-      "popularity": 6.1,
+      "id": 1580,
+      "name": "Daveigh Chase",
+      "popularity": 3.2,
       "isAlive": false,
-      "birthYear": 1989,
-      "deathDate": "2026-08-16",
-      "deathAge": 36,
-      "profilePath": "/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg",
+      "birthYear": 1990,
+      "deathDate": "2026-06-16",
+      "deathAge": 35,
+      "profilePath": "/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg",
       "knownFor": [
-        "A Bug's Life",
-        "Malcolm in the Middle",
-        "Law & Order: Special Victims Unit"
+        "Donnie Darko",
+        "Lilo & Stitch",
+        "The Ring"
       ]
     },
     {
-      "id": 147,
-      "name": "Michael Madsen",
-      "popularity": 4,
-      "isAlive": false,
-      "birthYear": 1957,
-      "deathDate": "2025-07-03",
-      "deathAge": 67,
-      "profilePath": "/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg",
+      "id": 1205,
+      "name": "Richard Gere",
+      "popularity": 5.4,
+      "isAlive": true,
+      "birthYear": 1949,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg",
       "knownFor": [
-        "Kill Bill: Vol. 1",
-        "Reservoir Dogs",
-        "The Hateful Eight"
+        "The Simpsons",
+        "Pretty Woman",
+        "Hachi: A Dog's Tale"
+      ]
+    },
+    {
+      "id": 11514,
+      "name": "Catherine O'Hara",
+      "popularity": 5.6,
+      "isAlive": false,
+      "birthYear": 1954,
+      "deathDate": "2026-01-30",
+      "deathAge": 71,
+      "profilePath": "/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg",
+      "knownFor": [
+        "Home Alone",
+        "Home Alone 2: Lost in New York",
+        "The Nightmare Before Christmas"
       ]
     }
   ]
