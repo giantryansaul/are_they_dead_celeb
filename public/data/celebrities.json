@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-25T04:28:27.947Z",
+  "generatedAt": "2026-10-26T04:31:59.341Z",
   "celebrities": [
     {
-      "id": 3895,
-      "name": "Michael Caine",
-      "popularity": 4.4,
-      "isAlive": true,
-      "birthYear": 1933,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg",
+      "id": 14911,
+      "name": "Penny Marshall",
+      "popularity": 1.3,
+      "isAlive": false,
+      "birthYear": 1943,
+      "deathDate": "2018-12-17",
+      "deathAge": 75,
+      "profilePath": "/vzRgjy7Lsc6edyJ21Ab4QbF2CUT.jpg",
       "knownFor": [
-        "Interstellar",
-        "Inception",
-        "The Dark Knight"
+        "The Simpsons",
+        "Big",
+        "Bones"
       ]
     },
     {
-      "id": 2,
-      "name": "Mark Hamill",
-      "popularity": 3.9,
-      "isAlive": true,
-      "birthYear": 1951,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg",
-      "knownFor": [
-        "Star Wars",
-        "Star Wars: The Force Awakens",
-        "The Empire Strikes Back"
-      ]
-    },
-    {
-      "id": 3026,
-      "name": "Rob Reiner",
-      "popularity": 3.6,
+      "id": 7487,
+      "name": "David Bowie",
+      "popularity": 3.1,
       "isAlive": false,
       "birthYear": 1947,
-      "deathDate": "2025-12-14",
-      "deathAge": 78,
-      "profilePath": "/2nxxxj3aIU35eCOUEFBD0ireEhZ.jpg",
+      "deathDate": "2016-01-10",
+      "deathAge": 69,
+      "profilePath": "/8NHhlyuj9CJq7Q5gSCo9rQ6pbf3.jpg",
       "knownFor": [
-        "The Wolf of Wall Street",
-        "Good Will Hunting",
-        "The Simpsons"
+        "The Prestige",
+        "Zoolander",
+        "SpongeBob SquarePants"
       ]
     },
     {
-      "id": 1796,
-      "name": "Kirstie Alley",
-      "popularity": 2,
+      "id": 58115,
+      "name": "Eric Dane",
+      "popularity": 3.7,
       "isAlive": false,
-      "birthYear": 1951,
-      "deathDate": "2022-12-05",
-      "deathAge": 71,
-      "profilePath": "/9XZOeQtmvHdBkuMrlxO5PHPZwJo.jpg",
+      "birthYear": 1972,
+      "deathDate": "2026-02-19",
+      "deathAge": 53,
+      "profilePath": "/4PsLKBKN4e0zRT2oS4BjE8Xu1un.jpg",
       "knownFor": [
-        "Look Who's Talking",
-        "Star Trek II: The Wrath of Khan",
-        "Scream Queens"
+        "Euphoria",
+        "Grey's Anatomy",
+        "X-Men: The Last Stand"
       ]
     },
     {
-      "id": 18792,
-      "name": "Delroy Lindo",
-      "popularity": 1.9,
+      "id": 4173,
+      "name": "Anthony Hopkins",
+      "popularity": 5.4,
       "isAlive": true,
-      "birthYear": 1952,
+      "birthYear": 1937,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg",
+      "profilePath": "/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg",
       "knownFor": [
-        "Up",
+        "Thor",
+        "Thor: Ragnarok",
+        "Thor: The Dark World"
+      ]
+    },
+    {
+      "id": 5064,
+      "name": "Meryl Streep",
+      "popularity": 4.7,
+      "isAlive": true,
+      "birthYear": 1949,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg",
+      "knownFor": [
+        "The Devil Wears Prada",
         "The Simpsons",
-        "The Devil's Advocate"
+        "Don't Look Up"
       ]
     }
   ]
