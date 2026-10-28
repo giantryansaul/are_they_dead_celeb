@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-27T04:50:14.821Z",
+  "generatedAt": "2026-10-28T05:25:37.262Z",
   "celebrities": [
     {
-      "id": 1224484,
-      "name": "Calvin Klein",
-      "popularity": 0.5,
+      "id": 15425,
+      "name": "Neil Young",
+      "popularity": 1.5,
       "isAlive": true,
-      "birthYear": 1942,
+      "birthYear": 1945,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ovBFrenNX1MMMCc9AV3fZc1ysy5.jpg",
+      "profilePath": "/pAEPuSZTK29JAzRkz5W1Vb1dTAe.jpg",
       "knownFor": [
-        "30 Rock",
-        "Studio 54",
-        "Pretty Baby: Brooke Shields"
+        "Dead Man",
+        "The Daily Show",
+        "Saturday Night Live"
       ]
     },
     {
-      "id": 3,
-      "name": "Harrison Ford",
-      "popularity": 6,
+      "id": 176027,
+      "name": "Gloria Steinem",
+      "popularity": 0.8,
+      "isAlive": false,
+      "birthYear": 1934,
+      "deathDate": "2026-09-02",
+      "deathAge": 92,
+      "profilePath": "/7MjgrZjTlG9V4kwdzV2igvoImAr.jpg",
+      "knownFor": [
+        "The L Word",
+        "The First Wives Club",
+        "My Best Friend's Girl"
+      ]
+    },
+    {
+      "id": 16475,
+      "name": "Burt Reynolds",
+      "popularity": 3.1,
+      "isAlive": false,
+      "birthYear": 1936,
+      "deathDate": "2018-09-06",
+      "deathAge": 82,
+      "profilePath": "/5FNuc4f1OR9EF9QcrcnFIr3zZQr.jpg",
+      "knownFor": [
+        "The Longest Yard",
+        "The X-Files",
+        "Boogie Nights"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Bruce Willis",
+      "popularity": 7.9,
       "isAlive": true,
-      "birthYear": 1942,
+      "birthYear": 1955,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg",
+      "profilePath": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg",
       "knownFor": [
-        "Star Wars",
-        "Star Wars: The Force Awakens",
-        "The Empire Strikes Back"
+        "Pulp Fiction",
+        "Split",
+        "The Sixth Sense"
       ]
     },
     {
-      "id": 1218598,
-      "name": "Lisa Marie Presley",
-      "popularity": 1.3,
-      "isAlive": false,
-      "birthYear": 1968,
-      "deathDate": "2023-01-12",
-      "deathAge": 54,
-      "profilePath": "/vW2W1WwSUwB0uFRSgCA0DfYyRJ7.jpg",
+      "id": 488,
+      "name": "Steven Spielberg",
+      "popularity": 6.4,
+      "isAlive": true,
+      "birthYear": 1946,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
       "knownFor": [
-        "Leaving Neverland",
-        "Jimmy Kimmel Live!",
-        "American Idol"
-      ]
-    },
-    {
-      "id": 133858,
-      "name": "Kenny Rogers",
-      "popularity": 1,
-      "isAlive": false,
-      "birthYear": 1938,
-      "deathDate": "2020-03-20",
-      "deathAge": 81,
-      "profilePath": "/mv7wG2gEhsiEogfnA89127I6FMW.jpg",
-      "knownFor": [
-        "How I Met Your Mother",
-        "Dr. Quinn, Medicine Woman",
-        "The Muppet Show"
-      ]
-    },
-    {
-      "id": 10409,
-      "name": "Shelley Duvall",
-      "popularity": 2,
-      "isAlive": false,
-      "birthYear": 1949,
-      "deathDate": "2024-07-11",
-      "deathAge": 75,
-      "profilePath": "/zwscEWl7QLiOsfsvzGXFjAQCVp3.jpg",
-      "knownFor": [
-        "The Shining",
-        "Annie Hall",
-        "Frankenweenie"
+        "Back to the Future",
+        "Jurassic World",
+        "Shrek"
       ]
     }
   ]
