@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-28T05:25:37.262Z",
+  "generatedAt": "2026-10-29T05:34:34.329Z",
   "celebrities": [
     {
-      "id": 15425,
-      "name": "Neil Young",
-      "popularity": 1.5,
-      "isAlive": true,
-      "birthYear": 1945,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/pAEPuSZTK29JAzRkz5W1Vb1dTAe.jpg",
+      "id": 1223677,
+      "name": "Anthony Bourdain",
+      "popularity": 1,
+      "isAlive": false,
+      "birthYear": 1956,
+      "deathDate": "2018-06-08",
+      "deathAge": 61,
+      "profilePath": "/436fCoWkAuNxMeVJU1UBktwpK6O.jpg",
       "knownFor": [
-        "Dead Man",
-        "The Daily Show",
-        "Saturday Night Live"
+        "Ratatouille",
+        "The Simpsons",
+        "The Big Short"
       ]
     },
     {
-      "id": 176027,
-      "name": "Gloria Steinem",
+      "id": 181465,
+      "name": "Caitlyn Jenner",
+      "popularity": 1.9,
+      "isAlive": true,
+      "birthYear": 1949,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/uE6of7nQ9gXsEi3PrwoQUdegSFR.jpg",
+      "knownFor": [
+        "Family Guy",
+        "Jack and Jill",
+        "The Kardashians"
+      ]
+    },
+    {
+      "id": 81390,
+      "name": "Aaron Carter",
       "popularity": 0.8,
       "isAlive": false,
-      "birthYear": 1934,
-      "deathDate": "2026-09-02",
-      "deathAge": 92,
-      "profilePath": "/7MjgrZjTlG9V4kwdzV2igvoImAr.jpg",
+      "birthYear": 1987,
+      "deathDate": "2022-11-05",
+      "deathAge": 34,
+      "profilePath": "/sOjJvdhWRWo5lFo0Sewhw2vTN38.jpg",
       "knownFor": [
-        "The L Word",
-        "The First Wives Club",
-        "My Best Friend's Girl"
+        "Sabrina, the Teenage Witch",
+        "Lizzie McGuire",
+        "Fat Albert"
       ]
     },
     {
-      "id": 16475,
-      "name": "Burt Reynolds",
-      "popularity": 3.1,
+      "id": 11856,
+      "name": "Daniel Day-Lewis",
+      "popularity": 2.6,
+      "isAlive": true,
+      "birthYear": 1957,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg",
+      "knownFor": [
+        "There Will Be Blood",
+        "Gangs of New York",
+        "Lincoln"
+      ]
+    },
+    {
+      "id": 81487,
+      "name": "George Michael",
+      "popularity": 1.6,
       "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "2018-09-06",
-      "deathAge": 82,
-      "profilePath": "/5FNuc4f1OR9EF9QcrcnFIr3zZQr.jpg",
+      "birthYear": 1963,
+      "deathDate": "2016-12-25",
+      "deathAge": 53,
+      "profilePath": "/97ZAoQtREhnQJ7VM5013SAAhOXu.jpg",
       "knownFor": [
-        "The Longest Yard",
-        "The X-Files",
-        "Boogie Nights"
-      ]
-    },
-    {
-      "id": 62,
-      "name": "Bruce Willis",
-      "popularity": 7.9,
-      "isAlive": true,
-      "birthYear": 1955,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg",
-      "knownFor": [
-        "Pulp Fiction",
-        "Split",
-        "The Sixth Sense"
-      ]
-    },
-    {
-      "id": 488,
-      "name": "Steven Spielberg",
-      "popularity": 6.4,
-      "isAlive": true,
-      "birthYear": 1946,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-      "knownFor": [
-        "Back to the Future",
-        "Jurassic World",
-        "Shrek"
+        "Last Christmas",
+        "American Idol",
+        "The View"
       ]
     }
   ]
