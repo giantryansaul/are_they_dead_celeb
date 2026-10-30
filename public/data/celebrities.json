@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-29T05:34:34.329Z",
+  "generatedAt": "2026-10-30T05:34:06.757Z",
   "celebrities": [
     {
-      "id": 1223677,
-      "name": "Anthony Bourdain",
-      "popularity": 1,
+      "id": 23185,
+      "name": "Brian Wilson",
+      "popularity": 0.7,
       "isAlive": false,
-      "birthYear": 1956,
-      "deathDate": "2018-06-08",
-      "deathAge": 61,
-      "profilePath": "/436fCoWkAuNxMeVJU1UBktwpK6O.jpg",
+      "birthYear": 1942,
+      "deathDate": "2025-06-11",
+      "deathAge": 82,
+      "profilePath": "/9H8jg2qqSFYcpOqXRVZ7jf6rKUX.jpg",
       "knownFor": [
-        "Ratatouille",
+        "Full House",
+        "Love & Mercy",
+        "Saturday Night Live"
+      ]
+    },
+    {
+      "id": 10127,
+      "name": "Jon Voight",
+      "popularity": 3.7,
+      "isAlive": true,
+      "birthYear": 1938,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/oxLsItDwLddXu8YYJCfkddYNejL.jpg",
+      "knownFor": [
+        "Fantastic Beasts and Where to Find Them",
+        "Transformers",
+        "Mission: Impossible"
+      ]
+    },
+    {
+      "id": 16619,
+      "name": "Mr. T",
+      "popularity": 2.3,
+      "isAlive": true,
+      "birthYear": 1952,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/pJbHlEsrhyW8dptDwBdXpoY9EmQ.jpg",
+      "knownFor": [
         "The Simpsons",
-        "The Big Short"
+        "Cloudy with a Chance of Meatballs",
+        "The Blues Brothers"
       ]
     },
     {
-      "id": 181465,
-      "name": "Caitlyn Jenner",
-      "popularity": 1.9,
+      "id": 20402,
+      "name": "Julian McMahon",
+      "popularity": 2.5,
+      "isAlive": false,
+      "birthYear": 1968,
+      "deathDate": "2025-07-02",
+      "deathAge": 56,
+      "profilePath": "/PirhJFimrT5iK0qru4SzlwLW4G.jpg",
+      "knownFor": [
+        "Fantastic Four",
+        "Fantastic Four: Rise of the Silver Surfer",
+        "RED"
+      ]
+    },
+    {
+      "id": 1532,
+      "name": "Bill Murray",
+      "popularity": 3.1,
       "isAlive": true,
-      "birthYear": 1949,
+      "birthYear": 1950,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/uE6of7nQ9gXsEi3PrwoQUdegSFR.jpg",
+      "profilePath": "/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg",
       "knownFor": [
-        "Family Guy",
-        "Jack and Jill",
-        "The Kardashians"
-      ]
-    },
-    {
-      "id": 81390,
-      "name": "Aaron Carter",
-      "popularity": 0.8,
-      "isAlive": false,
-      "birthYear": 1987,
-      "deathDate": "2022-11-05",
-      "deathAge": 34,
-      "profilePath": "/sOjJvdhWRWo5lFo0Sewhw2vTN38.jpg",
-      "knownFor": [
-        "Sabrina, the Teenage Witch",
-        "Lizzie McGuire",
-        "Fat Albert"
-      ]
-    },
-    {
-      "id": 11856,
-      "name": "Daniel Day-Lewis",
-      "popularity": 2.6,
-      "isAlive": true,
-      "birthYear": 1957,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg",
-      "knownFor": [
-        "There Will Be Blood",
-        "Gangs of New York",
-        "Lincoln"
-      ]
-    },
-    {
-      "id": 81487,
-      "name": "George Michael",
-      "popularity": 1.6,
-      "isAlive": false,
-      "birthYear": 1963,
-      "deathDate": "2016-12-25",
-      "deathAge": 53,
-      "profilePath": "/97ZAoQtREhnQJ7VM5013SAAhOXu.jpg",
-      "knownFor": [
-        "Last Christmas",
-        "American Idol",
-        "The View"
+        "The Grand Budapest Hotel",
+        "Zombieland",
+        "Ghostbusters"
       ]
     }
   ]
