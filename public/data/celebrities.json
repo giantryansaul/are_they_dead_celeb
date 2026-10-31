@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-30T05:34:06.757Z",
+  "generatedAt": "2026-10-31T05:23:20.623Z",
   "celebrities": [
     {
-      "id": 23185,
-      "name": "Brian Wilson",
-      "popularity": 0.7,
+      "id": 2453,
+      "name": "Mary Steenburgen",
+      "popularity": 2.4,
+      "isAlive": true,
+      "birthYear": 1953,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg",
+      "knownFor": [
+        "Back to the Future Part III",
+        "The Help",
+        "The Proposal"
+      ]
+    },
+    {
+      "id": 21462,
+      "name": "Raquel Welch",
+      "popularity": 2.9,
       "isAlive": false,
-      "birthYear": 1942,
-      "deathDate": "2025-06-11",
+      "birthYear": 1940,
+      "deathDate": "2023-02-15",
       "deathAge": 82,
-      "profilePath": "/9H8jg2qqSFYcpOqXRVZ7jf6rKUX.jpg",
+      "profilePath": "/UfsFJdj8vi9kHcY3HAzBS0zVKp.jpg",
       "knownFor": [
-        "Full House",
-        "Love & Mercy",
-        "Saturday Night Live"
+        "Legally Blonde",
+        "Naked Gun 33⅓: The Final Insult",
+        "Seinfeld"
       ]
     },
     {
-      "id": 10127,
-      "name": "Jon Voight",
-      "popularity": 3.7,
-      "isAlive": true,
-      "birthYear": 1938,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/oxLsItDwLddXu8YYJCfkddYNejL.jpg",
-      "knownFor": [
-        "Fantastic Beasts and Where to Find Them",
-        "Transformers",
-        "Mission: Impossible"
-      ]
-    },
-    {
-      "id": 16619,
-      "name": "Mr. T",
-      "popularity": 2.3,
-      "isAlive": true,
-      "birthYear": 1952,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/pJbHlEsrhyW8dptDwBdXpoY9EmQ.jpg",
-      "knownFor": [
-        "The Simpsons",
-        "Cloudy with a Chance of Meatballs",
-        "The Blues Brothers"
-      ]
-    },
-    {
-      "id": 20402,
-      "name": "Julian McMahon",
-      "popularity": 2.5,
+      "id": 6861,
+      "name": "Andre Braugher",
+      "popularity": 1.6,
       "isAlive": false,
-      "birthYear": 1968,
-      "deathDate": "2025-07-02",
-      "deathAge": 56,
-      "profilePath": "/PirhJFimrT5iK0qru4SzlwLW4G.jpg",
+      "birthYear": 1962,
+      "deathDate": "2023-12-11",
+      "deathAge": 61,
+      "profilePath": "/zdemT9c1U4Muxf7hi0iFq2zHNLd.jpg",
       "knownFor": [
-        "Fantastic Four",
         "Fantastic Four: Rise of the Silver Surfer",
-        "RED"
+        "House",
+        "The Mist"
       ]
     },
     {
-      "id": 1532,
-      "name": "Bill Murray",
-      "popularity": 3.1,
-      "isAlive": true,
-      "birthYear": 1950,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg",
+      "id": 5129,
+      "name": "Paul Reubens",
+      "popularity": 2.2,
+      "isAlive": false,
+      "birthYear": 1952,
+      "deathDate": "2023-07-30",
+      "deathAge": 70,
+      "profilePath": "/7T0ExonMf6PAvphKVaTm73BXdLW.jpg",
       "knownFor": [
-        "The Grand Budapest Hotel",
-        "Zombieland",
-        "Ghostbusters"
+        "The Nightmare Before Christmas",
+        "Batman Returns",
+        "Matilda"
+      ]
+    },
+    {
+      "id": 31070,
+      "name": "Ryan O'Neal",
+      "popularity": 1.9,
+      "isAlive": false,
+      "birthYear": 1941,
+      "deathDate": "2023-12-08",
+      "deathAge": 82,
+      "profilePath": "/fVOj551i42ZlmBr3BvRKvfj7Mdj.jpg",
+      "knownFor": [
+        "Bones",
+        "Barry Lyndon",
+        "Desperate Housewives"
       ]
     }
   ]
