@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-10-31T05:23:20.623Z",
+  "generatedAt": "2026-11-01T05:49:46.520Z",
   "celebrities": [
     {
-      "id": 2453,
-      "name": "Mary Steenburgen",
-      "popularity": 2.4,
+      "id": 14408,
+      "name": "Matthew Perry",
+      "popularity": 4.7,
+      "isAlive": false,
+      "birthYear": 1969,
+      "deathDate": "2023-10-28",
+      "deathAge": 54,
+      "profilePath": "/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg",
+      "knownFor": [
+        "The Simpsons",
+        "Friends",
+        "17 Again"
+      ]
+    },
+    {
+      "id": 32715,
+      "name": "Diana Ross",
+      "popularity": 0.9,
       "isAlive": true,
-      "birthYear": 1953,
+      "birthYear": 1944,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg",
+      "profilePath": "/je2Ky0RfjhJPvAeNRZFyJkW5urP.jpg",
       "knownFor": [
-        "Back to the Future Part III",
-        "The Help",
-        "The Proposal"
+        "Minions: The Rise of Gru",
+        "The Muppet Show",
+        "The Wiz"
       ]
     },
     {
-      "id": 21462,
-      "name": "Raquel Welch",
-      "popularity": 2.9,
-      "isAlive": false,
-      "birthYear": 1940,
-      "deathDate": "2023-02-15",
-      "deathAge": 82,
-      "profilePath": "/UfsFJdj8vi9kHcY3HAzBS0zVKp.jpg",
+      "id": 776,
+      "name": "Eddie Murphy",
+      "popularity": 9.4,
+      "isAlive": true,
+      "birthYear": 1961,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg",
       "knownFor": [
-        "Legally Blonde",
-        "Naked Gun 33⅓: The Final Insult",
-        "Seinfeld"
+        "Shrek",
+        "Shrek 2",
+        "Mulan"
       ]
     },
     {
-      "id": 6861,
-      "name": "Andre Braugher",
-      "popularity": 1.6,
-      "isAlive": false,
-      "birthYear": 1962,
-      "deathDate": "2023-12-11",
-      "deathAge": 61,
-      "profilePath": "/zdemT9c1U4Muxf7hi0iFq2zHNLd.jpg",
+      "id": 9208,
+      "name": "Robert Wagner",
+      "popularity": 2.1,
+      "isAlive": true,
+      "birthYear": 1930,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/dgIN3MrOfX8Q4pzchO58dhMgrFb.jpg",
       "knownFor": [
-        "Fantastic Four: Rise of the Silver Surfer",
-        "House",
-        "The Mist"
+        "The Simpsons",
+        "What Happened to Monday",
+        "Austin Powers: International Man of Mystery"
       ]
     },
     {
-      "id": 5129,
-      "name": "Paul Reubens",
-      "popularity": 2.2,
-      "isAlive": false,
-      "birthYear": 1952,
-      "deathDate": "2023-07-30",
-      "deathAge": 70,
-      "profilePath": "/7T0ExonMf6PAvphKVaTm73BXdLW.jpg",
+      "id": 5823,
+      "name": "Julie Andrews",
+      "popularity": 2.3,
+      "isAlive": true,
+      "birthYear": 1935,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/ltU0aAunzQCTv5FwtB1sVWjyDi7.jpg",
       "knownFor": [
-        "The Nightmare Before Christmas",
-        "Batman Returns",
-        "Matilda"
-      ]
-    },
-    {
-      "id": 31070,
-      "name": "Ryan O'Neal",
-      "popularity": 1.9,
-      "isAlive": false,
-      "birthYear": 1941,
-      "deathDate": "2023-12-08",
-      "deathAge": 82,
-      "profilePath": "/fVOj551i42ZlmBr3BvRKvfj7Mdj.jpg",
-      "knownFor": [
-        "Bones",
-        "Barry Lyndon",
-        "Desperate Housewives"
+        "Despicable Me",
+        "Aquaman",
+        "Shrek 2"
       ]
     }
   ]
