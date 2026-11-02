@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-01T05:49:46.520Z",
+  "generatedAt": "2026-11-02T05:50:03.197Z",
   "celebrities": [
     {
-      "id": 14408,
-      "name": "Matthew Perry",
-      "popularity": 4.7,
+      "id": 172069,
+      "name": "Chadwick Boseman",
+      "popularity": 2.4,
       "isAlive": false,
-      "birthYear": 1969,
-      "deathDate": "2023-10-28",
-      "deathAge": 54,
-      "profilePath": "/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg",
+      "birthYear": 1976,
+      "deathDate": "2020-08-28",
+      "deathAge": 43,
+      "profilePath": "/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg",
       "knownFor": [
-        "The Simpsons",
-        "Friends",
-        "17 Again"
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Captain America: Civil War"
       ]
     },
     {
-      "id": 32715,
-      "name": "Diana Ross",
-      "popularity": 0.9,
+      "id": 4391,
+      "name": "Charles Dance",
+      "popularity": 4.2,
+      "isAlive": true,
+      "birthYear": 1946,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/28ElvRC5ftOSzZBFM0cn4XrwH36.jpg",
+      "knownFor": [
+        "Game of Thrones",
+        "The Imitation Game",
+        "Me Before You"
+      ]
+    },
+    {
+      "id": 7090,
+      "name": "Kelsey Grammer",
+      "popularity": 2.8,
+      "isAlive": true,
+      "birthYear": 1955,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/qn38jJHEqRBsj50Gqo2uM38fgJx.jpg",
+      "knownFor": [
+        "X-Men: Days of Future Past",
+        "Toy Story 2",
+        "The Simpsons"
+      ]
+    },
+    {
+      "id": 11160,
+      "name": "Danny Trejo",
+      "popularity": 3.6,
       "isAlive": true,
       "birthYear": 1944,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/je2Ky0RfjhJPvAeNRZFyJkW5urP.jpg",
+      "profilePath": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg",
       "knownFor": [
-        "Minions: The Rise of Gru",
-        "The Muppet Show",
-        "The Wiz"
+        "Breaking Bad",
+        "The Flash",
+        "Rick and Morty"
       ]
     },
     {
-      "id": 776,
-      "name": "Eddie Murphy",
-      "popularity": 9.4,
-      "isAlive": true,
-      "birthYear": 1961,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg",
+      "id": 71675,
+      "name": "Nicholas Brendon",
+      "popularity": 1.2,
+      "isAlive": false,
+      "birthYear": 1971,
+      "deathDate": "2026-03-20",
+      "deathAge": 54,
+      "profilePath": "/6O5sg97Fv07EzdWjpoq3lb8KnTM.jpg",
       "knownFor": [
-        "Shrek",
-        "Shrek 2",
-        "Mulan"
-      ]
-    },
-    {
-      "id": 9208,
-      "name": "Robert Wagner",
-      "popularity": 2.1,
-      "isAlive": true,
-      "birthYear": 1930,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/dgIN3MrOfX8Q4pzchO58dhMgrFb.jpg",
-      "knownFor": [
-        "The Simpsons",
-        "What Happened to Monday",
-        "Austin Powers: International Man of Mystery"
-      ]
-    },
-    {
-      "id": 5823,
-      "name": "Julie Andrews",
-      "popularity": 2.3,
-      "isAlive": true,
-      "birthYear": 1935,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/ltU0aAunzQCTv5FwtB1sVWjyDi7.jpg",
-      "knownFor": [
-        "Despicable Me",
-        "Aquaman",
-        "Shrek 2"
+        "Criminal Minds",
+        "Coherence",
+        "Buffy the Vampire Slayer"
       ]
     }
   ]
