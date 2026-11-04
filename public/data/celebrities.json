@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-03T06:31:56.391Z",
+  "generatedAt": "2026-11-04T06:01:46.388Z",
   "celebrities": [
     {
-      "id": 64,
-      "name": "Gary Oldman",
-      "popularity": 6.9,
-      "isAlive": true,
-      "birthYear": 1958,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg",
+      "id": 108661,
+      "name": "Chester Bennington",
+      "popularity": 2.3,
+      "isAlive": false,
+      "birthYear": 1976,
+      "deathDate": "2017-07-20",
+      "deathAge": 41,
+      "profilePath": "/2PSnbJ2v1qsOlPg0A7pLECDCYXI.jpg",
       "knownFor": [
-        "The Dark Knight",
-        "The Dark Knight Rises",
-        "Harry Potter and the Prisoner of Azkaban"
+        "The Matrix Reloaded",
+        "Crank",
+        "Saw 3D"
       ]
     },
     {
-      "id": 15112,
-      "name": "Tom Selleck",
-      "popularity": 5.3,
+      "id": 86543,
+      "name": "David Attenborough",
+      "popularity": 2.1,
+      "isAlive": true,
+      "birthYear": 1926,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/xE6aLZ2Ma1VSoZGhOUW8TcbBMN6.jpg",
+      "knownFor": [
+        "Planet Earth",
+        "Planet Earth II",
+        "Prehistoric Planet"
+      ]
+    },
+    {
+      "id": 67274,
+      "name": "Dolly Parton",
+      "popularity": 4.8,
+      "isAlive": false,
+      "birthYear": 1946,
+      "deathDate": "2026-08-25",
+      "deathAge": 80,
+      "profilePath": "/4fnvjhfjqJl2Qx8Rcl1NUd76NIn.jpg",
+      "knownFor": [
+        "The Simpsons",
+        "Gnomeo & Juliet",
+        "Buffy the Vampire Slayer"
+      ]
+    },
+    {
+      "id": 10437,
+      "name": "Lily Tomlin",
+      "popularity": 1.4,
+      "isAlive": true,
+      "birthYear": 1939,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg",
+      "knownFor": [
+        "Spider-Man: Into the Spider-Verse",
+        "The Simpsons",
+        "The X-Files"
+      ]
+    },
+    {
+      "id": 18892,
+      "name": "Goldie Hawn",
+      "popularity": 2.6,
       "isAlive": true,
       "birthYear": 1945,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/s9QR2FMnXSpq8Blx1KbbbaTrWee.jpg",
+      "profilePath": "/fz4VjpUJO5i0BHhEgLs9HAUD2fJ.jpg",
       "knownFor": [
-        "Friends",
-        "Family Guy",
-        "Meet the Robinsons"
-      ]
-    },
-    {
-      "id": 62036,
-      "name": "Robert Carradine",
-      "popularity": 1.2,
-      "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2026-02-23",
-      "deathAge": 71,
-      "profilePath": "/kQrhmy4WKxFP8Zz8H3CUosHrhPp.jpg",
-      "knownFor": [
-        "Django Unchained",
-        "Mean Streets",
-        "Escape from L.A."
-      ]
-    },
-    {
-      "id": 8349,
-      "name": "Martin Sheen",
-      "popularity": 3.7,
-      "isAlive": true,
-      "birthYear": 1940,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg",
-      "knownFor": [
-        "The Amazing Spider-Man",
-        "Catch Me If You Can",
-        "The Departed"
-      ]
-    },
-    {
-      "id": 8534,
-      "name": "Kathy Bates",
-      "popularity": 3.2,
-      "isAlive": true,
-      "birthYear": 1948,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/3MsayDvY73uXGVbCFHyy1ABTacV.jpg",
-      "knownFor": [
-        "Titanic",
-        "The Big Bang Theory",
-        "Midnight in Paris"
+        "Death Becomes Her",
+        "The Christmas Chronicles",
+        "The Christmas Chronicles: Part Two"
       ]
     }
   ]
