@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-04T06:01:46.388Z",
+  "generatedAt": "2026-11-05T06:29:17.678Z",
   "celebrities": [
     {
-      "id": 108661,
-      "name": "Chester Bennington",
+      "id": 34257,
+      "name": "Anthony Stewart Head",
+      "popularity": 2.2,
+      "isAlive": false,
+      "birthYear": 1954,
+      "deathDate": "2026-06-01",
+      "deathAge": 72,
+      "profilePath": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg",
+      "knownFor": [
+        "Sweeney Todd: The Demon Barber of Fleet Street",
+        "Percy Jackson: Sea of Monsters",
+        "Ghost Rider: Spirit of Vengeance"
+      ]
+    },
+    {
+      "id": 2232,
+      "name": "Michael Keaton",
+      "popularity": 4.4,
+      "isAlive": true,
+      "birthYear": 1951,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg",
+      "knownFor": [
+        "Spider-Man: Homecoming",
+        "Toy Story 3",
+        "Cars"
+      ]
+    },
+    {
+      "id": 140152,
+      "name": "Pelé",
+      "popularity": 0.5,
+      "isAlive": false,
+      "birthYear": 1940,
+      "deathDate": "2022-12-29",
+      "deathAge": 82,
+      "profilePath": "/e5M1Jn4ugSmWvuNPuHteDDcb40P.jpg",
+      "knownFor": [
+        "Pelé: Birth of a Legend",
+        "Escape to Victory",
+        "Diego Maradona"
+      ]
+    },
+    {
+      "id": 3085,
+      "name": "James Caan",
+      "popularity": 2.8,
+      "isAlive": false,
+      "birthYear": 1940,
+      "deathDate": "2022-07-06",
+      "deathAge": 82,
+      "profilePath": "/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg",
+      "knownFor": [
+        "The Godfather",
+        "The Godfather Part II",
+        "The Simpsons"
+      ]
+    },
+    {
+      "id": 19144,
+      "name": "Shannen Doherty",
       "popularity": 2.3,
       "isAlive": false,
-      "birthYear": 1976,
-      "deathDate": "2017-07-20",
-      "deathAge": 41,
-      "profilePath": "/2PSnbJ2v1qsOlPg0A7pLECDCYXI.jpg",
+      "birthYear": 1971,
+      "deathDate": "2024-07-13",
+      "deathAge": 53,
+      "profilePath": "/c3EXtxx7x4inTlf1O1GgKD5kYZa.jpg",
       "knownFor": [
-        "The Matrix Reloaded",
-        "Crank",
-        "Saw 3D"
-      ]
-    },
-    {
-      "id": 86543,
-      "name": "David Attenborough",
-      "popularity": 2.1,
-      "isAlive": true,
-      "birthYear": 1926,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/xE6aLZ2Ma1VSoZGhOUW8TcbBMN6.jpg",
-      "knownFor": [
-        "Planet Earth",
-        "Planet Earth II",
-        "Prehistoric Planet"
-      ]
-    },
-    {
-      "id": 67274,
-      "name": "Dolly Parton",
-      "popularity": 4.8,
-      "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2026-08-25",
-      "deathAge": 80,
-      "profilePath": "/4fnvjhfjqJl2Qx8Rcl1NUd76NIn.jpg",
-      "knownFor": [
-        "The Simpsons",
-        "Gnomeo & Juliet",
-        "Buffy the Vampire Slayer"
-      ]
-    },
-    {
-      "id": 10437,
-      "name": "Lily Tomlin",
-      "popularity": 1.4,
-      "isAlive": true,
-      "birthYear": 1939,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg",
-      "knownFor": [
-        "Spider-Man: Into the Spider-Verse",
-        "The Simpsons",
-        "The X-Files"
-      ]
-    },
-    {
-      "id": 18892,
-      "name": "Goldie Hawn",
-      "popularity": 2.6,
-      "isAlive": true,
-      "birthYear": 1945,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/fz4VjpUJO5i0BHhEgLs9HAUD2fJ.jpg",
-      "knownFor": [
-        "Death Becomes Her",
-        "The Christmas Chronicles",
-        "The Christmas Chronicles: Part Two"
+        "Riverdale",
+        "Naked Gun 33⅓: The Final Insult",
+        "Charmed"
       ]
     }
   ]
