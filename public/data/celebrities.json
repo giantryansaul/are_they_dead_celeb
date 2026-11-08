@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-07T05:47:47.794Z",
+  "generatedAt": "2026-11-08T05:51:20.785Z",
   "celebrities": [
     {
-      "id": 7470,
-      "name": "Meat Loaf",
-      "popularity": 1.2,
-      "isAlive": false,
-      "birthYear": 1947,
-      "deathDate": "2022-01-20",
-      "deathAge": 74,
-      "profilePath": "/1zkohpaG3my4qQAZGVgzgPuXwZ6.jpg",
-      "knownFor": [
-        "Fight Club",
-        "House",
-        "Sausage Party"
-      ]
-    },
-    {
-      "id": 21278,
-      "name": "Alan Alda",
-      "popularity": 2.9,
+      "id": 1430,
+      "name": "Keith Richards",
+      "popularity": 0.9,
       "isAlive": true,
-      "birthYear": 1936,
+      "birthYear": 1943,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/a5tOOHdsrKSabKwdzDOYqeTp446.jpg",
+      "profilePath": "/hzb2tyMA2sa2AgEYXSmr63w8BFQ.jpg",
       "knownFor": [
-        "Marriage Story",
-        "Bridge of Spies",
-        "The Aviator"
+        "Pirates of the Caribbean: At World's End",
+        "Pirates of the Caribbean: On Stranger Tides",
+        "The Simpsons"
       ]
     },
     {
-      "id": 9147,
-      "name": "Salman Rushdie",
-      "popularity": 0.5,
+      "id": 83463,
+      "name": "Nancy Sinatra",
+      "popularity": 1,
       "isAlive": true,
-      "birthYear": 1947,
+      "birthYear": 1940,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/6LuR8XwMMOCU4K773MJgYaFa3cV.jpg",
+      "profilePath": "/veGaqhRx6KIeO5G9ze8S2pF6FAr.jpg",
       "knownFor": [
-        "Bridget Jones's Diary",
-        "Curb Your Enthusiasm",
-        "The Daily Show"
+        "The Sopranos",
+        "You Only Live Twice",
+        "The Tonight Show Starring Johnny Carson"
       ]
     },
     {
-      "id": 19210,
-      "name": "James Van Der Beek",
-      "popularity": 1.3,
-      "isAlive": false,
-      "birthYear": 1977,
-      "deathDate": "2026-02-11",
-      "deathAge": 48,
-      "profilePath": "/romoF6aNi4v9UcUqRSElfeDvBuJ.jpg",
+      "id": 10557,
+      "name": "Paul Simon",
+      "popularity": 0.6,
+      "isAlive": true,
+      "birthYear": 1941,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/vWOVDx7feNDSpgI2njivbCeFvEu.jpg",
       "knownFor": [
-        "Scary Movie",
-        "How I Met Your Mother",
-        "Law & Order: Special Victims Unit"
+        "Lost in Translation",
+        "Annie Hall",
+        "The Graduate"
       ]
     },
     {
-      "id": 13472,
-      "name": "Tim Curry",
-      "popularity": 4.9,
+      "id": 21037,
+      "name": "Prince",
+      "popularity": 0.8,
       "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2026-08-25",
-      "deathAge": 80,
-      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
+      "birthYear": 1958,
+      "deathDate": "2016-04-21",
+      "deathAge": 57,
+      "profilePath": "/5HPqjSXEQukk6ta8v1i9mPHUeqk.jpg",
       "knownFor": [
-        "Home Alone 2: Lost in New York",
-        "Scary Movie 2",
-        "Charlie's Angels"
+        "Batman",
+        "BlacKkKlansman",
+        "Happy Feet"
+      ]
+    },
+    {
+      "id": 19540,
+      "name": "Peter Cullen",
+      "popularity": 1.7,
+      "isAlive": false,
+      "birthYear": 1941,
+      "deathDate": "2026-08-26",
+      "deathAge": 85,
+      "profilePath": "/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg",
+      "knownFor": [
+        "Transformers",
+        "Predator",
+        "Transformers: Revenge of the Fallen"
       ]
     }
   ]
