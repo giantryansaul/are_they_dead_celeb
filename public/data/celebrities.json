@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-08T05:51:20.785Z",
+  "generatedAt": "2026-11-09T06:02:18.161Z",
   "celebrities": [
     {
-      "id": 1430,
-      "name": "Keith Richards",
-      "popularity": 0.9,
-      "isAlive": true,
-      "birthYear": 1943,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/hzb2tyMA2sa2AgEYXSmr63w8BFQ.jpg",
+      "id": 3092,
+      "name": "Diane Keaton",
+      "popularity": 2.4,
+      "isAlive": false,
+      "birthYear": 1946,
+      "deathDate": "2025-10-11",
+      "deathAge": 79,
+      "profilePath": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg",
       "knownFor": [
-        "Pirates of the Caribbean: At World's End",
-        "Pirates of the Caribbean: On Stranger Tides",
-        "The Simpsons"
+        "The Godfather",
+        "The Godfather Part II",
+        "Finding Dory"
       ]
     },
     {
-      "id": 83463,
-      "name": "Nancy Sinatra",
+      "id": 66776,
+      "name": "Liza Minnelli",
       "popularity": 1,
       "isAlive": true,
-      "birthYear": 1940,
+      "birthYear": 1946,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/veGaqhRx6KIeO5G9ze8S2pF6FAr.jpg",
+      "profilePath": "/1oGwXBirjCwPOfi2Qib9ZLFCTM4.jpg",
       "knownFor": [
-        "The Sopranos",
-        "You Only Live Twice",
-        "The Tonight Show Starring Johnny Carson"
+        "The King of Comedy",
+        "Arrested Development",
+        "Sex and the City 2"
       ]
     },
     {
-      "id": 10557,
-      "name": "Paul Simon",
-      "popularity": 0.6,
+      "id": 3556,
+      "name": "Roman Polanski",
+      "popularity": 2.3,
       "isAlive": true,
-      "birthYear": 1941,
+      "birthYear": 1933,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/vWOVDx7feNDSpgI2njivbCeFvEu.jpg",
+      "profilePath": "/yHwHSXdZatkoLgIjPeW14GKlrZs.jpg",
       "knownFor": [
-        "Lost in Translation",
-        "Annie Hall",
-        "The Graduate"
+        "The Pianist",
+        "Rosemary's Baby",
+        "Chinatown"
       ]
     },
     {
-      "id": 21037,
-      "name": "Prince",
-      "popularity": 0.8,
-      "isAlive": false,
+      "id": 4808,
+      "name": "Giancarlo Esposito",
+      "popularity": 4.4,
+      "isAlive": true,
       "birthYear": 1958,
-      "deathDate": "2016-04-21",
-      "deathAge": 57,
-      "profilePath": "/5HPqjSXEQukk6ta8v1i9mPHUeqk.jpg",
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg",
       "knownFor": [
-        "Batman",
-        "BlacKkKlansman",
-        "Happy Feet"
+        "Breaking Bad",
+        "The Boys",
+        "The Usual Suspects"
       ]
     },
     {
-      "id": 19540,
-      "name": "Peter Cullen",
-      "popularity": 1.7,
-      "isAlive": false,
-      "birthYear": 1941,
-      "deathDate": "2026-08-26",
-      "deathAge": 85,
-      "profilePath": "/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg",
+      "id": 10205,
+      "name": "Sigourney Weaver",
+      "popularity": 4.1,
+      "isAlive": true,
+      "birthYear": 1949,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
       "knownFor": [
-        "Transformers",
-        "Predator",
-        "Transformers: Revenge of the Fallen"
+        "Avatar",
+        "WALL·E",
+        "Alien"
       ]
     }
   ]
