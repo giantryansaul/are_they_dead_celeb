@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-09T06:02:18.161Z",
+  "generatedAt": "2026-11-10T07:04:29.516Z",
   "celebrities": [
     {
-      "id": 3092,
-      "name": "Diane Keaton",
-      "popularity": 2.4,
+      "id": 6587,
+      "name": "Diane Ladd",
+      "popularity": 1.6,
       "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2025-10-11",
-      "deathAge": 79,
-      "profilePath": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg",
+      "birthYear": 1935,
+      "deathDate": "2025-11-03",
+      "deathAge": 89,
+      "profilePath": "/l09hDywACsXFkmSy7d8V2YJiRNW.jpg",
       "knownFor": [
-        "The Godfather",
-        "The Godfather Part II",
-        "Finding Dory"
+        "Chinatown",
+        "Joy",
+        "Young Sheldon"
       ]
     },
     {
-      "id": 66776,
-      "name": "Liza Minnelli",
-      "popularity": 1,
+      "id": 13604,
+      "name": "Iggy Pop",
+      "popularity": 1.4,
       "isAlive": true,
-      "birthYear": 1946,
+      "birthYear": 1947,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/1oGwXBirjCwPOfi2Qib9ZLFCTM4.jpg",
+      "profilePath": "/kZwFoGujhS3D39R1uyuyNbgSPr0.jpg",
       "knownFor": [
-        "The King of Comedy",
-        "Arrested Development",
-        "Sex and the City 2"
+        "The Dead Don't Die",
+        "American Dad!",
+        "Dead Man"
       ]
     },
     {
-      "id": 3556,
-      "name": "Roman Polanski",
-      "popularity": 2.3,
+      "id": 1223675,
+      "name": "Chris Hansen",
+      "popularity": 1.5,
       "isAlive": true,
-      "birthYear": 1933,
+      "birthYear": 1959,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/yHwHSXdZatkoLgIjPeW14GKlrZs.jpg",
+      "profilePath": "/yArJXcedtO6iT6uGbf5U8j6dBeJ.jpg",
       "knownFor": [
-        "The Pianist",
-        "Rosemary's Baby",
-        "Chinatown"
-      ]
-    },
-    {
-      "id": 4808,
-      "name": "Giancarlo Esposito",
-      "popularity": 4.4,
-      "isAlive": true,
-      "birthYear": 1958,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg",
-      "knownFor": [
-        "Breaking Bad",
         "The Boys",
-        "The Usual Suspects"
+        "The Simpsons",
+        "Z Nation"
       ]
     },
     {
-      "id": 10205,
-      "name": "Sigourney Weaver",
-      "popularity": 4.1,
+      "id": 31903,
+      "name": "Henry Winkler",
+      "popularity": 2.7,
       "isAlive": true,
-      "birthYear": 1949,
+      "birthYear": 1945,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+      "profilePath": "/5Y51B0maVYvKRoS43lwlYh1M52X.jpg",
       "knownFor": [
-        "Avatar",
-        "WALL·E",
-        "Alien"
+        "The Simpsons",
+        "Scream",
+        "Click"
+      ]
+    },
+    {
+      "id": 4783,
+      "name": "Sam Neill",
+      "popularity": 3.8,
+      "isAlive": false,
+      "birthYear": 1947,
+      "deathDate": "2026-07-13",
+      "deathAge": 78,
+      "profilePath": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
+      "knownFor": [
+        "Thor: Ragnarok",
+        "Jurassic Park",
+        "Rick and Morty"
       ]
     }
   ]
