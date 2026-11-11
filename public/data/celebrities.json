@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-10T07:04:29.516Z",
+  "generatedAt": "2026-11-11T05:57:25.801Z",
   "celebrities": [
     {
-      "id": 6587,
-      "name": "Diane Ladd",
-      "popularity": 1.6,
+      "id": 51576,
+      "name": "Chuck Norris",
+      "popularity": 2.2,
       "isAlive": false,
-      "birthYear": 1935,
-      "deathDate": "2025-11-03",
-      "deathAge": 89,
-      "profilePath": "/l09hDywACsXFkmSy7d8V2YJiRNW.jpg",
+      "birthYear": 1940,
+      "deathDate": "2026-03-19",
+      "deathAge": 86,
+      "profilePath": "/m3uLikdhi9qObRvGVHsKX5H93lR.jpg",
       "knownFor": [
-        "Chinatown",
-        "Joy",
-        "Young Sheldon"
+        "The Expendables 2",
+        "DodgeBall: A True Underdog Story",
+        "Hawaii Five-0"
       ]
     },
     {
-      "id": 13604,
-      "name": "Iggy Pop",
-      "popularity": 1.4,
-      "isAlive": true,
-      "birthYear": 1947,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/kZwFoGujhS3D39R1uyuyNbgSPr0.jpg",
+      "id": 49961,
+      "name": "Michelle Trachtenberg",
+      "popularity": 2.5,
+      "isAlive": false,
+      "birthYear": 1985,
+      "deathDate": "2025-02-26",
+      "deathAge": 39,
+      "profilePath": "/8eb8ts6E7gM5SgEFn8VcXfGc39r.jpg",
       "knownFor": [
-        "The Dead Don't Die",
-        "American Dad!",
-        "Dead Man"
+        "House",
+        "17 Again",
+        "Criminal Minds"
       ]
     },
     {
-      "id": 1223675,
-      "name": "Chris Hansen",
+      "id": 29543,
+      "name": "Michelle Phillips",
       "popularity": 1.5,
       "isAlive": true,
-      "birthYear": 1959,
+      "birthYear": 1944,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/yArJXcedtO6iT6uGbf5U8j6dBeJ.jpg",
+      "profilePath": "/chuI3FwECq5AmUluWCCoOm4JsAb.jpg",
       "knownFor": [
-        "The Boys",
-        "The Simpsons",
-        "Z Nation"
+        "Star Trek: The Next Generation",
+        "Beverly Hills, 90210",
+        "Lois & Clark: The New Adventures of Superman"
       ]
     },
     {
-      "id": 31903,
-      "name": "Henry Winkler",
-      "popularity": 2.7,
+      "id": 97186,
+      "name": "Michael Bloomberg",
+      "popularity": 0.5,
       "isAlive": true,
-      "birthYear": 1945,
+      "birthYear": 1942,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/5Y51B0maVYvKRoS43lwlYh1M52X.jpg",
+      "profilePath": "/uJq3orJqLcZvxT0mjWAPSm2v9Ne.jpg",
       "knownFor": [
-        "The Simpsons",
-        "Scream",
-        "Click"
+        "The Wolf of Wall Street",
+        "Sherlock Holmes",
+        "Dawn of the Planet of the Apes"
       ]
     },
     {
-      "id": 4783,
-      "name": "Sam Neill",
-      "popularity": 3.8,
-      "isAlive": false,
-      "birthYear": 1947,
-      "deathDate": "2026-07-13",
-      "deathAge": 78,
-      "profilePath": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
+      "id": 13333,
+      "name": "Vanessa Redgrave",
+      "popularity": 1.8,
+      "isAlive": true,
+      "birthYear": 1937,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg",
       "knownFor": [
-        "Thor: Ragnarok",
-        "Jurassic Park",
-        "Rick and Morty"
+        "Mission: Impossible",
+        "Cars 2",
+        "Atonement"
       ]
     }
   ]
