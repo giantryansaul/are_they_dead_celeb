@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-11T05:57:25.801Z",
+  "generatedAt": "2026-11-12T06:59:51.293Z",
   "celebrities": [
     {
-      "id": 51576,
-      "name": "Chuck Norris",
-      "popularity": 2.2,
+      "id": 3078,
+      "name": "David Byrne",
+      "popularity": 0.8,
+      "isAlive": true,
+      "birthYear": 1952,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/iyD9S1hvyWjtiAedZAACDcWKuaf.jpg",
+      "knownFor": [
+        "The Simpsons",
+        "Everything Everywhere All at Once",
+        "The Last Emperor"
+      ]
+    },
+    {
+      "id": 16940,
+      "name": "Jeremy Irons",
+      "popularity": 4.4,
+      "isAlive": true,
+      "birthYear": 1948,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg",
+      "knownFor": [
+        "The Lion King",
+        "Batman v Superman: Dawn of Justice",
+        "Justice League"
+      ]
+    },
+    {
+      "id": 1459,
+      "name": "Tina Turner",
+      "popularity": 1,
       "isAlive": false,
-      "birthYear": 1940,
-      "deathDate": "2026-03-19",
-      "deathAge": 86,
-      "profilePath": "/m3uLikdhi9qObRvGVHsKX5H93lR.jpg",
+      "birthYear": 1939,
+      "deathDate": "2023-05-24",
+      "deathAge": 83,
+      "profilePath": "/rqL6OCQi5IzZPYCZPvtqbKNUKGA.jpg",
       "knownFor": [
-        "The Expendables 2",
-        "DodgeBall: A True Underdog Story",
-        "Hawaii Five-0"
+        "Cruella",
+        "Brother Bear",
+        "GoldenEye"
       ]
     },
     {
-      "id": 49961,
-      "name": "Michelle Trachtenberg",
-      "popularity": 2.5,
+      "id": 4135,
+      "name": "Robert Redford",
+      "popularity": 2.8,
       "isAlive": false,
-      "birthYear": 1985,
-      "deathDate": "2025-02-26",
-      "deathAge": 39,
-      "profilePath": "/8eb8ts6E7gM5SgEFn8VcXfGc39r.jpg",
+      "birthYear": 1936,
+      "deathDate": "2025-09-16",
+      "deathAge": 89,
+      "profilePath": "/m5ayL8ASLdaaFYzqJZNYvrKRuhD.jpg",
       "knownFor": [
-        "House",
-        "17 Again",
-        "Criminal Minds"
+        "Avengers: Endgame",
+        "Captain America: The Winter Soldier",
+        "The Sting"
       ]
     },
     {
-      "id": 29543,
-      "name": "Michelle Phillips",
-      "popularity": 1.5,
-      "isAlive": true,
-      "birthYear": 1944,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/chuI3FwECq5AmUluWCCoOm4JsAb.jpg",
+      "id": 2352372,
+      "name": "Angus Cloud",
+      "popularity": 0.8,
+      "isAlive": false,
+      "birthYear": 1998,
+      "deathDate": "2023-07-31",
+      "deathAge": 25,
+      "profilePath": "/cN3n9UBBtRASNLSibS8WUZD1d1A.jpg",
       "knownFor": [
-        "Star Trek: The Next Generation",
-        "Beverly Hills, 90210",
-        "Lois & Clark: The New Adventures of Superman"
-      ]
-    },
-    {
-      "id": 97186,
-      "name": "Michael Bloomberg",
-      "popularity": 0.5,
-      "isAlive": true,
-      "birthYear": 1942,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/uJq3orJqLcZvxT0mjWAPSm2v9Ne.jpg",
-      "knownFor": [
-        "The Wolf of Wall Street",
-        "Sherlock Holmes",
-        "Dawn of the Planet of the Apes"
-      ]
-    },
-    {
-      "id": 13333,
-      "name": "Vanessa Redgrave",
-      "popularity": 1.8,
-      "isAlive": true,
-      "birthYear": 1937,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg",
-      "knownFor": [
-        "Mission: Impossible",
-        "Cars 2",
-        "Atonement"
+        "Euphoria",
+        "Abigail",
+        "The Garfield Movie"
       ]
     }
   ]
