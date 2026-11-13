@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-12T06:59:51.293Z",
+  "generatedAt": "2026-11-13T06:25:58.644Z",
   "celebrities": [
     {
-      "id": 3078,
-      "name": "David Byrne",
-      "popularity": 0.8,
-      "isAlive": true,
-      "birthYear": 1952,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/iyD9S1hvyWjtiAedZAACDcWKuaf.jpg",
+      "id": 11164,
+      "name": "Kelly Preston",
+      "popularity": 2.1,
+      "isAlive": false,
+      "birthYear": 1962,
+      "deathDate": "2020-07-12",
+      "deathAge": 57,
+      "profilePath": "/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg",
       "knownFor": [
+        "From Dusk Till Dawn",
+        "Jerry Maguire",
+        "The Last Song"
+      ]
+    },
+    {
+      "id": 11477,
+      "name": "Ray Liotta",
+      "popularity": 2.6,
+      "isAlive": false,
+      "birthYear": 1954,
+      "deathDate": "2022-05-26",
+      "deathAge": 67,
+      "profilePath": "/ve9sB0o1MYTaL2SXEisVW2RMkD5.jpg",
+      "knownFor": [
+        "GoodFellas",
         "The Simpsons",
-        "Everything Everywhere All at Once",
-        "The Last Emperor"
+        "Marriage Story"
       ]
     },
     {
-      "id": 16940,
-      "name": "Jeremy Irons",
-      "popularity": 4.4,
+      "id": 5376,
+      "name": "Jean Smart",
+      "popularity": 3.6,
       "isAlive": true,
-      "birthYear": 1948,
+      "birthYear": 1951,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg",
+      "profilePath": "/gOvEAOtrtedfgS7oQvPgHuJV4F8.jpg",
       "knownFor": [
-        "The Lion King",
-        "Batman v Superman: Dawn of Justice",
-        "Justice League"
+        "The Accountant",
+        "A Simple Favor",
+        "Babylon"
       ]
     },
     {
-      "id": 1459,
-      "name": "Tina Turner",
-      "popularity": 1,
-      "isAlive": false,
-      "birthYear": 1939,
-      "deathDate": "2023-05-24",
-      "deathAge": 83,
-      "profilePath": "/rqL6OCQi5IzZPYCZPvtqbKNUKGA.jpg",
+      "id": 190,
+      "name": "Clint Eastwood",
+      "popularity": 6.7,
+      "isAlive": true,
+      "birthYear": 1930,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
       "knownFor": [
-        "Cruella",
-        "Brother Bear",
-        "GoldenEye"
+        "American Sniper",
+        "Gran Torino",
+        "Million Dollar Baby"
       ]
     },
     {
-      "id": 4135,
-      "name": "Robert Redford",
-      "popularity": 2.8,
-      "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "2025-09-16",
-      "deathAge": 89,
-      "profilePath": "/m5ayL8ASLdaaFYzqJZNYvrKRuhD.jpg",
+      "id": 827,
+      "name": "Elliott Gould",
+      "popularity": 2.4,
+      "isAlive": true,
+      "birthYear": 1938,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg",
       "knownFor": [
-        "Avengers: Endgame",
-        "Captain America: The Winter Soldier",
-        "The Sting"
-      ]
-    },
-    {
-      "id": 2352372,
-      "name": "Angus Cloud",
-      "popularity": 0.8,
-      "isAlive": false,
-      "birthYear": 1998,
-      "deathDate": "2023-07-31",
-      "deathAge": 25,
-      "profilePath": "/cN3n9UBBtRASNLSibS8WUZD1d1A.jpg",
-      "knownFor": [
-        "Euphoria",
-        "Abigail",
-        "The Garfield Movie"
+        "American History X",
+        "Ocean's Eleven",
+        "The Simpsons"
       ]
     }
   ]
