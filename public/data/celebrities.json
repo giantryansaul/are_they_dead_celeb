@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-13T06:25:58.644Z",
+  "generatedAt": "2026-11-14T06:06:13.523Z",
   "celebrities": [
     {
-      "id": 11164,
-      "name": "Kelly Preston",
-      "popularity": 2.1,
+      "id": 1523704,
+      "name": "Pope Francis",
+      "popularity": 0.4,
       "isAlive": false,
-      "birthYear": 1962,
-      "deathDate": "2020-07-12",
-      "deathAge": 57,
-      "profilePath": "/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg",
+      "birthYear": 1936,
+      "deathDate": "2025-04-21",
+      "deathAge": 88,
+      "profilePath": "/uHnuMXrJmAlUqu4w00CQV29FOR0.jpg",
       "knownFor": [
-        "From Dusk Till Dawn",
-        "Jerry Maguire",
-        "The Last Song"
+        "The Two Popes",
+        "Elle",
+        "The Vatican Tapes"
       ]
     },
     {
-      "id": 11477,
-      "name": "Ray Liotta",
-      "popularity": 2.6,
-      "isAlive": false,
-      "birthYear": 1954,
-      "deathDate": "2022-05-26",
-      "deathAge": 67,
-      "profilePath": "/ve9sB0o1MYTaL2SXEisVW2RMkD5.jpg",
+      "id": 5293,
+      "name": "Willem Dafoe",
+      "popularity": 5.8,
+      "isAlive": true,
+      "birthYear": 1955,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
       "knownFor": [
-        "GoodFellas",
+        "Spider-Man: No Way Home",
+        "Spider-Man",
+        "John Wick"
+      ]
+    },
+    {
+      "id": 4724,
+      "name": "Kevin Bacon",
+      "popularity": 5.3,
+      "isAlive": true,
+      "birthYear": 1958,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+      "knownFor": [
+        "X-Men: First Class",
         "The Simpsons",
-        "Marriage Story"
+        "Crazy, Stupid, Love."
       ]
     },
     {
-      "id": 5376,
-      "name": "Jean Smart",
-      "popularity": 3.6,
-      "isAlive": true,
-      "birthYear": 1951,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/gOvEAOtrtedfgS7oQvPgHuJV4F8.jpg",
+      "id": 5602,
+      "name": "David Lynch",
+      "popularity": 2.3,
+      "isAlive": false,
+      "birthYear": 1946,
+      "deathDate": "2025-01-16",
+      "deathAge": 78,
+      "profilePath": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
       "knownFor": [
-        "The Accountant",
-        "A Simple Favor",
-        "Babylon"
+        "Mulholland Drive",
+        "Family Guy",
+        "The Elephant Man"
       ]
     },
     {
-      "id": 190,
-      "name": "Clint Eastwood",
-      "popularity": 6.7,
-      "isAlive": true,
-      "birthYear": 1930,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
+      "id": 15737,
+      "name": "Helen McCrory",
+      "popularity": 1.6,
+      "isAlive": false,
+      "birthYear": 1968,
+      "deathDate": "2021-04-16",
+      "deathAge": 52,
+      "profilePath": "/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg",
       "knownFor": [
-        "American Sniper",
-        "Gran Torino",
-        "Million Dollar Baby"
-      ]
-    },
-    {
-      "id": 827,
-      "name": "Elliott Gould",
-      "popularity": 2.4,
-      "isAlive": true,
-      "birthYear": 1938,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg",
-      "knownFor": [
-        "American History X",
-        "Ocean's Eleven",
-        "The Simpsons"
+        "Harry Potter and the Deathly Hallows: Part 2",
+        "Harry Potter and the Half-Blood Prince",
+        "Harry Potter and the Deathly Hallows: Part 1"
       ]
     }
   ]
