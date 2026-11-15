@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-14T06:06:13.523Z",
+  "generatedAt": "2026-11-15T06:12:22.565Z",
   "celebrities": [
     {
-      "id": 1523704,
-      "name": "Pope Francis",
-      "popularity": 0.4,
-      "isAlive": false,
-      "birthYear": 1936,
-      "deathDate": "2025-04-21",
-      "deathAge": 88,
-      "profilePath": "/uHnuMXrJmAlUqu4w00CQV29FOR0.jpg",
-      "knownFor": [
-        "The Two Popes",
-        "Elle",
-        "The Vatican Tapes"
-      ]
-    },
-    {
-      "id": 5293,
-      "name": "Willem Dafoe",
-      "popularity": 5.8,
+      "id": 61303,
+      "name": "Dick Van Dyke",
+      "popularity": 1.3,
       "isAlive": true,
-      "birthYear": 1955,
+      "birthYear": 1925,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+      "profilePath": "/jXAeNx7mYdirzMHcqPyj5VXxcXi.jpg",
       "knownFor": [
-        "Spider-Man: No Way Home",
-        "Spider-Man",
-        "John Wick"
-      ]
-    },
-    {
-      "id": 4724,
-      "name": "Kevin Bacon",
-      "popularity": 5.3,
-      "isAlive": true,
-      "birthYear": 1958,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
-      "knownFor": [
-        "X-Men: First Class",
+        "Night at the Museum",
         "The Simpsons",
-        "Crazy, Stupid, Love."
+        "Night at the Museum: Secret of the Tomb"
       ]
     },
     {
-      "id": 5602,
-      "name": "David Lynch",
-      "popularity": 2.3,
+      "id": 4,
+      "name": "Carrie Fisher",
+      "popularity": 2.4,
       "isAlive": false,
-      "birthYear": 1946,
-      "deathDate": "2025-01-16",
-      "deathAge": 78,
-      "profilePath": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+      "birthYear": 1956,
+      "deathDate": "2016-12-27",
+      "deathAge": 60,
+      "profilePath": "/of4yHmryKPy92eeskUQ7MRmjC3l.jpg",
       "knownFor": [
-        "Mulholland Drive",
-        "Family Guy",
-        "The Elephant Man"
+        "Star Wars",
+        "Star Wars: The Force Awakens",
+        "The Empire Strikes Back"
       ]
     },
     {
-      "id": 15737,
-      "name": "Helen McCrory",
-      "popularity": 1.6,
+      "id": 3783,
+      "name": "Brigitte Bardot",
+      "popularity": 1.4,
       "isAlive": false,
-      "birthYear": 1968,
-      "deathDate": "2021-04-16",
-      "deathAge": 52,
-      "profilePath": "/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg",
+      "birthYear": 1934,
+      "deathDate": "2025-12-28",
+      "deathAge": 91,
+      "profilePath": "/vqYOnEZyA3AO7sx3SxIFWYrggQJ.jpg",
       "knownFor": [
-        "Harry Potter and the Deathly Hallows: Part 2",
-        "Harry Potter and the Half-Blood Prince",
-        "Harry Potter and the Deathly Hallows: Part 1"
+        "The Twelve Tasks of Asterix",
+        "Contempt",
+        "Masculin Féminin"
+      ]
+    },
+    {
+      "id": 1327,
+      "name": "Ian McKellen",
+      "popularity": 4.7,
+      "isAlive": true,
+      "birthYear": 1939,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg",
+      "knownFor": [
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "The Lord of the Rings: The Return of the King",
+        "The Lord of the Rings: The Two Towers"
+      ]
+    },
+    {
+      "id": 56890,
+      "name": "Malcolm McDowell",
+      "popularity": 3.2,
+      "isAlive": true,
+      "birthYear": 1943,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg",
+      "knownFor": [
+        "A Clockwork Orange",
+        "Easy A",
+        "The Book of Eli"
       ]
     }
   ]
