@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-16T06:10:01.907Z",
+  "generatedAt": "2026-11-17T07:44:40.757Z",
   "celebrities": [
     {
-      "id": 5296,
-      "name": "James Ransone",
-      "popularity": 1.6,
-      "isAlive": false,
-      "birthYear": 1979,
-      "deathDate": "2025-12-19",
-      "deathAge": 46,
-      "profilePath": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
-      "knownFor": [
-        "It Chapter Two",
-        "Inside Man",
-        "Sinister"
-      ]
-    },
-    {
-      "id": 18746,
-      "name": "Stevie Wonder",
-      "popularity": 1,
-      "isAlive": true,
-      "birthYear": 1950,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/oJIkkcW2urvaej7ib9mJJFmFWBO.jpg",
-      "knownFor": [
-        "Sing",
-        "Fahrenheit 9/11",
-        "The Woman in Red"
-      ]
-    },
-    {
-      "id": 13637,
-      "name": "Joan Collins",
-      "popularity": 1.6,
-      "isAlive": true,
-      "birthYear": 1933,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/jmXqOnp2xBDl2EMuU5Rj39uHzUQ.jpg",
-      "knownFor": [
-        "Hawaii Five-0",
-        "Star Trek",
-        "The Nanny"
-      ]
-    },
-    {
-      "id": 5576,
-      "name": "Val Kilmer",
-      "popularity": 2.3,
-      "isAlive": false,
-      "birthYear": 1959,
-      "deathDate": "2025-04-01",
-      "deathAge": 65,
-      "profilePath": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
-      "knownFor": [
-        "Top Gun: Maverick",
-        "Top Gun",
-        "Heat"
-      ]
-    },
-    {
-      "id": 11803,
-      "name": "Peter Greene",
+      "id": 12949,
+      "name": "Priscilla Presley",
       "popularity": 1.4,
-      "isAlive": false,
-      "birthYear": 1959,
-      "deathDate": "2025-12-12",
-      "deathAge": 66,
-      "profilePath": "/n49XdJsMwNRdc4qT9XVAGb3fIQW.jpg",
+      "isAlive": true,
+      "birthYear": 1945,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/AkHLzziAPK1NVI5lfELYt6u0kRP.jpg",
       "knownFor": [
-        "Pulp Fiction",
-        "The Usual Suspects",
-        "The Mask"
+        "The Naked Gun: From the Files of Police Squad!",
+        "The Naked Gun 2½: The Smell of Fear",
+        "Naked Gun 33⅓: The Final Insult"
+      ]
+    },
+    {
+      "id": 10978,
+      "name": "Maggie Smith",
+      "popularity": 2.7,
+      "isAlive": false,
+      "birthYear": 1934,
+      "deathDate": "2024-09-27",
+      "deathAge": 89,
+      "profilePath": "/hjoWy2WB7RayROumynH3wuCa9aL.jpg",
+      "knownFor": [
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Prisoner of Azkaban"
+      ]
+    },
+    {
+      "id": 514,
+      "name": "Jack Nicholson",
+      "popularity": 3.3,
+      "isAlive": true,
+      "birthYear": 1937,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg",
+      "knownFor": [
+        "The Shining",
+        "The Departed",
+        "One Flew Over the Cuckoo's Nest"
+      ]
+    },
+    {
+      "id": 8892,
+      "name": "Olivia Newton-John",
+      "popularity": 1.1,
+      "isAlive": false,
+      "birthYear": 1948,
+      "deathDate": "2022-08-08",
+      "deathAge": 73,
+      "profilePath": "/pPgHm4ToBirjWcuOTrEMxS82stP.jpg",
+      "knownFor": [
+        "Grease",
+        "Whisper of the Heart",
+        "Glee"
+      ]
+    },
+    {
+      "id": 27319,
+      "name": "Christoph Waltz",
+      "popularity": 4.1,
+      "isAlive": true,
+      "birthYear": 1956,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg",
+      "knownFor": [
+        "Django Unchained",
+        "Inglourious Basterds",
+        "Spectre"
       ]
     }
   ]
