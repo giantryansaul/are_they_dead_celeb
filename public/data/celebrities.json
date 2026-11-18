@@ -1,15 +1,45 @@
 {
-  "generatedAt": "2026-11-17T07:44:40.757Z",
+  "generatedAt": "2026-11-18T07:10:17.819Z",
   "celebrities": [
     {
-      "id": 12949,
-      "name": "Priscilla Presley",
-      "popularity": 1.4,
-      "isAlive": true,
-      "birthYear": 1945,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/AkHLzziAPK1NVI5lfELYt6u0kRP.jpg",
+      "id": 8256,
+      "name": "Anne Heche",
+      "popularity": 2.1,
+      "isAlive": false,
+      "birthYear": 1969,
+      "deathDate": "2022-08-11",
+      "deathAge": 53,
+      "profilePath": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg",
+      "knownFor": [
+        "Donnie Brasco",
+        "The Other Guys",
+        "I Know What You Did Last Summer"
+      ]
+    },
+    {
+      "id": 75041,
+      "name": "Cameron Boyce",
+      "popularity": 1.8,
+      "isAlive": false,
+      "birthYear": 1999,
+      "deathDate": "2019-07-06",
+      "deathAge": 20,
+      "profilePath": "/dtONrW7kQ9DFyduL0W1YPawkGYs.jpg",
+      "knownFor": [
+        "Grown Ups",
+        "Grown Ups 2",
+        "Eagle Eye"
+      ]
+    },
+    {
+      "id": 12951,
+      "name": "O. J. Simpson",
+      "popularity": 0.9,
+      "isAlive": false,
+      "birthYear": 1947,
+      "deathDate": "2024-04-10",
+      "deathAge": 76,
+      "profilePath": "/3q6XMf1L5zCApoUsiAMoFS9ADXY.jpg",
       "knownFor": [
         "The Naked Gun: From the Files of Police Squad!",
         "The Naked Gun 2½: The Smell of Fear",
@@ -17,63 +47,33 @@
       ]
     },
     {
-      "id": 10978,
-      "name": "Maggie Smith",
-      "popularity": 2.7,
-      "isAlive": false,
-      "birthYear": 1934,
-      "deathDate": "2024-09-27",
-      "deathAge": 89,
-      "profilePath": "/hjoWy2WB7RayROumynH3wuCa9aL.jpg",
-      "knownFor": [
-        "Harry Potter and the Philosopher's Stone",
-        "Harry Potter and the Chamber of Secrets",
-        "Harry Potter and the Prisoner of Azkaban"
-      ]
-    },
-    {
-      "id": 514,
-      "name": "Jack Nicholson",
-      "popularity": 3.3,
-      "isAlive": true,
-      "birthYear": 1937,
-      "deathDate": null,
-      "deathAge": null,
-      "profilePath": "/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg",
-      "knownFor": [
-        "The Shining",
-        "The Departed",
-        "One Flew Over the Cuckoo's Nest"
-      ]
-    },
-    {
-      "id": 8892,
-      "name": "Olivia Newton-John",
+      "id": 72450,
+      "name": "Bob Saget",
       "popularity": 1.1,
       "isAlive": false,
-      "birthYear": 1948,
-      "deathDate": "2022-08-08",
-      "deathAge": 73,
-      "profilePath": "/pPgHm4ToBirjWcuOTrEMxS82stP.jpg",
+      "birthYear": 1956,
+      "deathDate": "2022-01-09",
+      "deathAge": 65,
+      "profilePath": "/yxTuHygLUF8h2927bP3dYDEYwwP.jpg",
       "knownFor": [
-        "Grease",
-        "Whisper of the Heart",
-        "Glee"
+        "Madagascar",
+        "Law & Order: Special Victims Unit",
+        "Shameless"
       ]
     },
     {
-      "id": 27319,
-      "name": "Christoph Waltz",
-      "popularity": 4.1,
+      "id": 1032,
+      "name": "Martin Scorsese",
+      "popularity": 4.8,
       "isAlive": true,
-      "birthYear": 1956,
+      "birthYear": 1942,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg",
+      "profilePath": "/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg",
       "knownFor": [
-        "Django Unchained",
-        "Inglourious Basterds",
-        "Spectre"
+        "The Wolf of Wall Street",
+        "Shutter Island",
+        "The Departed"
       ]
     }
   ]
