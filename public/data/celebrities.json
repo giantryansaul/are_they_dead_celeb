@@ -1,79 +1,79 @@
 {
-  "generatedAt": "2026-11-19T07:10:36.886Z",
+  "generatedAt": "2026-11-20T06:59:31.602Z",
   "celebrities": [
     {
-      "id": 129101,
-      "name": "Lance Reddick",
-      "popularity": 2.1,
+      "id": 1796,
+      "name": "Kirstie Alley",
+      "popularity": 1.4,
       "isAlive": false,
-      "birthYear": 1962,
-      "deathDate": "2023-03-17",
-      "deathAge": 60,
-      "profilePath": "/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg",
+      "birthYear": 1951,
+      "deathDate": "2022-12-05",
+      "deathAge": 71,
+      "profilePath": "/9XZOeQtmvHdBkuMrlxO5PHPZwJo.jpg",
       "knownFor": [
-        "John Wick",
-        "John Wick: Chapter 2",
-        "John Wick: Chapter 3 - Parabellum"
+        "Look Who's Talking",
+        "Star Trek II: The Wrath of Khan",
+        "Scream Queens"
       ]
     },
     {
-      "id": 147,
-      "name": "Michael Madsen",
-      "popularity": 2,
+      "id": 11514,
+      "name": "Catherine O'Hara",
+      "popularity": 2.4,
       "isAlive": false,
-      "birthYear": 1957,
-      "deathDate": "2025-07-03",
-      "deathAge": 67,
-      "profilePath": "/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg",
+      "birthYear": 1954,
+      "deathDate": "2026-01-30",
+      "deathAge": 71,
+      "profilePath": "/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg",
       "knownFor": [
-        "Kill Bill: Vol. 1",
-        "Reservoir Dogs",
-        "The Hateful Eight"
+        "Home Alone",
+        "Home Alone 2: Lost in New York",
+        "The Nightmare Before Christmas"
       ]
     },
     {
-      "id": 17265,
-      "name": "Hayden Panettiere",
-      "popularity": 3.5,
-      "isAlive": false,
-      "birthYear": 1989,
-      "deathDate": "2026-08-16",
-      "deathAge": 36,
-      "profilePath": "/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg",
-      "knownFor": [
-        "A Bug's Life",
-        "Malcolm in the Middle",
-        "Law & Order: Special Victims Unit"
-      ]
-    },
-    {
-      "id": 14639,
-      "name": "Mel Brooks",
-      "popularity": 1.5,
+      "id": 181891,
+      "name": "Lionel Richie",
+      "popularity": 1.2,
       "isAlive": true,
-      "birthYear": 1926,
+      "birthYear": 1949,
       "deathDate": null,
       "deathAge": null,
-      "profilePath": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg",
+      "profilePath": "/fths3YsxhPuPw6NCKOdUjqKCtZa.jpg",
       "knownFor": [
         "The Simpsons",
-        "Toy Story 4",
-        "Hotel Transylvania 2"
+        "The Rookie",
+        "The Color Purple"
       ]
     },
     {
-      "id": 15152,
-      "name": "James Earl Jones",
-      "popularity": 1.8,
-      "isAlive": false,
-      "birthYear": 1931,
-      "deathDate": "2024-09-09",
-      "deathAge": 93,
-      "profilePath": "/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg",
+      "id": 8891,
+      "name": "John Travolta",
+      "popularity": 4.2,
+      "isAlive": true,
+      "birthYear": 1954,
+      "deathDate": null,
+      "deathAge": null,
+      "profilePath": "/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg",
       "knownFor": [
-        "Star Wars",
-        "The Lion King",
-        "The Empire Strikes Back"
+        "Pulp Fiction",
+        "Grease",
+        "Bolt"
+      ]
+    },
+    {
+      "id": 1580,
+      "name": "Daveigh Chase",
+      "popularity": 1.3,
+      "isAlive": false,
+      "birthYear": 1990,
+      "deathDate": "2026-06-16",
+      "deathAge": 35,
+      "profilePath": "/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg",
+      "knownFor": [
+        "Donnie Darko",
+        "Lilo & Stitch",
+        "The Ring"
       ]
     }
   ]
